@@ -69,5 +69,7 @@ Lihat [GLOSARI.md](GLOSARI.md). Itu satu-satunya sumber istilah.
       penerangan), Match Call, Union Room, tajuk kredit, Easy Chat (+ senarai abjad
       `tools/jana_easy_chat_abjad.py`), reben, landmark PokeNav, PKLN. (secret_base.c)
 - [ ] Semakan gaya (skill no-ai-slop)
-- [ ] Teks dalam bentuk grafik (ikon jenis, tajuk skrin ringkasan, dll.)
+- [x] Grafik: ikon jenis + kategori contest (`tools/jana_ikon_jenis.py`)
+- [ ] Grafik lain: label skrin ringkasan, ikon status (PSN/PAR...), Pokedex
+      (AREA/CRY/SIZE, menu carian), tajuk PokeNav, dll.
 - [ ] Fasa 6: uji main
