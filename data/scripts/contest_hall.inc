@@ -1557,8 +1557,8 @@ ContestHall_Text_OnlyRegister4Players:
 	.string "Kamu nak sertai?$"
 
 LilycoveCity_ContestLobby_Text_ProgressWillBeSaved:
-	.string "Sebelum masuk PERTANDINGAN, kemajuan\n"
-	.string "kamu akan disimpan.$"
+	.string "Sebelum masuk PERTANDINGAN,\n"
+	.string "permainan kamu akan disimpan.$"
 
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime:
 	.string "Kami harap kamu akan menyertainya lain\n"

@@ -74,5 +74,9 @@ Lihat [GLOSARI.md](GLOSARI.md). Itu satu-satunya sumber istilah.
 - [x] Grafik: ikon status menu + pertarungan (`tools/jana_ikon_status.py`)
 - [x] Grafik: Pokedex (`tools/jana_grafik_pokedex.py`) dan PokeNav
       (`tools/jana_grafik_pokenav.py`)
-- [ ] Grafik kecil lain (Berry Crush, Frontier Pass, papan kekunci nama, dll.)
+- [x] Grafik kecil lain: kad jurulatih, Frontier Pass, papan kekunci nama, PC,
+      beg, Easy Chat, Union Room, contest, mesin slot, rolet, Pokeblock, Pokemon
+      Jump (`tools/jana_grafik_lain_a.py`, `tools/jana_grafik_lain_b.py`)
+- [ ] Kekal Inggeris (had ruang): paparan titik mesin slot (REEL TIME, WIN, LOSE,
+      BIG/REG BONUS), notis hak cipta penamat
 - [ ] Fasa 6: uji main

@@ -66,7 +66,7 @@ RS_MysteryEventsHouse_Text_KeepItToA3On3:
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
 	.string "Sebelum kamu berdua bertarung, kamu\n"
-	.string "patut simpan kemajuan kamu.$"
+	.string "patut simpan permainan dulu.$"
 
 RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch:
 	.string "Saya harap dapat tengok perlawanan\n"

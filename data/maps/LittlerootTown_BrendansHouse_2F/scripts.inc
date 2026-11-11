@@ -277,7 +277,7 @@ PlayersHouse_2F_Text_Notebook:
 	.string "PERATURAN PENGEMBARAAN NO. 1\n"
 	.string "Buka MENU dengan START.\p"
 	.string "PERATURAN PENGEMBARAAN NO. 2\n"
-	.string "Rekod kemajuan dengan SIMPAN.\p"
+	.string "Simpan permainan guna SIMPAN.\p"
 	.string "Muka surat yang lain kosong…$"
 
 Common_Text_LookCloserAtMap:

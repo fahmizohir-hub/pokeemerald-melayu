@@ -329,8 +329,8 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "Saya nak berehat, jadi saya\n"
-	.string "simpan kemajuan saya dulu.$"
+	.string "Saya nak rehat sekejap,\n"
+	.string "jadi saya simpan permainan dulu.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
 	.string "Hai! Saya bekerja di POKéMON MART.\p"

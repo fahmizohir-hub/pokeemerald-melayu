@@ -186,8 +186,8 @@ SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3:
 	.string "pertarungan 3 lawan 3?$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle:
-	.string "Sebelum kamu berdua bertarung, simpan\n"
-	.string "dulu kemajuan kamu.$"
+	.string "Sebelum kamu berdua bertarung,\n"
+	.string "simpan permainan dulu.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_HopeToSeeGoodMatch:
 	.string "Saya harap dapat tengok pertarungan\n"

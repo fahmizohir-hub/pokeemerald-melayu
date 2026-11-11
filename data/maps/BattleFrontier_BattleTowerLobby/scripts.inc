@@ -952,8 +952,9 @@ BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou:
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved:
-	.string "Sebelum masuk BILIK TARUNG, kemajuan\n"
-	.string "kamu akan disimpan. Sila tunggu.$"
+	.string "Sebelum masuk BILIK TARUNG,\n"
+	.string "permainan kamu akan disimpan.\l"
+	.string "Sila tunggu.$"
 
 BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
 	.string "Akhirnya kamu akan berdepan\n"
@@ -1050,8 +1051,9 @@ BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
 	.string "daftarkan.$"
 
 BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering:
-	.string "Sebelum masuk BILIK TARUNG, kemajuan\n"
-	.string "kamu mesti disimpan. Boleh?$"
+	.string "Sebelum masuk BILIK TARUNG,\n"
+	.string "permainan kamu mesti disimpan.\l"
+	.string "Boleh?$"
 
 BattleFrontier_BattleTowerLobby_Text_ShowYouToBattleRoom:
 	.string "Saya akan bawa kamu ke\n"
