@@ -72,5 +72,7 @@ Lihat [GLOSARI.md](GLOSARI.md). Itu satu-satunya sumber istilah.
 - [x] Grafik: ikon jenis + kategori contest (`tools/jana_ikon_jenis.py`)
 - [x] Grafik: label skrin ringkasan (`tools/jana_label_ringkasan.py`)
 - [x] Grafik: ikon status menu + pertarungan (`tools/jana_ikon_status.py`)
-- [ ] Grafik lain: Pokedex (AREA/CRY/SIZE, menu carian), tajuk PokeNav, dll.
+- [x] Grafik: Pokedex (`tools/jana_grafik_pokedex.py`) dan PokeNav
+      (`tools/jana_grafik_pokenav.py`)
+- [ ] Grafik kecil lain (Berry Crush, Frontier Pass, papan kekunci nama, dll.)
 - [ ] Fasa 6: uji main
