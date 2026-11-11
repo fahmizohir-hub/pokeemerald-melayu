@@ -331,8 +331,8 @@ VerdanturfTown_BattleTentLobby_Text_MonsReluctantToUseDislikedMoves:
 	.string "mungkin tak suka mencederakan\l"
 	.string "lawannya.\p"
 	.string "Kalau ia nampak tak capai potensinya,\n"
-	.string "mungkin ia gagal guna move yang tak\l"
-	.string "disukainya secara terpaksa.$"
+	.string "mungkin sebab ia dipaksa guna move\l"
+	.string "yang ia tak suka.$"
 
 VerdanturfTown_BattleTentLobby_Text_GentleMonsScaryIfAngry:
 	.string "Kakak saya biasanya lemah lembut.\n"
@@ -350,7 +350,7 @@ VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep:
 
 VerdanturfTown_BattleTentLobby_Text_AttractionMutual:
 	.string "Perasaan saya terhadap POKéMON saya…\n"
-	.string "Saya pasti tarikannya sama-sama!\p"
+	.string "Saya pasti tarikannya berbalas!\p"
 	.string "Mereka bertarung betul-betul macam\n"
 	.string "yang saya mahu!$"
 

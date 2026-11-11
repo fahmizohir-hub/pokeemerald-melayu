@@ -285,13 +285,13 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
 	.string "Sayalah PEMBURU HARTA SELAM!\p"
-	.string "Sayalah lelaki hebat yang menyelam ke\n"
-	.string "laut dalam untuk kumpul harta karun\l"
-	.string "yang terbaring di dasar.$"
+	.string "Sayalah lelaki hebat yang\n"
+	.string "menyelam ke laut dalam untuk\l"
+	.string "kumpul harta karun di dasar laut.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
-	.string "Beritahu saya, kamu ada nampak SERPIH\n"
-	.string "alatan yang dibuat zaman purba?$"
+	.string "Eh, kamu ada nampak SERPIH\n"
+	.string "alatan dari zaman purba?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
 	.string "Kamu tak ada harta untuk saya…\p"
@@ -312,8 +312,7 @@ Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone:
 	.string "dengan {STR_VAR_2} saya, ya?$"
 
 Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
-	.string "Setuju!\n"
-	.string "Gunakan dengan bijak!$"
+	.string "Jadi! Guna baik-baik!$"
 
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
 	.string "Kamu nak tukar benda lain?$"

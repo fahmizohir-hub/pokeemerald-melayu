@@ -569,7 +569,7 @@ BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
 	.string "Kalau saya dapat barang-barang di sini,\n"
 	.string "POKéMON saya akan jadi lebih kuat.\p"
-	.string "Mestilah! Tak ada keraguan langsung!$"
+	.string "Mestilah! Tak syak lagi!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
 	.string "Hah? Apa yang kamu tenung tu?\p"
@@ -581,8 +581,8 @@ BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
 	.string "Kamu tahu tak?\p"
 	.string "Kalau kamu panjangkan rekod di\n"
-	.string "mana-mana fasiliti BATTLE, mereka akan\l"
-	.string "beri Mata Tarung yang makin banyak.$"
+	.string "mana-mana kemudahan BATTLE, makin\l"
+	.string "banyak Mata Tarung yang mereka beri.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
 	.string "Poster besar bercetak\n"
@@ -629,23 +629,27 @@ BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
 	.string "atas tikar atau meja.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
-	.string "Menaikkan stat SERANGAN satu POKéMON.$"
+	.string "Menaikkan stat SERANGAN\n"
+	.string "seekor POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc::
-	.string "Menaikkan stat SER.KHS satu POKéMON.$"
+	.string "Menaikkan stat SER.KHS\n"
+	.string "seekor POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_IronDesc::
 	.string "Menaikkan stat\n"
-	.string "PERTAHANAN satu POKéMON.$"
+	.string "PERTAHANAN seekor POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ZincDesc::
-	.string "Menaikkan stat TAH.KHS satu POKéMON.$"
+	.string "Menaikkan stat TAH.KHS\n"
+	.string "seekor POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
-	.string "Menaikkan stat KELAJUAN satu POKéMON.$"
+	.string "Menaikkan stat KELAJUAN\n"
+	.string "seekor POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
-	.string "Menaikkan HP satu POKéMON.$"
+	.string "Menaikkan HP seekor POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
 	.string "Bila dipegang, HP pulih\n"

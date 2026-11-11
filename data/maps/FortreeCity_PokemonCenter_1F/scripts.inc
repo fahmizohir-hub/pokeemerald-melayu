@@ -39,7 +39,7 @@ FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat:
 	.string "Memang menarik. Ia campur dan padankan\n"
 	.string "rekod para JURULATIH.\p"
 	.string "Saya tak tahu sangat cara ia berfungsi,\n"
-	.string "tapi memang hebat. Mengujakan, pula!$"
+	.string "tapi memang hebat. Seronok pula tu!$"
 
 FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav:
 	.string "Oh, wah, kamu ada POKéNAV!\n"

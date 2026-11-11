@@ -167,6 +167,7 @@ static EWRAM_DATA struct
     u8 partyMon;                                         /*0x044*/
     u8 moveSlot;                                         /*0x045*/
     struct ListMenuItem menuItems[MAX_RELEARNER_MOVES];  /*0x0E8*/
+    u8 menuNames[MAX_RELEARNER_MOVES][MOVE_NAME_LENGTH + 4]; // BM: nama + kod fon
     u8 numMenuChoices;                                   /*0x110*/
     u8 numToShowAtOnce;                                  /*0x111*/
     u8 moveListMenuTask;                                 /*0x112*/
@@ -904,7 +905,17 @@ static void CreateLearnableMovesList(void)
 
     for (i = 0; i < sMoveRelearnerStruct->numMenuChoices; i++)
     {
-        sMoveRelearnerStruct->menuItems[i].name = gMoveNames[sMoveRelearnerStruct->movesToLearn[i]];
+        // BM: nama move panjang dicetak dengan fon sempit (senarai 72px)
+        const u8 *name = gMoveNames[sMoveRelearnerStruct->movesToLearn[i]];
+        u8 *dst = sMoveRelearnerStruct->menuNames[i];
+        if (GetStringWidth(FONT_NORMAL, name, 0) > 72)
+        {
+            *dst++ = EXT_CTRL_CODE_BEGIN;
+            *dst++ = EXT_CTRL_CODE_FONT;
+            *dst++ = FONT_NARROW;
+        }
+        StringCopy(dst, name);
+        sMoveRelearnerStruct->menuItems[i].name = sMoveRelearnerStruct->menuNames[i];
         sMoveRelearnerStruct->menuItems[i].id = sMoveRelearnerStruct->movesToLearn[i];
     }
 

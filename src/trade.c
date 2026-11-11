@@ -1865,7 +1865,7 @@ static void DrawSelectedMonScreen(u8 whichParty)
 {
     s8 nameStringWidth;
     u8 nickname[POKEMON_NAME_BUFFER_SIZE];
-    u8 movesString[56];
+    u8 movesString[MAX_MON_MOVES * (MOVE_NAME_LENGTH + 8) + 8]; // BM: asal 56
     u8 i;
     u8 partyIdx;
     u8 selectedMonParty;
@@ -1981,7 +1981,25 @@ static void BufferMovesString(u8 *str, u8 whichParty, u8 partyIdx)
         for (i = 0; i < MAX_MON_MOVES; i++)
         {
             if (moves[i] != MOVE_NONE)
-                StringAppend(str, gMoveNames[moves[i]]);
+            {
+                // BM: nama move panjang guna fon sempit (tingkap 80px)
+                if (GetStringWidth(FONT_NORMAL, gMoveNames[moves[i]], 0) > 80)
+                {
+                    u8 *end = str + StringLength(str);
+                    *end++ = EXT_CTRL_CODE_BEGIN;
+                    *end++ = EXT_CTRL_CODE_FONT;
+                    *end++ = FONT_NARROW;
+                    end = StringCopy(end, gMoveNames[moves[i]]);
+                    *end++ = EXT_CTRL_CODE_BEGIN;
+                    *end++ = EXT_CTRL_CODE_FONT;
+                    *end++ = FONT_NORMAL;
+                    *end = EOS;
+                }
+                else
+                {
+                    StringAppend(str, gMoveNames[moves[i]]);
+                }
+            }
 
             StringAppend(str, sText_NewLine);
         }

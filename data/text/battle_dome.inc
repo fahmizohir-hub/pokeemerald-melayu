@@ -95,7 +95,7 @@ BattleDome_Text_StyleUpsetsFoesEmotionally::
 	.string "Mahir menggugat emosi lawan.$"
 
 BattleDome_Text_StyleStrongAndStraightforward::
-	.string "Guna move yang kuat dan terus terang.$"
+	.string "Guna move kuat secara terus.$"
 
 BattleDome_Text_StyleAggressivelyStrongMoves::
 	.string "Guna move kuat secara agresif.$"
@@ -128,7 +128,7 @@ BattleDome_Text_StyleAttacksQuicklyStrongMoves::
 	.string "Menyerang pantas dengan move kuat.$"
 
 BattleDome_Text_StyleUsesAddedEffectMoves::
-	.string "Kerap guna move berkesan tambahan.$"
+	.string "Kerap guna move ada kesan tambahan.$"
 
 BattleDome_Text_StyleUsesBalancedMixOfMoves::
 	.string "Guna gabungan move yang seimbang.$"

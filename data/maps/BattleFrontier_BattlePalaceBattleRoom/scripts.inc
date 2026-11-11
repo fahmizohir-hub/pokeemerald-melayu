@@ -442,32 +442,32 @@ BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
 	.string "Biar saya pulihkan POKéMON kamu.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
-	.string "Lawan ke-2 seterusnya.\n"
+	.string "Seterusnya, lawan ke-2.\n"
 	.string "Sudah bersedia?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
-	.string "Lawan ke-3 seterusnya.\n"
+	.string "Seterusnya, lawan ke-3.\n"
 	.string "Sudah bersedia?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
-	.string "Lawan ke-4 seterusnya.\n"
+	.string "Seterusnya, lawan ke-4.\n"
 	.string "Sudah bersedia?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent:
-	.string "Lawan ke-5 seterusnya.\n"
+	.string "Seterusnya, lawan ke-5.\n"
 	.string "Sudah bersedia?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent:
-	.string "Lawan ke-6 seterusnya.\n"
+	.string "Seterusnya, lawan ke-6.\n"
 	.string "Sudah bersedia?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
-	.string "Lawan ke-7 seterusnya.\n"
+	.string "Seterusnya, lawan ke-7.\n"
 	.string "Sudah bersedia?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
-	.string "Mahu simpan dan keluar\n"
-	.string "permainan?$"
+	.string "Mahu simpan dan berhenti\n"
+	.string "main sekarang?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
 	.string "Kamu mahu hentikan cabaran kamu?$"
@@ -482,9 +482,9 @@ BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
 	.string "Dan kini…\p"
-	.string "Dengan kemenangan berterusan, kamu\n"
-	.string "telah layak untuk mencabar\l"
-	.string "tuan kami, PALACE MAVEN…$"
+	.string "Kerana terus menang, kamu kini\n"
+	.string "layak mencabar tuan kami,\l"
+	.string "PALACE MAVEN…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
 	.string "Saya akan panggil PALACE MAVEN.\n"
@@ -513,15 +513,15 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
 	.string "SPENSER: Gwahahah!\p"
 	.string "Hah, kamu tak termakan gertakan saya!\n"
-	.string "Maaf kerana cuba helah itu!\p"
+	.string "Maaf, saya saja cuba helah tu!\p"
 	.string "Nah!\n"
-	.string "Bawakan benda itu!$"
+	.string "Bawa benda tu ke mari!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
 	.string "Aduhai, kalaulah dia boleh kekalkan\n"
 	.string "lagak berwibawanya itu…\p"
 	.string "Nah!\n"
-	.string "Mari tengok PAS FRONTIER kamu!$"
+	.string "Bagi saya tengok PAS FRONTIER kamu!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
 	.string "Simbol Semangat telah dicap pada\n"
@@ -530,8 +530,8 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
 	.string "SPENSER: Mata POKéMON kamu sungguh\n"
 	.string "jernih dan tidak berkabus.\p"
-	.string "Saya akan menanti peluang untuk\n"
-	.string "berjumpa kamu lagi.$"
+	.string "Saya tak sabar menanti peluang\n"
+	.string "untuk jumpa kamu lagi.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
 	.string "SPENSER: Gwahahah!\n"
@@ -553,7 +553,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
 	.string "saudara saya tak dapat atasi kamu.\p"
 	.string "Semangat pasukan kamu amat terpuji!\p"
 	.string "Nah!\n"
-	.string "Bawakan benda itu, boleh?$"
+	.string "Bawa benda tu ke mari, boleh?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
 	.string "Aduhai, kalaulah dia boleh jaga\n"

@@ -1121,6 +1121,9 @@ const u32 gStatusPal_Icons[] = INCGFX_U32("graphics/interface/status_icons.png",
 
 const u32 gMoveTypes_Gfx[] = INCGFX_U32("graphics/types/move_types.4bpp", ".lz");
 const u32 gMoveTypes_Pal[] = INCGFX_U32("graphics/types/move_types.gbapal", ".lz");
+// BM: salinan tanpa mampatan untuk ikon jenis dalam menu move pertarungan
+const u32 gMoveTypes_GfxRaw[] = INCBIN_U32("graphics/types/move_types.4bpp");
+const u16 gMoveTypes_PalRaw[] = INCBIN_U16("graphics/types/move_types.gbapal");
 
 const u32 gSummaryMoveSelect_Gfx[] = INCGFX_U32("graphics/summary_screen/move_select.png", ".4bpp.lz");
 const u32 gSummaryMoveSelect_Pal[] = INCGFX_U32("graphics/summary_screen/move_select.png", ".gbapal.lz");

@@ -119,9 +119,9 @@ BattleFrontier_Lounge2_Text_FrontierManiacIntro::
 	.string "saya FRONTIER MANIAC.\p"
 	.string "Sekadar nak pastikan, kamu\n"
 	.string "ni JURULATIH, betul tak?\p"
-	.string "Saya dengan senang hati akan kongsi\n"
-	.string "berita paling hangat tentang\l"
-	.string "BATTLE FRONTIER.$"
+	.string "Biar saya kongsi berita paling hangat\n"
+	.string "tentang BATTLE FRONTIER yang\l"
+	.string "saya kumpul.$"
 
 BattleFrontier_Lounge2_Text_SwingByForTheLatestWord::
 	.string "Helo! Kamu singgah nak korek berita\n"
@@ -147,9 +147,8 @@ BattleFrontier_Lounge2_Text_SalonMaidenIsThere::
 	.string "Mesti kamu tak tahu ni!\p"
 	.string "Salah seorang JURULATIH hebat yang\n"
 	.string "SCOTT gelar FRONTIER BRAIN ada di sana.\p"
-	.string "JURULATIH misteri yang digelar\n"
-	.string "SALON MAIDEN yang mengendalikan\l"
-	.string "tempat tu.$"
+	.string "Tempat tu dikendalikan oleh JURULATIH\n"
+	.string "misteri yang digelar SALON MAIDEN.$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenSilverMons::
 	.string "Kamu dah lawan SALON MAIDEN?\p"
@@ -172,8 +171,8 @@ BattleFrontier_Lounge2_Text_DomeAceIsThere::
 	.string "Mesti kamu tak tahu ni!\p"
 	.string "Salah seorang JURULATIH hebat yang\n"
 	.string "SCOTT gelar FRONTIER BRAIN ada di sana.\p"
-	.string "JURULATIH bergaya yang digelar\n"
-	.string "DOME ACE yang mengendalikan tempat tu.$"
+	.string "Tempat tu dikendalikan oleh JURULATIH\n"
+	.string "bergaya yang digelar DOME ACE.$"
 
 BattleFrontier_Lounge2_Text_DomeAceSilverMons::
 	.string "Kamu dah lawan DOME ACE?\p"
@@ -196,9 +195,8 @@ BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
 	.string "Mesti kamu tak tahu ni!\p"
 	.string "Salah seorang JURULATIH hebat yang\n"
 	.string "SCOTT gelar FRONTIER BRAIN ada di sana.\p"
-	.string "JURULATIH pelik yang digelar\n"
-	.string "FACTORY HEAD yang mengendalikan\l"
-	.string "tempat tu.$"
+	.string "Tempat tu dikendalikan oleh JURULATIH\n"
+	.string "pelik yang digelar FACTORY HEAD.$"
 
 BattleFrontier_Lounge2_Text_FactoryHeadSilverMons::
 	.string "Kamu dah lawan FACTORY HEAD?\p"
@@ -219,9 +217,8 @@ BattleFrontier_Lounge2_Text_PikeQueenIsThere::
 	.string "Mesti kamu tak tahu ni!\p"
 	.string "Salah seorang JURULATIH hebat yang\n"
 	.string "SCOTT gelar FRONTIER BRAIN ada di sana.\p"
-	.string "JURULATIH menakutkan yang digelar\n"
-	.string "PIKE QUEEN yang mengendalikan tempat\l"
-	.string "tu.$"
+	.string "Tempat tu dikendalikan oleh JURULATIH\n"
+	.string "yang menakutkan, digelar PIKE QUEEN.$"
 
 BattleFrontier_Lounge2_Text_PikeQueenSilverMons::
 	.string "Kamu pernah lawan PIKE QUEEN?\p"
@@ -244,9 +241,8 @@ BattleFrontier_Lounge2_Text_ArenaTycoonIsThere::
 	.string "Mesti kamu tak tahu ni!\p"
 	.string "Salah seorang JURULATIH hebat yang\n"
 	.string "SCOTT gelar FRONTIER BRAIN ada di sana.\p"
-	.string "JURULATIH comel yang digelar\n"
-	.string "ARENA TYCOON yang mengendalikan\l"
-	.string "tempat tu.$"
+	.string "Tempat tu dikendalikan oleh JURULATIH\n"
+	.string "comel yang digelar ARENA TYCOON.$"
 
 BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons::
 	.string "Kamu pernah lawan ARENA TYCOON?\p"
@@ -270,9 +266,8 @@ BattleFrontier_Lounge2_Text_PalaceMavenIsThere::
 	.string "Mesti kamu tak tahu ni!\p"
 	.string "Salah seorang JURULATIH hebat yang\n"
 	.string "SCOTT gelar FRONTIER BRAIN ada di sana.\p"
-	.string "JURULATIH yang menyeramkan digelar\n"
-	.string "PALACE MAVEN yang mengendalikan\l"
-	.string "tempat tu.$"
+	.string "Tempat tu dikendalikan oleh JURULATIH\n"
+	.string "seram yang digelar PALACE MAVEN.$"
 
 BattleFrontier_Lounge2_Text_PalaceMavenSilverMons::
 	.string "Kamu pernah lawan PALACE MAVEN?\p"
@@ -295,9 +290,8 @@ BattleFrontier_Lounge2_Text_PyramidKingIsThere::
 	.string "Mesti kamu tak tahu ni!\p"
 	.string "Salah seorang JURULATIH hebat yang\n"
 	.string "SCOTT gelar FRONTIER BRAIN ada di sana.\p"
-	.string "JURULATIH berapi-api yang digelar\n"
-	.string "PYRAMID KING yang mengendalikan\l"
-	.string "tempat tu.$"
+	.string "Tempat tu dikendalikan oleh JURULATIH\n"
+	.string "berapi-api yang digelar PYRAMID KING.$"
 
 BattleFrontier_Lounge2_Text_PyramidKingSilverMons::
 	.string "Kamu pernah lawan PYRAMID KING?\p"

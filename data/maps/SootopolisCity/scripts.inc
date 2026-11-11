@@ -1387,8 +1387,8 @@ SootopolisCity_Text_WhatIsThatGreenPokemon:
 SootopolisCity_Text_WhereDidLegendariesGo:
 	.string "GROUDON dan KYOGRE…\n"
 	.string "Ke mana mereka pergi?\p"
-	.string "Adakah mereka akan sebabkan kemarau\n"
-	.string "atau hujan lebat di tempat lain?$"
+	.string "Mereka akan sebabkan kemarau atau\n"
+	.string "hujan lebat di tempat lain pula ke?$"
 
 SootopolisCity_Text_TwoPokemonArentAngry:
 	.string "Entah kenapa saya rasa kedua-dua\n"
@@ -1428,25 +1428,25 @@ SootopolisCity_Text_GreenOneSettlesThings:
 	.string "Saya tertanya-tanya siapa menang,\n"
 	.string "yang merah atau yang biru, tapi alamak,\l"
 	.string "yang hijau pula yang selesaikannya!\p"
-	.string "Memang perubahan yang tak disangka!$"
+	.string "Tak sangka langsung jadi macam tu!$"
 
 SootopolisCity_Text_SeeingLegendWithOwnEyes:
-	.string "Ada lagenda purba yang kata darat\n"
-	.string "dan laut terbentuk akibat pertarungan\l"
-	.string "hebat antara POKéMON.\p"
-	.string "Sekarang saya nampak sendiri dengan\n"
-	.string "mata kepala saya!\p"
-	.string "Wah! Tak sangka saya dapat saksikan\n"
-	.string "sesuatu sebesar ini!$"
+	.string "Ada legenda purba yang kata\n"
+	.string "darat dan laut terbentuk akibat\l"
+	.string "pertarungan hebat antara POKéMON.\p"
+	.string "Sekarang saya nampak sendiri\n"
+	.string "dengan mata kepala saya!\p"
+	.string "Wah! Tak sangka saya dapat\n"
+	.string "saksikan sesuatu sebesar ini!$"
 
 SootopolisCity_Text_SawLegendWithOwnEyes:
-	.string "Ada lagenda purba yang kata darat\n"
-	.string "dan laut terbentuk akibat pertarungan\l"
-	.string "hebat antara POKéMON.\p"
-	.string "Saya nampak sendiri dengan mata kepala\n"
-	.string "saya!\p"
-	.string "Wah! Tak sangka saya dapat saksikan\n"
-	.string "sesuatu sebesar ini!$"
+	.string "Ada legenda purba yang kata\n"
+	.string "darat dan laut terbentuk akibat\l"
+	.string "pertarungan hebat antara POKéMON.\p"
+	.string "Saya nampak sendiri\n"
+	.string "dengan mata kepala saya!\p"
+	.string "Wah! Tak sangka saya dapat\n"
+	.string "saksikan sesuatu sebesar ini!$"
 
 SootopolisCity_Text_BigPokemonFighting:
 	.string "POKéMON besar sedang bergaduh dengan\n"
@@ -1491,9 +1491,8 @@ SootopolisCity_Text_LeadSuperiorTrainerToCave:
 
 SootopolisCity_Text_AwakenedPokemonClash:
 	.string "Oh, wah…\p"
-	.string "Kebangkitan POKéMON ketiga telah\n"
-	.string "menenangkan pertembungan dua\l"
-	.string "POKéMON yang terjaga itu…$"
+	.string "Pertembungan dua POKéMON yang terjaga\n"
+	.string "itu reda bila POKéMON ketiga bangkit…$"
 
 SootopolisCity_Text_CaveOfOriginSleepsToo:
 	.string "Ini GUA ORIGIN…\p"
@@ -1501,13 +1500,13 @@ SootopolisCity_Text_CaveOfOriginSleepsToo:
 	.string "akan tidur semula…$"
 
 SootopolisCity_Text_SootopolisSkyBeautiful:
-	.string "SOOTOPOLIS wujud sebagai bandar di\n"
-	.string "dalam kawah gunung berapi.\p"
-	.string "Kalau kamu dongak ke langit, bibir\n"
-	.string "kawah pun nampak.\l"
-	.string "Jadi, langit yang kamu nampak bulat.\p"
-	.string "Tapi sebab itulah langit di atas\n"
-	.string "SOOTOPOLIS paling cantik.$"
+	.string "SOOTOPOLIS asalnya bandar yang\n"
+	.string "terbina dalam kawah gunung berapi.\p"
+	.string "Kalau kamu dongak ke langit,\n"
+	.string "bibir kawah pun nampak. Jadi,\l"
+	.string "langit yang kamu nampak bulat.\p"
+	.string "Tapi sebab itulah langit di\n"
+	.string "atas SOOTOPOLIS paling cantik.$"
 
 SootopolisCity_Text_GiganticPokemonFight:
 	.string "Bila dua POKéMON sebesar tu\n"
@@ -1516,7 +1515,7 @@ SootopolisCity_Text_GiganticPokemonFight:
 
 SootopolisCity_Text_FearedWorstWhenPokemonFlewDown:
 	.string "Bila POKéMON ketiga tu terbang turun,\n"
-	.string "saya dah bimbang yang terburuk.$"
+	.string "saya ingatkan habislah semuanya.$"
 
 SootopolisCity_Text_NightSkyFavoriteScenery:
 	.string "Bulatan langit malam berbingkaikan\n"
@@ -1528,10 +1527,10 @@ SootopolisCity_Text_NightSkyFavoriteScenery:
 SootopolisCity_Text_WeatherWentWild:
 	.string "Cuaca cerah pagi tadi, tapi…\p"
 	.string "Tiba-tiba awan gelap berkumpul,\n"
-	.string "hujan turun mencurah-curah, ada\l"
-	.string "guruh dan kilat sekali.\p"
+	.string "hujan turun mencurah-curah,\l"
+	.string "ada guruh dan kilat sekali.\p"
 	.string "Cuaca jadi tak tentu arah langsung!\p"
-	.string "Adakah semua ni sebab POKéMON tu?$"
+	.string "Semua ni sebab POKéMON tu ke?$"
 
 SootopolisCity_Text_YouBroughtFlyingMon:
 	.string "Oh?\p"
@@ -1577,39 +1576,38 @@ SootopolisCity_Text_TryingMeaninglessToPokemon:
 	.string "bermakna, bagi POKéMON…$"
 
 SootopolisCity_Text_InvolvedWithCrisisComeWithMe:
-	.string "STEVEN: POKéMON yang bertarung itu…\n"
-	.string "GROUDON… Dan KYOGRE…\p"
-	.string "Dua POKéMON teramat purba itu terjaga\n"
-	.string "dari tidur yang panjang…\p"
-	.string "Dan sekarang mereka berlaga dengan\n"
-	.string "tenaga yang tak terkawal…\p"
+	.string "STEVEN: POKéMON yang bertarung\n"
+	.string "itu… GROUDON… Dan KYOGRE…\p"
+	.string "Dua POKéMON teramat purba itu\n"
+	.string "terjaga dari tidur yang panjang…\p"
+	.string "Dan sekarang mereka berlaga\n"
+	.string "dengan tenaga yang tak terkawal…\p"
 	.string "…{PLAYER}{KUN}.\p"
-	.string "Kehadiran kamu di sini saya anggap\n"
-	.string "sebagai tanda kamu bersedia untuk\l"
-	.string "terlibat dalam krisis ini.\p"
-	.string "Kalau begitu, ada seseorang yang saya\n"
-	.string "nak kamu jumpa.\p"
+	.string "Kamu ada di sini, jadi saya\n"
+	.string "anggap kamu dah bersedia\l"
+	.string "untuk terlibat dalam krisis ini.\p"
+	.string "Kalau begitu, ada seseorang\n"
+	.string "yang saya nak kamu jumpa.\p"
 	.string "Ikut saya, ya.$"
 
 SootopolisCity_Text_DoesThisMakeYourFearPokemon:
 	.string "STEVEN: Dengar sini, {PLAYER}{KUN}.\p"
-	.string "Bila nampak GROUDON dan KYOGRE, adakah\n"
-	.string "kamu rasa POKéMON patut ditakuti?\p"
+	.string "Bila nampak GROUDON dan KYOGRE, kamu\n"
+	.string "rasa POKéMON ni patut ditakuti ke?\p"
 	.string "Tapi itu tak benar.\n"
 	.string "POKéMON sebenarnya lebih…\p"
-	.string "…Kenapa saya tanya kamu soalan ni?\n"
-	.string "Kamu pun dah tahu.$"
+	.string "…Kenapa saya tanya kamu\n"
+	.string "soalan ni? Kamu pun dah tahu.$"
 
 SootopolisCity_Text_HereWereAreHelpWallace:
 	.string "STEVEN: Okey, kita dah sampai!\p"
-	.string "Di dalam sini ada seseorang bernama\n"
-	.string "WALLACE.\p"
-	.string "Saya rasa kamu ada apa yang perlu\n"
-	.string "untuk bantu dia…$"
+	.string "Di dalam sini ada seseorang\n"
+	.string "bernama WALLACE.\p"
+	.string "Saya rasa kamu mampu bantu dia…$"
 
 SootopolisCity_Text_KnowWhatsNeededToHelpHim:
-	.string "STEVEN: Saya rasa kamu ada apa yang\n"
-	.string "perlu untuk bantu dia…$"
+	.string "STEVEN: Saya rasa\n"
+	.string "kamu mampu bantu dia…$"
 
 SootopolisCity_Text_NeverBeenToSkyPillar:
 	.string "STEVEN: TIANG LANGIT…\p"

@@ -52,10 +52,10 @@ PacifidlogTown_House3_Text_WillingToTradeIt:
 	.string "Tengok {STR_VAR_2} ni!\p"
 	.string "Ini {STR_VAR_2} yang saya tangkap\n"
 	.string "semalam sempena hari jadi saya!\p"
-	.string "Oh, saya tahu kamu mahukannya!\n"
-	.string "Lagipun, ia tak ternilai!\p"
-	.string "Begini. Saya mungkin sanggup tukar\n"
-	.string "dengan {STR_VAR_1}.$"
+	.string "Oh, saya tahu kamu nak!\n"
+	.string "Mestilah, ia tak ternilai!\p"
+	.string "Begini. Saya mungkin sanggup\n"
+	.string "tukar dengan {STR_VAR_1}.$"
 
 PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou:
 	.string "Oh, jadi inilah {STR_VAR_1}?\p"
@@ -79,7 +79,7 @@ PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
 	.string "Itu POKéDEX ke?\p"
-	.string "Kamu dah jumpa banyak jenis POKéMON\n"
-	.string "ke?\p"
-	.string "Saya harap saya macam kamu.$"
+	.string "Kamu dah jumpa banyak\n"
+	.string "jenis POKéMON ke?\p"
+	.string "Seronoknya jadi macam kamu.$"
 

@@ -125,7 +125,7 @@ VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
 
 VerdanturfTown_WandasHouse_Text_MeetWanda:
 	.string "WANDA: Kamu siapa?\n"
-	.string "Oh, ya, saya faham!\p"
+	.string "Oh, ya, saya tahu!\p"
 	.string "Kamu {PLAYER} yang WALLY selalu cerita\n"
 	.string "tu.\p"
 	.string "Saya sepupu WALLY.\n"
@@ -137,10 +137,10 @@ VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
 	.string "WANDA: Jangan risau tentang WALLY.\n"
 	.string "Dia akan baik-baik saja.\p"
 	.string "Saya kenal sepupu kecil saya tu,\n"
-	.string "lagipun dia ada POKéMON bersamanya.$"
+	.string "lagipun dia bawa POKéMON sekali.$"
 
 VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
-	.string "Terima kasih kepada kamu, saya boleh\n"
+	.string "Berkat kamu, saya dapat\n"
 	.string "jumpa kekasih saya setiap hari.\l"
 	.string "Gembira? Mestilah!$"
 

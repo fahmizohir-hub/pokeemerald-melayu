@@ -14,26 +14,24 @@ SeafloorCavern_Room3_EventScript_Grunt5::
 SeafloorCavern_Room3_Text_ShellyIntro:
 	.string "Ahahahaha!\p"
 	.string "Macam mana kau boleh sampai sini tanpa\n"
-	.string "kapal selam?\l"
-	.string "Hebat betul budak ni!\p"
-	.string "Tapi… Aku tak boleh biar kau masuk\n"
-	.string "campur di sini.\p"
+	.string "kapal selam? Hebat betul budak ni!\p"
+	.string "Tapi… Aku tak boleh biar\n"
+	.string "kau masuk campur di sini.\p"
 	.string "Lagipun, aku memang nak balas dendam\n"
 	.string "atas apa yang jadi di INSTITUT CUACA…\p"
-	.string "Aku akan bagi kau rasa sedikit\n"
-	.string "kesakitan! Terima sajalah!$"
+	.string "Aku nak bagi kau rasa\n"
+	.string "sakit sikit! Redha sajalah!$"
 
 SeafloorCavern_Room3_Text_ShellyDefeat:
 	.string "Ahahahaha!\p"
 	.string "Aduh!$"
 
 SeafloorCavern_Room3_Text_ShellyPostBattle:
-	.string "Ahahahaha!\n"
-	.string "Kau memang kuat sangat.\p"
+	.string "Ahahahaha! Kau memang kuat sangat.\p"
 	.string "Sayang betul kau bukan ahli TEAM AQUA.\p"
-	.string "Kau boleh nikmati dunia hebat yang\n"
-	.string "dijanjikan BOS kami sebagai salah\l"
-	.string "seorang daripada kami…$"
+	.string "Kalau kau salah seorang daripada\n"
+	.string "kami, kau boleh nikmati dunia\l"
+	.string "hebat yang BOS kami janjikan…$"
 
 SeafloorCavern_Room3_Text_Grunt5Intro:
 	.string "Untuk jadikan impian kami nyata, kami\n"

@@ -311,19 +311,19 @@ RivalsHouse_1F_Text_OhYoureTheNewNeighbor:
 	.string "Oh, helo. Kamu siapa?\p"
 	.string "… … … … … … … … … … … … … … … … … …\p"
 	.string "Oh, kamu {PLAYER}{KUN}, jiran baru kami! Hai!\p"
-	.string "Kami ada seorang {STR_VAR_1}\n"
-	.string "yang sebaya dengan kamu.\p"
-	.string "{STR_VAR_1} kami teruja nak\n"
-	.string "berkawan dengan kawan baru.\p"
-	.string "Rasanya {STR_VAR_1} kami\n"
-	.string "ada di tingkat atas.$"
+	.string "Kami ada seorang {STR_VAR_1} yang\n"
+	.string "sebaya dengan kamu.\p"
+	.string "{STR_VAR_1} kami tak sabar nak dapat\n"
+	.string "kawan baru.\p"
+	.string "Rasanya {STR_VAR_1} kami ada di tingkat\n"
+	.string "atas.$"
 
 RivalsHouse_1F_Text_LikeChildLikeFather:
 	.string "Anak macam ayah, ayah macam anak.\p"
-	.string "Suami saya pun gila\n"
-	.string "POKéMON macam anak kami.\p"
+	.string "Suami saya pun gila POKéMON macam anak\n"
+	.string "kami.\p"
 	.string "Kalau dia tiada di MAKMAL, mesti dia\n"
-	.string "sedang meraba-raba dalam semak.$"
+	.string "tengah merayau dalam semak.$"
 
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
 	.string "Budak {RIVAL} ni!\p"

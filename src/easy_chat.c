@@ -124,6 +124,8 @@ static void AddMainScreenButtonWindow(void);
 static void PrintTitle(void);
 static void PrintInitialInstructions(void);
 static void PrintCurrentPhrase(void);
+static bool8 IsEasyChatWordInvalid(u16);
+static const u8 *GetEasyChatWord(u8, u16);
 static void DrawLowerWindow(void);
 static void LoadEasyChatGfx(void);
 static void CreateMainCursorSprite(void);
@@ -4048,6 +4050,29 @@ static void AddPhraseWindow(void)
     PutWindowTilemap(sScreenControl->windowId);
 }
 
+// BM: nama move boleh sampai 16 huruf. Dalam bingkai frasa, perkataan move
+// yang lebih lebar daripada 72px dicetak dengan fon sempit.
+static u8 *CopyEasyChatWordForPhrase(u8 *dest, u16 easyChatWord)
+{
+    u8 groupId = EC_GROUP(easyChatWord);
+
+    if (!IsEasyChatWordInvalid(easyChatWord)
+     && (groupId == EC_GROUP_MOVE_1 || groupId == EC_GROUP_MOVE_2)
+     && GetStringWidth(FONT_NORMAL, GetEasyChatWord(groupId, EC_INDEX(easyChatWord)), 0) > 72)
+    {
+        *dest++ = EXT_CTRL_CODE_BEGIN;
+        *dest++ = EXT_CTRL_CODE_FONT;
+        *dest++ = FONT_NARROW;
+        dest = CopyEasyChatWord(dest, easyChatWord);
+        *dest++ = EXT_CTRL_CODE_BEGIN;
+        *dest++ = EXT_CTRL_CODE_FONT;
+        *dest++ = FONT_NORMAL;
+        *dest = EOS;
+        return dest;
+    }
+    return CopyEasyChatWord(dest, easyChatWord);
+}
+
 static void PrintCurrentPhrase(void)
 {
     u8 strClear[4];
@@ -4081,7 +4106,7 @@ static void PrintCurrentPhrase(void)
         {
             if (*currentPhrase != EC_EMPTY_WORD)
             {
-                str = CopyEasyChatWord(str, *currentPhrase);
+                str = CopyEasyChatWordForPhrase(str, *currentPhrase);
                 currentPhrase++;
             }
             else

@@ -17,5 +17,5 @@ MysteryGiftScript_StampCard::
 sText_MysteryGiftStampCard:
 	.string "Terima kasih kerana menggunakan Sistem\n"
 	.string "KAD SETEM.\p"
-	.string "Tinggal {STR_VAR_1} lagi untuk dikumpul\n"
-	.string "bagi memenuhkan KAD SETEM kamu.$"
+	.string "Kumpul {STR_VAR_1} lagi untuk\n"
+	.string "penuhkan KAD SETEM kamu.$"

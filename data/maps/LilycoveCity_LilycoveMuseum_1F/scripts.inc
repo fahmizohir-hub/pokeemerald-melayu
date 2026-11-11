@@ -166,8 +166,8 @@ LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
 	.string "Kamu dah tengok koleksi lukisan kami?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime:
-	.string "Ah, kalau begitu saya tak mahu ganggu.\n"
-	.string "Silakan, ambil masa kamu.$"
+	.string "Ah, kalau begitu saya tak mahu\n"
+	.string "ganggu. Silakan, tengoklah puas-puas.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings:
 	.string "Oh? Saya rasa kamu ni seorang\n"
@@ -189,18 +189,17 @@ LilycoveCity_LilycoveMuseum_1F_Text_VeryOldPainting:
 	.string "Catnya mengelupas di sana sini.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery:
-	.string "Ini lukisan landskap pelik dengan\n"
-	.string "pemandangan yang ganjil dan fantastik.$"
+	.string "Ini lukisan pemandangan yang aneh,\n"
+	.string "penuh suasana ganjil dan ajaib.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman:
 	.string "Ini lukisan seorang wanita cantik yang\n"
 	.string "tersenyum dengan POKéMON di ribanya.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
-	.string "Ini lukisan POKéMON legenda dari zaman\n"
-	.string "dahulu.\p"
-	.string "Pelukisnya melukis ini berdasarkan\n"
-	.string "imaginasi.$"
+	.string "Ini lukisan POKéMON\n"
+	.string "legenda dari zaman dahulu.\p"
+	.string "Pelukisnya lukis ni ikut imaginasi saja.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
 	.string "Ini lukisan POKéMON RUMPUT yang\n"
@@ -218,10 +217,10 @@ LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
 	.string "purba.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "Ini POKé BALL besar yang diukir\n"
-	.string "daripada batu hitam.\p"
-	.string "Nampaknya ia digunakan dalam perayaan\n"
-	.string "pada zaman dahulu.$"
+	.string "Ini POKé BALL besar yang\n"
+	.string "diukir daripada batu hitam.\p"
+	.string "Katanya, ia dipakai dalam\n"
+	.string "perayaan zaman dulu.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:
 	.string "Ini prasasti batu besar yang terukir\n"
@@ -274,10 +273,11 @@ LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
 	.string "saya dipamerkan di sini.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
-	.string "MUZIUM SENI ni dah jadi destinasi\n"
-	.string "pelancong kegemaran.\p"
-	.string "Bagus untuk LILYCOVE…\n"
-	.string "Bukan, bagus untuk wilayah HOENN!\p"
-	.string "Saya dengar, seorang JURULATIH yang\n"
-	.string "dapatkan semua lukisan di tingkat atas.$"
+	.string "MUZIUM SENI ni dah jadi\n"
+	.string "destinasi pelancong kegemaran.\p"
+	.string "Bagus untuk LILYCOVE… Bukan,\n"
+	.string "bagus untuk wilayah HOENN!\p"
+	.string "Saya dengar, semua lukisan\n"
+	.string "di tingkat atas tu dikumpul\l"
+	.string "oleh seorang JURULATIH saja.$"
 

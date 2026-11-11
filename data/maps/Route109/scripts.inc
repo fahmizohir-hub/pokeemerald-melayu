@@ -514,8 +514,8 @@ Route109_Text_LittleKidsDartAround:
 	.string "ke sana sini…\p"
 	.string "Tak boleh lepas pandang walau sekejap.\n"
 	.string "Penat sungguh.\p"
-	.string "Anak-anak saya bersama POKéMON saya,\n"
-	.string "jadi patutnya tak apa-apa, tapi…$"
+	.string "Anak-anak saya ada dengan POKéMON\n"
+	.string "saya, jadi rasanya tak apa, tapi…$"
 
 Route109_Text_SandCastleTakingLongTime:
 	.string "Istana pasir kami ni lama betul nak\n"
@@ -534,10 +534,10 @@ Route109_Text_WereGoingToMakeBigCastle:
 Route109_Text_ZigzagoonPicksUpLitter:
 	.string "Air di kawasan ni bersih.\p"
 	.string "Tapi, kadang-kadang saya suruh\n"
-	.string "ZIGZAGOON saya kutip sampah di tepi\l"
-	.string "pantai.\p"
-	.string "Air kotor jadi hujan dan masuk ke\n"
-	.string "sungai, yang airnya kita minum…\p"
+	.string "ZIGZAGOON saya kutip sampah di\l"
+	.string "tepi pantai.\p"
+	.string "Air kotor jadi hujan, lepas tu masuk ke\n"
+	.string "sungai yang kita minum airnya…\p"
 	.string "Kalau kita cemarkan laut, akhirnya kita\n"
 	.string "juga yang menanggung padahnya.$"
 

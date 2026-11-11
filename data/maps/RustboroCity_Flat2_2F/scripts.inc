@@ -22,8 +22,8 @@ RustboroCity_Flat2_2F_EventScript_GavePremierBall::
 	end
 
 RustboroCity_Flat2_2F_Text_DevonWasTinyInOldDays:
-	.string "Dulu-dulu, DEVON cuma sebuah syarikat\n"
-	.string "yang kecil sangat.$"
+	.string "Dulu-dulu, DEVON cuma syarikat\n"
+	.string "kecil saja.$"
 
 RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt:
 	.string "Ayah saya kerja di CORPORATION tu.\p"

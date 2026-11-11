@@ -140,8 +140,8 @@ AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
 	.string "Itulah harta seorang JURULATIH!$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
-	.string "Ah, ada sesuatu tentang kamu yang\n"
-	.string "berkilauan.$"
+	.string "Ah, ada sesuatu yang\n"
+	.string "bersinar dalam diri kamu.$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonPostBattle:
 	.string "Dalam salah satu kabin di kapal ini, saya\n"

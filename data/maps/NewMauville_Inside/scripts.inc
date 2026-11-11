@@ -246,10 +246,10 @@ NewMauville_Inside_EventScript_DefeatedVoltorb3::
 	end
 
 NewMauville_Inside_Text_GeneratorRadiatingHeat:
-	.string "Penjana tu memancarkan haba yang\n"
-	.string "boleh dirasa walaupun dari jauh.\p"
-	.string "Nampaknya ia patut dimatikan secepat\n"
-	.string "mungkin.$"
+	.string "Bahang penjana tu terasa walaupun dari\n"
+	.string "jauh.\p"
+	.string "Nampaknya ia patut dimatikan\n"
+	.string "cepat-cepat.$"
 
 NewMauville_Inside_Text_GeneratorQuietedDown:
 	.string "Penjana tu dah senyap.$"

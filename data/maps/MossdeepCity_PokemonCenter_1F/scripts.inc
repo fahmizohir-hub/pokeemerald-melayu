@@ -24,10 +24,10 @@ MossdeepCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 MossdeepCity_PokemonCenter_1F_Text_GymLeaderDuoFormidable:
-	.string "KETUA GIM di bandar ni pasangan yang\n"
-	.string "sangat hebat.\p"
-	.string "Serangan gabungan mereka memang,\n"
-	.string "macam, terbaik dan wah!$"
+	.string "KETUA GIM di bandar ni\n"
+	.string "pasangan yang memang digeruni.\p"
+	.string "Serangan gabungan mereka\n"
+	.string "memang, macam, terbaik dan wah!$"
 
 MossdeepCity_PokemonCenter_1F_Text_AbilitiesMightChangeMoves:
 	.string "Bergantung pada KEBOLEHAN khas\n"

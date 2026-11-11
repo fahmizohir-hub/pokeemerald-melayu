@@ -312,7 +312,7 @@ BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe::
 	.string "acara tu untuk saya?$"
 
 BattleFrontier_Lounge3_Text_SpotMeSomeBattlePoints::
-	.string "Bagus, memang sempurna. Jadi, err… Apa\n"
+	.string "Baik, elok sangat. Jadi, err… Apa\n"
 	.string "kata kamu pinjamkan saya sedikit\l"
 	.string "Mata Tarung kamu?\p"
 	.string "Percayalah, saya akan\n"
@@ -448,7 +448,8 @@ BattleFrontier_Lounge3_Text_Oh::
 	.string "Oh…$"
 
 BattleFrontier_Lounge3_Text_BackedWrongTrainer::
-	.string "Saya pilih JURULATIH yang salah lagi!\p"
+	.string "Saya bertaruh pada JURULATIH yang\n"
+	.string "salah lagi!\p"
 	.string "Mungkin saya patut bertarung\n"
 	.string "biasa saja macam orang lain…$"
 
@@ -458,7 +459,8 @@ BattleFrontier_Lounge3_Text_TrainerGoodButRattled::
 	.string "gelabah untuk bertahan di BATTLE DOME…$"
 
 BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne::
-	.string "Hihi! Saya kenal pemenang bila nampak!$"
+	.string "Hihi! Sekali tengok pun saya\n"
+	.string "dah tahu siapa pemenang!$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges::
 	.string "JURULATIH tu semua… Apa yang mereka\n"

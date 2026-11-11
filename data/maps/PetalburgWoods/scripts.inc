@@ -300,9 +300,9 @@ PetalburgWoods_Text_NotAOneToBeFound:
 	.string "Hmmm… Seekor pun tak jumpa…$"
 
 PetalburgWoods_Text_HaveYouSeenShroomish:
-	.string "Helo, kamu ada nampak POKéMON\n"
-	.string "bernama SHROOMISH di sekitar sini?\p"
-	.string "Saya betul-betul suka POKéMON tu.$"
+	.string "Helo, kamu ada nampak POKéMON nama\n"
+	.string "SHROOMISH dekat-dekat sini?\p"
+	.string "Saya suka sangat POKéMON tu.$"
 
 PetalburgWoods_Text_IWasGoingToAmbushYou:
 	.string "Aku nak serang hendap kau, tapi kau\n"
@@ -321,11 +321,10 @@ PetalburgWoods_Text_YouHaveToHelpMe:
 	.string "kan? Tolonglah saya!$"
 
 PetalburgWoods_Text_NoOneCrossesTeamAqua:
-	.string "Hah? Apa kau ingat kau buat\n"
-	.string "ni? Apa, kau nak lindungi dia?\p"
+	.string "Hah? Kau ingat kau buat apa ni? Nak\n"
+	.string "lindungi dia pula?\p"
 	.string "Sesiapa yang cari pasal dengan TEAM\n"
-	.string "AQUA takkan dapat belas kasihan, budak\l"
-	.string "pun sama!\p"
+	.string "AQUA takkan dikasihani, budak pun sama!\p"
 	.string "Mari lawan aku!$"
 
 PetalburgWoods_Text_YoureKiddingMe:
@@ -352,8 +351,8 @@ PetalburgWoods_Text_TeamAquaAfterSomethingInRustboro:
 	.string "sedang buru sesuatu di RUSTBORO, kan?$"
 
 PetalburgWoods_Text_ICantBeWastingTime:
-	.string "Alamak! Ini krisis! Saya\n"
-	.string "tak boleh buang masa!$"
+	.string "Alamak! Gawat ni! Saya tak boleh\n"
+	.string "buang masa!$"
 
 PetalburgWoods_Text_YoureLoadedWithItems:
 	.string "Barang kamu dah penuh. Saya\n"
@@ -377,7 +376,7 @@ PetalburgWoods_Text_InstantlyPopularWithBugPokemon:
 	.string "ke sekolah, terus jadi popular!$"
 
 PetalburgWoods_Text_CantBePopularIfILose:
-	.string "Saya tak boleh jadi popular kalau kalah.$"
+	.string "Mana boleh popular kalau kalah.$"
 
 PetalburgWoods_Text_PeopleRespectYou:
 	.string "Kalau ada POKéMON SERANGGA yang\n"
@@ -400,7 +399,7 @@ PetalburgWoods_Text_MyPokemonHaveGrown:
 	.string "besar. Saya akan popular lagi.$"
 
 PetalburgWoods_Text_CantBePopularIfLose:
-	.string "Saya tak boleh jadi popular kalau kalah.$"
+	.string "Mana boleh popular kalau kalah.$"
 
 PetalburgWoods_Text_IveBeenTrainingHard:
 	.string "Kalau ada POKéMON yang kuat, kita jadi\n"
@@ -416,8 +415,8 @@ PetalburgWoods_Text_StayOutOfTallGrass:
 PetalburgWoods_Text_HiddenItemsExplanation:
 	.string "Kadang-kadang, ada barang di atas\n"
 	.string "tanah walaupun kamu tak nampak.\p"
-	.string "Sebab itulah saya sentiasa\n"
-	.string "periksa tempat saya berjalan.$"
+	.string "Sebab tu saya selalu perhati tempat\n"
+	.string "saya jalan.$"
 
 PetalburgWoods_Text_TryUsingThisItem:
 	.string "Wah, hebat! Itu LENCANA GIM RUSTBORO!\p"
@@ -438,16 +437,16 @@ PetalburgWoods_Text_TrainerTipsExperience:
 	.string "sekali dalam pertarungan akan diberi\l"
 	.string "Mata EXP.\p"
 	.string "Untuk melatih POKéMON yang lemah,\n"
-	.string "letak ia di kiri senarai pasukan.\p"
-	.string "Sebaik pertarungan bermula, tukar ia\n"
-	.string "keluar. Ia akan dapat Mata EXP tanpa\l"
-	.string "terdedah kepada bahaya.$"
+	.string "letakkan ia di kiri senarai pasukan.\p"
+	.string "Sebaik saja pertarungan bermula, tukar\n"
+	.string "keluar. POKéMON tu tetap dapat Mata\l"
+	.string "EXP tanpa terdedah kepada bahaya.$"
 
 PetalburgWoods_Text_TrainerTipsPP:
 	.string "PETUA JURULATIH\p"
 	.string "Selain Mata Hayat (HP), POKéMON ada\n"
-	.string "Mata Kuasa (PP) yang diguna untuk\l"
-	.string "melakukan move dalam pertarungan.\p"
-	.string "Kalau PP POKéMON habis, ia\n"
-	.string "mesti dibawa ke PUSAT POKéMON.$"
+	.string "Mata Kuasa (PP) untuk guna move\l"
+	.string "dalam pertarungan.\p"
+	.string "Kalau PP POKéMON habis, bawa ia ke\n"
+	.string "PUSAT POKéMON.$"
 

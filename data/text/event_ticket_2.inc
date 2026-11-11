@@ -9,8 +9,8 @@ EventTicket_Text_OldSeaMapTooFar:
 
 EventTicket_Text_BrineyHoldOnASecond:
 	.string "BRINEY: Tunggu sekejap!\p"
-	.string "Apa maksudnya tolak permintaan orang\n"
-	.string "yang saya terhutang budi sangat?$"
+	.string "Apa ni, nak tolak permintaan orang\n"
+	.string "yang saya terhutang budi?$"
 
 EventTicket_Text_BrineyLetsSail:
 	.string "{PLAYER}{KUN}, saya minta maaf sangat.\p"
@@ -22,13 +22,13 @@ EventTicket_Text_BrineyLetsSail:
 	.string "dalam PETA LAUT TUA ini!$"
 
 EventTicket_Text_OddTicketGetOnBoard:
-	.string "Kamukah yang bawa tiket\n"
-	.string "pelik itu?\p"
+	.string "Kamu ke yang bawa tiket\n"
+	.string "pelik tu?\p"
 	.string "Tempat yang kamu nak tuju ialah pulau\n"
 	.string "yang sangat, sangat jauh.\p"
-	.string "Tiada siapa tahu apa yang menanti…\p"
-	.string "Memikirkannya pun buat darah saya\n"
-	.string "sebagai pelaut bergelora!\p"
+	.string "Tak ada siapa tahu apa yang menanti…\p"
+	.string "Fikir pun dah buat darah pelaut\n"
+	.string "saya bergelora!\p"
 	.string "Naik kapal, anak muda!$"
 
 FarawayIsland_Entrance_Text_SailorReturn:
@@ -41,15 +41,15 @@ BirthIsland_Harbor_Text_SailorReturn:
 	.string "Kamu nak balik ke LILYCOVE?$"
 
 EventTicket_Text_OddTicketsWhereTo:
-	.string "Kamukah yang bawa tiket-tiket\n"
-	.string "pelik itu?\p"
+	.string "Kamu ke yang bawa tiket-tiket\n"
+	.string "pelik tu?\p"
 	.string "… … …Hm.\p"
 	.string "Tiket-tiket ini boleh bawa kamu ke\n"
 	.string "pulau yang sangat, sangat jauh.\p"
-	.string "Tiada siapa tahu apa yang menanti,\n"
+	.string "Tak ada siapa tahu apa yang menanti,\n"
 	.string "atau apa yang mungkin berlaku.\p"
-	.string "Memikirkannya pun buat darah saya\n"
-	.string "sebagai pelaut bergelora!\p"
+	.string "Fikir pun dah buat darah pelaut\n"
+	.string "saya bergelora!\p"
 	.string "Naik kapal, anak muda!\n"
 	.string "Ke mana kita belayar dulu?$"
 
@@ -57,7 +57,7 @@ NavelRock_Harbor_Text_SailorReturn:
 	.string "Kamu… Kamu dengar tak?\n"
 	.string "Bunyi dengusan dari dalam sana tu.\p"
 	.string "Betul ke selamat ni?\n"
-	.string "Patutkah kita pergi dari sini?$"
+	.string "Patut ke kita pergi dari sini?$"
 
 FarawayIsland_Entrance_Text_Sign:
 	.string "Tulisan ini pudar seolah-olah ia\n"

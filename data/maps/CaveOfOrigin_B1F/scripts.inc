@@ -107,8 +107,7 @@ CaveOfOrigin_B1F_Text_CantYouRememberSomehow:
 
 CaveOfOrigin_B1F_Text_WellHeadToSkyPillar:
 	.string "WALLACE: TIANG LANGIT?\p"
-	.string "Betul!\n"
-	.string "Mesti di TIANG LANGIT!\p"
-	.string "{PLAYER}{KUN}, tiada masa lagi!\n"
-	.string "Mari kita terus ke TIANG LANGIT!$"
+	.string "Betul! Mesti di TIANG LANGIT!\p"
+	.string "{PLAYER}{KUN}, tak ada masa nak dibuang!\n"
+	.string "Kita terus ke TIANG LANGIT!$"
 

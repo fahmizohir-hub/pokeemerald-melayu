@@ -84,30 +84,30 @@ PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing:
 	.string "Apa khabar agaknya WALLY kami?$"
 
 PetalburgCity_WallysHouse_Text_PleaseExcuseUs:
-	.string "{PLAYER}{KUN}! Maafkan kami sebab\n"
-	.string "bawa kamu ke sini begini.\p"
-	.string "Tapi WALLY kami dah jadi sangat sihat\n"
+	.string "{PLAYER}{KUN}! Maaf sebab panggil kamu\n"
+	.string "datang macam ni.\p"
+	.string "Tapi WALLY kami dah jauh lebih sihat\n"
 	.string "sejak dia pergi ke PEKAN VERDANTURF.\p"
-	.string "Semua ini berkat kamu!\p"
+	.string "Semuanya berkat kamu!\p"
 	.string "Masa WALLY tinggalkan pekan, kamu\n"
 	.string "tolong dia tangkap POKéMON, kan?\p"
 	.string "Saya rasa itu buat WALLY\n"
 	.string "betul-betul gembira.\p"
-	.string "Sebenarnya, bukan WALLY saja.\n"
-	.string "Saya, ayahnya, pun gembira.\p"
-	.string "Gembira sebab dia dapat\n"
-	.string "kawan sebaik kamu.\p"
-	.string "Ini bukan rasuah atau apa, tapi\n"
-	.string "saya betul-betul nak kamu ambil ini.$"
+	.string "Sebenarnya, bukan WALLY saja. Saya,\n"
+	.string "ayahnya, pun gembira.\p"
+	.string "Gembira sebab dia dapat kawan\n"
+	.string "sebaik kamu.\p"
+	.string "Ini bukan rasuah atau apa, tapi saya\n"
+	.string "betul-betul nak kamu ambil ini.$"
 
 PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces:
-	.string "Kalau POKéMON kamu boleh guna LUNCUR\n"
-	.string "OMBAK, kamu boleh pergi ke macam-macam\l"
-	.string "tempat.$"
+	.string "Kalau POKéMON kamu boleh guna\n"
+	.string "LUNCURAN OMBAK, kamu boleh pergi ke\l"
+	.string "macam-macam tempat.$"
 
 PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon:
-	.string "WALLY akan balik tak lama lagi.\n"
-	.string "Saya tak sabar menunggunya.$"
+	.string "WALLY akan balik tak lama lagi. Tak\n"
+	.string "sabar saya nak jumpa dia.$"
 
 PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity:
 	.string "Eh? Kamu jumpa WALLY\n"

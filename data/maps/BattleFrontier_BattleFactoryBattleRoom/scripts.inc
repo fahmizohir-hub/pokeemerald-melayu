@@ -260,12 +260,12 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
 	.string "Saya pun akan guna POKéMON sewa!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
-	.string "Keluarkan segala ilmu yang kamu ada\n"
-	.string "dan ayuh lawan!$"
+	.string "Keluarkan semua ilmu yang kamu ada\n"
+	.string "dan lawan saya!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
 	.string "NOLAND: Bijak betul!\n"
-	.string "Mari tengok PAS FRONTIER kamu.$"
+	.string "Bagi saya tengok PAS FRONTIER kamu.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
 	.string "Simbol Ilmu telah dicap pada\n"
@@ -282,8 +282,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
 	.string "NOLAND: Hei, hei! Apa khabar?\n"
 	.string "Kamu masih rajin belajar?\p"
 	.string "…Oh?\p"
-	.string "Wajah kamu nampak lebih garang\n"
-	.string "berbanding kali terakhir kita jumpa.\p"
+	.string "Muka kamu nampak lebih garang dari\n"
+	.string "kali terakhir kita jumpa.\p"
 	.string "Ha, ini mesti seronok!\n"
 	.string "Saya dah teruja ni, hei!$"
 
@@ -292,10 +292,10 @@ BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
 	.string "Ayuh lawan!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "NOLAND: Apa ke…\n"
+	.string "NOLAND: Apa hal ni…\n"
 	.string "Kamu dah jauh mengatasi saya!\p"
 	.string "Hish!\n"
-	.string "Mari tengok PAS FRONTIER tu!$"
+	.string "Bak sini PAS FRONTIER tu!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:
 	.string "Simbol Ilmu kini bersinar\n"
@@ -305,5 +305,5 @@ BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou:
 	.string "Cis, alamak!\p"
 	.string "Ini memang kali terakhir saya\n"
 	.string "kalah dengan kamu!\p"
-	.string "Kita kena lawan lagi, hei?$"
+	.string "Kita kena lawan lagi, okey?$"
 

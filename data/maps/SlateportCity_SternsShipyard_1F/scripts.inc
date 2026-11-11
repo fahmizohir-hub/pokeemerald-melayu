@@ -93,8 +93,8 @@ SlateportCity_SternsShipyard_1F_Text_CouldUseAdviceFromVeteran:
 SlateportCity_SternsShipyard_1F_Text_BrineyJoinedUs:
 	.string "DOCK: Hai! ENCIK BRINEY dah sertai kami\n"
 	.string "untuk membantu.\p"
-	.string "Terima kasih kepada pelaut\n"
-	.string "berpengalaman tu, feri ni makin siap.$"
+	.string "Berkat pelaut berpengalaman tu,\n"
+	.string "feri ni makin hampir siap.$"
 
 SlateportCity_SternsShipyard_1F_Text_FerryIsReady:
 	.string "DOCK: Akhirnya feri dah siap!\p"

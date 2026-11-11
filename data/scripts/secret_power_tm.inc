@@ -8,10 +8,10 @@ Route111_Text_MakingRoomUseTMToMakeYourOwn:
 
 Route111_Text_ExplainSecretPower:
 	.string "Cari pokok besar yang nampak macam\n"
-	.string "boleh menjatuhkan akar gantung.\p"
+	.string "ada akar gantung nak terjatuh.\p"
 	.string "Guna KUASA RAHSIA di depan pokok itu.\n"
-	.string "Akar gantung akan terlepas dan jatuh,\l"
-	.string "kemudian kamu boleh panjat pokok itu.\p"
+	.string "Akar gantung tu akan terlerai dan\l"
+	.string "jatuh, lepas tu kamu boleh panjat.\p"
 	.string "Di situ ada banyak ruang untuk letak\n"
 	.string "barang kegemaran kamu.\p"
 	.string "Itulah bilik rahsia kamu sendiri…\n"
@@ -21,15 +21,16 @@ Route111_Text_ExplainSecretPower:
 	.string "semestinya dibuat dalam pokok.\p"
 	.string "Cuba guna KUASA RAHSIA pada dinding\n"
 	.string "batu yang ada lekuk kecil.\p"
-	.string "Saya pun nak pergi cari tempat lain\n"
-	.string "juga. Okey, jumpa lagi!$"
+	.string "Saya pun nak pergi cari tempat lain.\n"
+	.string "Okey, jumpa lagi!$"
 
 Route111_Text_DontWantThis:
-	.string "Oh, kamu tak nak ini?\n"
+	.string "Oh, kamu tak nak?\n"
 	.string "Kalau ubah fikiran, beritahu saya, ya?$"
 
 Route111_Text_DontHaveAnyRoom:
-	.string "Oh, kamu tak ada ruang untuk ini.\p"
+	.string "Oh, kamu dah tak ada ruang nak\n"
+	.string "simpan benda ni.\p"
 	.string "Saya simpan dulu, jadi datanglah ambil\n"
 	.string "lain kali, okey?$"
 

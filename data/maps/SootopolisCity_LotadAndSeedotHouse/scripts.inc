@@ -113,12 +113,11 @@ SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
 	.string "To-to-tolong, tunjukkan saya!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
-	.string "{STR_VAR_2} inci!\n"
-	.string "Ya ampun, besarnya!\p"
+	.string "{STR_VAR_2} inci! Ya ampun, besarnya!\p"
 	.string "Mungkin lebih besar daripada LOTAD\n"
 	.string "besar yang adik saya nampak!\p"
-	.string "Terima kasih tunjukkan saya.\n"
-	.string "Ini tanda terima kasih saya!$"
+	.string "Terima kasih sebab tunjuk. Ini\n"
+	.string "hadiah tanda terima kasih saya!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1:
@@ -161,12 +160,11 @@ SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
 	.string "To-to-tolong tunjukkan saya!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
-	.string "{STR_VAR_2} inci!\n"
-	.string "Wah, besarnya!\p"
+	.string "{STR_VAR_2} inci! Wah, besarnya!\p"
 	.string "Mungkin lebih besar daripada SEEDOT\n"
 	.string "gergasi yang abang saya nampak.\p"
-	.string "Terima kasih tunjukkan saya!\n"
-	.string "Ini tanda terima kasih saya!$"
+	.string "Terima kasih sebab tunjuk! Ini\n"
+	.string "hadiah tanda terima kasih saya!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:

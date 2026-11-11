@@ -31,9 +31,9 @@ LEBAR_PLACEHOLDER = {
 }
 
 
-def baca_jadual_lebar():
+def baca_jadual_lebar(nama="gFontNormalLatinGlyphWidths"):
     teks = (ROOT / "src/fonts.c").read_text(encoding="utf-8")
-    m = re.search(r"gFontNormalLatinGlyphWidths\[\]\s*=\s*\{(.*?)\};", teks, re.S)
+    m = re.search(nama + r"\[\]\s*=\s*\{(.*?)\};", teks, re.S)
     return [int(x) for x in re.findall(r"\d+", m.group(1))]
 
 
@@ -56,23 +56,29 @@ def baca_charmap():
 
 
 LEBAR = baca_jadual_lebar()
+LEBAR_SEMPIT = baca_jadual_lebar("gFontNarrowLatinGlyphWidths")
+# {FONT_NARROW} ... {FONT_NORMAL} dalam teks menukar jadual lebar.
+FON = {"FONT_NORMAL": LEBAR, "FONT_NARROW": LEBAR_SEMPIT}
 CHARMAP = baca_charmap()
 
 
 def lebar_baris(s):
     """Lebar piksel satu baris teks (tanpa \\n, \\p, \\l)."""
     jumlah = 0
+    jadual = LEBAR
     i = 0
     while i < len(s):
         if s[i] == "{":
             j = s.index("}", i)
             nama = s[i + 1 : j]
-            if nama in LEBAR_PLACEHOLDER:
+            if nama in FON:
+                jadual = FON[nama]
+            elif nama in LEBAR_PLACEHOLDER:
                 jumlah += LEBAR_PLACEHOLDER[nama]
             elif "{" + nama + "}" in CHARMAP:
                 kod = CHARMAP["{" + nama + "}"]
                 if kod[0] < 0xF7:  # aksara boleh cetak (contoh {PKMN})
-                    jumlah += sum(LEBAR[b] for b in kod)
+                    jumlah += sum(jadual[b] for b in kod)
             i = j + 1
             continue
         c = s[i]
@@ -82,7 +88,7 @@ def lebar_baris(s):
         kod = CHARMAP.get(c)
         if kod is None:
             raise ValueError(f"aksara tiada dalam charmap: {c!r}")
-        jumlah += sum(LEBAR[b] for b in kod if b < len(LEBAR))
+        jumlah += sum(jadual[b] for b in kod if b < len(jadual))
         i += 1
     return jumlah
 
@@ -121,7 +127,9 @@ def susunan_baris_ok(teks):
 
 
 def kod_kawalan(teks):
-    return sorted(re.findall(r"\{[A-Z_0-9]+(?: [^}]*)?\}|\$", teks))
+    # Kod tukar fon boleh ditambah untuk muatkan teks; tidak dikira.
+    return sorted(k for k in re.findall(r"\{[A-Z_0-9]+(?: [^}]*)?\}|\$", teks)
+                  if k not in ("{FONT_NARROW}", "{FONT_NORMAL}"))
 
 
 def versi_asal(fail):
@@ -180,7 +188,7 @@ RE_C_KEPING = re.compile(r'"((?:[^"\\]|\\.)*)"')
 # Had panjang nama (dalam bait) untuk array bersaiz tetap.
 # (fail, corak baris sebelum string atau nama array, had)
 HAD_NAMA = [
-    ("src/data/text/move_names.h", None, 12),
+    ("src/data/text/move_names.h", None, 16),  # BM: dinaikkan (slot pertarungan 80px)
     ("src/data/items.h", r"\.name\s*=\s*$", 13),  # name[14] termasuk penamat
     ("src/data/text/abilities.h", "gAbilityNames", 12),
     ("src/battle_main.c", "gTypeNames", 6),
@@ -275,7 +283,7 @@ def semak_clear_to(isi):
     for baris in re.split(r"\\[npl]", isi):
         for m in re.finditer(r"\{CLEAR_TO (\d+)\}", baris):
             sebelum = re.sub(r"\{CLEAR_TO \d+\}", "", baris[: m.start()])
-            sebelum = re.sub(r"\{FONT_[A-Z_]+\}", "", sebelum)
+            sebelum = re.sub(r"{FONT_(?!NARROW}|NORMAL})[A-Z_]+}", "", sebelum)
             try:
                 w = lebar_baris(sebelum)
             except ValueError:

@@ -544,7 +544,7 @@ MtChimney_Text_MaxieIntro:
 	.string "Ia buaian segala kehidupan!\p"
 	.string "Sebab itulah TEAM MAGMA berjuang\n"
 	.string "untuk meluaskan daratan.\p"
-	.string "Ia demi kemajuan manusia dan\n"
+	.string "Semuanya demi kemajuan manusia dan\n"
 	.string "POKéMON!\p"
 	.string "Dan untuk itu, kami perlukan kuasa\n"
 	.string "yang tidur dalam gunung ni…\p"

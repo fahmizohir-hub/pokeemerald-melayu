@@ -63,19 +63,19 @@ PetalburgCity_Mart_EventScript_Man::
 	end
 
 PetalburgCity_Mart_Text_WeakWillGrowStronger:
-	.string "Walaupun POKéMON tu lemah\n"
-	.string "sekarang, ia akan jadi lebih kuat.\p"
-	.string "Yang paling penting ialah kasih\n"
-	.string "sayang! Sayangilah POKéMON kamu!$"
+	.string "Walaupun lemah sekarang, POKéMON tu\n"
+	.string "akan jadi kuat nanti.\p"
+	.string "Yang paling penting ialah kasih sayang!\n"
+	.string "Sayangilah POKéMON kamu!$"
 
 PetalburgCity_Mart_Text_RepelIsUseful:
-	.string "Kamu guna PENGHALAU? Ia jauhkan\n"
+	.string "Kamu guna PENGHALAU? Benda tu jauhkan\n"
 	.string "POKéMON, jadi berguna bila kamu\l"
-	.string "tergesa-gesa.$"
+	.string "nak cepat.$"
 
 PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou:
 	.string "Kamu ada bawa PENAWAR?\p"
 	.string "Kalau kamu berjalan dengan POKéMON\n"
-	.string "yang diracun, HPnya akan berkurang\l"
-	.string "sampai ia pengsan. Bawalah PENAWAR.$"
+	.string "yang keracunan, HPnya akan susut\l"
+	.string "sampai pengsan. Bawalah PENAWAR.$"
 

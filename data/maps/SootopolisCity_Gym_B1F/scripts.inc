@@ -52,8 +52,8 @@ SootopolisCity_Gym_B1F_EventScript_Daphne::
 	end
 
 SootopolisCity_Gym_B1F_Text_AndreaIntro:
-	.string "Saya tunjukkan teknik hebat yang saya\n"
-	.string "belajar daripada KETUA kami, JUAN!$"
+	.string "Biar saya tunjuk teknik hebat yang\n"
+	.string "saya belajar daripada KETUA kami, JUAN!$"
 
 SootopolisCity_Gym_B1F_Text_AndreaDefeat:
 	.string "Maafkan saya, JUAN…$"
@@ -63,9 +63,10 @@ SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
 	.string "semua jubin lantai.$"
 
 SootopolisCity_Gym_B1F_Text_CrissyIntro:
-	.string "Kamu datang jauh ke sini, tapi kamu\n"
-	.string "takkan dapat jumpa JUAN.\p"
-	.string "Tak, kalau kamu kalah dengan saya!$"
+	.string "Kamu datang jauh ke sini, tapi\n"
+	.string "kamu takkan dapat jumpa JUAN.\p"
+	.string "Kalau kamu kalah dengan\n"
+	.string "saya, memang tak dapatlah!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyDefeat:
 	.string "Kuatnya kamu!\n"
@@ -113,10 +114,10 @@ SootopolisCity_Gym_B1F_Text_BridgetDefeat:
 	.string "Tingginya tahap kamu!$"
 
 SootopolisCity_Gym_B1F_Text_BridgetPostBattle:
-	.string "Daripada puas hati berada di GIM yang\n"
-	.string "kuat, saya rasa berlatih di tempat lain\l"
-	.string "akan buat kamu lebih kuat.\l"
-	.string "Lagipun, nampak lebih seronok.$"
+	.string "Daripada puas hati duduk di GIM\n"
+	.string "yang kuat, saya rasa berlatih di\l"
+	.string "tempat lain lagi buat kamu kuat.\l"
+	.string "Lagipun, lebih seronok rasanya.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaIntro:
 	.string "Saya latih POKéMON saya bersama JUAN.\p"
@@ -139,9 +140,9 @@ SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
 	.string "Eh, apa?!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
-	.string "Memang jelas, tapi kekuatan kamu\n"
-	.string "sebagai JURULATIH tiada kena-mengena\l"
-	.string "dengan umur kamu.$"
+	.string "Benda ni memang jelas, tapi kuat\n"
+	.string "atau tak seorang JURULATIH tak\l"
+	.string "ada kena-mengena dengan umur.$"
 
 SootopolisCity_Gym_B1F_Text_BethanyIntro:
 	.string "Bila bersama POKéMON, masa berlalu\n"
@@ -155,8 +156,8 @@ SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
 	.string "sebelum sempat sebut “Alamak!”$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaIntro:
-	.string "Kalau mahu, saya boleh bertarung\n"
-	.string "dengan POKéMON yang sangat jarang.$"
+	.string "Kalau kamu nak, saya boleh bertarung\n"
+	.string "guna POKéMON yang nadir sangat.$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaDefeat:
 	.string "Nah! Dah puas tengok POKéMON saya?$"

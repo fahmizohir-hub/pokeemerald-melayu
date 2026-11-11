@@ -135,8 +135,8 @@ AquaHideout_B1F_Text_Grunt3PostBattle:
 	.string "Misi aku cuma nak lengahkan kau!$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
-	.string "Uaap… Jaga MARKAS ni bosan betul. Mari\n"
-	.string "aku lawan kau.$"
+	.string "Uaap… Jaga MARKAS ni bosan\n"
+	.string "betul. Biar aku lawan kau.$"
 
 AquaHideout_B1F_Text_Grunt5Defeat:
 	.string "Uaap…\n"

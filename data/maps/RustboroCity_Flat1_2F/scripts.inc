@@ -76,27 +76,24 @@ RustboroCity_Flat1_2F_EventScript_PokeDoll::
 
 RustboroCity_Flat1_2F_Text_ComingUpWithMealsIsHard:
 	.string "Aduh, susahnya setiap hari…\p"
-	.string "Apa yang susah? Perlu tanya lagi?\p"
-	.string "Fikir nak masak apa untuk makan setiap\n"
-	.string "hari.\p"
-	.string "Bukan senang nak fikir menu setiap\n"
-	.string "hari.$"
+	.string "Apa yang susah? Tak payah tanyalah.\p"
+	.string "Nak fikir masak apa setiap hari.\p"
+	.string "Bukan senang nak fikir menu\n"
+	.string "setiap hari.$"
 
 RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
 	.string "Oh, helo! Selamat datang ke rumah\n"
 	.string "keluarga PEPPER.\p"
 	.string "Saya ada soalan untuk kamu. Kamu\n"
 	.string "pernah jaga budak kecil?\p"
-	.string "Sebenarnya, saya baru jadi bapa, jadi\n"
-	.string "menjaga anak memang perkara baru bagi\l"
-	.string "saya.\p"
+	.string "Saya baru jadi bapa, jadi jaga anak ni\n"
+	.string "semuanya baru bagi saya.\p"
 	.string "Dan saya ada masalah. Anak perempuan\n"
 	.string "saya, WALDA, jarang ketawa.\p"
 	.string "Saya rasa dia akan ketawa kalau saya\n"
 	.string "cakap sesuatu yang lucu.\p"
-	.string "Kamu tahu apa-apa perkataan atau\n"
-	.string "frasa lucu yang boleh kamu beritahu\l"
-	.string "saya?$"
+	.string "Kamu tahu tak apa-apa perkataan atau\n"
+	.string "frasa lucu? Boleh beritahu saya?$"
 
 RustboroCity_Flat1_2F_Text_BeenSayingXDoYouKnowBetterPhrase:
 	.string "Kebelakangan ni saya sebut\n"
@@ -116,10 +113,9 @@ RustboroCity_Flat1_2F_Text_LetsGiveItATry2:
 	.string "Ah, begitu. Jom kita cuba, ya?$"
 
 RustboroCity_Flat1_2F_Text_OhShesLaughing:
-	.string "{STR_VAR_1}.\n"
-	.string "{STR_VAR_1}.\p"
-	.string "Oh, ya! Dia ketawa! Saya pun gembira\n"
-	.string "macam dia!$"
+	.string "{STR_VAR_1}. {STR_VAR_1}.\p"
+	.string "Oh, ya! Dia ketawa! Saya pun\n"
+	.string "gembira sama!$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry:
 	.string "Ah, begitu. Jom kita cuba, ya?$"
@@ -132,11 +128,10 @@ RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll:
 
 RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
 	.string "Oh, jadi kamu tak tahu perkataan yang\n"
-	.string "bagus. Kalau begitu, saya fikir\l"
-	.string "sendirilah.\p"
-	.string "Hmm…\n"
-	.string "Apa kata “{STR_VAR_1}”?\l"
-	.string "Mari kita tengok kalau menjadi.$"
+	.string "bagus. Kalau begitu, saya\l"
+	.string "fikir sendirilah.\p"
+	.string "Hmm… Apa kata “{STR_VAR_1}”? Jom cuba,\n"
+	.string "menjadi ke tak.$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 	.string "{STR_VAR_1}.\n"
@@ -147,27 +142,27 @@ RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
 	.string "Oh, jadi kamu tak tahu perkataan yang\n"
 	.string "bagus. Saya cuba hiburkan dia dengan\l"
-	.string "ungkapan yang saya guna dulu.\p"
+	.string "ayat lama sajalah.\p"
 	.string "Apa-apa pun, kalau kamu ada cadangan\n"
 	.string "yang bagus, jangan segan beritahu\l"
 	.string "saya, okey?$"
 
 RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
 	.string "Terima kasih!\p"
-	.string "Berkat kamu, WALDA kesayangan saya\n"
-	.string "ketawa!\p"
-	.string "Sebenarnya, saya mungkin nampak biasa\n"
-	.string "saja, tapi saya salah seorang\l"
+	.string "Berkat kamu, WALDA kesayangan\n"
+	.string "saya ketawa!\p"
+	.string "Nampak macam orang biasa, tapi\n"
+	.string "sebenarnya saya ni salah seorang\l"
 	.string "penyelidik utama DEVON CORPORATION.\p"
 	.string "Jadi, apa kata saya balas jasa kamu?\p"
 	.string "Haa, saya tambah corak kertas dinding\n"
 	.string "baru untuk KOTAK PC dalam Sistem\l"
 	.string "Simpanan POKéMON.\p"
-	.string "Dalam menu corak kertas dinding, pilih\n"
-	.string "“KAWAN.”\p"
-	.string "Dengan itu kamu boleh guna corak\n"
-	.string "kertas dinding yang baru.$"
+	.string "Dalam menu corak kertas dinding,\n"
+	.string "pilih “KAWAN.”\p"
+	.string "Lepas tu, kamu boleh guna corak kertas\n"
+	.string "dinding yang baru.$"
 
 RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll:
-	.string "Ini PATUNG POKéMON yang lembut!$"
+	.string "Ini PATUNG POKéMON yang gebu!$"
 

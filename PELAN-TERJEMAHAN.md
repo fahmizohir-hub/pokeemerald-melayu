@@ -40,7 +40,7 @@ Jumlah dialog: lebih kurang 843,000 aksara.
 | Jenis | Had |
 |---|---|
 | Nama item | 13 |
-| Nama move | 12 |
+| Nama move | 16 (78px fon sempit) |
 | Nama ability | 12 |
 | Nama Pokémon (tidak ditukar) | 10 |
 | Baris dialog | lebih kurang 36–38 (ikut lebar piksel, bukan bilangan huruf) |
@@ -77,6 +77,8 @@ Lihat [GLOSARI.md](GLOSARI.md). Itu satu-satunya sumber istilah.
 - [x] Grafik kecil lain: kad jurulatih, Frontier Pass, papan kekunci nama, PC,
       beg, Easy Chat, Union Room, contest, mesin slot, rolet, Pokeblock, Pokemon
       Jump (`tools/jana_grafik_lain_a.py`, `tools/jana_grafik_lain_b.py`)
+- [x] Nama move dalam bentuk kata nama (`tools/kata_nama_move.py`); had nama move
+      16 aksara, menu move pertarungan 80px + ikon jenis (`tools/jana_menu_move.py`)
 - [ ] Kekal Inggeris (had ruang): paparan titik mesin slot (REEL TIME, WIN, LOSE,
       BIG/REG BONUS), notis hak cipta penamat
 - [ ] Fasa 6: uji main

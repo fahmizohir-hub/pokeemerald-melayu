@@ -325,8 +325,8 @@ PlayersHouse_1F_Text_DidYouMeetProfBirch:
 	.string "diri pada PROF. BIRCH?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "IBU: Kamu apa khabar,\n"
-	.string "{PLAYER}? Nampak penat sikit.\p"
+	.string "IBU: Kamu okey, {PLAYER}? Nampak penat\n"
+	.string "sikit.\p"
 	.string "Ibu rasa kamu patut berehat sekejap.$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
@@ -365,8 +365,8 @@ PlayersHouse_1F_Text_ReportFromPetalburgGym:
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
 	.string "Ada filem di TV.\p"
-	.string "Dua lelaki sedang menari di atas\n"
-	.string "papan kekunci piano yang besar.\p"
+	.string "Dua lelaki menari atas papan kekunci\n"
+	.string "piano yang besar.\p"
 	.string "Baik cepat pergi!$"
 
 PlayersHouse_1F_Text_RunningShoesManual:
@@ -379,13 +379,13 @@ PlayersHouse_1F_Text_RunningShoesManual:
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "AYAH: Hm?\p"
 	.string "Eh, {PLAYER} rupanya!\p"
-	.string "Lama Ayah tak jumpa kamu, tapi\n"
-	.string "kamu nampak… lebih kuat sekarang.\p"
-	.string "Itu yang Ayah rasa. Tapi ayah\n"
-	.string "kamu ni belum mengalah lagi!\p"
-	.string "Oh, ya, Ayah ada sesuatu untuk kamu. Ini\n"
-	.string "dihantar oleh seseorang bernama ENCIK\l"
-	.string "BRINEY.$"
+	.string "Lama Ayah tak jumpa kamu, tapi kamu\n"
+	.string "nampak… lebih kuat sekarang.\p"
+	.string "Itu yang Ayah rasa. Tapi ayah kamu ni\n"
+	.string "belum mengalah lagi!\p"
+	.string "Oh, ya, Ayah ada sesuatu untuk kamu.\n"
+	.string "Ada orang nama ENCIK BRINEY hantar\l"
+	.string "benda ni untuk kamu.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
 	.string "AYAH: Hm, TIKET feri?\p"
@@ -423,5 +423,5 @@ PlayersHouse_1F_Text_WhatColorDidTheySay:
 	.string "pemberita tu sebut?$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
-	.string "IBU: Hebat, kan! Masih ada\n"
-	.string "POKéMON yang belum diketahui.$"
+	.string "IBU: Menarik, kan! Rupanya masih ada\n"
+	.string "POKéMON yang belum dikenali.$"

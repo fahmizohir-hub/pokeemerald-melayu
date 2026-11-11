@@ -619,8 +619,7 @@ Route111_Text_RouteSignMauville:
 	.string "{DOWN_ARROW} BANDAR MAUVILLE$"
 
 Route111_Text_WinstrateHouseSign:
-	.string "“Hati keluarga kami berdegup sebagai\n"
-	.string "satu!”\l"
+	.string "“Keluarga kami sehati sejiwa!”\n"
 	.string "RUMAH KELUARGA WINSTRATE$"
 
 Route111_Text_RouteSign112:
@@ -645,8 +644,8 @@ Route111_Text_TrainerTipsSpAtkSpDef:
 	.string "bagi “PERTAHANAN KHAS.”$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
-	.string "Sepatutnya ada menara diperbuat\n"
-	.string "daripada pasir di sekitar sini.\p"
+	.string "Sepatutnya ada menara pasir di\n"
+	.string "sekitar sini.\p"
 	.string "Tapi entah kenapa, kadang-kadang ia\n"
 	.string "kelihatan, kadang-kadang tidak.\p"
 	.string "Sebab tu saya panggil ia MENARA ILUSI.$"

@@ -66,9 +66,9 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy::
 
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
 	.string "PROF. COZMO: Oh…\n"
-	.string "Saya tak patut biar diri saya ditipu\l"
-	.string "sampai beritahu TEAM MAGMA tempat\l"
-	.string "untuk cari METEORIT…\p"
+	.string "Saya tak patut terpedaya sampai\l"
+	.string "beritahu TEAM MAGMA tempat cari\l"
+	.string "METEORIT…\p"
 	.string "METEORIT dari LATA METEOR tu…\n"
 	.string "Takkan jadi milik saya lagi…$"
 
@@ -79,7 +79,7 @@ FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
 	.string "Mungkinkah?\p"
 	.string "Itukah METEORIT yang TEAM MAGMA\n"
 	.string "ambil dari LATA METEOR?\p"
-	.string "Tolonglah, boleh saya dapatkannya?\p"
+	.string "Tolonglah, boleh bagi pada saya?\p"
 	.string "Saya tak minta percuma.\n"
 	.string "Apa kata saya tukar dengan TM ni?$"
 
@@ -95,11 +95,11 @@ FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch:
 
 FallarborTown_CozmosHouse_Text_CrushedWithDisappointment:
 	.string "PROF. COZMO: Oh, tapi…\n"
-	.string "Saya sangat kecewa…$"
+	.string "Kecewanya saya…$"
 
 FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
-	.string "PROF. COZMO: Tolonglah, boleh saya\n"
-	.string "dapatkan METEORIT tu?\p"
+	.string "PROF. COZMO: Tolonglah, boleh bagi\n"
+	.string "METEORIT tu pada saya?\p"
 	.string "Saya tak minta percuma.\n"
 	.string "Apa kata saya tukar dengan TM ni?$"
 

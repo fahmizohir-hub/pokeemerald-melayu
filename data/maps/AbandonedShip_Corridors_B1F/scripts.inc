@@ -62,10 +62,10 @@ AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
 	.string "Alamak, saya karam!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-	.string "Bahagian bawah kapal ni dah tenggelam\n"
-	.string "ke dasar.\p"
+	.string "Bahagian bawah kapal ni\n"
+	.string "dah tenggelam ke dasar.\p"
 	.string "Kalau ada POKéMON yang tahu menyelam,\n"
-	.string "mungkin kita boleh maju…$"
+	.string "mungkin kita boleh pergi lebih jauh…$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
 	.string "Yeay!\n"

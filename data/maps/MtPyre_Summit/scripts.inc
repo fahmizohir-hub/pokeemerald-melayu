@@ -461,8 +461,8 @@ MtPyre_Summit_Text_Grunt4Defeat:
 	.string "TEAM AQUA, kami boleh fikirkan…$"
 
 MtPyre_Summit_Text_Grunt4PostBattle:
-	.string "Kami ahli-ahli dan ketua kami memang\n"
-	.string "gabungan yang hebat.$"
+	.string "Kami ahli-ahli dengan ketua\n"
+	.string "kami memang serasi betul.$"
 
 MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
 	.string "ARCHIE: MAXIE TEAM MAGMA dah dahului\n"
@@ -476,24 +476,22 @@ MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
 	.string "Kita berundur!$"
 
 MtPyre_Summit_Text_BothOrbsTakenMagmaLeftThis:
-	.string "Oh, tidak…\n"
-	.string "Ini tak boleh berlaku…\p"
-	.string "Bukan saja MESTIKA BIRU, malah MESTIKA\n"
-	.string "MERAH pun dah diambil…\p"
+	.string "Oh, tidak… Ini tak boleh berlaku…\p"
+	.string "Bukan saja MESTIKA BIRU, malah\n"
+	.string "MESTIKA MERAH pun dah diambil…\p"
 	.string "MESTIKA BIRU dan MESTIKA MERAH tak\n"
 	.string "boleh dipisahkan. Ia mesti bersama.\p"
-	.string "Apa yang orang-orang itu cuba lakukan\n"
-	.string "dengan dua MESTIKA itu?\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "Oh, ya. TEAM MAGMA ke yang datang dan\n"
-	.string "ambil MESTIKA BIRU dulu?\p"
-	.string "Dalam tergesa-gesa, mereka tertinggal\n"
-	.string "benda ini.\p"
-	.string "Saya tak dapat bayangkan apa\n"
-	.string "sebenarnya benda ini.\p"
-	.string "Saya mahu kamu menyimpannya. Mungkin\n"
-	.string "ia berguna nanti.$"
+	.string "Apa yang orang-orang itu nak\n"
+	.string "buat dengan dua MESTIKA itu?\p"
+	.string "… … … … … … … … … … … …\p"
+	.string "Oh, ya. TEAM MAGMA ke yang datang\n"
+	.string "dan ambil MESTIKA BIRU dulu?\p"
+	.string "Dalam tergesa-gesa, mereka\n"
+	.string "tertinggal benda ini.\p"
+	.string "Saya sendiri tak tahu\n"
+	.string "benda apa ini sebenarnya.\p"
+	.string "Saya nak kamu simpan.\n"
+	.string "Mungkin ia berguna nanti.$"
 
 MtPyre_Summit_Text_OrbsHaveBeenTaken:
 	.string "MESTIKA BIRU dan MESTIKA MERAH diambil\n"
@@ -516,19 +514,20 @@ MtPyre_Summit_Text_GroudonKyogreAwakened:
 	.string "tapi tiada siapa yang tahu.$"
 
 MtPyre_Summit_Text_ThoseTwoMenReturnedOrbs:
-	.string "Dua lelaki yang ambil MESTIKA itu\n"
-	.string "datang semula memulangkannya sendiri.\p"
-	.string "Mereka itu… Mungkin mereka tak sejahat\n"
-	.string "yang disangka…$"
+	.string "Dua lelaki yang ambil\n"
+	.string "MESTIKA itu datang semula\l"
+	.string "dan pulangkannya sendiri.\p"
+	.string "Mereka itu… Mungkin mereka\n"
+	.string "tak sejahat yang disangka…$"
 
 MtPyre_Summit_Text_SuperAncientPokemonTaughtUs:
 	.string "Penjelmaan daratan, lautan dan langit…\p"
-	.string "Itulah dikatakan identiti POKéMON\n"
-	.string "purba agung…\p"
+	.string "Begitulah kata orang tentang\n"
+	.string "POKéMON purba agung…\p"
 	.string "Sama seperti kita manusia dan POKéMON\n"
 	.string "yang bernyawa, dunia kita juga hidup…\p"
-	.string "POKéMON purba agung yang mengajar kita\n"
-	.string "perkara itu…$"
+	.string "POKéMON purba agung yang\n"
+	.string "mengajar kita perkara itu…$"
 
 MtPyre_Summit_Text_WillYouHearOutMyTale:
 	.string "GUNUNG PYRE ialah tempat kami\n"

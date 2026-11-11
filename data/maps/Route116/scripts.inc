@@ -345,12 +345,12 @@ Route116_EventScript_Johnson::
 	end
 
 Route116_Text_ScoundrelMadeOffWithPeeko:
-	.string "Aduhai, apa yang patut saya buat?\p"
-	.string "Kami sedang bersiar-siar, PEEKO dan\n"
-	.string "saya, bila kami diserang seorang\l"
+	.string "Aduhai, macam mana ni?\p"
+	.string "Saya dan PEEKO tengah berjalan-jalan,\n"
+	.string "tiba-tiba kami diserang seorang\l"
 	.string "samseng pelik…\p"
-	.string "Penjahat tu larikan PEEKO kesayangan\n"
-	.string "saya!\p"
+	.string "Penjahat tu larikan PEEKO\n"
+	.string "kesayangan saya!\p"
 	.string "Wuaaaaaaaaargh! PEEKO!$"
 
 Route116_Text_WantToDigTunnel:
@@ -358,13 +358,13 @@ Route116_Text_WantToDigTunnel:
 	.string "Saya nak gali terowong tu!$"
 
 Route116_Text_DiggingTunnelWhenGoonOrderedMeOut:
-	.string "Nnn… Raaa! Apa yang berlaku ni?\p"
-	.string "Saya tengah gali terowong tanpa\n"
-	.string "sebarang alat bila seorang samseng\l"
-	.string "halau saya keluar!\p"
+	.string "Nnn… Raaa! Apa hal ni?\p"
+	.string "Saya tengah gali terowong tanpa alat,\n"
+	.string "tiba-tiba ada samseng halau\l"
+	.string "saya keluar!\p"
 	.string "Terowong tu penuh dengan POKéMON yang\n"
-	.string "tak suka bunyi bising. Mereka boleh\l"
-	.string "mengamuk.\p"
+	.string "tak suka bunyi bising. Mereka\l"
+	.string "boleh mengamuk.\p"
 	.string "Sebab tu kami berhenti guna jentera\n"
 	.string "berat untuk menggali…\p"
 	.string "Saya risau samseng tu buat benda bodoh\n"
@@ -398,12 +398,11 @@ Route116_Text_ThankYouTokenOfAppreciation:
 Route116_Text_NewBallAvailableAtMart:
 	.string "POKé BALL baru kami akan dijual di POKé\n"
 	.string "MART RUSTBORO.\p"
-	.string "Cubalah! Terima kasih dan selamat\n"
-	.string "tinggal!$"
+	.string "Cubalah, ya! Terima kasih, jumpa lagi!$"
 
 Route116_Text_BagIsJamPacked:
 	.string "BEG kamu dah penuh sendat. Saya tak\n"
-	.string "boleh beri REPEAT BALL ni.$"
+	.string "dapat bagi REPEAT BALL ni.$"
 
 Route116_Text_TokenOfAppreciation:
 	.string "Sebagai tanda penghargaan sebab\n"

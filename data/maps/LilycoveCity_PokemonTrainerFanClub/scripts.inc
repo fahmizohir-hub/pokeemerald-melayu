@@ -561,26 +561,26 @@ LilycoveCity_PokemonTrainerFanClub_Text_HeardAboutYouImYourFan:
 	.string "Kamu memang kuat, kan?\p"
 	.string "Kami selalu bertekak pasal siapa\n"
 	.string "JURULATIH paling kuat di sini.\p"
-	.string "Jadi bila saya dengar tentang kamu,\n"
-	.string "saya terus jadi peminat kamu!\p"
+	.string "Jadi bila saya dengar tentang\n"
+	.string "kamu, saya terus jadi peminat kamu!\p"
 	.string "Saya harap kamu terus bertarung\n"
 	.string "dengan JURULATIH yang hebat-hebat.\p"
-	.string "Dengan cara tu, kami boleh tengok lebih\n"
-	.string "banyak pertarungan kamu yang hangat.\p"
-	.string "Barulah yang lain di sini nampak betapa\n"
-	.string "hebatnya kamu.\p"
-	.string "Ingat, saya sentiasa sokong kamu,\n"
-	.string "{PLAYER}!$"
+	.string "Jadi, kami dapat tengok lebih banyak\n"
+	.string "pertarungan kamu yang hangat.\p"
+	.string "Barulah yang lain di sini\n"
+	.string "nampak betapa hebatnya kamu.\p"
+	.string "Ingat, saya sentiasa\n"
+	.string "sokong kamu, {PLAYER}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureOneWeWantToWin:
 	.string "Yo, {PLAYER}!\n"
 	.string "Kamulah yang kami nak tengok menang!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OthersDontKnowYoureTheBest:
-	.string "Yang lain tu, mereka tak tahu kamu yang\n"
-	.string "terbaik antara yang terbaik!\p"
-	.string "Betul tak, {PLAYER}?\n"
-	.string "Tunjukkan keberanian kamu!$"
+	.string "Yang lain tu, mereka tak tahu kamu\n"
+	.string "yang terbaik antara yang terbaik!\p"
+	.string "Betul tak, {PLAYER}? Tunjuk\n"
+	.string "pada mereka yang kamu berani!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary:
 	.string "Berat hati nak cakap, tapi JURULATIH\n"
@@ -590,8 +590,9 @@ LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary:
 	.string "Memang luar biasa.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsBestNoOneWantsToListen:
-	.string "Geram betul… Saya dah beritahu orang\n"
-	.string "yang {STR_VAR_1} kini yang terbaik…\p"
+	.string "Geram betul… Saya asyik\n"
+	.string "beritahu orang yang {STR_VAR_1}\l"
+	.string "sekarang yang terbaik…\p"
 	.string "Tapi tak ada siapa nak dengar…$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer:
@@ -618,8 +619,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_BrawlyNoImYourFan:
 	.string "Teruskan!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ICantHelpLikingBrawly:
-	.string "Saya tak dapat tahan, saya cuma boleh\n"
-	.string "suka BRAWLY…$"
+	.string "Nak buat macam mana, hati\n"
+	.string "saya tetap pada BRAWLY…$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly:
 	.string "Tak ada siapa faham daya tarikan\n"
@@ -634,24 +635,25 @@ LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly:
 	.string "DEWFORD, BRAWLY!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather:
-	.string "Kamu dah mengatasi ayah kamu sendiri\n"
-	.string "dalam segala segi!\p"
-	.string "Saya cakap ni, jadi memang tak ada syak\n"
-	.string "lagi!$"
+	.string "Kamu dah mengatasi ayah kamu\n"
+	.string "sendiri dalam segala segi!\p"
+	.string "Saya yang cakap ni, jadi\n"
+	.string "memang tak syak lagi!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YourFatherNeverGaveUpSoKeepOnBattling:
-	.string "Walaupun keadaan suram, ayah kamu tak\n"
-	.string "pernah putus asa.\p"
-	.string "Yang ini saya tahu memang benar.\p"
-	.string "Jangan putus asa walaupun kalah!\n"
-	.string "Jadi teruskan bertarung!$"
+	.string "Walaupun keadaan suram, ayah\n"
+	.string "kamu tak pernah putus asa.\p"
+	.string "Yang ni saya tahu memang betul.\p"
+	.string "Jangan putus asa walaupun\n"
+	.string "kalah! Jadi teruskan bertarung!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_LongWayToGoComparedToNorman:
-	.string "NORMAN bertarung dengan lebih kuasa,\n"
-	.string "karisma dan gaya berbanding kamu.\p"
+	.string "Cara NORMAN bertarung lebih\n"
+	.string "berkuasa, lebih berkarisma dan\l"
+	.string "lebih bergaya daripada kamu.\p"
 	.string "Walaupun orang mungkin kata kamu kuat…\p"
-	.string "Kamu masih jauh lagi berbanding ayah\n"
-	.string "kamu.$"
+	.string "Kamu masih jauh ketinggalan\n"
+	.string "berbanding ayah kamu.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouAndNormanAreDifferent:
 	.string "Kamu mula memancarkan aura yang\n"
@@ -662,18 +664,17 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouAndNormanAreDifferent:
 	.string "Kamu kena cari sendiri.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WeDiscussStrongestTrainers:
-	.string "Semua orang di sini peminat tegar\n"
-	.string "pertarungan POKéMON.\p"
-	.string "Kami berbincang siapa yang kami anggap\n"
+	.string "Semua orang di sini peminat\n"
+	.string "tegar pertarungan POKéMON.\p"
+	.string "Kami selalu berbincang siapa\n"
 	.string "JURULATIH paling kuat.\p"
-	.string "Kalau kamu jadi terkenal, mungkin kami\n"
-	.string "pun jadi peminat kamu!$"
+	.string "Kalau kamu jadi terkenal, mungkin\n"
+	.string "kami pun jadi peminat kamu!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OhWoweeItsPlayer:
 	.string "Oh, wahhh! {PLAYER} rupanya!\n"
-	.string "Yang betul-betul punya!\p"
-	.string "Tolong, salam tangan saya, salam tangan\n"
-	.string "saya!$"
+	.string "Betul-betul depan mata!\p"
+	.string "Tolong salam saya, tolong salam saya!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_AlwaysCheerForYou:
 	.string "Saya akan sentiasa sokong kamu,\n"
@@ -685,7 +686,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_AlwaysCheerForYou:
 
 LilycoveCity_PokemonTrainerFanClub_Text_EveryoneThinksTrainerIsCool:
 	.string "{STR_VAR_1} memang segak…\p"
-	.string "Semua orang pun fikir begitu, kan, kan?$"
+	.string "Semua orang pun rasa\n"
+	.string "macam tu, kan, kan?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsReallyCoolItsJustMe:
 	.string "{STR_VAR_1} memang segak, kamu tak\n"
@@ -755,8 +757,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_YoureMaybeStrongerThanTrainer:
 LilycoveCity_PokemonTrainerFanClub_Text_YouChangedMyMind:
 	.string "Kamu dah ubah fikiran saya!\n"
 	.string "Kamu memang kuat, kan?\p"
-	.string "Saya nak kamu beritahu macam mana kamu\n"
-	.string "boleh jadi sekuat ni!$"
+	.string "Ceritalah macam mana\n"
+	.string "kamu boleh jadi sekuat ni!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation:
 	.string "Makin sukar keadaan, makin menawan\n"
@@ -765,10 +767,10 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation:
 	.string "kamu yang seterusnya!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsStandout:
-	.string "Antara JURULATIH yang hangat\n"
-	.string "kebelakangan ni, {STR_VAR_1} paling\l"
-	.string "menonjol.\p"
-	.string "Ketangkasan tu, memang luar biasa.\p"
+	.string "Antara JURULATIH yang\n"
+	.string "hangat kebelakangan ni,\l"
+	.string "{STR_VAR_1} paling menonjol.\p"
+	.string "Kekuatan dia tu, memang luar biasa.\p"
 	.string "Kamu boleh tahan, tapi kamu belum\n"
 	.string "setaraf dengan {STR_VAR_1}.$"
 

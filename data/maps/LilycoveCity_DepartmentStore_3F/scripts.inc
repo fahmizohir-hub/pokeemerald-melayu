@@ -55,10 +55,10 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
-	.string "Untuk kuatkan POKéMON dengan cepat,\n"
-	.string "barang adalah yang terbaik.\p"
-	.string "PROTEIN naikkan SERANGAN, dan KALSIUM\n"
-	.string "naikkan SERANGAN KHAS.$"
+	.string "Nak kuatkan POKéMON dengan\n"
+	.string "cepat, guna barang paling bagus.\p"
+	.string "PROTEIN naikkan SERANGAN, dan\n"
+	.string "KALSIUM naikkan SERANGAN KHAS.$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
 	.string "Saya nak POKéMON saya lebih tahan\n"

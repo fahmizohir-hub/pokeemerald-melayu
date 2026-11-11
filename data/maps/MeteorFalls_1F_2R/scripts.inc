@@ -72,11 +72,11 @@ MeteorFalls_1F_2R_Text_NicolasDefeat:
 
 MeteorFalls_1F_2R_Text_NicolasPostBattle:
 	.string "Jalan di hadapan masih jauh dan sukar.\p"
-	.string "Bilakah saya dan POKéMON saya akan\n"
-	.string "jadi yang terbaik?$"
+	.string "Bila agaknya saya dan POKéMON saya\n"
+	.string "akan jadi yang terbaik?$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
-	.string "Saya nak tahu lebih lanjut kuasa kamu.\n"
+	.string "Saya nak tengok lagi kekuatan kamu.\n"
 	.string "Biar saya daftar kamu dalam POKéNAV.$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
@@ -96,8 +96,8 @@ MeteorFalls_1F_2R_Text_NicolasPostRematch:
 	.string "boleh jadi lebih kuat!$"
 
 MeteorFalls_1F_2R_Text_JohnIntro:
-	.string "JOHN: Kami sentiasa bertarung POKéMON\n"
-	.string "bersama-sama berdua.\l"
+	.string "JOHN: Dari dulu kami bertarung POKéMON\n"
+	.string "berdua.\l"
 	.string "Kami yakin dengan diri kami.$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
@@ -141,8 +141,8 @@ MeteorFalls_1F_2R_Text_JayNotEnoughMons:
 	.string "datang semula dengan lebih POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
-	.string "JOHN: Kami sentiasa bertarung POKéMON\n"
-	.string "bersama-sama berdua.\l"
+	.string "JOHN: Dari dulu kami bertarung POKéMON\n"
+	.string "berdua.\l"
 	.string "Kami yakin dengan diri kami.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:

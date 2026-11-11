@@ -642,7 +642,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons:
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe:
 	.string "Baiklah…\n"
-	.string "Mari kita mulakan?$"
+	.string "Kita mulakan?$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou:
@@ -696,11 +696,11 @@ BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
 	.string "Cukuplah tu!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
-	.string "Saya mohon maaf kepada kamu…\p"
+	.string "Saya minta maaf…\p"
 	.string "KIRLIA saya bersifat PENAKUT…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
-	.string "Saya mohon maaf kepada kamu…\p"
+	.string "Saya minta maaf…\p"
 	.string "DUSCLOPS saya bersifat PENAKUT…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
@@ -709,7 +709,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
 	.string "Kamu dan POKéMON kamu tak apa-apa?$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine:
-	.string "Saya benar-benar mohon maaf…\n"
+	.string "Saya betul-betul minta maaf…\n"
 	.string "Saya harap POKéMON kamu tak apa-apa.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence:
@@ -790,12 +790,12 @@ BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal:
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne:
 	.string "Selamat datang…\p"
-	.string "Oleh kerana kamu pilih bilik ini, saya\n"
+	.string "Sebab kamu pilih bilik ini, saya\n"
 	.string "akan pulihkan seekor POKéMON kamu…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo:
 	.string "Selamat datang…\p"
-	.string "Oleh kerana kamu pilih bilik ini, saya\n"
+	.string "Sebab kamu pilih bilik ini, saya\n"
 	.string "akan pulihkan dua POKéMON kamu…$"
 
 @ Unused
@@ -803,7 +803,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons:
 	.string "Selamat datang…\p"
 	.string "Hihi…\n"
 	.string "Bersyukurlah dengan tuah kamu…\p"
-	.string "Oleh kerana kamu pilih bilik ini,\n"
+	.string "Sebab kamu pilih bilik ini,\n"
 	.string "semua POKéMON kamu akan dipulihkan…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster:

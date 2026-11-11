@@ -93,15 +93,15 @@ SecretBase_Text_Trainer6Intro:
 	.string "Nak tengok sekuat mana saya?$"
 
 SecretBase_Text_Trainer6AcceptBattle:
-	.string "Saya akan habis-habisan!$"
+	.string "Saya lawan habis-habisan!$"
 
 SecretBase_Text_Trainer6DeclineBattle:
 	.string "Oh.\n"
 	.string "Lain kali sajalah!$"
 
 SecretBase_Text_Trainer6Defeated::
-	.string "Hmm… Banyak lagi saya perlu belajar.\n"
-	.string "Saya kena belajar lagi.$"
+	.string "Hmm… Banyak lagi saya kena belajar.\n"
+	.string "Saya kena kaji lagi.$"
 
 SecretBase_Text_Trainer6PostBattle:
 	.string "Terima kasih sudi bertarung.\n"
@@ -263,7 +263,7 @@ SecretBase_Text_Trainer9Intro:
 	.string "Nak tengok citarasa saya bertarung?$"
 
 SecretBase_Text_Trainer9AcceptBattle:
-	.string "Tiada lagi berlembut!$"
+	.string "Saya takkan berlembut!$"
 
 SecretBase_Text_Trainer9DeclineBattle:
 	.string "Saya sedia tunjukkan gaya saya\n"
@@ -275,7 +275,7 @@ SecretBase_Text_Trainer9Defeated::
 
 SecretBase_Text_Trainer9PostBattle:
 	.string "Apa pendapat kamu tentang gaya saya?\n"
-	.string "Saya akan terus memperhalusinya!$"
+	.string "Saya akan terus asah lagi!$"
 
 SecretBase_Text_Trainer9PreChampion:
 	.string "Kita boleh kenal citarasa seseorang\n"

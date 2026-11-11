@@ -25,7 +25,6 @@ BattleFrontier_Lounge4_Text_NeedBreatherAfterBattles:
 	.string "Fuh…\p"
 	.string "Saya perlu tarik nafas dulu selepas\n"
 	.string "beberapa pertarungan sengit…\p"
-	.string "Tapi walaupun sekarang, saya tak\n"
-	.string "pernah berhenti merancang strategi dan\l"
-	.string "kombo.$"
+	.string "Tapi masa rehat pun, otak saya tak\n"
+	.string "berhenti fikir strategi dan kombo.$"
 

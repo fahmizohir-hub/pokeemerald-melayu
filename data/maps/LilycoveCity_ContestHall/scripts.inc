@@ -283,22 +283,22 @@ LilycoveCity_ContestHall_EventScript_SmartStageSign::
 	end
 
 LilycoveCity_ContestHall_Text_TodayWonSmartnessContest:
-	.string "POKéMON ni pernah menang PERTANDINGAN\n"
-	.string "KECANTIKAN di sini dulu.\p"
-	.string "Dan tahu tak? Hari ni, saya buat ia\n"
-	.string "menang PERTANDINGAN KEBIJAKSANAAN\l"
-	.string "pula!\p"
-	.string "Kehebatan saya ni menakutkan saya\n"
-	.string "sendiri…$"
+	.string "POKéMON ni pernah menang\n"
+	.string "PERTANDINGAN KECANTIKAN di sini dulu.\p"
+	.string "Dan tahu tak? Hari ni,\n"
+	.string "saya bawa ia menang\l"
+	.string "PERTANDINGAN KEBIJAKSANAAN pula!\p"
+	.string "Saya sendiri pun takut\n"
+	.string "dengan kehebatan saya…$"
 
 LilycoveCity_ContestHall_Text_EnteredBunchOfContests:
 	.string "Saya dah masuk banyak PERTANDINGAN,\n"
 	.string "jadi saya mula faham cara ia berjalan.\p"
-	.string "Kalau kamu masuk PERTANDINGAN\n"
-	.string "KESEGAKAN, move segak akan jadi daya\l"
-	.string "pikat.\p"
-	.string "Tapi move bijak dan move comel pula\n"
-	.string "kurang diterima, contohnya.$"
+	.string "Kalau kamu masuk\n"
+	.string "PERTANDINGAN KESEGAKAN, move\l"
+	.string "segak memang mudah memikat.\p"
+	.string "Tapi move bijak dan move comel\n"
+	.string "pula, contohnya, kurang menjadi.$"
 
 LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks:
 	.string "Pemuda yang menang tadi ada banyak\n"
@@ -311,10 +311,10 @@ LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
 	.string "dewan PERTANDINGAN di kampung.$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal:
-	.string "PENGACARA: Baiklah, POKéMON BIJAK dan\n"
-	.string "JURULATIH mereka, dah sedia?!\p"
-	.string "Tunjukkan persembahan terbaik!\n"
-	.string "Mari memikat!$"
+	.string "PENGACARA: Baiklah, POKéMON BIJAK\n"
+	.string "dan JURULATIH mereka, dah sedia?!\p"
+	.string "Tunjukkan persembahan\n"
+	.string "terbaik! Ayuh, pikat mereka!$"
 
 LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest:
 	.string "HAKIM: Kamu seronok dengan\n"
@@ -332,12 +332,12 @@ LilycoveCity_ContestHall_Text_EnteredWrongContest:
 	.string "BATU yang nampak bijak.$"
 
 LilycoveCity_ContestHall_Text_RaisedMonToBeSmart:
-	.string "Bertahun-tahun saya habiskan, dengan\n"
-	.string "segala ilmu saya, untuk latih POKéMON ni\l"
-	.string "jadi bijak.\p"
-	.string "Ia takkan mudah dikalahkan oleh\n"
-	.string "POKéMON budak mentah.\p"
-	.string "Isteriku sayang, kamu nampak tak ni?$"
+	.string "Bertahun-tahun saya habiskan,\n"
+	.string "dengan segala ilmu saya, untuk\l"
+	.string "latih POKéMON ni jadi bijak.\p"
+	.string "Ia takkan mudah dikalahkan\n"
+	.string "oleh POKéMON budak mentah.\p"
+	.string "Isteriku sayang, awak nampak tak ni?$"
 
 LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext:
 	.string "Itu dia!\p"
@@ -347,7 +347,7 @@ LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext:
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife:
 	.string "Alamak, tidak!\p"
-	.string "HISAP DARAH ZUBAT kesayangan saya\n"
+	.string "HISAPAN DARAH ZUBAT kesayangan saya\n"
 	.string "comel sangat, jadi saya guna\l"
 	.string "berkali-kali!\p"
 	.string "Tapi orang-orang jahat ni langsung tak\n"
@@ -434,10 +434,10 @@ LilycoveCity_ContestHall_Text_InTheMiddleOfContest:
 	.string "dulu, ya?$"
 
 LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals:
-	.string "HAKIM: Oh, daya pikat yang menawan dan\n"
-	.string "comel!\p"
-	.string "Ya ampun! Pikatan MAIN AIR yang\n"
-	.string "sungguh comel!$"
+	.string "HAKIM: Oh, pikatan yang\n"
+	.string "menawan dan comel sekali!\p"
+	.string "Ya ampun! Pikatan MAIN AIR\n"
+	.string "yang sungguh comel!$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted:
 	.string "Alamak… AZURILL kesayangan saya\n"
@@ -455,11 +455,12 @@ LilycoveCity_ContestHall_Text_PetalDanceIsMarvel:
 	.string "persembahannya.$"
 
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter:
-	.string "POKéMON semua orang sangat comel.\p"
-	.string "Tapi, kalau POKéMON saya buat pikatan\n"
-	.string "comel…\p"
-	.string "Saya pasti ia jauh lebih comel daripada\n"
-	.string "yang lain.$"
+	.string "POKéMON semua orang\n"
+	.string "comel-comel belaka.\p"
+	.string "Tapi, kalau POKéMON saya\n"
+	.string "buat pikatan comel…\p"
+	.string "Saya pasti ia jauh lebih\n"
+	.string "comel daripada yang lain.$"
 
 LilycoveCity_ContestHall_Text_MyChildIsInContest:
 	.string "Anak saya masuk PERTANDINGAN ni.$"

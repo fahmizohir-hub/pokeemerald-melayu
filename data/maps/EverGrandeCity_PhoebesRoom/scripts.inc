@@ -64,21 +64,21 @@ EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
 	.string "Saya berlatih di GUNUNG PYRE.\p"
 	.string "Semasa berlatih, saya dapat kebolehan\n"
 	.string "berhubung dengan POKéMON jenis HANTU.\p"
-	.string "Ya, ikatan saya dengan POKéMON memang\n"
-	.string "sangat erat.\p"
-	.string "Jadi, ayuh, cuba tengok kalau kamu\n"
-	.string "boleh cederakan POKéMON saya pun!$"
+	.string "Ya, ikatan saya dengan\n"
+	.string "POKéMON memang sangat erat.\p"
+	.string "Jadi, ayuh, cubalah kalau kamu\n"
+	.string "boleh cederakan POKéMON saya!$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
 	.string "Alamak.\n"
 	.string "Saya dah kalah.$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "Kamu dan POKéMON kamu pun memang ada\n"
-	.string "ikatan yang kukuh.\p"
-	.string "Saya tak sedar tentangnya, jadi\n"
-	.string "patutlah saya kalah.\p"
-	.string "Ya, saya nak tengok sejauh mana ikatan\n"
-	.string "kamu akan membawa kamu.\p"
+	.string "Kamu dan POKéMON kamu pun\n"
+	.string "memang ada ikatan yang kukuh.\p"
+	.string "Saya tak perasan pula,\n"
+	.string "jadi patutlah saya kalah.\p"
+	.string "Ya, saya nak tengok sejauh mana\n"
+	.string "ikatan kamu akan membawa kamu.\p"
 	.string "Pergilah, teruskan ke bilik seterusnya.$"
 

@@ -193,82 +193,82 @@ static const struct WindowTemplate sStandardBattleWindowTemplates[] =
         .bg = 0,
         .tilemapLeft = 2,
         .tilemapTop = 55,
-        .width = 8,
+        .width = 10,
         .height = 2,
         .paletteNum = 5,
         .baseBlock = 0x0300,
     },
     [B_WIN_MOVE_NAME_2] = {
         .bg = 0,
-        .tilemapLeft = 11,
+        .tilemapLeft = 13,
         .tilemapTop = 55,
-        .width = 8,
+        .width = 10,
         .height = 2,
         .paletteNum = 5,
-        .baseBlock = 0x0310,
+        .baseBlock = 0x0314,
     },
     [B_WIN_MOVE_NAME_3] = {
         .bg = 0,
         .tilemapLeft = 2,
         .tilemapTop = 57,
-        .width = 8,
+        .width = 10,
         .height = 2,
         .paletteNum = 5,
-        .baseBlock = 0x0320,
+        .baseBlock = 0x0328,
     },
     [B_WIN_MOVE_NAME_4] = {
         .bg = 0,
-        .tilemapLeft = 11,
+        .tilemapLeft = 13,
         .tilemapTop = 57,
-        .width = 8,
+        .width = 10,
         .height = 2,
         .paletteNum = 5,
-        .baseBlock = 0x0330,
+        .baseBlock = 0x033C,
     },
     [B_WIN_PP] = {
         .bg = 0,
-        .tilemapLeft = 21,
+        .tilemapLeft = 24,
         .tilemapTop = 55,
-        .width = 4,
+        .width = 5,
         .height = 2,
         .paletteNum = 5,
         .baseBlock = 0x0290,
     },
     [B_WIN_DUMMY] = {
         .bg = 0,
-        .tilemapLeft = 21,
+        .tilemapLeft = 24,
         .tilemapTop = 57,
         .width = 0,
         .height = 0,
         .paletteNum = 5,
-        .baseBlock = 0x0298,
+        .baseBlock = 0x029A,
     },
     [B_WIN_PP_REMAINING] = {
         .bg = 0,
-        .tilemapLeft = 25,
+        .tilemapLeft = 28,
         .tilemapTop = 55,
-        .width = 4,
-        .height = 2,
+        .width = 0,
+        .height = 0,
         .paletteNum = 5,
-        .baseBlock = 0x0298,
+        .baseBlock = 0x029A,
     },
     [B_WIN_MOVE_TYPE] = {
         .bg = 0,
-        .tilemapLeft = 21,
+        .tilemapLeft = 24,
         .tilemapTop = 57,
-        .width = 8,
+        .width = 5,
         .height = 2,
-        .paletteNum = 5,
-        .baseBlock = 0x02a0,
+        .paletteNum = 12,
+        .baseBlock = 0x029A,
     },
     [B_WIN_SWITCH_PROMPT] = {
         .bg = 0,
-        .tilemapLeft = 21,
+        .tilemapLeft = 24,
         .tilemapTop = 55,
-        .width = 8,
+        .width = 5,
         .height = 4,
         .paletteNum = 5,
-        .baseBlock = 0x02b0,
+        .baseBlock = 0x02A4,
     },
     [B_WIN_YESNO] = {
         .bg = 0,
@@ -414,82 +414,82 @@ static const struct WindowTemplate sBattleArenaWindowTemplates[] =
         .bg = 0,
         .tilemapLeft = 2,
         .tilemapTop = 55,
-        .width = 8,
+        .width = 10,
         .height = 2,
         .paletteNum = 5,
         .baseBlock = 0x0300,
     },
     [B_WIN_MOVE_NAME_2] = {
         .bg = 0,
-        .tilemapLeft = 11,
+        .tilemapLeft = 13,
         .tilemapTop = 55,
-        .width = 8,
+        .width = 10,
         .height = 2,
         .paletteNum = 5,
-        .baseBlock = 0x0310,
+        .baseBlock = 0x0314,
     },
     [B_WIN_MOVE_NAME_3] = {
         .bg = 0,
         .tilemapLeft = 2,
         .tilemapTop = 57,
-        .width = 8,
+        .width = 10,
         .height = 2,
         .paletteNum = 5,
-        .baseBlock = 0x0320,
+        .baseBlock = 0x0328,
     },
     [B_WIN_MOVE_NAME_4] = {
         .bg = 0,
-        .tilemapLeft = 11,
+        .tilemapLeft = 13,
         .tilemapTop = 57,
-        .width = 8,
+        .width = 10,
         .height = 2,
         .paletteNum = 5,
-        .baseBlock = 0x0330,
+        .baseBlock = 0x033C,
     },
     [B_WIN_PP] = {
         .bg = 0,
-        .tilemapLeft = 21,
+        .tilemapLeft = 24,
         .tilemapTop = 55,
-        .width = 4,
+        .width = 5,
         .height = 2,
         .paletteNum = 5,
         .baseBlock = 0x0290,
     },
     [B_WIN_DUMMY] = {
         .bg = 0,
-        .tilemapLeft = 21,
+        .tilemapLeft = 24,
         .tilemapTop = 57,
         .width = 0,
         .height = 0,
         .paletteNum = 5,
-        .baseBlock = 0x0298,
+        .baseBlock = 0x029A,
     },
     [B_WIN_PP_REMAINING] = {
         .bg = 0,
-        .tilemapLeft = 25,
+        .tilemapLeft = 28,
         .tilemapTop = 55,
-        .width = 4,
-        .height = 2,
+        .width = 0,
+        .height = 0,
         .paletteNum = 5,
-        .baseBlock = 0x0298,
+        .baseBlock = 0x029A,
     },
     [B_WIN_MOVE_TYPE] = {
         .bg = 0,
-        .tilemapLeft = 21,
+        .tilemapLeft = 24,
         .tilemapTop = 57,
-        .width = 8,
+        .width = 5,
         .height = 2,
-        .paletteNum = 5,
-        .baseBlock = 0x02a0,
+        .paletteNum = 12,
+        .baseBlock = 0x029A,
     },
     [B_WIN_SWITCH_PROMPT] = {
         .bg = 0,
-        .tilemapLeft = 21,
+        .tilemapLeft = 24,
         .tilemapTop = 55,
-        .width = 8,
+        .width = 5,
         .height = 4,
         .paletteNum = 5,
-        .baseBlock = 0x02b0,
+        .baseBlock = 0x02A4,
     },
     [B_WIN_YESNO] = {
         .bg = 0,
@@ -741,10 +741,45 @@ void InitBattleBgsVideo(void)
     SetGpuReg(REG_OFFSET_DISPCNT, DISPCNT_OBJWIN_ON | DISPCNT_WIN0_ON | DISPCNT_OBJ_ON | DISPCNT_OBJ_1D_MAP);
 }
 
+// BM: menu move pertarungan disusun semula (slot nama 80px). Kotak move dan
+// kotak PP berkongsi satu lajur sempadan (lajur 23), dilukis dengan jubin
+// 0x2B-0x2D. Jubin itu dibina di sini daripada bingkai pilihan pemain:
+// separuh kanan sempadan kanan + separuh kiri sempadan kiri.
+// Lihat tools/jana_menu_move.py.
+#define SHARED_BORDER_TILE 0x2B
+// Statik: LoadBgTiles hanya beratur salinan DMA (dibuat semasa vblank).
+static EWRAM_DATA u8 sSharedBorderTiles[3 * TILE_SIZE_4BPP] = {0};
+
+static void LoadMoveMenuSharedBorderTiles(void)
+{
+    // Susunan 9 jubin bingkai: 0 TL, 1 T, 2 TR, 3 L, 4 tengah, 5 R, 6 BL, 7 B, 8 BR
+    static const u8 sPairs[3][2] = {{2, 0}, {5, 3}, {8, 6}};
+    const u8 *frame = GetWindowFrameTilesPal(gSaveBlock2Ptr->optionsWindowFrameType)->tiles;
+    u8 *buffer = sSharedBorderTiles;
+    u32 i, y;
+
+    for (i = 0; i < 3; i++)
+    {
+        const u8 *right = frame + sPairs[i][0] * TILE_SIZE_4BPP;
+        const u8 *left = frame + sPairs[i][1] * TILE_SIZE_4BPP;
+        u8 *dst = buffer + i * TILE_SIZE_4BPP;
+        for (y = 0; y < 8; y++)
+        {
+            // 4 bait setiap baris, 2 piksel setiap bait
+            dst[y * 4 + 0] = right[y * 4 + 2];
+            dst[y * 4 + 1] = right[y * 4 + 3];
+            dst[y * 4 + 2] = left[y * 4 + 0];
+            dst[y * 4 + 3] = left[y * 4 + 1];
+        }
+    }
+    LoadBgTiles(0, buffer, sizeof(sSharedBorderTiles), SHARED_BORDER_TILE);
+}
+
 void LoadBattleMenuWindowGfx(void)
 {
     LoadUserWindowBorderGfx(2, 0x12, BG_PLTT_ID(1));
     LoadUserWindowBorderGfx(2, 0x22, BG_PLTT_ID(1));
+    LoadMoveMenuSharedBorderTiles();
     LoadCompressedPalette(gBattleWindowTextPalette, BG_PLTT_ID(5), PLTT_SIZE_4BPP);
 
     if (gBattleTypeFlags & BATTLE_TYPE_ARENA)

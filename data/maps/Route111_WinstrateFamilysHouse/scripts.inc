@@ -73,7 +73,7 @@ Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace:
 	.string "tapi kami nak bagi GELANG MACHO kami.$"
 
 Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles:
-	.string "Bila tiba soal pertarungan POKéMON,\n"
+	.string "Kalau bab pertarungan POKéMON,\n"
 	.string "kami memang agak bersemangat.$"
 
 Route111_WinstrateFamilysHouse_Text_StrongerFamilyMembers:

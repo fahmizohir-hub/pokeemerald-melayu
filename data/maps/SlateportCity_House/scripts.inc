@@ -18,6 +18,6 @@ SlateportCity_House_Text_NatureToDoWithStatGains:
 
 SlateportCity_House_Text_MustBeGoingToBattleTent:
 	.string "Kamu JURULATIH, kan?\p"
-	.string "Kamu dah datang ke BANDAR SLATEPORT,\n"
-	.string "mesti kamu nak pergi ke KHEMAH BATTLE.$"
+	.string "Dah sampai BANDAR SLATEPORT, mesti\n"
+	.string "kamu nak pergi ke KHEMAH BATTLE.$"
 

@@ -212,7 +212,7 @@ BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier:
 	.string "BATTLE FRONTIER.\p"
 	.string "Inilah impian saya yang jadi kenyataan.\n"
 	.string "Bertahun-tahun lamanya, tapi akhirnya\l"
-	.string "impian saya dah terbentuk.$"
+	.string "saya berjaya wujudkannya.$"
 
 BattleFrontier_ScottsHouse_Text_HowMuchEffortItTookToMakeReal:
 	.string "Bila difikirkan semula, memang\n"
@@ -246,8 +246,8 @@ BattleFrontier_ScottsHouse_Text_ExplainBattlePoints:
 	.string "contohnya tukar dengan barang.$"
 
 BattleFrontier_ScottsHouse_Text_ExpectingGreatThings:
-	.string "Saya harapkan perkara\n"
-	.string "hebat daripada kamu!$"
+	.string "Saya letak harapan\n"
+	.string "tinggi pada kamu!$"
 
 BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers:
 	.string "SCOTT: Setiap JURULATIH ada\n"
@@ -266,7 +266,7 @@ BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers:
 BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain:
 	.string "SCOTT: Kamu dah jumpa\n"
 	.string "mana-mana FRONTIER BRAIN?\p"
-	.string "Lebih baik lagi, kamu dah\n"
+	.string "Atau lebih hebat, kamu dah\n"
 	.string "dapat simbol daripada mereka?\p"
 	.string "Saya sendiri yang pilih FRONTIER BRAIN\n"
 	.string "sebagai JURULATIH paling handal di\l"
@@ -279,7 +279,7 @@ BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier:
 	.string "untuk bertarung saja, kan?\p"
 	.string "Kalau tak silap saya, kamu juga\n"
 	.string "sedang lengkapkan POKéDEX.\p"
-	.string "Jadi, cuba teka?\p"
+	.string "Nak tahu sesuatu?\p"
 	.string "Kamu mungkin terjumpa POKéMON liar di\n"
 	.string "suatu tempat di BATTLE FRONTIER…\l"
 	.string "Fufufu!$"
@@ -290,7 +290,7 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols:
 	.string "…Sekejap… Oh!\p"
 	.string "PAS FRONTIER kamu! Kamu dah\n"
 	.string "kumpul set penuh simbol perak!\p"
-	.string "Itu lebih daripada mengagumkan! Kamu\n"
+	.string "Memang betul-betul mengagumkan! Kamu\n"
 	.string "memang hebat, macam yang saya sangka!\p"
 	.string "Biasanya saya tak buat begini,\n"
 	.string "tapi ini saat yang istimewa!\p"
@@ -303,8 +303,8 @@ BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols:
 	.string "…Sekejap… Oh, tak percaya saya!\p"
 	.string "PAS FRONTIER kamu! Kamu dah\n"
 	.string "kumpul set penuh simbol emas!\p"
-	.string "Itu lebih daripada menakjubkan! Kamu\n"
-	.string "memang luar biasa, macam yang saya\l"
+	.string "Hebat sungguh! Kamu memang\n"
+	.string "luar biasa, macam yang saya\l"
 	.string "sangka!\p"
 	.string "… … … … … …\p"
 	.string "{PLAYER}, kamu mesti terima ini!\p"
@@ -318,7 +318,7 @@ BattleFrontier_ScottsHouse_Text_SoGladIBroughtYouHere:
 	.string "terfikir nak bawa kamu ke sini!$"
 
 BattleFrontier_ScottsHouse_Text_BerryPocketStuffed:
-	.string "POKET BERRY kamu nampaknya dah penuh.$"
+	.string "Nampaknya POKET BERRY kamu dah penuh.$"
 
 BattleFrontier_ScottsHouse_Text_Beat50TrainersInARow:
 	.string "SCOTT: Oh, saya dengar tentang kamu!\n"

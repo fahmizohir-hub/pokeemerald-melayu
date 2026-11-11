@@ -680,7 +680,7 @@ SecretBase_Text_WantToRegisterSecretBase:
 
 SecretBase_Text_AlreadyRegisteredDelete:
 	.string "Data ini sudah didaftarkan.\n"
-	.string "Kamu nak padamkannya?$"
+	.string "Nak padam data ini?$"
 
 SecretBase_Text_TooManyBasesDeleteSome:
 	.string "Sehingga 10 lokasi boleh didaftarkan.\p"
@@ -691,7 +691,7 @@ SecretBase_Text_RegistrationCompleted:
 	.string "Pendaftaran selesai.$"
 
 SecretBase_Text_DataUnregistered:
-	.string "Data telah dibatalkan pendaftarannya.$"
+	.string "Pendaftaran data dibatalkan.$"
 
 SecretBase_Text_BootUpPC:
 	.string "{PLAYER} menghidupkan PC.$"

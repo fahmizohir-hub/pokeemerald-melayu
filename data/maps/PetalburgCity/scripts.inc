@@ -706,9 +706,9 @@ PetalburgCity_Text_WaterReflection:
 	.string "terpantul pada wajah kamu?$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Katakan kamu ada enam POKéMON.\n"
-	.string "Kalau kamu tangkap seekor lagi…\p"
-	.string "Ia akan dihantar secara automatik ke\n"
+	.string "Katakan kamu ada enam POKéMON. Kalau\n"
+	.string "kamu tangkap seekor lagi…\p"
+	.string "POKéMON tu akan terus dihantar ke\n"
 	.string "KOTAK SIMPANAN melalui sambungan PC.$"
 
 PetalburgCity_Text_GymSign:
@@ -724,10 +724,10 @@ PetalburgCity_Text_WallyHouseSign:
 	.string "RUMAH WALLY$"
 
 PetalburgCity_Text_AreYouATrainer:
-	.string "Maafkan saya!\p"
+	.string "Tumpang tanya!\p"
 	.string "Biar saya teka. Dari cara kamu\n"
-	.string "berpakaian, kamu JURULATIH POKéMON,\l"
-	.string "kan?$"
+	.string "berpakaian, kamu JURULATIH\l"
+	.string "POKéMON, kan?$"
 
 PetalburgCity_Text_WellMaybeNot:
 	.string "… … … … … …\p"
@@ -737,6 +737,6 @@ PetalburgCity_Text_WellMaybeNot:
 	.string "mungkin kamu cuma budak biasa.$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
-	.string "Saya mengembara mencari\n"
+	.string "Saya merantau ke serata tempat mencari\n"
 	.string "JURULATIH yang berbakat.\p"
-	.string "Maaf kerana mengambil masa kamu.$"
+	.string "Maaf sebab ganggu masa kamu.$"

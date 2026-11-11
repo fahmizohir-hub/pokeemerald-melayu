@@ -46,15 +46,15 @@ EventScript_CancelCut::
 
 Text_WantToCut:
 	.string "Pokok ini nampaknya boleh dipotong\n"
-	.string "dengan POTONG!\p"
-	.string "Kamu nak guna POTONG?$"
+	.string "dengan POTONGAN!\p"
+	.string "Kamu nak guna POTONGAN?$"
 
 Text_MonUsedFieldMove:
 	.string "{STR_VAR_1} menggunakan {STR_VAR_2}!$"
 
 Text_CantCut:
 	.string "Pokok ini nampaknya boleh dipotong\n"
-	.string "dengan POTONG!$"
+	.string "dengan POTONGAN!$"
 
 @ Interact with smashable rock
 EventScript_RockSmash::
@@ -169,16 +169,16 @@ Text_WantToStrength:
 
 Text_MonUsedStrength:
 	.string "{STR_VAR_1} menggunakan KEKUATAN!\p"
-	.string "KEKUATAN {STR_VAR_1} membolehkan batu\n"
-	.string "besar dialihkan!$"
+	.string "Dengan KEKUATAN {STR_VAR_1}, batu\n"
+	.string "besar kini boleh dialihkan!$"
 
 Text_CantStrength:
 	.string "Batu ini besar, tapi mungkin POKéMON\n"
 	.string "boleh menolaknya ke tepi.$"
 
 Text_StrengthActivated:
-	.string "KEKUATAN membolehkan batu besar\n"
-	.string "dialihkan.$"
+	.string "Dengan KEKUATAN, batu besar kini\n"
+	.string "boleh dialihkan.$"
 
 EventScript_UseWaterfall::
 	lockall
@@ -203,8 +203,8 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "Dinding air menghempas turun dengan\n"
-	.string "bunyi yang kuat.$"
+	.string "Air terjun menghempas turun dengan\n"
+	.string "bunyi yang bergemuruh.$"
 
 Text_WantToWaterfall:
 	.string "Ini air terjun yang besar.\n"

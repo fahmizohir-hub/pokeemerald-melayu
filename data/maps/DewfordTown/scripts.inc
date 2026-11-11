@@ -689,9 +689,9 @@ DewfordTown_Text_GettingItchToFish:
 	.string "Kamu dah gatal tangan nak memancing?$"
 
 DewfordTown_Text_GiveYouOneOfMyRods:
-	.string "Saya dengar, dan saya suka jawapan\n"
-	.string "kamu!\p"
-	.string "Saya beri kamu salah satu JORAN saya.$"
+	.string "Saya dengar, dan saya suka\n"
+	.string "jawapan kamu!\p"
+	.string "Nah, saya bagi kamu satu JORAN saya.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
 	.string "Dan sebagai bonus, saya beri sikit\n"
@@ -709,7 +709,8 @@ DewfordTown_Text_ThatsTooBadThen:
 	.string "Oh, begitu? Sayang sekali.$"
 
 DewfordTown_Text_HowsYourFishing:
-	.string "Hoi! Macam mana memancing kamu?$"
+	.string "Hoi! Macam mana memancing?\n"
+	.string "Dapat banyak?$"
 
 DewfordTown_Text_GreatHaulInSomeBigOnes:
 	.string "Betul ke! Bagusnya! Tangkaplah yang\n"
@@ -729,17 +730,15 @@ DewfordTown_Text_FishingAdvice:
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
 	.string "Saya suka benda yang hip, hangat dan\n"
-	.string "trendy. Saya sentiasa ikut\l"
-	.string "perkembangannya.\p"
-	.string "Dengar sini, kamu dah dengar tentang\n"
-	.string "“{STR_VAR_1}” yang baru ni?\p"
+	.string "trendy. Saya memang sentiasa\l"
+	.string "ambil tahu.\p"
+	.string "Eh, kamu dah dengar pasal “{STR_VAR_1}”\n"
+	.string "yang baru ni?\p"
 	.string "Betul tu! Mestilah kamu tahu!\p"
-	.string "Maksud saya, aduhai,\n"
-	.string "“{STR_VAR_1}”…\l"
-	.string "Itulah benda paling hangat sekarang!\p"
-	.string "Dari mana pun kamu datang,\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "memang benda paling hangat, kan?$"
+	.string "Fuh, “{STR_VAR_1}”… Itulah benda paling\n"
+	.string "hangat sekarang!\p"
+	.string "Tak kira kamu dari mana, “{STR_VAR_1}”\n"
+	.string "memang tengah meletup, kan?$"
 
 DewfordTown_Text_TellMeWhatsNewAndIn:
 	.string "Hah? Itu bukan benda yang hip dan\n"
@@ -748,22 +747,19 @@ DewfordTown_Text_TellMeWhatsNewAndIn:
 	.string "yang baru dan apa yang “in”?$"
 
 DewfordTown_Text_OfCourseIKnowAboutThat:
-	.string "Hah?\n"
-	.string "“{STR_VAR_2}”?\p"
+	.string "Hah? “{STR_VAR_2}”?\p"
 	.string "… …\p"
 	.string "…Err… Ya! Betul tu! Ya, saya tahu! Dah\n"
 	.string "lama saya tahu!\p"
-	.string "Mestilah saya tahu!\n"
-	.string "“{STR_VAR_2},” kan?\p"
-	.string "Ya, itulah dia, memang betul!\n"
-	.string "Bukankah “{STR_VAR_2}”\l"
-	.string "paling hebat?\p"
+	.string "Mestilah saya tahu! “{STR_VAR_2},” kan?\p"
+	.string "Ya, itulah dia! “{STR_VAR_2}” memang\n"
+	.string "paling hebat, kan?\p"
 	.string "Itulah benda paling hip. Takkanlah saya\n"
 	.string "tak tahu?\p"
-	.string "“{STR_VAR_1}”…\n"
-	.string "Itu dah ketinggalan zaman.\p"
-	.string "Sekarang, “{STR_VAR_2}”\n"
-	.string "yang paling kena dengan zaman!$"
+	.string "“{STR_VAR_1}”… Itu dah\n"
+	.string "ketinggalan zaman.\p"
+	.string "Sekarang, “{STR_VAR_2}” yang paling\n"
+	.string "kena dengan zaman!$"
 
 DewfordTown_Text_XHuhIThinkYIsCool:
 	.string "Hmm…\n"

@@ -76,16 +76,16 @@ VerdanturfTown_Text_ManDugTunnelForLove:
 	.string "Saya tak berapa faham, tapi, hei!$"
 
 VerdanturfTown_Text_AirCleanHere:
-	.string "Ikut arah tiupan angin, abu gunung\n"
-	.string "berapi tak pernah ditiup ke sini.\p"
-	.string "Udara di sini bersih dan nyaman. Tinggal\n"
-	.string "di sini mesti bagus walaupun untuk\l"
-	.string "orang yang lemah dan sakit.$"
+	.string "Sebab arah angin, abu gunung berapi\n"
+	.string "tak pernah sampai ke sini.\p"
+	.string "Udara di sini bersih dan nyaman. Orang\n"
+	.string "yang lemah dan sakit pun mesti cepat\l"
+	.string "sihat tinggal di sini.$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
 	.string "Saya dan POKéMON saya tengah menang\n"
 	.string "berturut-turut.\p"
-	.string "Jadi saya putuskan untuk buat\n"
+	.string "Jadi saya nak buat\n"
 	.string "penampilan sulung di KHEMAH BATTLE\l"
 	.string "pekan ni.$"
 

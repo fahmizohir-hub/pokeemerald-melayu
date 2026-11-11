@@ -15,8 +15,9 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy::
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
 	.string "Apa yang JURULATIH perlukan…\p"
-	.string "Ilmu… Taktik… Tuah… Berani…\n"
-	.string "Semangat… Wira… Dan keupayaan…\p"
+	.string "Ilmu… Taktik… Tuah…\n"
+	.string "Ketabahan… Semangat… Keberanian…\l"
+	.string "Dan kebolehan…\p"
 	.string "Saya dah lengkap serba-serbi! Tiada\n"
 	.string "siapa boleh halang saya di mana-mana\l"
 	.string "bangunan!\p"

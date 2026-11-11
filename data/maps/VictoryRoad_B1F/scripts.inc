@@ -47,12 +47,14 @@ VictoryRoad_B1F_Text_ShannonDefeat:
 	.string "yang kukuh.$"
 
 VictoryRoad_B1F_Text_ShannonPostBattle:
-	.string "Dengan sentiasa bersama, kepercayaan\n"
-	.string "tumbuh antara POKéMON dan JURULATIH.$"
+	.string "Bila sentiasa bersama,\n"
+	.string "kepercayaan akan tumbuh\l"
+	.string "antara POKéMON dan JURULATIH.$"
 
 VictoryRoad_B1F_Text_MichelleIntro:
-	.string "Ini bukan destinasi. Ini cuma tempat\n"
-	.string "dalam perjalanan ke LIGA POKéMON.$"
+	.string "Ini bukan garisan penamat.\n"
+	.string "Ini cuma persinggahan dalam\l"
+	.string "perjalanan ke LIGA POKéMON.$"
 
 VictoryRoad_B1F_Text_MichelleDefeat:
 	.string "Macam tulah!$"
@@ -84,8 +86,8 @@ VictoryRoad_B1F_Text_HalleDefeat:
 
 VictoryRoad_B1F_Text_HallePostBattle:
 	.string "Memang, ini JALAN KEMENANGAN.\p"
-	.string "Tapi tak banyak beza dengan jalan yang\n"
-	.string "kamu lalui selama ini.\p"
-	.string "Cubalah nikmati sepanjang baki\n"
-	.string "perjalanan!$"
+	.string "Tapi tak banyak beza dengan\n"
+	.string "jalan yang kamu lalui selama ini.\p"
+	.string "Cubalah berseronok sepanjang\n"
+	.string "perjalanan yang tinggal!$"
 

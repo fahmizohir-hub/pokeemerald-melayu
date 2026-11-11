@@ -196,7 +196,7 @@ RustboroCity_PokemonSchool_EventScript_ScottWatchStudents::
 	end
 
 RustboroCity_PokemonSchool_Text_BlackboardListsStatusChanges:
-	.string "Papan hitam menyenaraikan perubahan\n"
+	.string "Di papan hitam ada senarai perubahan\n"
 	.string "status yang boleh menjejaskan POKéMON\l"
 	.string "semasa bertarung.$"
 
@@ -204,11 +204,11 @@ RustboroCity_PokemonSchool_Text_ReadWhichTopic:
 	.string "Topik mana yang kamu nak baca?$"
 
 RustboroCity_PokemonSchool_Text_ExplainPoison:
-	.string "Kalau POKéMON diracun, HPnya akan\n"
+	.string "Kalau POKéMON keracunan, HPnya akan\n"
 	.string "berkurang sedikit demi sedikit.\p"
 	.string "Kesan racun kekal selepas pertarungan.\p"
-	.string "HP POKéMON yang diracun akan berkurang\n"
-	.string "semasa dalam perjalanan.\p"
+	.string "HP POKéMON yang keracunan akan terus\n"
+	.string "susut semasa berjalan.\p"
 	.string "Ubati racun dengan PENAWAR.$"
 
 RustboroCity_PokemonSchool_Text_ExplainParalysis:
@@ -220,12 +220,12 @@ RustboroCity_PokemonSchool_Text_ExplainParalysis:
 	.string "Pulihkan dengan UBAT LUMPUH.$"
 
 RustboroCity_PokemonSchool_Text_ExplainSleep:
-	.string "Kalau POKéMON tertidur, ia tak boleh\n"
-	.string "menyerang.\p"
+	.string "Kalau POKéMON tertidur, ia tak\n"
+	.string "boleh menyerang.\p"
 	.string "POKéMON mungkin terjaga sendiri, tapi\n"
 	.string "kalau pertarungan tamat semasa ia\l"
 	.string "tidur, ia akan terus tidur.\p"
-	.string "Sedarkan ia dengan UBAT SEDAR.$"
+	.string "Kejutkan ia dengan UBAT SEDAR.$"
 
 RustboroCity_PokemonSchool_Text_ExplainBurn:
 	.string "Terbakar mengurangkan kuasa SERANGAN,\n"
@@ -243,18 +243,17 @@ RustboroCity_PokemonSchool_Text_ExplainFreeze:
 RustboroCity_PokemonSchool_Text_StudentsWhoDontStudyGetQuickClaw:
 	.string "Murid yang tak belajar akan rasa sikit\n"
 	.string "KUKU PANTAS saya.\p"
-	.string "Sama ada kamu murid yang baik atau\n"
-	.string "tidak akan nampak dari cara kamu guna\l"
-	.string "barang ini.$"
+	.string "Murid yang baik atau tak, boleh nampak\n"
+	.string "dari cara kamu guna barang ni.$"
 
 RustboroCity_PokemonSchool_Text_ExplainQuickClaw:
 	.string "POKéMON yang memegang KUKU PANTAS\n"
-	.string "kadang-kadang akan jadi pantas dan\l"
-	.string "bergerak sebelum lawannya.\p"
+	.string "kadang-kadang dapat bergerak dulu\l"
+	.string "sebelum lawannya.\p"
 	.string "Ada banyak lagi barang yang dibuat\n"
 	.string "untuk dipegang POKéMON.\p"
-	.string "Itu saja dah cukup jadi banyak topik\n"
-	.string "untuk dikaji!$"
+	.string "Barang-barang tu saja pun dah banyak\n"
+	.string "topik untuk dikaji!$"
 
 RustboroCity_PokemonSchool_Text_TradingRightNow:
 	.string "Saya tengah tukar POKéMON dengan\n"
@@ -298,20 +297,20 @@ RustboroCity_PokemonSchool_Text_StudentsNotes:
 	.string "di GIM POKéMON.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
-	.string "Helo? Bukankah kita pernah berjumpa?\n"
-	.string "Rasanya di BANDAR PETALBURG.\p"
-	.string "Biar saya perkenalkan diri. Nama saya\n"
-	.string "SCOTT.\p"
+	.string "Helo? Kita pernah jumpa, kan? Rasanya\n"
+	.string "di BANDAR PETALBURG.\p"
+	.string "Biar saya perkenalkan diri. Nama\n"
+	.string "saya SCOTT.\p"
 	.string "Saya mengembara ke merata tempat\n"
 	.string "mencari JURULATIH yang hebat.\p"
 	.string "Lebih tepat lagi, saya mencari pakar\n"
 	.string "pertarungan POKéMON.\p"
-	.string "Jadi, apa yang bawa kamu ke SEKOLAH ni?\n"
-	.string "Kamu pun JURULATIH?\p"
-	.string "Perkara pertama yang patut kamu buat\n"
-	.string "ialah ajar POKéMON move POTONG.\p"
+	.string "Jadi, kamu buat apa di SEKOLAH ni? Kamu\n"
+	.string "pun JURULATIH?\p"
+	.string "Benda pertama yang patut kamu buat,\n"
+	.string "ajar POKéMON kamu POTONGAN.\p"
 	.string "Kalau tak silap saya, ada orang di\n"
-	.string "bandar ni yang ada POTONG.$"
+	.string "bandar ni yang ada POTONGAN.$"
 
 RustboroCity_PokemonSchool_Text_StudentTalentLevelUnknown:
 	.string "SCOTT: Hmm…\p"
@@ -321,17 +320,17 @@ RustboroCity_PokemonSchool_Text_StudentTalentLevelUnknown:
 RustboroCity_PokemonSchool_Text_ScottStoneBadge:
 	.string "SCOTT: Oh, apa tu?\p"
 	.string "Itu LENCANA BATU, kan? Boleh tahan\n"
-	.string "hebat, saya kata.\p"
-	.string "Tapi, kamu tahu, saya teringin nak\n"
-	.string "tengok kamu bertarung.\p"
+	.string "hebat tu.\p"
+	.string "Tapi saya teringin juga nak tengok\n"
+	.string "kamu bertarung.\p"
 	.string "Susah nak tahu kamu JURULATIH yang\n"
 	.string "macam mana hanya dari LENCANA LIGA.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
-	.string "Helo? Bukankah kita pernah berjumpa?\n"
-	.string "Rasanya di BANDAR PETALBURG.\p"
-	.string "Biar saya perkenalkan diri. Nama saya\n"
-	.string "SCOTT.\p"
+	.string "Helo? Kita pernah jumpa, kan? Rasanya\n"
+	.string "di BANDAR PETALBURG.\p"
+	.string "Biar saya perkenalkan diri. Nama\n"
+	.string "saya SCOTT.\p"
 	.string "Saya mengembara ke merata tempat\n"
 	.string "mencari JURULATIH yang hebat.\p"
 	.string "Lebih tepat lagi, saya mencari pakar\n"
@@ -339,8 +338,8 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
 	.string "Oh, apa tu? Itu LENCANA BATU, kan?\p"
 	.string "Boleh tahan hebat untuk JURULATIH\n"
 	.string "baru macam kamu.\p"
-	.string "Tapi, kamu tahu, saya teringin nak\n"
-	.string "tengok kamu bertarung.\p"
+	.string "Tapi saya teringin juga nak tengok\n"
+	.string "kamu bertarung.\p"
 	.string "Susah nak tahu kamu JURULATIH yang\n"
 	.string "macam mana hanya dari LENCANA LIGA.$"
 

@@ -266,7 +266,7 @@ MauvilleCity_BikeShop_Text_MachHandbookWhichPage:
 MauvilleCity_BikeShop_Text_HowToRideMachBike:
 	.string "BASIKAL bergerak ke arah + Pad Kawalan\n"
 	.string "yang ditekan.\p"
-	.string "Ia akan jadi laju bila dah mula bergerak.\p"
+	.string "Bila dah bergerak, ia makin laju.\p"
 	.string "Untuk berhenti, lepaskan + Pad Kawalan.\n"
 	.string "BASIKAL akan perlahan dan berhenti.\p"
 	.string "Nak baca muka surat lain?$"

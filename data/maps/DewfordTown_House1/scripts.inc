@@ -28,9 +28,9 @@ DewfordTown_House1_Text_LifeGoesSlowlyOnIsland:
 	.string "Saya tinggalkan pelabuhan besar\n"
 	.string "BANDAR SLATEPORT bila berkahwin\l"
 	.string "dengan suami saya di sini.\p"
-	.string "Hidup berjalan perlahan di pulau kecil\n"
-	.string "ni. Tapi dikelilingi laut yang cantik…\l"
-	.string "itu pun satu kebahagiaan.$"
+	.string "Hidup di pulau kecil ni tenang dan\n"
+	.string "perlahan. Tapi dikelilingi laut yang\l"
+	.string "cantik… itu pun bahagia juga.$"
 
 DewfordTown_House1_Text_Zigzagoon:
 	.string "ZIGZAGOON: Guguuh!$"

@@ -300,7 +300,7 @@ BattleFrontier_ReceptionGate_Text_WelcomeToBattleFrontier:
 BattleFrontier_ReceptionGate_Text_IssueFrontierPass:
 	.string "Untuk pelawat kali pertama,\n"
 	.string "kami keluarkan PAS FRONTIER.\p"
-	.string "Ia untuk digunakan di semua\n"
+	.string "Pas ini boleh digunakan di semua\n"
 	.string "fasiliti di BATTLE FRONTIER.\p"
 	.string "Nah, ambillah!$"
 
@@ -342,8 +342,8 @@ BattleFrontier_ReceptionGate_Text_LearnAboutWhich2:
 	.string "Yang mana kamu mahu tahu?$"
 
 BattleFrontier_ReceptionGate_Text_BattleTowerInfo:
-	.string "Ia menara gergasi yang dianggap\n"
-	.string "sebagai lambang BATTLE FRONTIER.\p"
+	.string "Menara gergasi ini dianggap sebagai\n"
+	.string "lambang BATTLE FRONTIER.\p"
 	.string "Ada empat jenis BILIK TARUNG dalam\n"
 	.string "menara itu, untuk TARUNG TUNGGAL,\l"
 	.string "GANDA, MULTI dan MULTI LINK.$"
@@ -422,9 +422,9 @@ BattleFrontier_ReceptionGate_Text_LevelModeInfo:
 
 BattleFrontier_ReceptionGate_Text_Level50Info:
 	.string "Kategori LV. 50 terbuka kepada\n"
-	.string "POKéMON sehingga dan termasuk Lv. 50.\p"
-	.string "Tetapi ingat, semua JURULATIH yang\n"
-	.string "kamu lawan tidak akan ada POKéMON di\l"
+	.string "POKéMON Lv. 50 ke bawah.\p"
+	.string "Tapi ingat, tiada JURULATIH yang\n"
+	.string "kamu lawan akan guna POKéMON di\l"
 	.string "bawah Lv. 50.\p"
 	.string "Kategori ini ialah tahap permulaan\n"
 	.string "untuk pertarungan di BATTLE FRONTIER.\p"
@@ -436,9 +436,8 @@ BattleFrontier_ReceptionGate_Text_OpenLevelInfo:
 	.string "tahap POKéMON yang menyertai cabaran.\p"
 	.string "Tahap lawan kamu akan diselaraskan\n"
 	.string "mengikut tahap POKéMON kamu.\p"
-	.string "Tetapi, semua JURULATIH yang kamu\n"
-	.string "lawan tidak akan ada POKéMON di bawah\l"
-	.string "Lv. 60.$"
+	.string "Tapi, tiada JURULATIH yang kamu lawan\n"
+	.string "akan guna POKéMON di bawah Lv. 60.$"
 
 BattleFrontier_ReceptionGate_Text_MonEntryInfo:
 	.string "Hampir semua jenis POKéMON boleh\n"
@@ -447,9 +446,9 @@ BattleFrontier_ReceptionGate_Text_MonEntryInfo:
 	.string "jenis POKéMON tidak dibenarkan.\p"
 	.string "Bilangan POKéMON yang diperlukan untuk\n"
 	.string "cabaran bergantung pada fasiliti.\p"
-	.string "Tetapi di semua fasiliti, dua atau lebih\n"
-	.string "POKéMON yang sama jenis tidak\l"
-	.string "dibenarkan.$"
+	.string "Tetapi di semua fasiliti, POKéMON\n"
+	.string "yang sama tidak boleh dimasukkan\l"
+	.string "lebih daripada seekor.$"
 
 BattleFrontier_ReceptionGate_Text_HoldItemsInfo:
 	.string "Bila menyertai cabaran di fasiliti\n"

@@ -57,8 +57,8 @@ gTVBravoTrainerText01::
 	.string "Inilah dia {STR_VAR_2} si\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Nama timangan {STR_VAR_2}…\p"
-	.string "Nama timangannya pun memancarkan\n"
-	.string "aura yang melaungkan “{STR_VAR_3}”!$"
+	.string "Nama timangannya sahaja dah\n"
+	.string "memancarkan aura “{STR_VAR_3}”!$"
 
 gTVBravoTrainerText02::
 	.string "Semasa JURULATIH {STR_VAR_1}\n"
@@ -89,25 +89,25 @@ gTVBravoTrainerText05::
 	.string "Anda pun tentu nak tahu apa yang\n"
 	.string "{STR_VAR_1} bayangkan tentang\l"
 	.string "{STR_VAR_2}, kan?\p"
-	.string "Sudah tentu!\n"
-	.string "Jadi, kami pun tanyalah!\p"
+	.string "Kami pun nak tahu!\n"
+	.string "Jadi, kami tanyalah!\p"
 	.string "Jawapannya ringkas dan padat:\n"
 	.string "“{STR_VAR_3}!”\p"
 	.string "Itulah maksud konsep {STR_VAR_2}\n"
 	.string "bagi {STR_VAR_1}!$"
 
 gTVBravoTrainerText06::
-	.string "Move terakhir {STR_VAR_1}, {STR_VAR_2},\n"
-	.string "memang benar-benar tentang\l"
+	.string "Move terakhir {STR_VAR_1} itu,\n"
+	.string "{STR_VAR_2}, memang menggambarkan\l"
 	.string "“{STR_VAR_3}”!$"
 
 gTVBravoTrainerText07::
 	.string "Bravo, {STR_VAR_1}!\n"
 	.string "Bravo, {STR_VAR_2}!\p"
-	.string "Saya harap kita dapat lihat\n"
-	.string "{STR_VAR_1} terus mencapai puncak!\p"
-	.string "Itu sahaja masa yang kita ada!\n"
-	.string "Jumpa lagi lain kali!$"
+	.string "Semoga {STR_VAR_1} terus mendaki\n"
+	.string "ke puncak yang lebih tinggi!\p"
+	.string "Sekian sahaja untuk kali ini!\n"
+	.string "Jumpa lagi!$"
 
 gTVBravoTrainerText08::
 	.string "Inilah dia {STR_VAR_1} JURULATIH itu!$"
@@ -136,10 +136,10 @@ BattleFrontier_BattleTowerLobby_Text_SorryWeDisturbedYou::
 	.string "kamu datang ke BATTLE TOWER lagi.$"
 
 BattleFrontier_BattleTowerLobby_Text_ObviousYouHadGreatBattle::
-	.string "Sudah tentu!\p"
-	.string "Wajah kamu yang penuh kepuasan\n"
-	.string "itu tak boleh disangkal…\p"
-	.string "Jelas sekali kamu baru lepas\n"
+	.string "Mestilah!\p"
+	.string "Wajah kamu jelas nampak puas\n"
+	.string "hati…\p"
+	.string "Memang sah kamu baru lepas\n"
 	.string "bertarung dengan hebat.$"
 
 BattleFrontier_BattleTowerLobby_Text_DifficultToMakeBattleTurnOutAsPlanned::
@@ -218,12 +218,12 @@ BravoTrainerBattleTower_Text_LostFinal::
 BravoTrainerBattleTower_Text_Satisfied::
 	.string "Inilah kata JURULATIH itu:\n"
 	.string "“Saya puas hati!”\p"
-	.string "Bukankah jawapan itu menyegarkan?\n"
+	.string "Jawapan yang menyegarkan, kan?\n"
 	.string "Bravo, JURULATIH!\p"
-	.string "Bukankah hebat dapat bertarung\n"
+	.string "Seronok, kan, dapat bertarung\n"
 	.string "sepuas-puasnya?\p"
-	.string "Saya tahu betapa puasnya dia bila\n"
-	.string "saya dengar JURULATIH berkata:$"
+	.string "Saya dapat rasa betapa puasnya dia\n"
+	.string "bila JURULATIH itu berkata:$"
 
 BravoTrainerBattleTower_Text_Unsatisfied::
 	.string "Inilah kata JURULATIH itu:\n"
@@ -232,8 +232,9 @@ BravoTrainerBattleTower_Text_Unsatisfied::
 	.string "semasa mengucapkannya.\p"
 	.string "Tapi, bukan senang nak bertarung\n"
 	.string "dengan puas sepenuhnya, betul tak?\p"
-	.string "Apa pun, saya tahu betapa kecewanya\n"
-	.string "JURULATIH kita bila dengar ini:$"
+	.string "Apa pun, saya dapat rasa betapa\n"
+	.string "kecewanya JURULATIH kita bila dia\l"
+	.string "berkata begini:$"
 
 BravoTrainerBattleTower_Text_None1::
 	.string "Tiada$"
@@ -252,8 +253,8 @@ BravoTrainerBattleTower_Text_Response::
 
 BravoTrainerBattleTower_Text_ResponseSatisfied::
 	.string "“{STR_VAR_1}.”\n"
-	.string "Hebat, bukan?\p"
-	.string "Ia benar-benar meluahkan kegembiraan\n"
+	.string "Hebat, kan?\p"
+	.string "Memang terluah kegembiraan\n"
 	.string "{STR_VAR_2}, saya rasa.\p"
 	.string "Pertarungan dengan {STR_VAR_3} di\n"
 	.string "penghujung… Memang boleh digelar\l"
@@ -271,10 +272,10 @@ BravoTrainerBattleTower_Text_ResponseUnsatisfied::
 BravoTrainerBattleTower_Text_Outro::
 	.string "Bravo, {STR_VAR_1}!\n"
 	.string "Bravo, {STR_VAR_2}!\p"
-	.string "Saya harap kita dapat lihat\n"
-	.string "{STR_VAR_1} terus mencapai puncak!\p"
-	.string "Itu sahaja masa yang kita ada!\n"
-	.string "Jumpa lagi lain kali!$"
+	.string "Semoga {STR_VAR_1} terus mendaki\n"
+	.string "ke puncak yang lebih tinggi!\p"
+	.string "Sekian sahaja untuk kali ini!\n"
+	.string "Jumpa lagi!$"
 
 SlateportCity_PokemonFanClub_Text_InterviewRequestHasName:
 	.string "Wah!\p"
@@ -342,15 +343,15 @@ SlateportCity_PokemonFanClub_Text_InterviewRequest:
 	.string "{STR_VAR_1} kamu.\p"
 	.string "Kamu tahu tak?\n"
 	.string "Saya wartawan TV.\p"
-	.string "Saya mengembara menemu bual orang\n"
-	.string "tentang POKéMON.\p"
+	.string "Saya pergi merata tempat untuk\n"
+	.string "temu bual orang tentang POKéMON.\p"
 	.string "Sudi tak kamu ceritakan sedikit\n"
 	.string "tentang {STR_VAR_1} kamu?$"
 
 SlateportCity_PokemonFanClub_Text_TellMeAnythingAboutYourMon:
 	.string "Wah, terima kasih!\p"
 	.string "Okey, ceritakanlah apa sahaja yang\n"
-	.string "kamu mahu tentang {STR_VAR_1} kamu.$"
+	.string "kamu nak tentang {STR_VAR_1} kamu.$"
 
 SlateportCity_PokemonFanClub_Text_ThatsAllForInterview2:
 	.string "Wah…\n"
@@ -392,13 +393,13 @@ gTVFanClubOpinionsText01::
 	.string "yang terlintas di fikiran?”\p"
 	.string "“{STR_VAR_3}!”\p"
 	.string "Yeahah! Laungan yang sangat hebat!\p"
-	.string "Bukankah ia mengimbau kenangan\n"
-	.string "zaman yang telah lama berlalu?$"
+	.string "Teringat pula kenangan zaman\n"
+	.string "dulu-dulu, kan?$"
 
 gTVFanClubOpinionsText02::
-	.string "Kami tanya {STR_VAR_1}, “Kalau kamu\n"
-	.string "nak samakan {STR_VAR_2} kamu dengan\l"
-	.string "sesuatu, ia ialah…”\p"
+	.string "Kami tanya {STR_VAR_1}, “Kalau\n"
+	.string "{STR_VAR_2} kamu diumpamakan dengan\l"
+	.string "sesuatu, ia ibarat…”\p"
 	.string "… … … … … … … …\p"
 	.string "“{STR_VAR_3}!”\p"
 	.string "Whoah-oh, idea yang sungguh asli!\p"
@@ -407,7 +408,7 @@ gTVFanClubOpinionsText02::
 	.string "{STR_VAR_2}.$"
 
 gTVFanClubOpinionsText03::
-	.string "Dan mari kita lihat…\n"
+	.string "Okey, seterusnya…\n"
 	.string "Apa yang ada pada {STR_VAR_2} itu\l"
 	.string "sampai {STR_VAR_1} begitu tertarik?\p"
 	.string "… … … … … … … …\p"
@@ -418,7 +419,7 @@ gTVFanClubOpinionsText03::
 
 gTVFanClubOpinionsText04::
 	.string "Hm? Oh, masih ada lagi.\n"
-	.string "Mari kita lihat!\p"
+	.string "Jom kita tengok!\p"
 	.string "Sekejap, ya…\p"
 	.string "Kami tanya {STR_VAR_1}, “Apa makna\n"
 	.string "POKéMON bagi kamu?”\p"
@@ -429,8 +430,8 @@ gTVFanClubOpinionsText04::
 	.string "“{STR_VAR_3}!”\p"
 	.string "Rasa macam nak laungkannya kuat-kuat\n"
 	.string "berulang kali!\p"
-	.string "Selepas laungan yang hebat ini, tiba\n"
-	.string "masanya kita berpisah buat kali ini!\p"
+	.string "Selepas laungan sehebat itu, tiba\n"
+	.string "masanya kita berundur dulu!\p"
 	.string "Jadi, mari kita laung sekali lagi!\n"
 	.string "Semua bersama-sama…\p"
 	.string "“{STR_VAR_3}!”$"
@@ -443,7 +444,7 @@ gTVFanClubText00::
 	.string "Daripada semua kisah POKéMON dan\n"
 	.string "JURULATIH, drama baru apakah yang\l"
 	.string "akan menarik perhatian kita hari ini?\p"
-	.string "Mari saya lihat…\p"
+	.string "Cuba saya tengok…\p"
 	.string "Yang ini!\p"
 	.string "Kita mulakan dengan surat ini!\p"
 	.string "Ini surat dari {STR_VAR_1} tentang\n"
@@ -473,7 +474,8 @@ gTVFanClubText04::
 
 gTVFanClubText05::
 	.string "Terutamanya bahagian “{STR_VAR_3}”!\p"
-	.string "Saya suka guna “{STR_VAR_3}” di situ!$"
+	.string "Saya suka cara “{STR_VAR_3}”\n"
+	.string "digunakan!$"
 
 gTVFanClubText06::
 	.string "Oh ya, tak penting pun, tapi\n"
@@ -486,8 +488,8 @@ gTVFanClubText07::
 	.string "saya beri surat ini {STR_VAR_3} mata.\p"
 	.string "Lain kali, saya harapkan surat yang\n"
 	.string "lebih hebat, {STR_VAR_1}!\p"
-	.string "A-alamak, dah tengok jam?\n"
-	.string "Masa untuk berpisah sampai lain kali!$"
+	.string "A-alamak, dah lewat rupanya!\n"
+	.string "Masa untuk undur diri. Jumpa lagi!$"
 
 SlateportCity_OceanicMuseum_1F_Text_InterviewRequest:
 	.string "Oh?\n"
@@ -531,9 +533,9 @@ SlateportCity_OceanicMuseum_1F_Text_BetterWriteUpStory:
 gTVRecentHappeningsText00::
 	.string "Helo, tibalah masa KISAH TERKINI.\p"
 	.string "Bagi JURULATIH POKéMON, setiap hari\n"
-	.string "ialah kisah dalam buku cerita.\p"
-	.string "Kami ingin perkenalkan kepada anda\n"
-	.string "beberapa kisah POKéMON ini.\p"
+	.string "bagaikan kisah dalam buku cerita.\p"
+	.string "Kami nak kongsikan sebahagian\n"
+	.string "kisah POKéMON itu dengan anda.\p"
 	.string "Hari ini, kami bawakan kisah JURULATIH\n"
 	.string "{STR_VAR_1}.\p"
 	.string "Apa yang {STR_VAR_1} alami baru-baru\n"
@@ -541,23 +543,23 @@ gTVRecentHappeningsText00::
 	.string "Cuba kita lihat…$"
 
 gTVRecentHappeningsText01::
-	.string "Bukankah itu membuka minda?\p"
+	.string "Membuka mata, bukan?\p"
 	.string "Kisah ini memberi gambaran jelas\n"
 	.string "tentang pengalaman {STR_VAR_1}.\l"
 	.string "Seolah-olah kita turut menyaksikannya!$"
 
 gTVRecentHappeningsText02::
 	.string "“{STR_VAR_3}.” Ungkapan itu\n"
-	.string "menyerlahkan dan memperdalam kisah.$"
+	.string "menghidupkan lagi kisah ini.$"
 
 gTVRecentHappeningsText03::
 	.string "“{STR_VAR_3}.”\n"
-	.string "Ini memberi kisah itu rasa tempat.\l"
+	.string "Ungkapan ini menghidupkan suasana.\l"
 	.string "Kita dapat bayangkan latar kisahnya.$"
 
 gTVRecentHappeningsText04::
 	.string "Bahagian “{STR_VAR_3}”\n"
-	.string "dalam kisah itu sangat ekspresif.$"
+	.string "dalam kisah itu penuh perasaan.$"
 
 gTVRecentHappeningsText05::
 	.string "{STR_VAR_1} telah menceritakan kisah\n"
@@ -589,7 +591,7 @@ gTV3CheersForPokeblocksText00::
 	.string "Hari ini, kami nilai {POKEBLOCK} yang\n"
 	.string "dikisar oleh {STR_VAR_1} dan rakan.\p"
 	.string "Tanpa berlengah, saya suapkannya\n"
-	.string "kepada POKéMON gourmet saya, GULPIN.\p"
+	.string "kepada GULPIN, si pakar rasa saya.\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 
@@ -664,7 +666,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_ThankYouIllShareThisInfo::
 LilycoveCity_PokemonTrainerFanClub_HopeYouCatchTVSpecial::
 	.string "Tak lama lagi akan ada rancangan TV\n"
 	.string "khas tentang {STR_VAR_1}.\p"
-	.string "Jangan lepaskan peluang menontonnya!$"
+	.string "Jangan lupa tonton, ya!$"
 
 gTVTrainerFanClubSpecialText00::
 	.string "KELAB PEMINAT JURULATIH\n"
@@ -723,8 +725,8 @@ gTVNameRaterText00::
 	.string "RANCANGAN PENILAI NAMA.\p"
 	.string "Saya tilik nasib POKéMON anda\n"
 	.string "melalui nama timangan yang diberi.\p"
-	.string "Nasihat ialah apa yang saya beri,\n"
-	.string "dan nasihat saya sangat berguna.\p"
+	.string "Saya memberi nasihat, dan nasihat\n"
+	.string "saya memang berguna.\p"
 	.string "Hari ini, saya akan menilai nama\n"
 	.string "timangan {STR_VAR_3} bagi {STR_VAR_2}\l"
 	.string "milik {STR_VAR_1}.\p"
@@ -784,25 +786,24 @@ gTVNameRaterText09::
 	.string "Nama timangan {STR_VAR_1} berakar pada\n"
 	.string "huruf “{STR_VAR_3}”.\p"
 	.string "Huruf itu disokong oleh huruf pertama\n"
-	.string "“{STR_VAR_2}”, yang memberinya\l"
-	.string "kehadiran yang kukuh sebagai nama\l"
-	.string "timangan.$"
+	.string "“{STR_VAR_2}”, jadi nama timangan ini\l"
+	.string "terasa mantap dan berwibawa.$"
 
 gTVNameRaterText10::
 	.string "Nama timangan {STR_VAR_1} sangat\n"
 	.string "cantik dan indah bentuknya.\p"
-	.string "Kehadiran huruf “{STR_VAR_2}” dan\n"
+	.string "Adanya huruf “{STR_VAR_2}” dan\n"
 	.string "“{STR_VAR_3}”--memang sangat bagus!$"
 
 gTVNameRaterText11::
-	.string "Nama timangan {STR_VAR_1}--ada rasa\n"
-	.string "agung dan mengalir padanya.\p"
+	.string "Nama timangan {STR_VAR_1}--bunyinya\n"
+	.string "agung dan mengalir lancar.\p"
 	.string "Aliran dari huruf awal “{STR_VAR_2}” ke\n"
 	.string "“{STR_VAR_3}” sangat mengagumkan.$"
 
 gTVNameRaterText12::
-	.string "Mari kita lihat contoh lain nama\n"
-	.string "timangan yang bagus, ya?$"
+	.string "Sekarang, cuba kita tengok contoh\n"
+	.string "lain nama timangan yang bagus.$"
 
 gTVNameRaterText13::
 	.string "Cuba contoh ini. Ambil sebahagian nama\n"
@@ -896,12 +897,12 @@ gTVPokemonTodayFailedText00::
 	.string "bersemangat hari ini?\p"
 	.string "Hari ini, kita akan tengok POKéMON\n"
 	.string "{STR_VAR_2} milik {STR_VAR_1}!\p"
-	.string "ABANG: Yeah! Itulah yang kita\n"
-	.string "akan buat!$"
+	.string "ABANG: Yeah! Betul tu, jom\n"
+	.string "kita tengok!$"
 
 gTVPokemonTodayFailedText01::
 	.string "Oh!\n"
-	.string "Bercakap tentang {STR_VAR_1}…\p"
+	.string "Cakap pasal {STR_VAR_1}…\p"
 	.string "KAKAK, saya nampak JURULATIH itu\n"
 	.string "dengan mata saya sendiri!\p"
 	.string "KAKAK: Oh, apa yang Abang nampak?\p"
@@ -967,8 +968,8 @@ gTVPokemonTodaySuccessfulText00::
 	.string "bersemangat hari ini?\p"
 	.string "Hari ini, kita akan tengok POKéMON\n"
 	.string "{STR_VAR_2} milik {STR_VAR_1}!\p"
-	.string "ABANG: Yeah! Itulah yang kita\n"
-	.string "akan buat!$"
+	.string "ABANG: Yeah! Betul tu, jom\n"
+	.string "kita tengok!$"
 
 gTVPokemonTodaySuccessfulText01::
 	.string "KAKAK: {STR_VAR_1} beri nama timangan\n"
@@ -1003,8 +1004,8 @@ gTVPokemonTodaySuccessfulText05::
 	.string "mahukan {STR_VAR_2} itu!$"
 
 gTVPokemonTodaySuccessfulText06::
-	.string "ABANG: Kemudian, beri nama timangan\n"
-	.string "{STR_VAR_3} kepada {STR_VAR_2} itu…\p"
+	.string "ABANG: Lepas tu, dia namakan\n"
+	.string "{STR_VAR_2} itu {STR_VAR_3}…\p"
 	.string "Kita dapat lihat citarasa\n"
 	.string "{STR_VAR_1} sebagai JURULATIH.\p"
 	.string "KAKAK: Saya setuju!$"
@@ -1017,7 +1018,7 @@ gTVPokemonTodaySuccessfulText07::
 
 gTVPokemonTodaySuccessfulText08::
 	.string "{STR_VAR_2} si {STR_VAR_1}?\n"
-	.string "Bukankah bunyinya sempurna?\p"
+	.string "Sedap betul bunyinya, kan?\p"
 	.string "Huruf-hurufnya dan semuanya--memang\n"
 	.string "sesuai sangat untuk POKéMON\l"
 	.string "{STR_VAR_1}!\p"
@@ -1057,8 +1058,8 @@ SmartShopper_Text_Intro::
 SmartShopper_Text_ClerkNormal::
 	.string "Mari kita temu bual jurujual untuk\n"
 	.string "tahu cerita sebenar.\p"
-	.string "Hai, bagaimana perniagaan?\p"
-	.string "JURUJUAL: Oh, sangat baik.\p"
+	.string "Hai, macam mana bisnes?\p"
+	.string "JURUJUAL: Oh, bagus sangat.\p"
 	.string "Kebelakangan ini, {STR_VAR_2} sangat\n"
 	.string "laris.\p"
 	.string "Baru-baru ini, seorang JURULATIH\n"
@@ -1128,7 +1129,7 @@ SmartShopper_Text_IsVIP::
 SmartShopper_Text_ClerkMax::
 	.string "Mari kita temu bual jurujual untuk\n"
 	.string "tahu cerita sebenar.\p"
-	.string "Hai, bagaimana perniagaan?\p"
+	.string "Hai, macam mana bisnes?\p"
 	.string "JURUJUAL: Oh, perniagaan kami luar\n"
 	.string "biasa. Hampir tak terlayan.\p"
 	.string "Baru-baru ini, JURULATIH bernama\n"
@@ -1137,11 +1138,11 @@ SmartShopper_Text_ClerkMax::
 	.string "semua stok {STR_VAR_2} kami.\p"
 	.string "Tak pernah saya sangka ada pelanggan\n"
 	.string "perlukan {STR_VAR_2} sebanyak itu.\l"
-	.string "Memang tak pernah didengar!\p"
+	.string "Memang tak pernah berlaku!\p"
 	.string "PENEMU BUAL: Maksudnya, macam 100\n"
 	.string "atau 200 terjual?\p"
 	.string "JURUJUAL: Oh, tidak, lebih banyak lagi!\p"
-	.string "PENEMU BUAL: Ya ampun!\n"
+	.string "PENEMU BUAL: Biar betul!\n"
 	.string "{STR_VAR_1} mesti pembeli istimewa!\p"
 	.string "JURUJUAL: {STR_VAR_1} memang pelanggan\n"
 	.string "VIP, tak syak lagi.$"
@@ -1155,7 +1156,8 @@ SmartShopper_Text_OutroMax::
 	.string "Misteri semakin mendalam, tapi itu\n"
 	.string "sahaja masa kita hari ini.\l"
 	.string "Jumpa lagi dalam siaran akan datang!\p"
-	.string "Namun, {STR_VAR_1} memang misteri…$"
+	.string "Tapi, {STR_VAR_1} ni memang penuh\n"
+	.string "misteri…$"
 
 gTVWorldOfMastersText00::
 	.string "DUNIA PARA PAKAR\p"
@@ -1164,9 +1166,9 @@ gTVWorldOfMastersText00::
 	.string "bernama {STR_VAR_1}.\p"
 	.string "{STR_VAR_1} terkenal sebagai pakar\n"
 	.string "menangkap POKéMON.\p"
-	.string "Pencarian POKéMON {STR_VAR_1}\n"
-	.string "bergantung pada carian teliti dengan\l"
-	.string "berjalan kaki.\p"
+	.string "{STR_VAR_1} mencari POKéMON dengan\n"
+	.string "teliti, semuanya dengan berjalan\l"
+	.string "kaki.\p"
 	.string "Pada satu hari yang tak dilupakan,\n"
 	.string "JURULATIH itu berjalan {STR_VAR_2}\l"
 	.string "langkah.\p"
@@ -1174,7 +1176,7 @@ gTVWorldOfMastersText00::
 	.string "mencecah {STR_VAR_3} ekor!$"
 
 gTVWorldOfMastersText01::
-	.string "Pencapaian hebat itu mungkin berkat\n"
+	.string "Pencapaian hebat itu tentu berkat\n"
 	.string "kepercayaan antara JURULATIH itu\l"
 	.string "dan {STR_VAR_1}.$"
 
@@ -1198,24 +1200,24 @@ gTVTodaysRivalTrainerText00::
 gTVTodaysRivalTrainerText07::
 	.string "Saingan hari ini ialah {STR_VAR_1},\n"
 	.string "yang kini di sekitar {STR_VAR_3}.\p"
-	.string "Setakat ini {STR_VAR_1} telah daftar\n"
+	.string "Setakat ini {STR_VAR_1} dah daftarkan\n"
 	.string "{STR_VAR_2} POKéMON dalam POKéDEX.$"
 
 gTVTodaysRivalTrainerText08::
 	.string "Saingan hari ini ialah {STR_VAR_1},\n"
 	.string "yang kini di PANGKALAN RAHSIA.\p"
-	.string "Setakat ini {STR_VAR_1} telah daftar\n"
+	.string "Setakat ini {STR_VAR_1} dah daftarkan\n"
 	.string "{STR_VAR_2} POKéMON dalam POKéDEX.$"
 
 gTVTodaysRivalTrainerText09::
 	.string "Saingan hari ini ialah {STR_VAR_1}.\p"
-	.string "Setakat ini, {STR_VAR_1} telah daftar\n"
+	.string "Setakat ini, {STR_VAR_1} dah daftarkan\n"
 	.string "{STR_VAR_2} POKéMON dalam POKéDEX.$"
 
 gTVTodaysRivalTrainerText10::
 	.string "Saingan hari ini ialah {STR_VAR_1},\n"
 	.string "yang kini menaiki feri.\p"
-	.string "Setakat ini {STR_VAR_1} telah daftar\n"
+	.string "Setakat ini {STR_VAR_1} dah daftarkan\n"
 	.string "{STR_VAR_2} POKéMON dalam POKéDEX.$"
 
 	.string "$"
@@ -1239,7 +1241,7 @@ gTVTodaysRivalTrainerText04::
 	.string "Simbol Perak: {STR_VAR_2}!$"
 
 gTVTodaysRivalTrainerText05::
-	.string "Saingan kita telah kumpul {STR_VAR_1}\n"
+	.string "Saingan kita dah kumpul {STR_VAR_1}\n"
 	.string "Mata Tarung di BATTLE FRONTIER.$"
 
 gTVTodaysRivalTrainerText06::
@@ -1276,13 +1278,13 @@ TrendWatcher_Text_Intro::
 @ Identical to below, may have been different in other languages
 TrendWatcher_Text_MaleTaughtMePhrase::
 	.string "Pak cik: {STR_VAR_1} {STR_VAR_2}\n"
-	.string "kononnya trend, kata {STR_VAR_3}\l"
-	.string "dari LITTLEROOT kepada saya…$"
+	.string "katanya tengah trend. {STR_VAR_3}\l"
+	.string "dari LITTLEROOT yang ajar saya…$"
 
 TrendWatcher_Text_FemaleTaughtMePhrase::
 	.string "Pak cik: {STR_VAR_1} {STR_VAR_2}\n"
-	.string "kononnya trend, kata {STR_VAR_3}\l"
-	.string "dari LITTLEROOT kepada saya…$"
+	.string "katanya tengah trend. {STR_VAR_3}\l"
+	.string "dari LITTLEROOT yang ajar saya…$"
 
 TrendWatcher_Text_PhraseWasHopeless::
 	.string "Tapi langsung tak berjaya.\p"
@@ -1324,7 +1326,7 @@ gTVHoennTreasureInvestigatorsText00::
 	.string "saksi tentang rahsia dari merata\l"
 	.string "tempat!\p"
 	.string "Mari mulakan dengan sepucuk surat.\n"
-	.string "Bunyinya, “{STR_VAR_1} ditemui!”$"
+	.string "Katanya, “{STR_VAR_1} ditemui!”$"
 
 gTVHoennTreasureInvestigatorsText01::
 	.string "Wah, kita mesti baca surat ini!\n"
@@ -1359,8 +1361,8 @@ gTVHoennTreasureInvestigatorsText02::
 gTVFindThatGamerText00::
 	.string "CARI PEMAIN ITU!\p"
 	.string "Hei, semua pemain!\n"
-	.string "Bagaimana {STR_VAR_2} anda berputar?\p"
-	.string "Seperti biasa, kami tumpukan kepada\n"
+	.string "Lancar putaran {STR_VAR_2} anda?\p"
+	.string "Seperti biasa, kami sorot seorang\n"
 	.string "JURULATIH luar biasa yang melawat\l"
 	.string "SUDUT PERMAINAN!\p"
 	.string "Hari ini, pemain no. 1 kita ialah…\n"
@@ -1400,17 +1402,18 @@ gTVBreakingNewsText00::
 	.string "TV BERITA TERGEMPAR!$"
 
 gTVBreakingNewsText01::
-	.string "{STR_VAR_2} yang jarang ditangkap\n"
-	.string "oleh {STR_VAR_1}!\p"
+	.string "{STR_VAR_1} tangkap {STR_VAR_2}\n"
+	.string "yang jarang ditemui!\p"
 	.string "Kami bersiaran langsung dari sekitar\n"
 	.string "{STR_VAR_3}!\p"
-	.string "{STR_VAR_1} berjaya menangkap\n"
-	.string "{STR_VAR_2} yang jarang di sini tadi!$"
+	.string "Tadi di sini, {STR_VAR_1} berjaya\n"
+	.string "menangkap {STR_VAR_2} yang jarang\l"
+	.string "ditemui!$"
 
 gTVBreakingNewsText02::
 	.string "Bila {STR_VAR_1} bertemu {STR_VAR_2}\n"
 	.string "yang jarang itu, JURULATIH itu\l"
-	.string "menghantar POKéMON {STR_VAR_3}.$"
+	.string "mengeluarkan POKéMON {STR_VAR_3}.$"
 
 gTVBreakingNewsText03::
 	.string "Dalam pertarungan itu, JURULATIH itu\n"
@@ -1429,16 +1432,17 @@ gTVBreakingNewsText04::
 
 gTVBreakingNewsText05::
 	.string "{STR_VAR_1} gagal menangkap\n"
-	.string "{STR_VAR_2} yang jarang!\p"
+	.string "{STR_VAR_2} yang jarang ditemui!\p"
 	.string "Kami bersiaran langsung dari sekitar\n"
 	.string "{STR_VAR_3}!\p"
 	.string "Di sinilah {STR_VAR_1} gagal\n"
-	.string "menangkap {STR_VAR_2} yang jarang!$"
+	.string "menangkap {STR_VAR_2} yang jarang\l"
+	.string "ditemui!$"
 
 gTVBreakingNewsText06::
 	.string "Bila {STR_VAR_1} bertemu {STR_VAR_2}\n"
 	.string "yang jarang itu, JURULATIH itu\l"
-	.string "menghantar POKéMON {STR_VAR_3}.$"
+	.string "mengeluarkan POKéMON {STR_VAR_3}.$"
 
 gTVBreakingNewsText07::
 	.string "JURULATIH itu menyuruh {STR_VAR_2}\n"
@@ -1489,7 +1493,7 @@ gTVSecretBaseVisitText00::
 	.string "RAHSIA milik {STR_VAR_1}.\p"
 	.string "Bagaimana {STR_VAR_1} menghias\n"
 	.string "PANGKALAN RAHSIA itu?\p"
-	.string "Mari kita lihat!\n"
+	.string "Jom kita tengok!\n"
 	.string "… … … … … …$"
 
 gTVSecretBaseVisitText01::
@@ -1504,8 +1508,8 @@ gTVSecretBaseVisitText02::
 	.string "Tak ada satu pun perabot\n"
 	.string "atau barang hiasan!\p"
 	.string "Orang biasa takkan mampu meniru\n"
-	.string "kenyataan berani ini!\p"
-	.string "Ringkas, tapi penuh, ya, penuh\n"
+	.string "gaya berani ini!\p"
+	.string "Ringkas, tapi meluap, ya, meluap\n"
 	.string "dengan keliaran!\p"
 	.string "Saya tabik kamu, {STR_VAR_1}.\n"
 	.string "Memang kamulah orangnya!$"
@@ -1514,14 +1518,14 @@ gTVSecretBaseVisitText03::
 	.string "Oh! Saya faham!\n"
 	.string "Saya nampak dengan jelas sekali!\p"
 	.string "{STR_VAR_2} ini berada di sini…\n"
-	.string "Ia menyampaikan mesej yang berkesan!$"
+	.string "Mesejnya sampai dengan jelas!$"
 
 gTVSecretBaseVisitText04::
 	.string "Oh! Saya faham!\n"
 	.string "Saya nampak dengan jelas sekali!\p"
 	.string "Ruang ini sengaja dibiarkan\n"
 	.string "kosong tanpa barang hiasan!\p"
-	.string "Ia menyampaikan mesej yang berkesan!$"
+	.string "Mesejnya sampai dengan jelas!$"
 
 gTVSecretBaseVisitText05::
 	.string "Wuuuh!\p"
@@ -1557,10 +1561,10 @@ gTVSecretBaseVisitText09::
 	.string "layak bergelar JUARA.\p"
 	.string "Mereka membuktikan kehebatan\n"
 	.string "{STR_VAR_1} sebagai JURULATIH.\p"
-	.string "Hakikat {STR_VAR_2} itu tahu move\n"
+	.string "{STR_VAR_2} itu pula tahu move\n"
 	.string "{STR_VAR_3}…\p"
-	.string "Itu menunjukkan JURULATIH jenis apa\n"
-	.string "{STR_VAR_1} ini.\p"
+	.string "Dari situ kita tahu JURULATIH\n"
+	.string "macam mana {STR_VAR_1} ini.\p"
 	.string "Memang satu pengajaran yang bagus!$"
 
 gTVSecretBaseVisitText10::
@@ -1570,10 +1574,10 @@ gTVSecretBaseVisitText10::
 	.string "kuat bagai raksasa!\p"
 	.string "Mereka membuktikan kegigihan\n"
 	.string "{STR_VAR_1} sebagai JURULATIH.\p"
-	.string "Hakikat {STR_VAR_2} itu tahu move\n"
+	.string "{STR_VAR_2} itu pula tahu move\n"
 	.string "{STR_VAR_3}…\p"
-	.string "Itu menunjukkan JURULATIH jenis apa\n"
-	.string "{STR_VAR_1} ini.\p"
+	.string "Dari situ kita tahu JURULATIH\n"
+	.string "macam mana {STR_VAR_1} ini.\p"
 	.string "Memang satu pengajaran yang bagus!$"
 
 gTVSecretBaseVisitText11::
@@ -1583,10 +1587,10 @@ gTVSecretBaseVisitText11::
 	.string "dibesarkan dengan seimbang.\p"
 	.string "Mereka membuktikan ketelitian\n"
 	.string "{STR_VAR_1} sebagai JURULATIH.\p"
-	.string "Hakikat {STR_VAR_2} itu tahu move\n"
+	.string "{STR_VAR_2} itu pula tahu move\n"
 	.string "{STR_VAR_3}…\p"
-	.string "Itu menunjukkan JURULATIH jenis apa\n"
-	.string "{STR_VAR_1} ini.\p"
+	.string "Dari situ kita tahu JURULATIH\n"
+	.string "macam mana {STR_VAR_1} ini.\p"
 	.string "Memang satu pengajaran yang bagus!$"
 
 gTVSecretBaseVisitText12::
@@ -1596,10 +1600,10 @@ gTVSecretBaseVisitText12::
 	.string "besar untuk berkembang.\p"
 	.string "Mereka mewakili harapan dan impian\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Hakikat {STR_VAR_2} itu tahu move\n"
+	.string "{STR_VAR_2} itu pula tahu move\n"
 	.string "{STR_VAR_3}…\p"
-	.string "Itu menunjukkan JURULATIH jenis apa\n"
-	.string "{STR_VAR_1} ini.\p"
+	.string "Dari situ kita tahu JURULATIH\n"
+	.string "macam mana {STR_VAR_1} ini.\p"
 	.string "Memang satu pengajaran yang bagus!$"
 
 gTVSecretBaseVisitText13::
@@ -1644,7 +1648,7 @@ gTVThePokemonBattleSeminarText00::
 
 gTVThePokemonBattleSeminarText01::
 	.string "Dan ia menggunakan move {STR_VAR_3}\n"
-	.string "ke atas {STR_VAR_2}…\p"
+	.string "terhadap {STR_VAR_2}…\p"
 	.string "Hmm… {STR_VAR_1}!\n"
 	.string "Itu tindakan yang salah!$"
 
@@ -1668,7 +1672,7 @@ gTVThePokemonBattleSeminarText06::
 	.string "patut JURULATIH itu gunakan?\p"
 	.string "… … … … … …\n"
 	.string "Move {STR_VAR_1}!\p"
-	.string "Move {STR_VAR_1} jauh lebih baik\n"
+	.string "{STR_VAR_1} tentu jauh lebih baik\n"
 	.string "daripada {STR_VAR_2}.\p"
 	.string "Penonton, saya gesa anda belajar\n"
 	.string "daripada kes ini dan bertarung\l"
@@ -1690,8 +1694,8 @@ gTVTrainerFanClubText00::
 	.string "{STR_VAR_1}?!$"
 
 gTVTrainerFanClubText01::
-	.string "PEMINAT: Gayanya membaling\n"
-	.string "POKé BALL yang hebat!$"
+	.string "PEMINAT: Gaya hebatnya membaling\n"
+	.string "POKé BALL!$"
 
 gTVTrainerFanClubText02::
 	.string "PEMINAT: Cara larinya yang comel!$"
@@ -1709,20 +1713,20 @@ gTVTrainerFanClubText05::
 	.string "kepada semua POKéMON!$"
 
 gTVTrainerFanClubText06::
-	.string "PEMINAT: Teknik menunggang BASIKAL\n"
-	.string "JURULATIH itu yang hebat!$"
+	.string "PEMINAT: Teknik hebat JURULATIH itu\n"
+	.string "menunggang BASIKAL!$"
 
 gTVTrainerFanClubText07::
-	.string "PEMINAT: Gaya JURULATIH itu membeli\n"
-	.string "barang yang mengagumkan!$"
+	.string "PEMINAT: Gaya membeli-belah\n"
+	.string "JURULATIH itu yang mengagumkan!$"
 
 gTVTrainerFanClubText08::
-	.string "PEMINAT: Cara JURULATIH itu memberi\n"
-	.string "nama timangan yang comel!$"
+	.string "PEMINAT: Cara comel JURULATIH itu\n"
+	.string "memberi nama timangan POKéMON!$"
 
 gTVTrainerFanClubText09::
-	.string "PEMINAT: Gaya JURULATIH itu menghias\n"
-	.string "PANGKALAN RAHSIA yang kreatif!$"
+	.string "PEMINAT: Gaya kreatif JURULATIH itu\n"
+	.string "menghias PANGKALAN RAHSIA!$"
 
 gTVTrainerFanClubText10::
 	.string "PEMINAT: Cara JURULATIH itu guna\n"
@@ -1730,8 +1734,8 @@ gTVTrainerFanClubText10::
 
 gTVTrainerFanClubText11::
 	.string "PENGACARA: Seperti yang anda lihat,\n"
-	.string "{STR_VAR_1} memang hangat! Terlalu\l"
-	.string "panas, yow!\p"
+	.string "{STR_VAR_1} memang hangat! Panas\l"
+	.string "sampai tak boleh sentuh, yow!\p"
 	.string "Dalam kalangan PEMINAT {STR_VAR_1},\n"
 	.string "ada slogan istimewa!\p"
 	.string "PENGACARA: Bila saya kata {STR_VAR_1},\n"
@@ -1775,25 +1779,25 @@ TVSpotTheCuties_Text_Intro::
 	.string "{STR_VAR_2} milik {STR_VAR_1}.$"
 
 TVSpotTheCuties_Text_RibbonsLow::
-	.string "Bilangan REBEN yang dipakai\n"
-	.string "{STR_VAR_2} ialah {STR_VAR_3}.\p"
+	.string "{STR_VAR_2} memakai {STR_VAR_3}\n"
+	.string "helai REBEN.\p"
 	.string "Ini menunjukkan betapa sayangnya\n"
 	.string "{STR_VAR_1} kepada POKéMON itu.$"
 
 TVSpotTheCuties_Text_RibbonsMid::
-	.string "{STR_VAR_2} memakai {STR_VAR_3} REBEN\n"
-	.string "yang menakjubkan!\p"
+	.string "{STR_VAR_2} memakai sebanyak\n"
+	.string "{STR_VAR_3} REBEN! Menakjubkan!\p"
 	.string "Ini membuktikan komitmen {STR_VAR_1}\n"
 	.string "terhadap POKéMON itu!$"
 
 TVSpotTheCuties_Text_RibbonsHigh::
-	.string "{STR_VAR_2} memakai {STR_VAR_3} REBEN\n"
-	.string "yang luar biasa!\p"
+	.string "{STR_VAR_2} memakai sebanyak\n"
+	.string "{STR_VAR_3} REBEN! Luar biasa!\p"
 	.string "Ini menunjukkan dedikasi penuh\n"
 	.string "{STR_VAR_1} sebagai pengumpul!$"
 
 TVSpotTheCuties_Text_RibbonIntro::
-	.string "Mari kita lihat lebih dekat REBEN\n"
+	.string "Jom kita tengok dari dekat REBEN\n"
 	.string "yang dipakai {STR_VAR_2}.$"
 
 TVSpotTheCuties_Text_RibbonChampion::
@@ -2031,9 +2035,9 @@ gTVPokemonNewsBattleFrontierText18::
 gTVWhatsNo1InHoennTodayText00::
 	.string "APA NO. 1 DI HOENN HARI INI?\n"
 	.string "Ya, tibalah masanya lagi!\p"
-	.string "Helo, penonton! Adakah anda berusaha\n"
-	.string "sebaik mungkin dalam segala hal?\p"
-	.string "Mari kita lihat JURULATIH yang\n"
+	.string "Helo, penonton! Dah beri yang\n"
+	.string "terbaik dalam semua yang anda buat?\p"
+	.string "Jom kita tengok JURULATIH yang\n"
 	.string "paling hebat hari ini!\p"
 	.string "JURULATIH no. 1 hari ini tidak lain\n"
 	.string "tidak bukan ialah {STR_VAR_1}!$"
@@ -2079,7 +2083,8 @@ gTVWhatsNo1InHoennTodayText05::
 	.string "Akibatnya, pakaian {STR_VAR_1}\n"
 	.string "jadi kotor dengan tanah.\p"
 	.string "Di tempat JURULATIH itu menanam,\n"
-	.string "bunga yang tak terkira telah mekar.\p"
+	.string "bunga yang tak terkira banyaknya\l"
+	.string "kini mekar.\p"
 	.string "Kononnya bunga itu dapat menenangkan\n"
 	.string "perasaan orang.$"
 
@@ -2095,7 +2100,7 @@ gTVWhatsNo1InHoennTodayText07::
 	.string "{STR_VAR_2} Mata Tarung!\p"
 	.string "{STR_VAR_1} kemudian dilihat berfikir\n"
 	.string "panjang sama ada nak tukar Mata\l"
-	.string "Pertarungan itu dengan barang hebat\l"
+	.string "Tarung itu dengan barang hebat\l"
 	.string "atau hiasan dalaman yang menarik.\p"
 	.string "Kononnya JURULATIH itu tersengih\n"
 	.string "sambil menimbang pilihan.$"
@@ -2160,8 +2165,8 @@ TVSecretBaseSecrets_Text_StoppedMoving1::
 TVSecretBaseSecrets_Text_StoppedMoving2::
 	.string "Pelawat itu berhenti!\p"
 	.string "Pelawat itu langsung tak bergerak!\p"
-	.string "Adakah dia penat?\n"
-	.string "Sudah letihkah pelawat itu?$"
+	.string "Dia penat ke?\n"
+	.string "Pelawat itu dah keletihan?$"
 
 TVSecretBaseSecrets_Text_UsedChair::
 	.string "Pelawat itu duduk di atas kerusi!\n"
@@ -2172,8 +2177,8 @@ TVSecretBaseSecrets_Text_UsedChair::
 
 TVSecretBaseSecrets_Text_UsedBalloon::
 	.string "Pelawat itu menerpa ke arah belon!\p"
-	.string "Ia pecah!\n"
-	.string "Ya ampun, ia meletup!\p"
+	.string "Pecah!\n"
+	.string "Aduhai, meletup!\p"
 	.string "Pelawat itu nampak terkejut dengan\n"
 	.string "bunyi yang tiba-tiba itu!$"
 
@@ -2206,7 +2211,7 @@ TVSecretBaseSecrets_Text_UsedGlassOrnament::
 	.string "HIASAN KACA!\p"
 	.string "Alamak!\p"
 	.string "Pelawat itu menyentuhnya!\p"
-	.string "Ia jadi penuh dengan\n"
+	.string "Habis penuh dengan\n"
 	.string "kesan cap jari…$"
 
 TVSecretBaseSecrets_Text_UsedTV::
@@ -2232,12 +2237,12 @@ TVSecretBaseSecrets_Text_UsedCushion::
 
 TVSecretBaseSecrets_Text_HitCushion::
 	.string "…mula memukulnya!\p"
-	.string "Adakah pelawat itu sangat tertekan?$"
+	.string "Pelawat itu tertekan sangat ke?$"
 
 TVSecretBaseSecrets_Text_HuggedCushion::
 	.string "…memeluknya erat-erat!\p"
-	.string "Adakah pelawat itu sedang gembira\n"
-	.string "tentang sesuatu?$"
+	.string "Mungkinkah pelawat itu sedang\n"
+	.string "gembira tentang sesuatu?$"
 
 TVSecretBaseSecrets_Text_BattledWon::
 	.string "Pelawat itu sedang berbual dengan\n"
@@ -2274,10 +2279,10 @@ TVSecretBaseSecrets_Text_DeclinedBattle::
 TVSecretBaseSecrets_Text_UsedPoster::
 	.string "Pelawat itu sedang merenung\n"
 	.string "sebuah poster!\p"
-	.string "Adakah poster itu kegemaran\n"
-	.string "pelawat itu?\p"
-	.string "…Tapi… Ada sesuatu yang meresahkan\n"
-	.string "tentang renungan pelawat itu.$"
+	.string "Poster itu kegemaran pelawat\n"
+	.string "itu ke?\p"
+	.string "…Tapi… Cara pelawat itu merenung buat\n"
+	.string "saya rasa tak sedap hati.$"
 
 TVSecretBaseSecrets_Text_UsedNoteMat::
 	.string "Pelawat itu memijak TIKAR NOT!\p"
@@ -2306,8 +2311,8 @@ TVSecretBaseSecrets_Text_UsedSandOrnament::
 	.string "Pelawat itu cuba mencapai\n"
 	.string "HIASAN PASIR!\p"
 	.string "Oh!\p"
-	.string "Ia runtuh!\n"
-	.string "Ia berkecai!\p"
+	.string "Runtuh!\n"
+	.string "Hancur berkecai!\p"
 	.string "Pelawat itu nampak malu\n"
 	.string "dan rasa bersalah!$"
 
@@ -2334,7 +2339,7 @@ TVSecretBaseSecrets_Text_UsedSolidBoard::
 TVSecretBaseSecrets_Text_UsedFence::
 	.string "Pelawat itu sedang merenung\n"
 	.string "PAGAR!\p"
-	.string "Adakah idea baru untuk perangkap\n"
+	.string "Mungkin ada idea perangkap baru\n"
 	.string "terlintas di fikiran pelawat itu?$"
 
 TVSecretBaseSecrets_Text_UsedGlitterMat::
@@ -2348,16 +2353,16 @@ TVSecretBaseSecrets_Text_UsedGlitterMat::
 TVSecretBaseSecrets_Text_UsedTire::
 	.string "Pelawat itu sedang merenung\n"
 	.string "TAYAR!\p"
-	.string "Adakah pelawat itu memikirkan\n"
-	.string "kereta yang menggunakannya?$"
+	.string "Mungkinkah pelawat itu terfikir\n"
+	.string "kereta apa yang guna tayar itu?$"
 
 TVSecretBaseSecrets_Text_UsedStand::
 	.string "Pelawat itu memanjat PENTAS!\p"
 	.string "Pelawat itu memandang seluruh\n"
 	.string "PANGKALAN {STR_VAR_1} dari atas!\p"
 	.string "Dan…\p"
-	.string "Melepaskan laungan!\n"
-	.string "Pelawat itu melaung!$"
+	.string "Dia memekik!\n"
+	.string "Pelawat itu memekik sekuat hati!$"
 
 TVSecretBaseSecrets_Text_BrokeDoor::
 	.string "Pelawat itu merempuh\n"
@@ -2382,7 +2387,7 @@ TVSecretBaseSecrets_Text_UsedSlideButDidntGoDown::
 	.string "Dan…\p"
 	.string "Pelawat itu turun semula\n"
 	.string "ikut tangga!\p"
-	.string "Adakah pelawat itu tiba-tiba takut?$"
+	.string "Pelawat itu tiba-tiba kecut perut ke?$"
 
 TVSecretBaseSecrets_Text_UsedJumpMat::
 	.string "Pelawat itu memijak\n"
@@ -2449,8 +2454,8 @@ gTVSafariFanClubText07::
 
 gTVSafariFanClubText08::
 	.string "Rasanya JURULATIH itu lebih bertuah\n"
-	.string "kalau guna {POKEBLOCK}, yang langsung\l"
-	.string "tak diguna masa itu.$"
+	.string "kalau guna {POKEBLOCK}. Masa itu dia\l"
+	.string "langsung tak guna.$"
 
 gTVSafariFanClubText09::
 	.string "WARTAWAN: Betul ke tu?\p"
@@ -2495,8 +2500,8 @@ ContestLiveUpdates_Text_BetterRound2::
 	.string "menyerlah dalam penilaian pertama,\l"
 	.string "tapi ia menang besar dalam\l"
 	.string "penilaian kedua!\p"
-	.string "Satu kebangkitan ajaib untuk\n"
-	.string "{STR_VAR_2} itu. Yahoo!$"
+	.string "{STR_VAR_2} itu bangkit semula\n"
+	.string "secara ajaib. Yahoo!$"
 
 ContestLiveUpdates_Text_EqualRounds::
 	.string "Penonton: {STR_VAR_2} itu konsisten\n"
@@ -2513,8 +2518,8 @@ ContestLiveUpdates_Text_BetterRound1::
 
 ContestLiveUpdates_Text_GotNervous::
 	.string "Penonton: Bila {STR_VAR_2} itu\n"
-	.string "gementar, saya tak dapat menahan diri\l"
-	.string "daripada menjerit memberi semangat.\p"
+	.string "gementar, saya tak tertahan-tahan\l"
+	.string "menjerit beri semangat.\p"
 	.string "Saya nak cakap kepada {STR_VAR_2}\n"
 	.string "itu, “Tahniah!”$"
 
@@ -2526,7 +2531,7 @@ ContestLiveUpdates_Text_StartledFoes::
 ContestLiveUpdates_Text_UsedCombo::
 	.string "Penonton: Pikatan kombo {STR_VAR_2}\n"
 	.string "itu sungguh memukau!\p"
-	.string "Saya tergamam sampai ke tulang!$"
+	.string "Bergegar jiwa saya dibuatnya!$"
 
 ContestLiveUpdates_Text_ExcitingAppeal::
 	.string "Penonton: Pikatan {STR_VAR_2} yang\n"
@@ -2570,11 +2575,11 @@ ContestLiveUpdates_Text_VeryCute::
 
 ContestLiveUpdates_Text_VerySmart::
 	.string "{STR_VAR_2}!\n"
-	.string "Kamulah yang terbijak antara bijak!$"
+	.string "Kamu paling bijak antara yang bijak!$"
 
 ContestLiveUpdates_Text_VeryTough::
 	.string "{STR_VAR_2}!\n"
-	.string "Kamulah yang tertegap antara tegap!$"
+	.string "Kamu paling tegap antara yang tegap!$"
 
 ContestLiveUpdates_Text_TookBreak::
 	.string "Penonton: Walaupun {STR_VAR_2} itu\n"
@@ -2594,7 +2599,7 @@ ContestLiveUpdates_Text_MoveWonderful::
 	.string "{STR_VAR_3} {STR_VAR_2} itu!\l"
 	.string "{STR_VAR_3} {STR_VAR_2}!\l"
 	.string "{STR_VAR_3} {STR_VAR_2}!\l"
-	.string "Bagaimana ia boleh sehebat itu?$"
+	.string "Macam mana boleh hebat sangat?$"
 
 ContestLiveUpdates_Text_TalkAboutAnotherMon::
 	.string "PENGACARA: Jadi, itulah dia. Tempat ini\n"
@@ -2631,8 +2636,8 @@ ContestLiveUpdates_Text_LostAfterWinningRound1::
 	.string "Walaupun di tempat pertama dalam\n"
 	.string "penilaian pertama, pikatannya dalam\l"
 	.string "penilaian kedua tidak menjadi.\p"
-	.string "Ia mengalami kekalahan memalukan\n"
-	.string "selepas dipintas dari belakang.\p"
+	.string "Ia dipintas dari belakang dan\n"
+	.string "kalah dengan memalukan.\p"
 	.string "Saya pasti {STR_VAR_1} sedang belajar\n"
 	.string "cara membuat pikatan lebih berkesan.$"
 
@@ -2697,8 +2702,8 @@ gTVPokemonBattleUpdateText02::
 	.string "dengan {STR_VAR_3}!$"
 
 gTVPokemonBattleUpdateText03::
-	.string "{STR_VAR_2} milik {STR_VAR_1} lemah\n"
-	.string "sekali dan sangat merugikan.$"
+	.string "{STR_VAR_2} milik {STR_VAR_1} beraksi\n"
+	.string "lemah, dan itu sangat merugikan.$"
 
 gTVPokemonBattleUpdateText04::
 	.string "Tahniah atas kemenangan anda,\n"
@@ -2765,33 +2770,33 @@ GabbyAndTy_Text_QuoteFromLastInterview:
 GabbyAndTy_Text_YouStompedUsInterviewAgain:
 	.string "Kali terakhir kita bertarung, kamu\n"
 	.string "tumpaskan kami sebelum kami sedia…\p"
-	.string "Apa pun, bagaimana?\n"
-	.string "Nak ditemu bual lagi?$"
+	.string "Apa pun, macam mana?\n"
+	.string "Nak kami temu bual lagi?$"
 
 GabbyAndTy_Text_YouThrewABallAtUsInterviewAgain:
-	.string "Kali terakhir kita bertarung, bukankah\n"
-	.string "kamu baling POKé BALL pada kami?\p"
+	.string "Kali terakhir kita bertarung, kamu\n"
+	.string "baling POKé BALL pada kami, kan?\p"
 	.string "Kami terkejut! Jadi kami ceritakan\n"
 	.string "kepada semua orang!\p"
-	.string "Apa pun, bagaimana?\n"
-	.string "Nak ditemu bual lagi?$"
+	.string "Apa pun, macam mana?\n"
+	.string "Nak kami temu bual lagi?$"
 
 GabbyAndTy_Text_CleverItemSkillsInterviewAgain:
 	.string "Kali terakhir kita bertarung, kamu\n"
 	.string "guna barang dengan bijak dan\l"
 	.string "kalahkan kami.\p"
-	.string "Apa pun, bagaimana?\n"
-	.string "Nak ditemu bual lagi?$"
+	.string "Apa pun, macam mana?\n"
+	.string "Nak kami temu bual lagi?$"
 
 GabbyAndTy_Text_WeLookedRespectableInterviewAgain:
 	.string "Kali terakhir kita bertarung, kami\n"
 	.string "masih nampak boleh tahan.\p"
-	.string "Apa pun, bagaimana?\n"
-	.string "Nak ditemu bual lagi?$"
+	.string "Apa pun, macam mana?\n"
+	.string "Nak kami temu bual lagi?$"
 
 GabbyAndTy_Text_InterviewAgain:
-	.string "Apa pun, bagaimana?\n"
-	.string "Nak ditemu bual lagi?$"
+	.string "Apa pun, macam mana?\n"
+	.string "Nak kami temu bual lagi?$"
 
 GabbyAndTy_Text_DescribeYourFeelings:
 	.string "Sudi?\n"
@@ -2827,9 +2832,9 @@ GabbyAndTy_Text_GiveUsAnInterviewThisTime:
 	.string "GABBY: Wah, kamu memang hebat!\p"
 	.string "Kamu dah jadi jauh lebih kuat--jauh--\n"
 	.string "sejak kali terakhir kita bertarung.\p"
-	.string "Kami memang betul bila menganggap\n"
+	.string "Memang tak salah kami anggap\n"
 	.string "kamu JURULATIH yang hebat.\p"
-	.string "Jadi, apa pun, bagaimana?\n"
+	.string "Jadi, macam mana?\n"
 	.string "Sudi tak kamu beri kami temu bual\l"
 	.string "kali ini?$"
 
@@ -2892,9 +2897,9 @@ gTVInSearchOfTrainersText02::
 	.string "… …\p"
 	.string "Begitulah kami akhirnya bertarung\n"
 	.string "dengan {PLAYER}.\p"
-	.string "Dalam aksi yang mendominasi, kami\n"
-	.string "dilenyek, digulung, dan dicampak!\p"
-	.string "{PLAYER} memang kuat tanpa belas…\p"
+	.string "Kami dibelasah teruk--dilenyek,\n"
+	.string "digulung, dan dicampak ke tepi!\p"
+	.string "{PLAYER} kuat tanpa belas kasihan…\p"
 	.string "Inilah pendapat kami selepas\n"
 	.string "bertarung dengan JURULATIH ini.$"
 
@@ -2902,8 +2907,8 @@ gTVInSearchOfTrainersText03::
 	.string "Gabungan {STR_VAR_1} dan\n"
 	.string "{STR_VAR_3} memang mengagumkan!\p"
 	.string "Melihat mereka--{STR_VAR_1} dan\n"
-	.string "{STR_VAR_3}--saling membantu tanpa\l"
-	.string "pamrih di tengah-tengah pertarungan…\p"
+	.string "{STR_VAR_3}--saling membantu dengan\l"
+	.string "ikhlas di tengah-tengah pertarungan…\p"
 	.string "Sungguh indah pemandangannya!\p"
 	.string "{STR_VAR_2} ialah move terakhir yang\n"
 	.string "JURULATIH itu guna dalam pertarungan.\p"
@@ -2923,7 +2928,7 @@ gTVInSearchOfTrainersText04::
 	.string "diri mencabar {PLAYER}.$"
 
 gTVInSearchOfTrainersText05::
-	.string "Cuma satu perkara yang perlu dikata.\n"
+	.string "Cuma satu yang saya nak cakap.\n"
 	.string "Jangan sesekali baling POKé BALL\l"
 	.string "dalam pertarungan JURULATIH!\p"
 	.string "{PLAYER} memang kuat, tapi langsung\n"
@@ -2936,8 +2941,8 @@ gTVInSearchOfTrainersText05::
 gTVInSearchOfTrainersText06::
 	.string "{PLAYER} pandai membaca\n"
 	.string "tindakan lawan.\p"
-	.string "Masa penggunaan barangnya sangat\n"
-	.string "berkesan!$"
+	.string "Dia guna barang pada masa yang\n"
+	.string "sangat tepat!$"
 
 gTVInSearchOfTrainersText07::
 	.string "Terus terang, saya ingat saya\n"
@@ -2986,8 +2991,8 @@ ContestLadyShow_Text_Won::
 	.string "Tapi saya pasti kami takkan berjaya\n"
 	.string "tanpa semua bantuan yang kami terima\l"
 	.string "sebelum CONTEST ini!\p"
-	.string "PENGACARA: Ada sesiapa yang istimewa\n"
-	.string "yang anda nak kongsi kegembiraan ini?\l"
+	.string "PENGACARA: Ada insan istimewa yang\n"
+	.string "anda nak kongsi kegembiraan ini?\l"
 	.string "Mari dengar secara langsung!\p"
 	.string "JELITA: Hei, di luar sana!\p"
 	.string "{STR_VAR_3}! Awak tengok tak? Kami\n"

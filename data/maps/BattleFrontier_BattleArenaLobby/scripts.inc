@@ -360,8 +360,8 @@ BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge:
 	.string "cabaran BATTLE ARENA?$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge:
-	.string "Kami menanti cabaran kamu\n"
-	.string "pada lain kali!$"
+	.string "Kami nantikan cabaran kamu\n"
+	.string "lain kali!$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
 	.string "Di BATTLE ARENA, kami mengadakan\n"
@@ -375,7 +375,8 @@ BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
 	.string "Sebaik POKéMON masuk bertarung, ia\n"
 	.string "mesti kekal sehingga ada keputusan.\p"
 	.string "Jika tiada keputusan dalam tiga\n"
-	.string "giliran, ia akan ke penilaian.\p"
+	.string "giliran, pemenang ditentukan melalui\l"
+	.string "penilaian.\p"
 	.string "Jika mahu berhenti seketika,\n"
 	.string "sila simpan permainan.\p"
 	.string "Jika tak simpan, kamu tidak boleh\n"
@@ -391,7 +392,7 @@ BattleFrontier_BattleArenaLobby_Text_OkayToSave:
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
 	.string "BATTLE ARENA ada dua tahap cabaran,\n"
 	.string "LV. 50 dan LV. TERBUKA.\l"
-	.string "Yang mana pilihan kamu?$"
+	.string "Kamu pilih yang mana?$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons:
 	.string "Baiklah, sila pilih\n"
@@ -431,10 +432,9 @@ BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
 	.string "Wahai pencabar!\p"
 	.string "Kamu tidak simpan permainan sebelum\n"
 	.string "menutupnya, bukan?\p"
-	.string "Sayang sekali, kerana itu kamu\n"
-	.string "telah dibatalkan penyertaan\l"
-	.string "daripada cabaran kamu.\p"
-	.string "Sudah tentu, kamu boleh mulakan\n"
+	.string "Sayang sekali, sebab itu penyertaan\n"
+	.string "kamu dalam cabaran ini dibatalkan.\p"
+	.string "Tapi kamu tentu boleh mulakan\n"
 	.string "cabaran baru.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnSevenWins:
@@ -448,7 +448,7 @@ BattleFrontier_BattleArenaLobby_Text_RecordAchievement:
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_PresentYouWithPrize:
 	.string "Sempena 7 kemenangan berturut-turut,\n"
-	.string "kami hadiahkan kamu hadiah ini.$"
+	.string "terimalah hadiah ini daripada kami.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
@@ -458,21 +458,21 @@ BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
 	.string "Oh?\n"
-	.string "BEG kamu nampaknya penuh.\p"
-	.string "Sila kosongkan ruang dan\n"
-	.string "datang semula untuk hadiah kamu.$"
+	.string "Nampaknya BEG kamu dah penuh.\p"
+	.string "Sila kosongkan sedikit ruang, kemudian\n"
+	.string "datang semula ambil hadiah kamu.$"
 
 BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave:
 	.string "Terima kasih banyak kerana menyertai!\p"
 	.string "Sila tunggu, saya simpan permainan.$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge2:
-	.string "Kami menanti cabaran kamu\n"
-	.string "pada lain kali!$"
+	.string "Kami nantikan cabaran kamu\n"
+	.string "lain kali!$"
 
 BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame:
-	.string "Kami memang menanti\n"
-	.string "ketibaan kamu.\p"
+	.string "Kami memang menantikan\n"
+	.string "kedatangan kamu.\p"
 	.string "Sebelum ke BATTLE ARENA, saya\n"
 	.string "perlu simpan permainan.\l"
 	.string "Sila tunggu.$"
@@ -483,13 +483,13 @@ BattleFrontier_BattleArenaLobby_Text_RecordLastMatch:
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
 	.string "Saya kalah ikut keputusan PENGADIL…\p"
-	.string "Rasanya bukan idea baik guna move\n"
-	.string "bertahan sahaja tanpa menyerang…$"
+	.string "Silap saya guna move bertahan saja,\n"
+	.string "tak menyerang langsung…$"
 
 BattleFrontier_BattleArenaLobby_Text_LandingHitsWorked:
 	.string "Saya menang dalam penilaian!\p"
-	.string "Asyik menyerang POKéMON lawan\n"
-	.string "memang berkesan!$"
+	.string "Serang POKéMON lawan tanpa henti\n"
+	.string "memang menjadi!$"
 
 BattleFrontier_BattleArenaLobby_Text_MatchWasDeclaredDraw:
 	.string "Perlawanan kami diisytiharkan seri.\p"
@@ -509,7 +509,7 @@ BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
 	.string "bina pasukan yang berkesan.$"
 
 BattleFrontier_BattleArenaLobby_Text_RulesAreListed:
-	.string "Peraturan Kejohanan KO Set tertera.$"
+	.string "Ini peraturan Kejohanan KO Set.$"
 
 BattleFrontier_BattleArenaLobby_Text_ReadWhichHeading:
 	.string "Tajuk mana yang kamu mahu baca?$"
@@ -546,9 +546,9 @@ BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
 	.string "naik jika move itu “sangat berkesan”\l"
 	.string "dan turun jika ia\l"
 	.string "“kurang berkesan.”\p"
-	.string "Mata Teknik tidak naik untuk\n"
-	.string "move seperti LINDUNG dan WASPADA.\p"
-	.string "Jika lawan guna LINDUNG atau\n"
+	.string "Mata Teknik tidak naik untuk move\n"
+	.string "seperti PERLINDUNGAN dan WASPADA.\p"
+	.string "Jika lawan guna PERLINDUNGAN atau\n"
 	.string "WASPADA dan move POKéMON kamu\l"
 	.string "tidak kena, mata Teknik tidak\l"
 	.string "akan turun.$"

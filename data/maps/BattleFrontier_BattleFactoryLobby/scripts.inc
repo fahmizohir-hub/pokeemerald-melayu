@@ -337,19 +337,19 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
 	.string "Pertama, kamu akan dipinjamkan tiga\n"
 	.string "POKéMON khas untuk acara ini.\p"
 	.string "Dengan POKéMON sewa yang diberi,\n"
-	.string "kamu mesti bertarung TARUNG TUNGGAL.\p"
+	.string "kamu akan bertanding TARUNG TUNGGAL.\p"
 	.string "Jika menang, kamu boleh menukar\n"
 	.string "seekor POKéMON sewa kamu.\p"
 	.string "Ulangi kitaran bertarung dan menukar\n"
-	.string "ini--jika kamu menang tujuh kali\l"
-	.string "berturut-turut, Mata Tarung diberi.\p"
+	.string "ini--menang tujuh kali berturut-turut\l"
+	.string "dan kamu akan dapat Mata Tarung.\p"
 	.string "Jika mahu berhenti di tengah\n"
 	.string "cabaran, sila simpan permainan.\p"
 	.string "Jika tak simpan, penyertaan kamu\n"
 	.string "dalam cabaran akan dibatalkan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit:
-	.string "Kami menanti lawatan kamu seterusnya.$"
+	.string "Kami nantikan kedatangan kamu lagi.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode:
 	.string "Tahap mana yang kamu mahu cabar?\n"
@@ -396,15 +396,15 @@ BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
 	.string "sebahagian Mata Tarung.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
-	.string "Kami memang menanti kamu!\p"
-	.string "Sebelum menyambung cabaran kamu,\n"
+	.string "Kami dah lama tunggu kamu!\p"
+	.string "Sebelum kamu sambung cabaran,\n"
 	.string "saya perlu simpan permainan.$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
 	.string "Maaf, tapi kamu tidak simpan\n"
 	.string "sebelum berhenti bermain kali lepas.\p"
-	.string "Oleh itu, penyertaan kamu dalam\n"
-	.string "cabaran telah dibatalkan.$"
+	.string "Sebab itu, penyertaan kamu dalam\n"
+	.string "cabaran ini dibatalkan.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
@@ -433,12 +433,12 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
 	.string "Pertama, kamu akan dipinjamkan tiga\n"
 	.string "POKéMON khas untuk acara ini.\p"
 	.string "Dengan POKéMON sewa yang diberi,\n"
-	.string "kamu mesti bertarung TARUNG GANDA.\p"
+	.string "kamu akan bertanding TARUNG GANDA.\p"
 	.string "Jika menang, kamu boleh menukar\n"
 	.string "seekor POKéMON sewa kamu.\p"
 	.string "Ulangi kitaran bertarung dan menukar\n"
-	.string "ini--jika kamu menang tujuh kali\l"
-	.string "berturut-turut, Mata Tarung diberi.\p"
+	.string "ini--menang tujuh kali berturut-turut\l"
+	.string "dan kamu akan dapat Mata Tarung.\p"
 	.string "Jika mahu berhenti di tengah\n"
 	.string "cabaran, sila simpan permainan.\p"
 	.string "Jika tak simpan sebelum berhenti,\n"
@@ -467,7 +467,7 @@ BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
 	.string "Hai!\n"
-	.string "Kamu, yang di sana!\p"
+	.string "Kamu yang di sana tu!\p"
 	.string "Kamu ingat acara di sini senang sebab\n"
 	.string "tak perlu ada pasukan POKéMON\l"
 	.string "yang dibela sendiri?\p"
@@ -483,11 +483,11 @@ BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
 	.string "Kami kena belasah teruk…$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:
-	.string "Nasib saya memang tak baik\n"
-	.string "langsung.\p"
+	.string "Asyik tak menjadi je\n"
+	.string "saya ni.\p"
 	.string "Kamu perlu teliti POKéMON lawan\n"
-	.string "semasa bertarung untuk tahu sama ada\l"
-	.string "ia bagus atau tidak.$"
+	.string "semasa bertarung untuk tahu\l"
+	.string "bagus ke tidak.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
 	.string "Kamu tahu kakitangan di sini ada beri\n"
@@ -505,7 +505,7 @@ BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
 	.string "sewa mereka berubah-ubah.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
-	.string "Peraturan Tukar Tarung tertera.$"
+	.string "Ini peraturan Tukar Tarung.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
 	.string "Tajuk mana yang kamu mahu baca?$"

@@ -293,15 +293,15 @@ BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge:
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit:
 	.string "Mahu simpan cabaran kamu dan\n"
-	.string "keluar permainan buat masa ini?$"
+	.string "berhenti main buat masa ini?$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge:
 	.string "Kamu mahu undur diri daripada\n"
 	.string "cabaran Pilih Tarung?$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume:
-	.string "Kami memang menanti kepulangan kamu…\p"
-	.string "Sebelum menyambung cabaran Pilih\n"
+	.string "Kami dah lama menanti kamu kembali…\p"
+	.string "Sebelum kamu sambung cabaran Pilih\n"
 	.string "Tarung, biar saya simpan permainan…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge:
@@ -318,8 +318,8 @@ BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack:
 
 BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose:
 	.string "Maafkan saya, tapi…\p"
-	.string "Adakah kamu rasa susah untuk\n"
-	.string "memilih laluan?$"
+	.string "Barangkali kamu rasa sukar\n"
+	.string "nak pilih laluan?$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence:
 	.string "Begitu…\n"
@@ -342,23 +342,23 @@ BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon:
 	.string "berlegar di sekitarnya…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople:
-	.string "Adakah itu… JURULATIH?\n"
-	.string "Saya rasa ada kehadiran manusia…$"
+	.string "Mungkinkah… JURULATIH?\n"
+	.string "Saya dapat rasa ada orang…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:
-	.string "Saya rasa saya terdengar sesuatu…\n"
+	.string "Macam ada terdengar sesuatu…\n"
 	.string "Mungkin bunyi bisikan…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga:
-	.string "Entah kenapa, saya rasa gelombang\n"
-	.string "nostalgia datang daripadanya…$"
+	.string "Entah kenapa, saya rasa satu perasaan\n"
+	.string "nostalgia dari laluan itu…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent:
-	.string "Saya kesal untuk katakan…\p"
+	.string "Dengan berat hati saya katakan…\p"
 	.string "Sesuatu yang menakutkan, ya, ngeri,\n"
 	.string "akan menimpa kamu…\p"
 	.string "Saya nasihatkan kamu berhati-hati\n"
-	.string "dan bersedia untuk yang terburuk…$"
+	.string "dan bersedia untuk yang paling buruk…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence:
 	.string "Dari setiap laluan saya rasa ada\n"

@@ -996,8 +996,8 @@ Route104_Text_WhatsItLikeAtBottomOfSea:
 Route104_Text_ThrowBallAtWeakenedPokemon:
 	.string "Kalau kamu nak baling POKé BALL,\n"
 	.string "lemahkan POKéMON liar dulu.\p"
-	.string "Lebih senang ditangkap kalau ia\n"
-	.string "diracun, terbakar atau tertidur.$"
+	.string "Lagi senang nak tangkap kalau ia\n"
+	.string "keracunan, terbakar atau tertidur.$"
 
 Route104_Text_OnlyThrowBallAtWildPokemon:
 	.string "Kamu pencuri kalau cuba\n"
@@ -1006,19 +1006,19 @@ Route104_Text_OnlyThrowBallAtWildPokemon:
 	.string "POKéMON liar saja.$"
 
 Route104_Text_ImNotATrainer:
-	.string "Oh, tidak, saya bukan JURULATIH.\p"
-	.string "Tapi betul tu, kalau mata JURULATIH\n"
-	.string "bertemu, itu cabaran untuk bertarung.\p"
-	.string "Kalau tak nak bertarung, jangan\n"
-	.string "biar mereka nampak kamu.$"
+	.string "Eh, bukan, saya bukan JURULATIH.\p"
+	.string "Tapi betul, kalau JURULATIH bertentang\n"
+	.string "mata, maknanya ajak bertarung.\p"
+	.string "Kalau tak nak bertarung, jangan biar\n"
+	.string "mereka nampak kamu.$"
 
 Route104_Text_LikeFillingMouthWithSeedsTakeThis:
-	.string "Saya suka isi mulut dengan biji\n"
-	.string "benih, kemudian ludah laju-laju!\p"
+	.string "Saya suka isi mulut dengan biji benih,\n"
+	.string "kemudian ludah laju-laju!\p"
 	.string "Ambillah ni, kamu cubalah sendiri!\p"
-	.string "Gunakannya pada POKéMON, dan ia akan\n"
-	.string "belajar move yang menembak biji benih\l"
-	.string "bertubi-tubi.$"
+	.string "Guna pada POKéMON, nanti ia belajar\n"
+	.string "move yang menembak biji\l"
+	.string "benih bertubi-tubi.$"
 
 Route104_Text_TMsAreOneTimeUse:
 	.string "Satu nasihat!\p"
@@ -1070,8 +1070,8 @@ Route104_Text_MayWeShouldRegister:
 	.string "MAY: Oh, hai, {PLAYER}{KUN}!\p"
 	.string "DEVON dah naik taraf POKéNAV kau\n"
 	.string "dengan sistem MATCH CALL, ya?\p"
-	.string "Jom kita daftar satu sama lain supaya\n"
-	.string "boleh berhubung bila-bila masa.$"
+	.string "Jom kita daftar nama masing-masing,\n"
+	.string "senang nak berhubung bila-bila masa.$"
 
 Route104_Text_RegisteredMay:
 	.string "{PLAYER} mendaftarkan\n"
@@ -1087,9 +1087,9 @@ Route104_Text_MayMinesDecentLetsBattle:
 
 Route104_Text_MayHaventRaisedPokemon:
 	.string "MAY: Eh, kenapa?\p"
-	.string "Kau belum banyak tangkap\n"
-	.string "atau latih POKéMON kau?\p"
-	.string "Tak elok untuk seorang JURULATIH!$"
+	.string "Kau belum banyak tangkap atau latih\n"
+	.string "POKéMON kau?\p"
+	.string "Tak elok macam tu, kau kan JURULATIH!$"
 
 Route104_Text_MayLetsBattle:
 	.string "MAY: Jadi, macam mana? Jom\n"
@@ -1116,8 +1116,8 @@ Route104_Text_BrendanWeShouldRegister:
 	.string "BRENDAN: Oh, hei, {PLAYER}!\p"
 	.string "Hebat, kau suruh DEVON pasang sistem\n"
 	.string "MATCH CALL dalam POKéNAV kau!\p"
-	.string "Jom daftar satu sama lain dalam\n"
-	.string "POKéNAV kita supaya boleh berhubung.$"
+	.string "Jom daftar nama masing-masing dalam\n"
+	.string "POKéNAV supaya senang berhubung.$"
 
 Route104_Text_RegisteredBrendan:
 	.string "{PLAYER} mendaftarkan\n"
@@ -1125,12 +1125,12 @@ Route104_Text_RegisteredBrendan:
 
 Route104_Text_BrendanHowsYourPokedex:
 	.string "BRENDAN: {PLAYER}, macam mana POKéDEX\n"
-	.string "kau? Dah isi beberapa muka surat?$"
+	.string "kau? Dah ada isi ke belum?$"
 
 Route104_Text_BrendanDoingGreatLetsBattle:
-	.string "Aku? Aku hebat!\p"
-	.string "Nak tengok sehebat mana\n"
-	.string "aku dalam pertarungan?$"
+	.string "Aku? Mestilah okey!\p"
+	.string "Nak uji sehebat mana aku\n"
+	.string "dalam pertarungan?$"
 
 Route104_Text_BrendanNoConfidence:
 	.string "BRENDAN: Kenapa? Tak\n"

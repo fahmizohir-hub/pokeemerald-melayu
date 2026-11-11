@@ -234,13 +234,13 @@ LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall:
 	.string "hidup dan mahu melompat keluar!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
-	.string "Maafkan saya. Saya tak berniat nak\n"
-	.string "bercakap seorang diri.\p"
-	.string "Kamu masih muda, tapi jelas sudah\n"
-	.string "banyak mengembara…\p"
-	.string "Mesti kamu jumpa POKéMON yang lincah\n"
-	.string "dan karya seni yang menggambarkan\l"
-	.string "mereka.\p"
+	.string "Maafkan saya. Saya terlalu\n"
+	.string "banyak bercakap pula.\p"
+	.string "Kamu masih muda, tapi jelas\n"
+	.string "sudah banyak mengembara…\p"
+	.string "Mesti kamu jumpa POKéMON\n"
+	.string "yang lincah dan karya seni\l"
+	.string "yang menggambarkan mereka.\p"
 	.string "Kalau kamu terjumpa lukisan begitu,\n"
 	.string "boleh kami minta kamu dapatkan izin\l"
 	.string "pelukisnya untuk pamerkan di sini?$"
@@ -251,10 +251,10 @@ LilycoveCity_LilycoveMuseum_2F_Text_WishToFillExhibit:
 	.string "bertenaga.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThanksAddedNewPainting:
-	.string "Terima kasih kepada kamu, koleksi kami\n"
-	.string "bertambah dengan sebuah lukisan baru!\p"
-	.string "Saya dengar ia menggambarkan POKéMON\n"
-	.string "kamu. Sungguh mengagumkan!\p"
+	.string "Berkat kamu, koleksi kami\n"
+	.string "bertambah satu lukisan baru!\p"
+	.string "Saya dengar ia menggambarkan\n"
+	.string "POKéMON kamu. Sungguh mengagumkan!\p"
 	.string "Terima kasih banyak-banyak!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYouPlayer:
@@ -315,15 +315,15 @@ LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
 	.string "secantik ni.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing:
-	.string "Hmm… Jadi di sinilah mereka pamerkan\n"
-	.string "lukisan POKéMON yang hangat\l"
-	.string "diperkatakan.\p"
-	.string "Begitu, lukisan baru ni memang agak\n"
-	.string "menghiburkan.$"
+	.string "Hmm… Jadi di sinilah mereka\n"
+	.string "pamerkan lukisan POKéMON\l"
+	.string "yang hangat diperkatakan.\p"
+	.string "Begitu rupanya. Lukisan baru\n"
+	.string "ni memang agak mencuit hati.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThesePaintingsOfYourPokemon:
-	.string "Wah, betul ke?\n"
-	.string "Lukisan ni lukisan POKéMON kamu.\p"
-	.string "Bukankah itu kegembiraan terbesar bagi\n"
-	.string "seorang JURULATIH?$"
+	.string "Wah, betul ke? Ini\n"
+	.string "lukisan POKéMON kamu?\p"
+	.string "Itulah kegembiraan paling besar\n"
+	.string "bagi seorang JURULATIH, kan?$"
 

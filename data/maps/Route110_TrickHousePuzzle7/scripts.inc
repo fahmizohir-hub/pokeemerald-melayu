@@ -324,7 +324,7 @@ Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
 	.string "Berpusing di tempat yang sama…\n"
-	.string "Ia membawa nasib malang…$"
+	.string "Itu bawa nasib malang…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
 	.string "Kalah!\n"

@@ -851,8 +851,8 @@ gText_WhichFloorWouldYouLike::
 	.string "Anda mahu ke tingkat mana?$"
 
 gText_SandstormIsVicious::
-	.string "Ribut pasir ini sangat ganas.\n"
-	.string "Mustahil untuk terus mara.$"
+	.string "Ribut pasir ini terlalu ganas.\n"
+	.string "Tak mungkin boleh terus mara.$"
 
 gText_SelectWithoutRegisteredItem::
 	.string "Barang dalam BEG boleh didaftarkan\n"
@@ -872,7 +872,7 @@ gText_PlayerHouseBootPC::
 	.string "{PLAYER} menghidupkan PC.$"
 
 gText_PokeblockLinkCanceled::
-	.string "Link telah dibatalkan.$"
+	.string "Link dibatalkan.$"
 
 gText_UnusedNicknameReceivedPokemon::
 	.string "Nak beri nama timangan kepada\n"
@@ -889,13 +889,13 @@ gText_RegisteredTrainerinPokeNav::
 
 gText_ComeBackWithSecretPower::
 	.string "Kamu tahu TM KUASA RAHSIA?\p"
-	.string "Kumpulan kami sangat suka\n"
+	.string "Kumpulan kami memang suka\n"
 	.string "TM KUASA RAHSIA.\p"
-	.string "Salah seorang ahli kami akan\n"
-	.string "berikannya kepada kamu.\l"
+	.string "Salah seorang ahli kami akan bagi\n"
+	.string "TM tu kepada kamu.\l"
 	.string "Datang balik dan tunjuk kalau dapat.\p"
 	.string "Kami akan terima kamu sebagai ahli\n"
-	.string "dan jual barang bagus secara rahsia.$"
+	.string "dan jual barang bagus senyap-senyap.$"
 
 gText_PokerusExplanation::
 	.string "POKéMON kamu mungkin dijangkiti\n"
@@ -903,14 +903,14 @@ gText_PokerusExplanation::
 	.string "Tak banyak yang diketahui tentang\n"
 	.string "POKéRUS, kecuali ia hidupan mikro\l"
 	.string "yang melekat pada POKéMON.\p"
-	.string "Semasa dijangkiti, POKéMON dikatakan\n"
-	.string "membesar dengan sangat baik.$"
+	.string "Katanya, POKéMON yang dijangkiti\n"
+	.string "akan membesar dengan pesat sekali.$"
 
 	.include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway::
-	.string "Kedengaran seperti ada pintu\n"
-	.string "terbuka di tempat yang jauh.$"
+	.string "Macam ada bunyi pintu terbuka\n"
+	.string "di suatu tempat yang jauh.$"
 
 gText_BigHoleInTheWall::
 	.string "Ada lubang besar di dinding.$"

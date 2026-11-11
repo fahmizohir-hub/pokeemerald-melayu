@@ -56,7 +56,7 @@ LilycoveCity_DepartmentStore_1F_Text_FourDigitsMatched:
 	.string "Anda memenangi {STR_VAR_1}!$"
 
 LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched:
-	.string "Oh, ya ampun, kelima-lima digit\n"
+	.string "Wah, kelima-lima digit\n"
 	.string "sepadan!\p"
 	.string "Anda memenangi hadiah utama!\n"
 	.string "Anda memenangi {STR_VAR_1}!$"

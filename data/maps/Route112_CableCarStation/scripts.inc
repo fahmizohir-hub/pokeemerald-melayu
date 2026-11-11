@@ -84,8 +84,8 @@ Route112_CableCarStation_Movement_ExitCableCar:
 	step_end
 
 Route112_CableCarStation_Text_CableCarReadyGetOn:
-	.string "KERETA KABEL sedia untuk naik.\n"
-	.string "Anda mahu menaikinya?$"
+	.string "KERETA KABEL dah sedia untuk ke atas.\n"
+	.string "Anda mahu naik?$"
 
 Route112_CableCarStation_Text_StepThisWay:
 	.string "Sila ikut sini.$"

@@ -271,8 +271,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_EventScript_Partner8::
 	end
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner:
-	.string "Sila cari rakan daripada\n"
-	.string "JURULATIH yang berkumpul di sini.$"
+	.string "Sila cari rakan dalam kalangan\n"
+	.string "JURULATIH yang ada di sini.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner:
 	.string "{PLAYER}, kamu belum jumpa rakan\n"
@@ -281,8 +281,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner:
 	.string "kembali ke kaunter penyambut tetamu?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner2:
-	.string "Kalau begitu, sila cari rakan daripada\n"
-	.string "JURULATIH yang berkumpul di sini.$"
+	.string "Kalau begitu, sila cari rakan dalam\n"
+	.string "kalangan JURULATIH yang ada di sini.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ThankYouForChoosingPartner::
 	.string "Terima kasih kerana memilih rakan.\p"
@@ -299,7 +299,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon1::
 	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Tolonglah, benarkan saya\n"
 	.string "sertai kamu sebagai pasangan.$"
 
@@ -317,11 +317,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Intro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon1::
 	.string "Saya dapat nasihat daripada\n"
-	.string "{STR_VAR_1} dan pilih satu {STR_VAR_3}\l"
-	.string "dengan {STR_VAR_2} dan$"
+	.string "{STR_VAR_1}, jadi saya pilih seekor\l"
+	.string "{STR_VAR_3} dengan {STR_VAR_2} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Jom kita jadi pasangan!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Accept::
@@ -341,11 +341,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Intro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon1::
 	.string "{STR_VAR_3} nasihatkan saya, jadi saya\n"
-	.string "ada satu {STR_VAR_2} dengan\l"
+	.string "ada seekor {STR_VAR_2} dengan\l"
 	.string "{STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Teresak… Tolonglah, tolonglah\n"
 	.string "jadi pasangan saya!$"
 
@@ -366,11 +366,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Intro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon1::
 	.string "{STR_VAR_3} yang cadangkan pasukan\n"
-	.string "saya. Satu {STR_VAR_2} dengan\l"
+	.string "saya. Seekor {STR_VAR_2} dengan\l"
 	.string "{STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1},\n"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1},\n"
 	.string "itulah yang saya ada! Hebat, kan?\p"
 	.string "Jadi, ayuh! Jom jadi pasangan!$"
 
@@ -388,11 +388,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Intro::
 	.string "terkenal!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Mon1::
-	.string "Saya minta nasihat {STR_VAR_3}. Satu\n"
+	.string "Saya minta nasihat {STR_VAR_3}. Seekor\n"
 	.string "{STR_VAR_2} yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Mon2Ask::
-	.string "dan satu {STR_VAR_2} dengan\n"
+	.string "dan seekor {STR_VAR_2} dengan\n"
 	.string "{STR_VAR_1}, itulah pasangan saya.\p"
 	.string "Sudikah kamu berpasangan dengan saya?$"
 
@@ -413,11 +413,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Intro::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon1::
 	.string "{STR_VAR_3} beri saya nasihat.\n"
 	.string "Saya sangat berterima kasih.\p"
-	.string "Pasukan saya ada satu {STR_VAR_2}\n"
+	.string "Pasukan saya ada seekor {STR_VAR_2}\n"
 	.string "dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\n"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\n"
 	.string "Saya tahu saya minta banyak…\p"
 	.string "Saya rasa kamu tak sudi, tapi\n"
 	.string "boleh saya jadi pasangan kamu?$"
@@ -442,7 +442,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Mon1::
 	.string "satu {STR_VAR_2} yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Mon2Ask::
-	.string "dan satu {STR_VAR_2} yang\n"
+	.string "dan seekor {STR_VAR_2} yang\n"
 	.string "tahu guna {STR_VAR_1}.\p"
 	.string "Boleh tahan, kan? Nak\n"
 	.string "saya jadi pasangan kamu?$"
@@ -468,7 +468,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Mon1::
 	.string "Satu {STR_VAR_2} yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Mon2Ask::
-	.string "dan satu {STR_VAR_2}\n"
+	.string "dan seekor {STR_VAR_2}\n"
 	.string "yang guna {STR_VAR_1}.\p"
 	.string "Saya bersusah payah membela\n"
 	.string "mereka, walaupun saya sibuk.\p"
@@ -492,11 +492,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Intro::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon1::
 	.string "Dengar, dengar! Kamu mesti dengar\n"
 	.string "tentang POKéMON yang {STR_VAR_3}\l"
-	.string "cadangkan. Satu {STR_VAR_2} dengan\l"
+	.string "cadangkan. Seekor {STR_VAR_2} dengan\l"
 	.string "{STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\n"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\n"
 	.string "Tentulah saya bela mereka dengan\l"
 	.string "cemerlang!\p"
 	.string "Jadi, nak berpasangan? Saya\n"
@@ -518,11 +518,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Intro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Mon1::
 	.string "Saya dapatkan nasihat bijak\n"
-	.string "{STR_VAR_3} dan bela pasukan saya, satu\l"
-	.string "{STR_VAR_2} dengan {STR_VAR_1}$"
+	.string "{STR_VAR_3} dan bela pasukan saya:\l"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Mon2Ask::
-	.string "dan satu {STR_VAR_2}\n"
+	.string "dan seekor {STR_VAR_2}\n"
 	.string "dengan {STR_VAR_1}.\p"
 	.string "Sudilah berpasangan dengan saya!$"
 
@@ -547,7 +547,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon1::
 	.string "satu {STR_VAR_2} yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon2Ask::
-	.string "dan satu {STR_VAR_2}\n"
+	.string "dan seekor {STR_VAR_2}\n"
 	.string "yang guna {STR_VAR_1}.\p"
 	.string "Tolonglah, tunaikan hajat saya?\n"
 	.string "Saya nak jadi pasangan kamu!$"
@@ -571,7 +571,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon1::
 	.string "satu {STR_VAR_2} pakar {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon2Ask::
-	.string "dan satu {STR_VAR_2} pakar {STR_VAR_1}.\p"
+	.string "dan seekor {STR_VAR_2}\n"
+	.string "pakar {STR_VAR_1}.\p"
 	.string "Mantap, kan? Kamu nak\n"
 	.string "jadi pasangan saya, kan?$"
 
@@ -625,11 +626,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Intro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Mon1::
 	.string "Nasihat {STR_VAR_3} saya ikut, pasukan\n"
-	.string "bangga saya pun terbentuk! Satu\l"
+	.string "bangga saya pun terbentuk! Seekor\l"
 	.string "{STR_VAR_2} yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Mon2Ask::
-	.string "dan satu {STR_VAR_2}\n"
+	.string "dan seekor {STR_VAR_2}\n"
 	.string "yang guna {STR_VAR_1}!\p"
 	.string "Pertemuan kita patut diraikan,\n"
 	.string "dengan kemenangan berpasangan!$"
@@ -651,11 +652,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Intro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Mon1::
 	.string "{STR_VAR_3} ajar saya apa nak buat.\n"
-	.string "Jadi satu {STR_VAR_2} yang guna\l"
+	.string "Jadi seekor {STR_VAR_2} yang guna\l"
 	.string "{STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Mon2Ask::
-	.string "dan satu {STR_VAR_2} yang guna\n"
+	.string "dan seekor {STR_VAR_2} yang guna\n"
 	.string "{STR_VAR_1}, itulah pilihan saya.\p"
 	.string "Jadi, apa kata kamu?\n"
 	.string "Ayuh, ceriakan hari saya!\p"
@@ -681,11 +682,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Intro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon1::
 	.string "Saya ambil nasihat {STR_VAR_3} dengan\n"
-	.string "serius dan bentuk pasukan saya, satu\l"
+	.string "serius dan bentuk pasukan saya, seekor\l"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Saya latih mereka setiap hari,\n"
 	.string "walaupun ribut dan hujan.\p"
 	.string "Sebab itulah saya selesema, rasanya.\p"
@@ -706,11 +707,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Intro::
 	.string "no. {STR_VAR_2} kepada {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Mon1::
-	.string "{STR_VAR_3} kata pasukan ni bagus: satu\n"
-	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
+	.string "{STR_VAR_3} kata pasukan ni bagus:\n"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}\l"
+	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Mon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Saya rasa segan, tapi sudikah\n"
 	.string "kamu benarkan saya sertai kamu?$"
 
@@ -754,8 +756,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassIntro::
 	.string "Saya {STR_VAR_1}, seorang ANAK DARA!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassMon1::
-	.string "Yang saya ada ialah satu {STR_VAR_2}\n"
-	.string "yang guna {STR_VAR_1} dan satu$"
+	.string "Yang saya ada ialah seekor {STR_VAR_2}\n"
+	.string "yang guna {STR_VAR_1} dan seekor$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassMon2Ask::
 	.string "{STR_VAR_2} yang guna {STR_VAR_1}.\n"
@@ -774,11 +776,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterIntro::
 	.string "Saya ANAK MUDA {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterMon1::
-	.string "Nak tahu apa yang saya ada? Satu\n"
+	.string "Nak tahu apa yang saya ada? Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Kamu sudi jadi pasangan saya, kan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterAccept::
@@ -811,11 +813,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyIntro::
 	.string "Helo! Saya {STR_VAR_1}, seorang JELITA!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyMon1::
-	.string "Kamu tahu apa yang saya bela? Satu\n"
+	.string "Kamu tahu apa yang saya bela? Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Apa pendapat kamu? Nak\n"
 	.string "jadi pasangan bersama?$"
 
@@ -834,11 +836,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanIntro::
 	.string "{STR_VAR_1} si NELAYAN!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanMon1::
-	.string "Saya bawa pasukan, satu {STR_VAR_2}\n"
+	.string "Saya bawa pasukan, seekor {STR_VAR_2}\n"
 	.string "yang guna {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanMon2Ask::
-	.string "satu {STR_VAR_2} yang guna {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} yang guna\n"
+	.string "{STR_VAR_1}.\p"
 	.string "Jadi, macam mana? Sudi\n"
 	.string "bertarung di sisi saya?$"
 
@@ -854,11 +857,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyIntro::
 	.string "Saya {STR_VAR_1}, seorang CIK PUAN.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyMon1::
-	.string "Saya ditemani pasukan, satu\n"
+	.string "Saya ditemani pasukan, seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Saya harap kamu berkenan. Kerana\n"
 	.string "saya ingin kamu jadi pasangan saya.$"
 
@@ -874,11 +877,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFIntro::
 	.string "Saya TRIATLET {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFMon1::
-	.string "Yang saya ada… Satu {STR_VAR_2}\n"
+	.string "Yang saya ada… Seekor {STR_VAR_2}\n"
 	.string "dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFMon2Ask::
-	.string "satu {STR_VAR_2} dengan\n"
+	.string "seekor {STR_VAR_2} dengan\n"
 	.string "{STR_VAR_1}! Itulah pasangan saya!\p"
 	.string "Boleh? Sudi jadi pasangan saya?$"
 
@@ -893,11 +896,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherIntro::
 	.string "Hai! Saya PENANGKAP {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherMon1::
-	.string "Tengok apa saya ada! Satu\n"
+	.string "Tengok apa saya ada! Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Jadi, dengar sini! Kamu\n"
 	.string "nak jadi pasangan?$"
 
@@ -915,11 +918,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMIntro::
 	.string "MURID {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMMon1::
-	.string "Yang saya bela ialah satu\n"
+	.string "Yang saya bela ialah seekor\n"
 	.string "{STR_VAR_2} yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMMon2Ask::
-	.string "dan satu {STR_VAR_2}\n"
+	.string "dan seekor {STR_VAR_2}\n"
 	.string "yang guna {STR_VAR_1}.\p"
 	.string "Boleh tahan, kan? Sudi jadi pasangan?$"
 
@@ -937,11 +940,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyIntro::
 	.string "saya! Saya BUDAK KAYA {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyMon1::
-	.string "Cuba teka apa saya ada! Satu\n"
+	.string "Cuba teka apa saya ada! Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Saya sudi beri kamu peluang\n"
 	.string "jadi pasangan saya.$"
 
@@ -959,11 +962,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltIntro::
 	.string "Hiyah! Saya PENDEKAR {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltMon1::
-	.string "Sebagai teman, saya ada satu\n"
+	.string "Sebagai teman, saya ada seekor\n"
 	.string "{STR_VAR_2} yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltMon2Ask::
-	.string "dan satu {STR_VAR_2}\n"
+	.string "dan seekor {STR_VAR_2}\n"
 	.string "yang guna {STR_VAR_1}.\p"
 	.string "Tolonglah, tunaikan hajat saya!\n"
 	.string "Izinkan saya jadi pasangan kamu!$"
@@ -980,11 +983,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFIntro::
 	.string "seorang BUDAK TIUB!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon1::
-	.string "Saya beritahu apa saya ada. Satu\n"
+	.string "Saya beritahu apa saya ada. Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\n"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\n"
 	.string "Boleh saya jadi pasangan kamu?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFAccept::
@@ -999,8 +1002,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacIntro::
 	.string "Salam… Aku MANIAK SIHIR {STR_VAR_1}…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon1::
-	.string "Aku bawa satu {STR_VAR_2} yang\n"
-	.string "guna {STR_VAR_1} bersama satu$"
+	.string "Aku bawa seekor {STR_VAR_2} yang\n"
+	.string "guna {STR_VAR_1} bersama seekor$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon2Ask::
 	.string "{STR_VAR_2} yang guna {STR_VAR_1}…\p"
@@ -1017,11 +1020,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMIntro::
 	.string "seorang PENTERNAK POKéMON!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMMon1::
-	.string "Saya bela dua ekor yang bagus! Satu\n"
+	.string "Saya bela dua ekor yang bagus! Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Macam mana? Rasa nak\n"
 	.string "jadi pasangan saya?$"
 
@@ -1043,7 +1046,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFMon1::
 	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Jadi? Nak jadi pasangan saya?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFAccept::
@@ -1061,11 +1064,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMIntro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMMon1::
 	.string "Saya berlari dengan pasukan saya yang\n"
-	.string "tahan lasak: satu {STR_VAR_2} dengan\l"
+	.string "tahan lasak: seekor {STR_VAR_2} dengan\l"
 	.string "{STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Boleh tahan, kan? Kita\n"
 	.string "patut jadi pasangan!$"
 
@@ -1081,11 +1084,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlIntro::
 	.string "Saya SRIKANDI {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlMon1::
-	.string "Saya dah latih satu {STR_VAR_2}\n"
+	.string "Saya dah latih seekor {STR_VAR_2}\n"
 	.string "yang guna {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlMon2Ask::
-	.string "satu {STR_VAR_2} yang guna {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} yang guna\n"
+	.string "{STR_VAR_1}!\p"
 	.string "Kamu suka kombo tu? Apa\n"
 	.string "kata kita bergabung?$"
 
@@ -1102,11 +1106,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMIntro::
 	.string "Saya TRIATLET {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon1::
-	.string "Saya berlari dengan satu {STR_VAR_2}\n"
+	.string "Saya berlari dengan seekor {STR_VAR_2}\n"
 	.string "yang tahu guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon2Ask::
-	.string "dan satu {STR_VAR_2}\n"
+	.string "dan seekor {STR_VAR_2}\n"
 	.string "dengan {STR_VAR_1}!\p"
 	.string "Kita boleh jadi pasangan.\n"
 	.string "Bukankah itu hebat?$"
@@ -1124,11 +1128,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMIntro::
 	.string "Saya? Saya BUDAK TIUB {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMMon1::
-	.string "Apa yang saya bawa? Satu\n"
+	.string "Apa yang saya bawa? Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Hei? Kamu nak jadi pasangan saya, kan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMAccept::
@@ -1145,11 +1149,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristIntro::
 	.string "GITARIS {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristMon1::
-	.string "Tengok rombongan saya! Satu\n"
+	.string "Tengok rombongan saya! Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Yay-hei! Liar, kan? Kita mesti\n"
 	.string "berduet sebagai pasangan!$"
 
@@ -1170,7 +1174,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanMon1::
 	.string "saya yang guna {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanMon2Ask::
-	.string "satu {STR_VAR_2} yang guna {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} yang guna\n"
+	.string "{STR_VAR_1}.\p"
 	.string "Bolehkah saya mempelawa kamu\n"
 	.string "untuk menjadi pasangan saya?$"
 
@@ -1188,11 +1193,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMIntro::
 	.string "seorang PEMINAT POKé.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMMon1::
-	.string "Sekarang saya bawa satu {STR_VAR_2}\n"
+	.string "Sekarang saya bawa seekor {STR_VAR_2}\n"
 	.string "yang tahu move {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Berkenan? Apa kata kamu\n"
 	.string "jadi pasangan saya?$"
 
@@ -1209,11 +1214,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMIntro::
 	.string "dan sayalah MAHAGURU!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMMon1::
-	.string "POKéMON yang saya latih ialah satu\n"
+	.string "POKéMON yang saya latih ialah seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Apa kata kamu\n"
 	.string "berpasangan dengan saya?$"
 
@@ -1234,7 +1239,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon1::
 	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon2Ask::
-	.string "satu {STR_VAR_2} dengan\n"
+	.string "seekor {STR_VAR_2} dengan\n"
 	.string "{STR_VAR_1}, itulah yang saya ada.\p"
 	.string "Kamu tak mahu\n"
 	.string "berpasangan dengan saya?$"
@@ -1251,11 +1256,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerIntro::
 	.string "Saya PAWANG NAGA {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerMon1::
-	.string "Pasukan yang saya latih ialah satu\n"
+	.string "Pasukan yang saya latih ialah seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Macam mana? Nak jadi pasangan saya?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerAccept::
@@ -1270,11 +1275,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperIntro::
 	.string "Saya PAKAR BURUNG {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperMon1::
-	.string "POKéMON apa yang saya ada? Satu\n"
+	.string "POKéMON apa yang saya ada? Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Tak rasa ke kita boleh\n"
 	.string "jadi pasangan yang hebat?$"
 
@@ -1294,7 +1299,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyMon1::
 	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Jom jadi pasangan!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyAccept::
@@ -1312,7 +1317,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyMon1::
 	.string "saya yang guna {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyMon2Ask::
-	.string "satu {STR_VAR_2} yang guna {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} yang guna\n"
+	.string "{STR_VAR_1}.\p"
 	.string "Comel, kan? Sudi sertai\n"
 	.string "kami sebagai pasangan?$"
 
@@ -1329,11 +1335,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacIntro::
 	.string "seorang MANIAK SRNGA!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacMon1::
-	.string "Saya dah jumpa POKéMON saya, ya. Satu\n"
+	.string "Saya dah jumpa POKéMON saya, ya. Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacMon2Ask::
-	.string "satu {STR_VAR_2} dengan\n"
+	.string "seekor {STR_VAR_2} dengan\n"
 	.string "{STR_VAR_1}, itulah yang saya jumpa.\p"
 	.string "Kamu berminat jadi pasangan?$"
 
@@ -1349,11 +1355,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorIntro::
 	.string "Ahoi! Saya KELASI {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorMon1::
-	.string "Biar saya tunjuk kebanggaan saya! Satu\n"
-	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
+	.string "Biar saya tunjuk kebanggaan saya!\n"
+	.string "Seekor {STR_VAR_2} dengan {STR_VAR_1}\l"
+	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Tentu kamu takkan tolak saya.\n"
 	.string "Kita jadi pasangan, kan?$"
 
@@ -1375,7 +1382,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorMon1::
 	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Hebat, kan? Kita patut\n"
 	.string "jadi satu pasukan.$"
 
@@ -1393,11 +1400,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMIntro::
 	.string "seorang RENJER POKéMON.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMMon1::
-	.string "Yang menemani saya ialah satu\n"
+	.string "Yang menemani saya ialah seekor\n"
 	.string "{STR_VAR_2} yang guna {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Tak rasa ke kita boleh jadi\n"
 	.string "pasangan yang mengagumkan?$"
 
@@ -1414,11 +1421,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFIntro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFMon1::
 	.string "Biar saya ceritakan pasukan saya. Saya\n"
-	.string "ada satu {STR_VAR_2} dengan\l"
+	.string "ada seekor {STR_VAR_2} dengan\l"
 	.string "{STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Sudi jadi pasangan dengan\n"
 	.string "geng kecil saya ni?$"
 
@@ -1436,11 +1443,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyIntro::
 	.string "CIK PUAN.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyMon1::
-	.string "Saya mengembara dengan satu\n"
+	.string "Saya mengembara dengan seekor\n"
 	.string "{STR_VAR_2} yang guna {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyMon2Ask::
-	.string "satu {STR_VAR_2} yang guna {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} yang guna\n"
+	.string "{STR_VAR_1}.\p"
 	.string "Harap kamu berkenan.\n"
 	.string "Sudi jadi pasangan saya?$"
 
@@ -1457,11 +1465,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacIntro::
 	.string "{STR_VAR_1}, si MANIAK PURBA!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacMon1::
-	.string "POKéMON yang saya bawa ialah satu\n"
+	.string "POKéMON yang saya bawa ialah seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Menarik, kan? Apa kata\n"
 	.string "kita berpasangan?$"
 
@@ -1481,7 +1489,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon1::
 	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon2Ask::
-	.string "satu {STR_VAR_2} dengan\n"
+	.string "seekor {STR_VAR_2} dengan\n"
 	.string "{STR_VAR_1}. Hebat, kan?\p"
 	.string "Tak rasa ke hebat kalau\n"
 	.string "kita jadi pasangan?$"
@@ -1497,11 +1505,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFIntro::
 	.string "Saya JAGUH {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFMon1::
-	.string "Pasukan yang saya bela ada satu\n"
+	.string "Pasukan yang saya bela ada seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Okey tak? Apa kata kita jadi pasangan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFAccept::
@@ -1515,11 +1523,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacIntro::
 	.string "Heyo! Saya {STR_VAR_1}, si POKéMANIAK!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacMon1::
-	.string "Apa yang orang macam saya ada? Satu\n"
+	.string "Apa yang orang macam saya ada? Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacMon2Ask::
-	.string "satu {STR_VAR_2} dengan\n"
+	.string "seekor {STR_VAR_2} dengan\n"
 	.string "{STR_VAR_1}, itulah dia!\p"
 	.string "Jom! Kita pijak semua\n"
 	.string "lawan sebagai pasangan!$"
@@ -1536,11 +1544,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerIntro::
 	.string "Yo! Saya PEMAIN API {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerMon1::
-	.string "Kamu tahu apa hasil latihan saya? Satu\n"
-	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
+	.string "Kamu tahu apa hasil latihan saya?\n"
+	.string "Seekor {STR_VAR_2} dengan {STR_VAR_1}\l"
+	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Jadi, apa kata kamu? Nak jadi pasangan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerAccept::
@@ -1555,8 +1564,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperIntro::
 	.string "Saya {STR_VAR_1}, seorang PEKHEMAH!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon1::
-	.string "Saya bela satu {STR_VAR_2}\n"
-	.string "yang guna {STR_VAR_1} dan satu$"
+	.string "Saya bela seekor {STR_VAR_2}\n"
+	.string "yang guna {STR_VAR_1} dan seekor$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon2Ask::
 	.string "{STR_VAR_2} yang guna {STR_VAR_1}.\p"
@@ -1575,11 +1584,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerIntro::
 	.string "seorang GADIS PIKNIK!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerMon1::
-	.string "POKéMON yang saya bawa ialah satu\n"
+	.string "POKéMON yang saya bawa ialah seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Kamu berminat jadi pasangan saya?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerAccept::
@@ -1594,11 +1603,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMIntro::
 	.string "Saya PSIKIK {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMMon1::
-	.string "Pasangan yang saya bela ialah satu\n"
+	.string "Pasangan yang saya bela ialah seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Sudi jadi pasangan saya?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMAccept::
@@ -1613,11 +1622,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFIntro::
 	.string "Saya seorang PSIKIK.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFMon1::
-	.string "Satu {STR_VAR_2}\n"
+	.string "Seekor {STR_VAR_2}\n"
 	.string "dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1},\n"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1},\n"
 	.string "merekalah pengikut saya.\p"
 	.string "Tak tertarik ke kamu dengan\n"
 	.string "idea menjadi pasangan?$"
@@ -1634,10 +1643,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFIntro::
 	.string "Saya MURID {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFMon1::
-	.string "Satu {STR_VAR_2} yang guna {STR_VAR_1}$"
+	.string "Seekor {STR_VAR_2}\n"
+	.string "yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFMon2Ask::
-	.string "dan satu {STR_VAR_2} yang guna\n"
+	.string "dan seekor {STR_VAR_2} yang guna\n"
 	.string "{STR_VAR_1}, itulah pasangan POKéMON\l"
 	.string "saya.\p"
 	.string "Boleh saya jadi pasangan kamu?$"
@@ -1655,11 +1665,12 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFIntro::
 	.string "Saya seorang PENTERNAK POKéMON!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFMon1::
-	.string "POKéMON yang saya bela ialah satu\n"
+	.string "POKéMON yang saya bela ialah seekor\n"
 	.string "{STR_VAR_2} yang guna {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFMon2Ask::
-	.string "satu {STR_VAR_2} yang guna {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} yang guna\n"
+	.string "{STR_VAR_1}.\p"
 	.string "Menarik? Apa kata kita jadi pasangan?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFAccept::
@@ -1676,11 +1687,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFIntro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFMon1::
 	.string "POKéMON kesayangan yang saya bela\n"
-	.string "ialah satu {STR_VAR_2} dengan\l"
+	.string "ialah seekor {STR_VAR_2} dengan\l"
 	.string "{STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}.\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}.\p"
 	.string "Comel sangat, kan? Kita\n"
 	.string "patut jadi satu pasukan!$"
 
@@ -1696,10 +1707,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFIntro::
 	.string "Hai, saya PERENANG {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFMon1::
-	.string "Satu {STR_VAR_2} yang guna {STR_VAR_1}$"
+	.string "Seekor {STR_VAR_2}\n"
+	.string "yang guna {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFMon2Ask::
-	.string "dan satu {STR_VAR_2} yang guna\n"
+	.string "dan seekor {STR_VAR_2} yang guna\n"
 	.string "{STR_VAR_1}, itulah yang saya latih.\p"
 	.string "Kamu dan saya, jom jadi pasangan.$"
 
@@ -1720,7 +1732,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMMon1::
 	.string "dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Best kalau kita jadi\n"
 	.string "pasangan, jadi macam mana?$"
 
@@ -1736,11 +1748,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFIntro::
 	.string "Saya TRIATLET {STR_VAR_1}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFMon1::
-	.string "Satu {STR_VAR_2}\n"
+	.string "Seekor {STR_VAR_2}\n"
 	.string "dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFMon2Ask::
-	.string "satu lagi {STR_VAR_2} yang tahu guna\n"
+	.string "seekor lagi {STR_VAR_2} yang tahu guna\n"
 	.string "{STR_VAR_1}. Itulah pasangan saya.\p"
 	.string "Apa pendapat kamu? Pada saya,\n"
 	.string "kita pasukan yang bagus.$"
@@ -1758,11 +1770,11 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMIntro::
 	.string "seorang PERENANG!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMMon1::
-	.string "Tengok apa yang saya bela! Satu\n"
+	.string "Tengok apa yang saya bela! Seekor\n"
 	.string "{STR_VAR_2} dengan {STR_VAR_1} dan$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMMon2Ask::
-	.string "satu {STR_VAR_2} dengan {STR_VAR_1}!\p"
+	.string "seekor {STR_VAR_2} dengan {STR_VAR_1}!\p"
 	.string "Best, kan? Lagi best\n"
 	.string "kalau kita jadi pasangan!$"
 

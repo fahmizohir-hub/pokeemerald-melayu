@@ -274,8 +274,8 @@ DewfordTown_Hall_Text_DeepLinkBetweenXAndY:
 
 DewfordTown_Hall_Text_MyHunchWasRight:
 	.string "Oh! Jadi, firasat saya betul!\p"
-	.string "Saya selangkah lagi untuk jadi orang\n"
-	.string "yang hip dan hangat, yahoo!$"
+	.string "Saya makin dekat nak jadi orang yang\n"
+	.string "hip dan hangat, yahoo!$"
 
 DewfordTown_Hall_Text_NotEasyToKeepUp:
 	.string "Apa?! Betul ke?!\p"
@@ -283,14 +283,12 @@ DewfordTown_Hall_Text_NotEasyToKeepUp:
 	.string "ikut trend!$"
 
 DewfordTown_Hall_Text_TVShowAboutTrend:
-	.string "Segala hal tentang\n"
-	.string "“{STR_VAR_1}” ni…\l"
-	.string "Ada rancangan TV tentangnya, kan?$"
+	.string "Pasal “{STR_VAR_1}” ni… Ada rancangan\n"
+	.string "TV pasal benda ni, kan?$"
 
 DewfordTown_Hall_Text_IsTrendMorePopularAcrossSea:
 	.string "Di seberang laut…\p"
-	.string "Adakah “{STR_VAR_1}”\n"
-	.string "lebih popular lagi?$"
+	.string "“{STR_VAR_1}” lagi popular ke di sana?$"
 
 DewfordTown_Hall_Text_CollectTrendMerchandise:
 	.string "Saya kumpul barangan rasmi berlesen\n"
@@ -340,14 +338,13 @@ DewfordTown_Hall_Text_SawTrendCoolestThing:
 	.string "asli, oh yeah!$"
 
 DewfordTown_Hall_Text_AllegedTrendNotAuthentic:
-	.string "Oh, tidak, tidak, tidak.\p"
-	.string "Yang kononnya\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "yang kamu nampak tu… bukan yang asli.\p"
-	.string "Yang asli jauh lebih…\n"
-	.string "Macam mana nak cakap, ya?\l"
-	.string "Lebih tajam, tapi lebih lembut!\p"
-	.string "Ah, tak mengapa. Memang menakjubkan!$"
+	.string "Eh, bukan, bukan, bukan.\p"
+	.string "Yang kononnya “{STR_VAR_1}” yang kamu\n"
+	.string "nampak tu… bukan yang asli.\p"
+	.string "Yang asli jauh lebih… Macam mana nak\n"
+	.string "cakap, ya? Lebih tajam, tapi\l"
+	.string "lebih lembut!\p"
+	.string "Ah, tak apalah. Memang menakjubkan!$"
 
 DewfordTown_Hall_Text_ComposedTrendThemeSong:
 	.string "Hei, dengar ni, saya cipta lagu tema\n"
@@ -375,20 +372,18 @@ DewfordTown_Hall_Text_OrganizeTrendParty:
 	.string "di pulau ni.$"
 
 DewfordTown_Hall_Text_BrilliantIndeed:
-	.string "Oh, idea yang sungguh hebat!\p"
-	.string "Ia akan tentukan sekali untuk\n"
-	.string "selamanya siapa yang terbaik dalam\l"
-	.string "“{STR_VAR_1}.”\l"
+	.string "Oh, idea yang bernas!\p"
+	.string "Barulah kita tahu siapa yang paling\n"
+	.string "hebat dalam “{STR_VAR_1},” muktamad.\l"
 	.string "Bijak sungguh!\p"
-	.string "Mulai hari ni, hidup kita akan berkisar\n"
-	.string "tentang “{STR_VAR_1}”!$"
+	.string "Mulai hari ni, hidup kita hanya\n"
+	.string "untuk “{STR_VAR_1}”!$"
 
 DewfordTown_Hall_Text_TrendHasBecomePartOfLife:
 	.string "Tapi saya terfikir…\p"
-	.string "Tidakkah kamu setuju yang\n"
-	.string "“{STR_VAR_1}” dah\l"
-	.string "berubah daripada sekadar trend\l"
-	.string "kepada sebahagian hidup harian kita?$"
+	.string "Kamu setuju tak, “{STR_VAR_1}” dah\n"
+	.string "bukan sekadar trend lagi, tapi dah jadi\l"
+	.string "sebahagian hidup kita?$"
 
 DewfordTown_Hall_Text_TrendWeighsHeavilyOnMind:
 	.string "Maaf? Sampai macam tu sekali?\p"
@@ -401,9 +396,9 @@ DewfordTown_Hall_Text_TrendWeighsHeavilyOnMind:
 	.string "kawan lamaku!$"
 
 DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible:
-	.string "Kalau kamu dan saya bergabung,\n"
-	.string "kita takkan dapat dikalahkan dalam\l"
-	.string "semua hal “{STR_VAR_1}”!$"
+	.string "Kalau kamu dan saya bergabung, tiada\n"
+	.string "siapa boleh tandingi kita dalam\l"
+	.string "hal “{STR_VAR_1}”!$"
 
 DewfordTown_Hall_Text_WellBeTrendDuo:
 	.string "Tepat sekali, kawan!\p"
@@ -412,11 +407,11 @@ DewfordTown_Hall_Text_WellBeTrendDuo:
 	.string "Hebat bunyinya, kan? Hahahah!$"
 
 DewfordTown_Hall_Text_GiveYouSludgeBomb:
-	.string "Bagi saya, BOM TOKSIK sedang di puncak\n"
-	.string "populariti. Itulah dia.\p"
-	.string "Hah? Kamu kata kamu tak tahu tentang\n"
+	.string "Bagi saya, BOM TOKSIK tengah paling\n"
+	.string "popular sekarang. Memang terbaik.\p"
+	.string "Hah? Kamu kata kamu tak tahu pasal\n"
 	.string "BOM TOKSIK?\p"
-	.string "Kasihan betul. Saya beri kamu satu.$"
+	.string "Kesian betul. Nah, saya bagi satu.$"
 
 DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo:
 	.string "Saya suka BOM TOKSIK.\p"

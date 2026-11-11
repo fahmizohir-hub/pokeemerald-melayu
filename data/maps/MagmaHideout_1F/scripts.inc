@@ -17,11 +17,11 @@ MagmaHideout_1F_EventScript_Grunt2::
 	end
 
 MagmaHideout_1F_Text_Grunt1Intro:
-	.string "Bila TEAM MAGMA buat panggilan nama,\n"
-	.string "tugas kawalan penting diberi ikut\l"
-	.string "urutan kami beratur.\p"
+	.string "Masa TEAM MAGMA ambil kehadiran, tugas\n"
+	.string "kawalan penting dibahagi ikut siapa\l"
+	.string "beratur dulu.\p"
 	.string "Sebab tu aku tersadai di sudut ni.\n"
-	.string "Aku selalu lambat bila nama dipanggil!$"
+	.string "Aku selalu lambat masa kehadiran!$"
 
 MagmaHideout_1F_Text_Grunt1Defeat:
 	.string "Aku pun selalu lambat masa sesi\n"

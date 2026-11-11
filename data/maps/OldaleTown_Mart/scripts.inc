@@ -53,8 +53,8 @@ OldaleTown_Mart_EventScript_Boy::
 	end
 
 OldaleTown_Mart_Text_PokeBallsAreSoldOut:
-	.string "Kata jurujual, semuanya dah habis\n"
-	.string "dijual. Saya tak dapat beli POKé BALL.$"
+	.string "Kata jurujual, stok dah habis. Saya tak\n"
+	.string "dapat beli POKé BALL langsung.$"
 
 OldaleTown_Mart_Text_ImGoingToBuyPokeBalls:
 	.string "Saya nak beli banyak POKé BALL\n"

@@ -209,7 +209,7 @@ gText_Softboiled::
 	.string "TELUR REBUS$"
 
 gText_HornAttack::
-	.string "TIKAM TANDUK$"
+	.string "TIKAMAN TANDUK$"
 
 gText_SwordsDance::
 	.string "TARI PEDANG$"
@@ -287,8 +287,8 @@ gText_WentBetterThanUsual::
 	.string "biasa.$"
 
 gText_JudgeLookedAwayForSomeReason::
-	.string "HAKIM berpaling atas\n"
-	.string "sebab tertentu.$"
+	.string "Entah kenapa, HAKIM\n"
+	.string "berpaling.$"
 
 gText_WorkedHardToBuildOnPastMistakes::
 	.string "Ia berusaha keras atasi\n"
@@ -688,8 +688,8 @@ gText_MonWasUnaffected::
 	.string "terkesan.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_RepeatedAppeal::
-	.string "{STR_VAR_1} hampakan\n"
-	.string "kerana ulang pikatan.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1} menghampakan\n"
+	.string "sebab ulang pikatan.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsXWentOverGreat::
 	.string "{STR_VAR_3} {STR_VAR_1}\n"

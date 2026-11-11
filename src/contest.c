@@ -1545,7 +1545,9 @@ static void Task_ShowMoveSelectScreen(u8 taskId)
         moveNameBuffer = StringCopy(moveNameBuffer, gMoveNames[move]);
 
         FillWindowPixelBuffer(i + MOVE_WINDOWS_START, PIXEL_FILL(0));
-        Contest_PrintTextToBg0WindowAt(i + MOVE_WINDOWS_START, moveName, 5, 1, FONT_NARROW);
+        // BM: nama move panjang dianjak ke kiri supaya muat dalam tingkap 72px
+        Contest_PrintTextToBg0WindowAt(i + MOVE_WINDOWS_START, moveName,
+                                       (GetStringWidth(FONT_NARROW, gMoveNames[move], 0) > 67) ? 0 : 5, 1, FONT_NARROW);
     }
 
     DrawMoveSelectArrow(eContest.playerMoveChoice);

@@ -649,40 +649,38 @@ LittlerootTown_ProfessorBirchsLab_EventScript_ScottAboardSSTidalCall::
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchAwayOnFieldwork:
 	.string "Hah? PROF. BIRCH?\p"
-	.string "PROFESOR keluar buat kerja\n"
-	.string "lapangan. Ergo, dia tiada di sini.\p"
-	.string "Oh, biar saya terangkan\n"
-	.string "apa itu kerja lapangan.\p"
-	.string "Ia bermaksud mengkaji sesuatu dalam\n"
-	.string "alam semula jadi, macam padang dan\l"
-	.string "gunung, bukan dalam makmal.\p"
+	.string "PROFESOR keluar buat kerja lapangan.\n"
+	.string "Ergo, dia tiada di sini.\p"
+	.string "Oh, biar saya terangkan apa itu kerja\n"
+	.string "lapangan.\p"
+	.string "Maksudnya, mengkaji benda di alam\n"
+	.string "semula jadi, macam padang dan gunung,\l"
+	.string "bukan dalam makmal.\p"
 	.string "PROFESOR bukan jenis yang suka kerja\n"
 	.string "di meja. Dia lebih suka keluar dan alami\l"
-	.string "sendiri daripada membaca tentangnya di\l"
-	.string "sini.$"
+	.string "sendiri daripada baca pasalnya di sini.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchIsntOneForDeskWork:
 	.string "PROFESOR bukan jenis yang suka kerja\n"
 	.string "di meja. Dia lebih suka keluar dan alami\l"
-	.string "sendiri daripada membaca tentangnya di\l"
-	.string "sini.$"
+	.string "sendiri daripada baca pasalnya di sini.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BirchEnjoysRivalsHelpToo:
-	.string "PROF. BIRCH sedang mengkaji\n"
-	.string "habitat dan taburan POKéMON.\p"
+	.string "PROF. BIRCH sedang mengkaji habitat\n"
+	.string "dan taburan POKéMON.\p"
 	.string "PROFESOR pun suka {RIVAL} tolong dia.\n"
-	.string "Penuh kasih sayang mereka berdua.$"
+	.string "Rapat betul mereka anak-beranak.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_LikeYouToHavePokemon:
 	.string "PROF. BIRCH: Jadi, {PLAYER}{KUN}.\p"
-	.string "Saya dah banyak dengar pasal\n"
-	.string "kamu daripada ayah kamu.\p"
-	.string "Saya dengar kamu belum\n"
-	.string "ada POKéMON sendiri.\p"
-	.string "Tapi cara kamu bertarung tadi,\n"
-	.string "kamu buat dengan begitu yakin!\p"
-	.string "Memang darah ayah kamu\n"
-	.string "mengalir dalam diri kamu!\p"
+	.string "Saya dah banyak dengar pasal kamu\n"
+	.string "daripada ayah kamu.\p"
+	.string "Saya dengar kamu belum ada POKéMON\n"
+	.string "sendiri.\p"
+	.string "Tapi tengok cara kamu bertarung tadi,\n"
+	.string "yakin sungguh!\p"
+	.string "Betullah, ke mana tumpahnya kuah kalau\n"
+	.string "tak ke nasi!\p"
 	.string "Oh, ya. Sebagai tanda terima kasih\n"
 	.string "sebab selamatkan saya, ambillah\l"
 	.string "POKéMON yang kamu guna tadi.\p"
@@ -704,10 +702,10 @@ LittlerootTown_ProfessorBirchsLab_Text_MightBeGoodIdeaToGoSeeRival:
 	.string "pergi jumpa {RIVAL}?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_GetRivalToTeachYou:
-	.string "PROF. BIRCH: Bagus! Mesti\n"
-	.string "{RIVAL} gembira juga.\p"
-	.string "Suruh {RIVAL} ajar kamu apa\n"
-	.string "ertinya menjadi JURULATIH.$"
+	.string "PROF. BIRCH: Bagus! Mesti {RIVAL}\n"
+	.string "gembira juga.\p"
+	.string "Mintalah {RIVAL} ajar kamu macam mana\n"
+	.string "nak jadi JURULATIH.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_DontBeThatWay:
 	.string "PROF. BIRCH: Alah, janganlah macam\n"
@@ -749,10 +747,10 @@ LittlerootTown_ProfessorBirchsLab_Text_ExplainPokedex:
 	.string "lapangan dan tunjukkan pada saya.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CountlessPokemonAwait:
-	.string "PROF. BIRCH: Banyak sangat\n"
-	.string "POKéMON yang sedang menanti kamu!\p"
-	.string "Aduh, saya pun dah gatal nak\n"
-	.string "keluar buat kerja lapangan lagi!$"
+	.string "PROF. BIRCH: Banyak lagi POKéMON yang\n"
+	.string "menanti kamu di luar sana!\p"
+	.string "Aduh, saya pun dah gatal nak keluar\n"
+	.string "buat kerja lapangan lagi!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayGotPokedexTooTakeThese:
 	.string "MAY: Wah, {PLAYER}{KUN}! Kau\n"
@@ -814,14 +812,14 @@ LittlerootTown_ProfessorBirchsLab_Text_OtherRegionsUpgradeToNational:
 	.string "PROF. BIRCH: Baiklah…\p"
 	.string "{PLAYER}{KUN} dan {RIVAL}, kamu berdua dah\n"
 	.string "banyak tolong saya mengkaji POKéMON.\p"
-	.string "Berkat bantuan kamu, fakta\n"
-	.string "baru mula terbongkar.\p"
-	.string "Nampaknya di rantau HOENN, ada\n"
-	.string "juga POKéMON dari rantau lain.\p"
-	.string "Ini menunjukkan betapa kaya dan\n"
-	.string "pelbagainya alam semula jadi HOENN.\p"
-	.string "Sebab tu saya rasa POKéDEX kamu\n"
-	.string "perlu dinaik taraf ke Mod NASIONAL.\p"
+	.string "Berkat bantuan kamu, fakta baru mula\n"
+	.string "terbongkar.\p"
+	.string "Nampaknya di rantau HOENN, ada juga\n"
+	.string "POKéMON dari rantau lain.\p"
+	.string "Ini bukti alam semula jadi HOENN memang\n"
+	.string "kaya dan pelbagai.\p"
+	.string "Sebab tu saya rasa POKéDEX kamu perlu\n"
+	.string "dinaik taraf ke Mod NASIONAL.\p"
 	.string "Mari, bagi saya tengok POKéDEX kamu.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayUpgradeSoCool:
@@ -832,11 +830,11 @@ LittlerootTown_ProfessorBirchsLab_Text_MayUpgradeSoCool:
 	.string "tangkap banyak POKéMON, {PLAYER}{KUN}!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanYouCanThankMe:
-	.string "BRENDAN: Aku dah jelajah\n"
-	.string "seluruh HOENN dan kaji POKéMON.\p"
-	.string "Kau boleh berterima kasih pada aku\n"
-	.string "sebab dapat POKéDEX Mod NASIONAL.\p"
-	.string "Ya, bertuah kau, {PLAYER}!$"
+	.string "BRENDAN: Aku dah jelajah seluruh HOENN\n"
+	.string "dan kaji POKéMON.\p"
+	.string "Kau patut terima kasih pada aku sebab\n"
+	.string "dapat POKéDEX Mod NASIONAL ni.\p"
+	.string "Haa, bertuahlah kau, {PLAYER}!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_OkayAllDone:
 	.string "PROF. BIRCH: Okey, siap!$"
@@ -850,8 +848,8 @@ LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting2:
 	.string "jadi JUARA, tapi pengembaraan POKéMON\l"
 	.string "kamu belum tamat.\p"
 	.string "Jalan POKéMON tiada penghujungnya.\p"
-	.string "Di suatu tempat, ada sepetak\n"
-	.string "rumput yang sedang menanti kamu!$"
+	.string "Entah di mana, ada sepetak rumput yang\n"
+	.string "menanti kamu!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayTakeBreakFromFieldwork:
 	.string "MAY: Rasanya aku nak rehat\n"
@@ -860,27 +858,26 @@ LittlerootTown_ProfessorBirchsLab_Text_MayTakeBreakFromFieldwork:
 	.string "sini buat sementara waktu.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanTakeBreakFromFieldwork:
-	.string "BRENDAN: Buat masa ni, aku\n"
-	.string "berehat daripada kerja lapangan.\p"
-	.string "Aku akan tolong PROFESOR di\n"
-	.string "sini buat sementara waktu.$"
+	.string "BRENDAN: Buat masa ni, aku rehat dulu\n"
+	.string "dari kerja lapangan.\p"
+	.string "Aku akan tolong PROFESOR di sini buat\n"
+	.string "sementara waktu.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CompletedDexChoosePokemon:
-	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}! Mari\n"
-	.string "kita tengok POKéDEX kamu.\p"
+	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}! Mari kita\n"
+	.string "tengok POKéDEX kamu.\p"
 	.string "… … … … … … … … … … … …\p"
 	.string "Ya, memang tak syak lagi.\p"
 	.string "Kamu betul-betul dah lengkapkan\n"
 	.string "POKéDEX rantau HOENN.\p"
-	.string "Itu lebih daripada\n"
-	.string "sekadar mengagumkan.\p"
+	.string "Itu memang luar biasa.\p"
 	.string "Saya ada hadiah untuk kamu.\p"
-	.string "Anggaplah ini tanda penghargaan\n"
-	.string "saya atas kerja hebat kamu.\p"
-	.string "Hadiah saya ialah POKéMON nadir\n"
-	.string "yang hanya ada di rantau lain!\p"
-	.string "Kamu boleh pilih salah satu\n"
-	.string "daripada tiga POKéMON ini!$"
+	.string "Anggaplah ini tanda penghargaan saya\n"
+	.string "atas kerja hebat kamu.\p"
+	.string "Hadiah saya ialah POKéMON nadir yang\n"
+	.string "hanya ada di rantau lain!\p"
+	.string "Kamu boleh pilih salah satu daripada\n"
+	.string "tiga POKéMON ini!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CanHaveAnyOneOfRarePokemon:
 	.string "PROF. BIRCH: Ini POKéMON nadir\n"
@@ -889,9 +886,9 @@ LittlerootTown_ProfessorBirchsLab_Text_CanHaveAnyOneOfRarePokemon:
 	.string "daripada tiga POKéMON ini!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_YoullTakeCyndaquil:
-	.string "PROF. BIRCH: POKéMON API,\n"
-	.string "CYNDAQUIL, menarik perhatian kamu!\p"
-	.string "Kamu tetap tajam macam biasa!\p"
+	.string "PROF. BIRCH: Kamu berkenan dengan\n"
+	.string "POKéMON API, CYNDAQUIL!\p"
+	.string "Mata kamu memang tajam!\p"
 	.string "Jadi kamu pilih CYNDAQUIL?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_YoullTakeTotodile:
@@ -901,9 +898,9 @@ LittlerootTown_ProfessorBirchsLab_Text_YoullTakeTotodile:
 	.string "Jadi, kamu nak ambil TOTODILE?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_YoullTakeChikorita:
-	.string "PROF. BIRCH: Kamu pilih\n"
-	.string "POKéMON RUMPUT, CHIKORITA!\p"
-	.string "Kamu memang tahu apa yang kamu buat.\p"
+	.string "PROF. BIRCH: Kamu pilih POKéMON RUMPUT,\n"
+	.string "CHIKORITA!\p"
+	.string "Kamu memang arif.\p"
 	.string "Jadi, kamu nak ambil CHIKORITA?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_TakeYourTimeAllInvaluable:
@@ -913,8 +910,8 @@ LittlerootTown_ProfessorBirchsLab_Text_TakeYourTimeAllInvaluable:
 
 @ Unused
 LittlerootTown_ProfessorBirchsLab_Text_PickedFinePokemon:
-	.string "PROF. BIRCH: Begitu! Kamu\n"
-	.string "pilih POKéMON yang bagus!$"
+	.string "PROF. BIRCH: Oh, begitu! Bagus pilihan\n"
+	.string "kamu!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ReceivedJohtoStarter:
 	.string "{PLAYER} menerima {STR_VAR_1}\n"
@@ -931,8 +928,8 @@ LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting:
 	.string "pengembaraan POKéMON kamu belum\l"
 	.string "tamat.\p"
 	.string "Jalan POKéMON tiada penghujungnya.\p"
-	.string "Di suatu tempat, ada sepetak\n"
-	.string "rumput yang sedang menanti kamu!$"
+	.string "Entah di mana, ada sepetak rumput yang\n"
+	.string "menanti kamu!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BetterLeaveOthersAlone:
 	.string "Kamu dah terima POKéMON yang\n"
@@ -967,13 +964,13 @@ LittlerootTown_ProfessorBirchsLab_Text_BrendanHaveYouGoneToBattleFrontier:
 LittlerootTown_ProfessorBirchsLab_Text_ScottAboardSSTidalCall:
 	.string "… … … … … … … … … … … Bip!\p"
 	.string "SCOTT: Hai, hai, {PLAYER}! Saya ni, SCOTT.\p"
-	.string "Saya sekarang dalam S.S. TIDAL.\n"
-	.string "Seronoknya berada di laut!\p"
+	.string "Saya sekarang dalam S.S. TIDAL. Seronok\n"
+	.string "betul dapat ke laut!\p"
 	.string "Oh, ya…\p"
-	.string "Ada satu tempat yang saya\n"
-	.string "nak jemput kamu melawat.\p"
-	.string "Kalau kamu berminat, naiklah feri\n"
-	.string "di SLATEPORT atau LILYCOVE.\p"
-	.string "Saya akan terangkan butirannya\n"
-	.string "bila kita jumpa. Saya tunggu!\p"
+	.string "Ada satu tempat yang saya nak jemput\n"
+	.string "kamu melawat.\p"
+	.string "Kalau kamu berminat, naiklah feri di\n"
+	.string "SLATEPORT atau LILYCOVE.\p"
+	.string "Nanti bila kita jumpa, saya cerita lebih\n"
+	.string "lanjut. Saya tunggu!\p"
 	.string "… … … … … … … … … … … Klik!$"

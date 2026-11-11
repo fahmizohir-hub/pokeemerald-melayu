@@ -29,8 +29,8 @@ MagmaHideout_2F_2R_Text_Grunt15Defeat:
 	.string "Aku mungkin kalah, tapi…$"
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
-	.string "Kami gali sesuatu yang tak dapat\n"
-	.string "dipercayai! Dan kami dapat MESTIKA\l"
+	.string "Kami gali sesuatu yang tak masuk\n"
+	.string "akal! Dan kami dapat MESTIKA\l"
 	.string "BIRU!\p"
 	.string "Sekarang cuma tinggal ketua kami…\n"
 	.string "Fufufu… Fwahahaha!$"

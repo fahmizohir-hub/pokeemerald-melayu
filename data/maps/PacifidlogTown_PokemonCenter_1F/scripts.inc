@@ -41,6 +41,6 @@ PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
 	.string "Kononnya nenek moyang penduduk\n"
 	.string "PACIFIDLOG lahir di atas perahu,\l"
 	.string "hidup dan mati di atasnya juga.\p"
-	.string "Saya faham mereka hidup begitu sebab\n"
-	.string "mereka sedang mencari sesuatu.$"
+	.string "Saya dengar mereka hidup\n"
+	.string "begitu sebab mencari sesuatu.$"
 

@@ -229,7 +229,7 @@ FortreeCity_Gym_Text_DariusDefeat:
 FortreeCity_Gym_Text_DariusPostBattle:
 	.string "Ya, kamu memang kalahkan saya.\n"
 	.string "Tapi hati-hati! POKéMON KETUA kami,\l"
-	.string "WINONA, memang serius belaka.$"
+	.string "WINONA, semuanya tak main-main.$"
 
 FortreeCity_Gym_Text_WinonaIntro:
 	.string "Saya WINONA. Saya KETUA\n"

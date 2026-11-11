@@ -123,12 +123,12 @@ ProfileMan_Text_EasyChatExplanation:
 	.string "sendiri.$"
 
 ProfileMan_Text_LetsSeeItThen:
-	.string "Ya! Terima kasih!\n"
-	.string "Jadi, mari kita tengok.$"
+	.string "Yeay! Terima kasih!\n"
+	.string "Cuba saya tengok.$"
 
 ProfileMan_Text_ImagineYouWouldHaveWonderfulProfile:
 	.string "Alamak, betul ke?\p"
-	.string "Saya bayangkan orang macam kamu mesti\n"
+	.string "Saya ingatkan orang macam kamu mesti\n"
 	.string "ada profil yang hebat…$"
 
 ProfileMan_Text_NotIntoItRightNow:
@@ -143,27 +143,27 @@ ProfileMan_Text_MayISeeYourNewProfile:
 	.string "Boleh saya tengok profil baru kamu?$"
 
 ProfileMan_Text_EvenBetterThanLastProfile:
-	.string "Ya! Terima kasih!\p"
-	.string "Saya harap ia lebih baik daripada profil\n"
+	.string "Yeay! Terima kasih!\p"
+	.string "Harap-harap lagi bagus daripada profil\n"
 	.string "yang kamu tunjuk dulu.$"
 
 ProfileMan_Text_LikeProfileWayItIs:
-	.string "Oh, kamu suka profil kamu macam\n"
+	.string "Oh, kamu suka profil kamu yang\n"
 	.string "sekarang.\p"
-	.string "Saya tak salahkan kamu--profil kamu\n"
-	.string "sekarang memang hebat.$"
+	.string "Patutlah--profil kamu sekarang pun\n"
+	.string "memang hebat.$"
 
 ProfileMan_Text_FantasticProfile:
 	.string "H-hebat!\p"
-	.string "Profil kamu memang menakjubkan!\n"
-	.string "Ia betul-betul menggambarkan kamu.\p"
-	.string "Sesiapa yang dengar profil ini pasti\n"
-	.string "terpikat dengan kamu!\p"
+	.string "Profil kamu memang mengagumkan!\n"
+	.string "Memang cerminan diri kamu.\p"
+	.string "Sesiapa yang dengar profil ni\n"
+	.string "mesti terpikat dengan kamu!\p"
 	.string "Terima kasih!$"
 
 @ Unused
 ProfileMan_Text_YouKnowSecretSaying:
 	.string "Oh?\n"
 	.string "Kamu tahu ungkapan rahsia itu!\p"
-	.string "Maknanya kamu kini ahli KELAB ACARA\n"
-	.string "MISTERI!$"
+	.string "Maknanya kamu dah jadi ahli\n"
+	.string "KELAB ACARA MISTERI!$"

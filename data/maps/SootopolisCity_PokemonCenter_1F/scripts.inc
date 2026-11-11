@@ -64,6 +64,6 @@ SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
 	.string "Sebab seronok bersama POKéMON!$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
-	.string "Bukankah POKéMON kawan kita?\p"
+	.string "POKéMON kan kawan kita?\p"
 	.string "Kenapa mereka mengamuk begini?$"
 

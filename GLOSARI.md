@@ -103,7 +103,7 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 | CANCEL | BATAL |
 | USE / GIVE / TOSS / REGISTER | GUNA / BERI / BUANG / DAFTAR |
 | SUMMARY / SWITCH / ITEM / MAIL | RINGKASAN / TUKAR / BARANG / SURAT |
-| SHIFT | GILIR |
+| SHIFT (pertarungan, PC, gaya pertarungan) | TUKAR |
 | MOVE / MOVES | MOVE / MOVE (kekal, istilah game) |
 | ABILITY | KEBOLEHAN |
 | NATURE | SIFAT |
@@ -154,6 +154,20 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 | BERRY BLENDER / BERRY CRUSHER / BERRY POWDER | PENGISAR BERRY / PENGHANCUR BERRY / SERBUK BERRY |
 | COINS | SYILING |
 
+## Nama move (bentuk kata nama)
+
+Nama move guna **kata nama**, bukan kata kerja: PUKULAN, GIGITAN, TETAKAN KARATE,
+TUMBUKAN API, SERANGAN SAYAP, LUNCURAN OMBAK, POTONGAN. Dalam pertarungan ayat jadi
+"X menggunakan GIGITAN!". Pengecualian: gabungan yang memang kata nama atau
+simpulan bahasa (SERANG BALAS, BALAS DENDAM, KITAR SEMULA, CURI TULANG, IKUT SAYA,
+HULUR TANGAN, TARIK DIRI, ULANG LAGI), dan HM TERBANG / SELAM.
+
+Had: 16 aksara (`MOVE_NAME_LENGTH`) dan **78px dalam fon sempit** (slot menu
+pertarungan 80px). Senarai pengajar move dan contest cuma 72px; nama lebih lebar
+dari itu terpotong di situ. Dalam dialog, bila nama move dipakai sebagai kata
+kerja, tambah "guna": "Tak boleh guna LUNCURAN OMBAK di sini."
+Alat: `tools/kata_nama_move.py` (nama) dan `tools/kata_nama_move_dialog.py` (dialog).
+
 ## Frasa move dan ability (dari fasa huraian move)
 
 | Inggeris | Melayu |
@@ -187,7 +201,7 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 | Congratulations! X evolved into Y! | Tahniah! X kamu telah berevolusi menjadi Y! |
 | WIN / LOSS / DRAW | Menang / Kalah / Seri |
 | Battle-window YES / NO (tingkap 24px) | Ya / Tak |
-| TYPE/ (label move) | JNS/ |
+| TYPE/ (label move) | ikon jenis (menu pertarungan); JNS/ di tempat lain |
 | " and " (senarai) | " dan " |
 
 Nota: `gText_Are` / `gText_Are2` dalam battle_message.c = "" (kosong). Ayat lobi

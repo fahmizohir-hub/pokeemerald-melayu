@@ -238,7 +238,7 @@ Route110_TrickHouseEnd_Movement_TrickMasterSurprise:
 
 Route110_TrickHouseEnd_Text_YouveMadeItToMe:
 	.string "Aak!\n"
-	.string "Kamu dah sampai kepada saya?\l"
+	.string "Kamu dah sampai ke sini?\l"
 	.string "Hmmm… Kamu memang bijak!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPlantTrees:
@@ -310,7 +310,7 @@ Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
 
 Route110_TrickHouseEnd_Text_NoRoomInPC:
 	.string "Apa? PC kamu dah tiada ruang?\n"
-	.string "Apa saya nak buat dengan itu?\p"
+	.string "Habis, macam mana ni?\p"
 	.string "Nak saja saya cakap begitu, tapi saya\n"
 	.string "terlalu baik hati, jadi datanglah semula\l"
 	.string "nanti!$"
@@ -330,20 +330,19 @@ Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward:
 Route110_TrickHouseEnd_Text_NoRoomForThis:
 	.string "Apa? Kamu tiada ruang untuk ni?\n"
 	.string "Barang apa yang kamu bawa sebenarnya?\p"
-	.string "Tak apa, sebab kamu dah sampai kepada\n"
-	.string "saya, ganjaran kamu saya simpan dulu.$"
+	.string "Tak apa, sebab kamu dah sampai sini,\n"
+	.string "saya simpankan dulu ganjaran kamu.$"
 
 Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou:
-	.string "Hapuskan senyum sinis tu dari muka\n"
-	.string "kamu! Terlalu awal nak rasa kamu dah\l"
-	.string "menang!\p"
+	.string "Jangan nak tersengih-sengih! Terlalu\n"
+	.string "awal nak rasa kamu dah menang!\p"
 	.string "Saya akan cipta helah baru untuk buat\n"
-	.string "kamu buntu. Kamu boleh ejek saya bila\l"
-	.string "kamu dah selesai.\p"
+	.string "kamu buntu. Ejeklah saya lepas kamu\l"
+	.string "dah selesaikannya.\p"
 	.string "Datang semula untuk episod seterusnya\n"
 	.string "yang mendebarkan!$"
 
 Route110_TrickHouseEnd_Text_YoureIgnoringMe:
-	.string "Eh, eh! Kamu buat tak tahu pada saya?\n"
-	.string "Itu sungguh menghancurkan hati saya!$"
+	.string "Eh, eh! Kamu buat tak tahu saja?\n"
+	.string "Hancur hati saya!$"
 

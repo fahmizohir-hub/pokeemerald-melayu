@@ -94,11 +94,11 @@ gText_ApprenticeLevelModeThanks0::
 	.string "{STR_VAR_1}?\n"
 	.string "Uwaaaaa!\p"
 	.string "Oh! Maafkan saya!\n"
-	.string "Kamu buat saya gembira bila pilihkan\l"
+	.string "Saya gembira sangat kamu pilihkan\l"
 	.string "tahap untuk saya, sampai menangis…\p"
 	.string "Hisk…\n"
 	.string "Terima kasih banyak-banyak!\l"
-	.string "Nanti berbual dengan saya lagi, ya!$"
+	.string "Nanti borak dengan saya lagi, ya!$"
 
 gText_ApprenticePleaseTeach1::
 	.string "Wah! Kamu {PLAYER}, kan?\n"
@@ -116,8 +116,8 @@ gText_ApprenticeRejectTeaching1::
 
 gText_ApprenticeWhichLevelMode1::
 	.string "Yeay! Bagus!\p"
-	.string "Benda pertama saya nak tanya kamu\n"
-	.string "ialah tentang BATTLE TOWER!\p"
+	.string "Soalan pertama saya,\n"
+	.string "pasal BATTLE TOWER!\p"
 	.string "Bilik LV. 50 dan LV. TERBUKA…\n"
 	.string "Mana satu paling sesuai untuk saya?$"
 
@@ -144,7 +144,7 @@ gText_ApprenticeRejectTeaching2::
 
 gText_ApprenticeWhichLevelMode2::
 	.string "Terima kasih!\n"
-	.string "Ini terus soalan pertama saya!\p"
+	.string "Terus ke soalan pertama saya!\p"
 	.string "BATTLE TOWER ada dua tahap,\n"
 	.string "LV. 50 dan LV. TERBUKA, kan?\p"
 	.string "Tahap mana yang kamu rasa lebih\n"
@@ -163,13 +163,13 @@ gText_ApprenticePleaseTeach3::
 	.string "berjumpa {PLAYER}.\p"
 	.string "…Kamu betul-betul {PLAYER}?\n"
 	.string "Tak sangka saya bercakap dengan kamu!\p"
-	.string "Bila benda sebaik ini berlaku, mesti\n"
+	.string "Bila benda baik macam ni berlaku, mesti\n"
 	.string "lepas ni nasib malang pula menimpa\l"
 	.string "saya, saya tahu sangat…\p"
 	.string "…Maafkan saya…\n"
 	.string "Saya… {STR_VAR_1}…\p"
-	.string "Tiada apa-apa yang istimewa tentang\n"
-	.string "saya untuk dibanggakan…\p"
+	.string "Tak ada apa yang istimewa pun\n"
+	.string "pasal saya untuk dibanggakan…\p"
 	.string "Tak perlu pun saya cerita pasal diri\n"
 	.string "saya, sebab kamu akan lupa juga…\p"
 	.string "Saya pernah bermimpi, kalau saya jumpa\n"
@@ -177,8 +177,7 @@ gText_ApprenticePleaseTeach3::
 	.string "minta nasihat sebagai JURULATIH.\p"
 	.string "Tapi saya rasa kamu takkan setuju\n"
 	.string "pun.\p"
-	.string "…Atau sudikah kamu memberi saya\n"
-	.string "nasihat?$"
+	.string "…Atau kamu sudi beri saya nasihat?$"
 
 gText_ApprenticeRejectTeaching3::
 	.string "Dah agak dah…\p"
@@ -188,7 +187,7 @@ gText_ApprenticeRejectTeaching3::
 	.string "Kamu takkan ubah fikiran, kan?\p"
 	.string "Tapi saya tak boleh mengalah begitu.\n"
 	.string "Saya tanya selagi masih bertuah!\p"
-	.string "Tolonglah, sudikah kamu memberi saya\n"
+	.string "Tolonglah, sudi tak kamu beri saya\n"
 	.string "nasihat?$"
 
 gText_ApprenticeWhichLevelMode3::
@@ -293,7 +292,7 @@ gText_ApprenticePleaseTeach6::
 	.string "Oh! Saya baru dapat idea bernas!\n"
 	.string "Saya nak minta nasihat kamu, {PLAYER}!\l"
 	.string "Mesti saya jadi lebih kuat!\p"
-	.string "Bukankah idea yang hebat?\n"
+	.string "Hebat tak idea saya?\n"
 	.string "Tolonglah, saya nak nasihat kamu!$"
 
 gText_ApprenticeRejectTeaching6::
@@ -380,7 +379,7 @@ gText_ApprenticeRejectTeaching8::
 	.string "Ini… Ini pengalaman berharga!\p"
 	.string "{PLAYER}, tolonglah! Saya nak dengar\n"
 	.string "jawapan “ya” kali ini!\p"
-	.string "Saya merayu bimbingan kamu!$"
+	.string "Tolonglah bimbing saya!$"
 
 gText_ApprenticeWhichLevelMode8::
 	.string "Hiiiiih! {PLAYER} kata ya!\n"
@@ -419,7 +418,7 @@ gText_ApprenticeRejectTeaching9::
 
 gText_ApprenticeWhichLevelMode9::
 	.string "Oh, yeah! Jawapan yang mantap!\n"
-	.string "Cemerlang, kalau boleh aku tambah!\p"
+	.string "Cemerlang, aku kata!\p"
 	.string "Jadi apa kata nasihat pertama\n"
 	.string "tentang BATTLE TOWER?\p"
 	.string "Kalau aku pergi, mana lebih baik?\n"
@@ -450,9 +449,9 @@ gText_ApprenticeRejectTeaching10::
 	.string "tengok apa saya nak buat!\p"
 	.string "Uwaaa! Uwaaa! Uwaaa!\n"
 	.string "Hik!\p"
-	.string "Hahaha, tadi tu TANGIS PALSU saya!\p"
-	.string "Ayuhlah, sudilah jadi\n"
-	.string "sifu POKéMON saya?$"
+	.string "Hahaha, tadi tu TANGISAN PALSU saya!\p"
+	.string "Alah, jadilah sifu POKéMON\n"
+	.string "saya, ya?$"
 
 gText_ApprenticeWhichLevelMode10::
 	.string "Yahuu!\n"
@@ -514,7 +513,7 @@ gText_ApprenticeLevelModeThanks11::
 	.string "{PLAYER}, kata kau aku patuhi!$"
 
 gText_ApprenticePleaseTeach12::
-	.string "Hei, hei, bukankah kau {PLAYER}?\n"
+	.string "Hei, hei, kau {PLAYER}, kan?\n"
 	.string "Apa patut aku buat? Tegur kau?\l"
 	.string "Kenapa tidak? Aku dah pun tegur kau!\p"
 	.string "{PLAYER}, kau terkejut dengan aku?\n"
@@ -537,7 +536,7 @@ gText_ApprenticeRejectTeaching12::
 
 gText_ApprenticeWhichLevelMode12::
 	.string "Bertuah, yeah, wuhu!\n"
-	.string "Patutkah aku tanya satu soalan padu?\p"
+	.string "Boleh aku tanya satu soalan padu?\p"
 	.string "Sebab kita dekat BATTLE TOWER,\n"
 	.string "apa kata soalan tentang power?\p"
 	.string "Antara pilihan yang kau nampak,\n"
@@ -558,8 +557,8 @@ gText_ApprenticePleaseTeach13::
 	.string "Nama saya {STR_VAR_1}.\n"
 	.string "Saya berlatih karate, tapi badan saya\l"
 	.string "tak tahan dibelasah…\p"
-	.string "Saya buat keputusan untuk bertarung\n"
-	.string "POKéMON dan kuatkan diri.\p"
+	.string "Jadi saya putuskan nak bertarung\n"
+	.string "POKéMON untuk kuatkan diri.\p"
 	.string "Kamu {PLAYER}{KUN}, kan?\n"
 	.string "JUARA LIGA POKéMON tu?\p"
 	.string "Dengar sini, boleh kamu beri saya\n"
@@ -639,7 +638,7 @@ gText_ApprenticePleaseTeach15::
 
 gText_ApprenticeRejectTeaching15::
 	.string "Oh?\n"
-	.string "Tapi apa yang membuat anda menolak?\p"
+	.string "Tapi kenapa anda menolak?\p"
 	.string "Maafkan saya kerana meragui\n"
 	.string "identiti anda.\p"
 	.string "Terimalah permohonan maaf saya dan\n"
@@ -666,12 +665,12 @@ gText_ApprenticeLevelModeThanks15::
 gText_ApprenticeWhatHeldItem0::
 	.string "Haih… Hisk…\n"
 	.string "Oh, {PLAYER}!\p"
-	.string "Saya terperangkap dalam dilema\n"
-	.string "yang saya tak dapat putuskan.\p"
+	.string "Saya ada dilema, tak tahu nak\n"
+	.string "buat keputusan.\p"
 	.string "Saya tak tahu barang apa patut\n"
 	.string "{STR_VAR_1} saya pegang.\p"
 	.string "Tolong beritahu saya, {PLAYER}.\n"
-	.string "Barang apa patut saya bagi ia pegang?$"
+	.string "Barang apa patut dia pegang?$"
 
 gText_ApprenticeHoldNothing0::
 	.string "Oh, betul ke? {STR_VAR_1} saya tak\n"
@@ -727,9 +726,9 @@ gText_ApprenticeItemAlreadyRecommended1::
 
 gText_ApprenticeWhatHeldItem2::
 	.string "{PLAYER}, helo!\n"
-	.string "Ini tentang {STR_VAR_1} saya…\p"
-	.string "Saya nak bagi ia pegang barang bagus.\n"
-	.string "Apa yang sesuai untuknya?$"
+	.string "Ini pasal {STR_VAR_1} saya…\p"
+	.string "Saya nak bagi dia pegang barang yang\n"
+	.string "bagus. Apa yang sesuai?$"
 
 gText_ApprenticeHoldNothing2::
 	.string "Oh, jadi {STR_VAR_1} saya tak perlu\n"
@@ -794,7 +793,7 @@ gText_ApprenticeWhatHeldItem4::
 	.string "Kau ingat kau pernah pilih POKéMON\n"
 	.string "yang patut aku guna?\p"
 	.string "Tapi aku tak pernah tanya barang apa\n"
-	.string "yang patut ia pegang.\p"
+	.string "yang patut dia pegang.\p"
 	.string "Sebab kau dah beri nasihat,\n"
 	.string "apa kata kau selesaikan sampai habis?\p"
 	.string "Apa yang bagus? Aku nak bagi\n"
@@ -866,12 +865,12 @@ gText_ApprenticeItemAlreadyRecommended5::
 
 gText_ApprenticeWhatHeldItem6::
 	.string "Hai, {PLAYER}! Saya ni!\n"
-	.string "Hari ni saya nak korek otak kamu lagi.\l"
+	.string "Hari ni saya nak tumpang ilmu kamu lagi.\l"
 	.string "Tolonglah, saya perlukan nasihat kamu!\p"
 	.string "Paluan gendang, sila!\n"
 	.string "Soalan saya ialah…\p"
 	.string "Kalau saya nak bagi {STR_VAR_1} saya\n"
-	.string "pegang barang, apa patutnya?$"
+	.string "pegang barang, apa yang patut?$"
 
 gText_ApprenticeHoldNothing6::
 	.string "Betul ke? {STR_VAR_1} saya tak\n"
@@ -1021,11 +1020,12 @@ gText_ApprenticeWhatHeldItem10::
 
 gText_ApprenticeHoldNothing10::
 	.string "Apa maksudnya tu?\n"
-	.string "Jangan bagi ia pegang apa-apa?$"
+	.string "Jangan bagi dia pegang apa-apa?$"
 
 gText_ApprenticeThanksNoHeldItem10::
-	.string "Okey, jadi ia tak patut pegang apa-apa.\n"
-	.string "Jadi, baik saya belikan sesuatu!\p"
+	.string "Okey, jadi dia tak patut pegang\n"
+	.string "apa-apa. Jadi, baik saya belikan\l"
+	.string "sesuatu!\p"
 	.string "Gurau saja!\n"
 	.string "Saya akan ikut ajaran sifu!\p"
 	.string "Terima kasih, sifu!\n"
@@ -1116,7 +1116,7 @@ gText_ApprenticeThanksHeldItem12::
 	.string "Jumpa lagi, kawanku yang bijak!$"
 
 gText_ApprenticeItemAlreadyRecommended12::
-	.string "Bukankah aku pernah dengar pasal\n"
+	.string "Rasanya aku pernah dengar pasal\n"
 	.string "{STR_VAR_1} tu?\l"
 	.string "Aku yakin pernah, memang pasti tu!\p"
 	.string "Aku perlu sesuatu yang baru!\n"
@@ -1148,7 +1148,7 @@ gText_ApprenticeThanksNoHeldItem13::
 gText_ApprenticeThanksHeldItem13::
 	.string "Hm, baiklah. {STR_VAR_1}, ya.\n"
 	.string "Lengan POKéMON saya tak apa-apa, jadi\l"
-	.string "saya terus bagi ia pegang barang tu.\p"
+	.string "saya terus bagi dia pegang barang tu.\p"
 	.string "Harap saya boleh terus minta tolong\n"
 	.string "kamu macam ni.$"
 
@@ -1258,7 +1258,7 @@ gText_ApprenticeMonFirstThanks0::
 	.string "{STR_VAR_1} saya patut keluar dulu?\n"
 	.string "Uwaaaaa!\p"
 	.string "Oh! Maafkan saya!\n"
-	.string "Kamu buat saya gembira bila pilihkan\l"
+	.string "Saya gembira sangat kamu pilihkan\l"
 	.string "POKéMON pertama saya, sampai menangis…\p"
 	.string "Terima kasih banyak-banyak!$"
 
@@ -1278,7 +1278,7 @@ gText_ApprenticeWhichMonFirst2::
 	.string "Saya rasa, dalam pertarungan, POKéMON\n"
 	.string "yang keluar dulu sangat penting.\p"
 	.string "Antara POKéMON yang saya ada,\n"
-	.string "mana bagus dihantar keluar dulu?$"
+	.string "mana yang bagus keluar dulu?$"
 
 gText_ApprenticeMonFirstThanks2::
 	.string "{STR_VAR_1} saya keluar dulu?\n"
@@ -1383,7 +1383,7 @@ gText_ApprenticeWhichMonFirst8::
 	.string "Sa… Saya gembira sangat jumpa kamu!\p"
 	.string "POKéMON saya dah jadi lebih\n"
 	.string "kuat!\p"
-	.string "Tapi saya tak selalu menang. Ia macam\n"
+	.string "Tapi saya tak selalu menang. Macam\n"
 	.string "bergantung pada POKéMON pertama.\p"
 	.string "{PLAYER}, tolong, saya perlu bantuan!\p"
 	.string "Tolong putuskan POKéMON saya yang\n"
@@ -1546,8 +1546,8 @@ gText_ApprenticeWhichMon0::
 	.string "saya guna.\p"
 	.string "Saya tak dapat pilih antara POKéMON\n"
 	.string "{STR_VAR_1} dan {STR_VAR_2}…\p"
-	.string "{PLAYER}, mana yang beri saya pun\n"
-	.string "peluang untuk menang?$"
+	.string "{PLAYER}, mana satu yang boleh bagi\n"
+	.string "orang macam saya pun peluang menang?$"
 
 gText_ApprenticeMonThanks0::
 	.string "Hisk… Sa… Saya faham!\n"
@@ -1601,10 +1601,10 @@ gText_ApprenticeWhichMon3::
 	.string "tapi tolong pilihkan untuk saya.$"
 
 gText_ApprenticeMonThanks3::
-	.string "Tapi adakah {STR_VAR_1} liar akan\n"
-	.string "pedulikan saya?\p"
+	.string "Tapi {STR_VAR_1} liar nak ke pedulikan\n"
+	.string "orang macam saya?\p"
 	.string "Saya akan cuba!\p"
-	.string "Tapi bolehkah saya tangkap seekor…\n"
+	.string "Tapi boleh ke saya tangkap seekor…\n"
 	.string "Tak! Saya akan cuba sedaya upaya!\p"
 	.string "Terima kasih!$"
 
@@ -1635,8 +1635,8 @@ gText_ApprenticeWhichMon5::
 	.string "POKéMON mana yang patut aku guna.\p"
 	.string "Kau tahu kan {STR_VAR_1} nampak kuat?\n"
 	.string "Tapi {STR_VAR_2} pun susah nak ditolak.\p"
-	.string "{PLAYER}{KUN}, beri aku nasihat bagus\n"
-	.string "kau! Mana satu sesuai untuk aku?$"
+	.string "{PLAYER}{KUN}, bagi aku nasihat bernas kau!\n"
+	.string "Mana satu sesuai untuk aku?$"
 
 gText_ApprenticeMonThanks5::
 	.string "Okey, faham.\n"
@@ -1650,7 +1650,7 @@ gText_ApprenticeWhichMon6::
 	.string "Yeay, {PLAYER}!\p"
 	.string "Saya terus cerita pada kawan-kawan\n"
 	.string "yang saya jumpa kamu!\p"
-	.string "Hari ni saya nak korek otak kamu lagi.\n"
+	.string "Hari ni saya nak tumpang ilmu kamu lagi.\n"
 	.string "Senang saja untuk kamu!\p"
 	.string "Paluan gendang, sila!\n"
 	.string "Soalan saya ialah…\p"
@@ -1707,8 +1707,8 @@ gText_ApprenticeMonThanks8::
 gText_ApprenticeWhichMon9::
 	.string "Hei, hei!\n"
 	.string "Mentor aku, {PLAYER}{KUN}!\p"
-	.string "Helo, aku dah cari kau untuk\n"
-	.string "lagi nasihat bijak kau!\p"
+	.string "Aku dah cari kau, nak minta lagi\n"
+	.string "nasihat bijak kau!\p"
 	.string "POKéMON jenis mana sesuai untuk\n"
 	.string "aku, {STR_VAR_1} atau {STR_VAR_2}?\p"
 	.string "Jangan malu-malu.\n"
@@ -1851,8 +1851,8 @@ gText_ApprenticeMoveThanks0::
 	.string "{STR_VAR_1}?\n"
 	.string "Uwaaaaa!\p"
 	.string "Oh! Maafkan saya, {PLAYER}!\n"
-	.string "Kamu buat saya gembira bila pilihkan\l"
-	.string "move tu, sampai saya menangis…\p"
+	.string "Saya gembira sangat kamu pilihkan\l"
+	.string "move tu, sampai menangis…\p"
 	.string "Hisk…\n"
 	.string "Terima kasih banyak-banyak!$"
 
@@ -1873,8 +1873,8 @@ gText_ApprenticeMoveThanks1::
 
 gText_ApprenticeWhichMove2::
 	.string "{PLAYER}, helo!\n"
-	.string "Ini tentang {STR_VAR_1} saya, saya\l"
-	.string "risau tentang move-nya.\p"
+	.string "Pasal {STR_VAR_1} saya ni, saya\l"
+	.string "risau pasal move dia.\p"
 	.string "Begini, ada move {STR_VAR_2}\n"
 	.string "dan {STR_VAR_3}.\p"
 	.string "Mana lebih kuat dan lebih sesuai\n"
@@ -1892,10 +1892,10 @@ gText_ApprenticeWhichMove3::
 	.string "Saya memang tak guna, betul!\p"
 	.string "Saya dah putuskan nak latih POKéMON,\n"
 	.string "tapi sekarang saya tak dapat pilih\l"
-	.string "move apa yang patut ia belajar…\p"
-	.string "Saya tahu ia tak bermakna apa-apa\n"
-	.string "bagi kamu, {PLAYER}.\p"
-	.string "Tapi ia sangat bermakna bagi saya…\p"
+	.string "move apa yang patut dia belajar…\p"
+	.string "Saya tahu benda ni tak penting bagi\n"
+	.string "kamu, {PLAYER}.\p"
+	.string "Tapi bagi saya, penting sangat…\p"
 	.string "Tolonglah, {PLAYER}, boleh kamu pilih\n"
 	.string "move untuk {STR_VAR_1} saya?\p"
 	.string "Kalau kamu boleh pilih antara\n"
@@ -1903,7 +1903,7 @@ gText_ApprenticeWhichMove3::
 
 gText_ApprenticeMoveThanks3::
 	.string "Saya faham!\p"
-	.string "Tapi sudikah ia belajar\n"
+	.string "Tapi nak ke dia belajar\n"
 	.string "{STR_VAR_1} untuk saya…\l"
 	.string "Tak! Saya akan cuba sedaya upaya!\p"
 	.string "Terima kasih!$"
@@ -1938,8 +1938,8 @@ gText_ApprenticeWhichMove5::
 	.string "untuk {STR_VAR_1} aku!\p"
 	.string "{STR_VAR_2} nampak bagus, kan?\n"
 	.string "Tapi {STR_VAR_3} pun boleh tahan.\p"
-	.string "{PLAYER}{KUN}, beri aku nasihat bagus\n"
-	.string "kau! Move mana sesuai untuk aku?$"
+	.string "{PLAYER}{KUN}, bagi aku nasihat bernas kau!\n"
+	.string "Move mana sesuai untuk aku?$"
 
 gText_ApprenticeMoveThanks5::
 	.string "Okey, faham.\n"
@@ -1951,7 +1951,7 @@ gText_ApprenticeMoveThanks5::
 gText_ApprenticeWhichMove6::
 	.string "Oh! Bertuahnya!\n"
 	.string "Saya jumpa kamu lagi, {PLAYER}!\l"
-	.string "Hari ni saya nak korek otak kamu lagi.\p"
+	.string "Hari ni saya nak tumpang ilmu kamu lagi.\p"
 	.string "Paluan gendang, sila!\n"
 	.string "Soalan saya ialah…\p"
 	.string "Untuk {STR_VAR_1} saya, move mana\n"
@@ -2004,13 +2004,13 @@ gText_ApprenticeMoveThanks8::
 
 gText_ApprenticeWhichMove9::
 	.string "Hola, {PLAYER}{KUN}, bueno!\n"
-	.string "Aku harap dapat lagi nasihat\l"
-	.string "bijak kau hari ni!\p"
+	.string "Hari ni aku nak minta lagi\l"
+	.string "nasihat bijak kau!\p"
 	.string "Apa move terbaik untuk\n"
 	.string "{STR_VAR_1} aku?\p"
 	.string "Mesti sesuatu yang buat aku\n"
 	.string "menang macam tu saja!\p"
-	.string "Adakah {STR_VAR_2}?\n"
+	.string "{STR_VAR_2} ke?\n"
 	.string "Atau {STR_VAR_3}?$"
 
 gText_ApprenticeMoveThanks9::
@@ -2023,7 +2023,7 @@ gText_ApprenticeMoveThanks9::
 gText_ApprenticeWhichMove10::
 	.string "{PLAYER}{KUN}, ini betul-betul gila!\p"
 	.string "POKéMON saya!\n"
-	.string "Ia belajar enam move!\p"
+	.string "Dia dah belajar enam move!\p"
 	.string "Mestilah saya tipu!\n"
 	.string "Wahahaha!\p"
 	.string "Yang ini bukan tipu, ya.\n"
@@ -2067,7 +2067,7 @@ gText_ApprenticeWhichMove12::
 	.string "Aku nak nasihat kau, kau tahu?\p"
 	.string "Isyarat aku sampai tak?\n"
 	.string "Isyarat aku sampai!\p"
-	.string "{STR_VAR_1} aku--apa patut ia guna?\n"
+	.string "{STR_VAR_1} aku--apa patut dia guna?\n"
 	.string "Sama ada {STR_VAR_2} atau {STR_VAR_3},\l"
 	.string "mana kau pilih, sila?$"
 
@@ -2104,7 +2104,7 @@ gText_ApprenticeWhichMove14::
 	.string "Sa… Saya malu sangat, tapi saya tak\n"
 	.string "dapat pilih move apa nak ajar\l"
 	.string "POKéMON saya.\p"
-	.string "Ia untuk {STR_VAR_1} saya.\n"
+	.string "Untuk {STR_VAR_1} saya.\n"
 	.string "Kalau pilihannya {STR_VAR_2} atau\l"
 	.string "{STR_VAR_3}, mana lebih baik?$"
 
@@ -2127,8 +2127,8 @@ gText_ApprenticeWhichMove15::
 	.string "Oh ya, saya ingin mendapatkan\n"
 	.string "nasihat anda.\p"
 	.string "Ini tentang {STR_VAR_1} saya.\p"
-	.string "Move mana lebih baik untuk ia\n"
-	.string "guna, {STR_VAR_2} atau {STR_VAR_3}?$"
+	.string "Move mana lebih baik untuknya,\n"
+	.string "{STR_VAR_2} atau {STR_VAR_3}?$"
 
 gText_ApprenticeMoveThanks15::
 	.string "{STR_VAR_1}?\n"
@@ -2169,16 +2169,16 @@ gText_ApprenticePickWinSpeech1::
 	.string "Saya nak tanya kamu sesuatu!\p"
 	.string "Saya nak cakap sesuatu yang hebat\n"
 	.string "bila saya menang perlawanan.\p"
-	.string "Kamu ada ayat hebat yang\n"
-	.string "boleh kamu cadangkan?$"
+	.string "Ada tak ayat hebat yang kamu\n"
+	.string "boleh cadangkan?$"
 
 gText_ApprenticeWinSpeechThanks1::
 	.string "{STR_VAR_1}\p"
 	.string "Oh, wah! Hebatnya!\n"
 	.string "Okey, saya cakap macam tu!\p"
 	.string "Terima kasih ajar saya selama ni!\n"
-	.string "Saya akan buat sebaik mungkin\l"
-	.string "ke mana saja saya pergi lepas ni!\p"
+	.string "Lepas ni, ke mana pun saya pergi,\l"
+	.string "saya akan buat yang terbaik!\p"
 	.string "Bila kita jumpa lagi, kita\n"
 	.string "bertarung!$"
 
@@ -2186,10 +2186,10 @@ gText_ApprenticePickWinSpeech2::
 	.string "{PLAYER}, helo!\p"
 	.string "Saya dan POKéMON saya dah bersedia\n"
 	.string "untuk apa saja, kecuali satu perkara.\p"
-	.string "Saya rasa bagus kalau saya ada\n"
-	.string "sesuatu untuk dilaung bila menang.\p"
-	.string "Boleh kamu fikirkan ayat yang bagus\n"
-	.string "untuk diucap?$"
+	.string "Saya rasa bagus kalau saya ada ayat\n"
+	.string "untuk dilaungkan bila menang.\p"
+	.string "Boleh tolong fikirkan ayat yang\n"
+	.string "bagus?$"
 
 gText_ApprenticeWinSpeechThanks2::
 	.string "{STR_VAR_1}\p"
@@ -2208,16 +2208,16 @@ gText_ApprenticePickWinSpeech3::
 	.string "Walaupun…\n"
 	.string "Walaupun saya menang, saya tak ada\l"
 	.string "apa-apa yang istimewa nak dicakap…\p"
-	.string "Saya tahu ia tak bermakna apa-apa\n"
-	.string "bagi kamu, {PLAYER}.\p"
-	.string "Tapi ia sangat bermakna bagi saya…\p"
+	.string "Saya tahu benda ni tak penting bagi\n"
+	.string "kamu, {PLAYER}.\p"
+	.string "Tapi bagi saya, penting sangat…\p"
 	.string "Tolonglah, {PLAYER}, apa patut saya\n"
 	.string "cakap kalau saya menang?$"
 
 gText_ApprenticeWinSpeechThanks3::
 	.string "{STR_VAR_1}\p"
 	.string "Penuh inspirasi…\p"
-	.string "Err… Layakkah orang macam saya\n"
+	.string "Err… Layak ke orang macam saya\n"
 	.string "cakap macam tu?\p"
 	.string "Tak! Saya akan cuba sedaya upaya!\p"
 	.string "{PLAYER}, terima kasih banyak kerana\n"
@@ -2244,9 +2244,9 @@ gText_ApprenticeWinSpeechThanks4::
 	.string "{STR_VAR_1}\p"
 	.string "Boleh tahan!\n"
 	.string "Yup, itulah yang aku pilih!\p"
-	.string "Aku nak mengembara dan buat apa yang\n"
-	.string "aku mampu dengan ajaran kau dalam\l"
-	.string "kepala dan hati aku.\p"
+	.string "Aku nak keluar mengembara, bawa\n"
+	.string "ajaran kau dalam kepala dan hati aku,\l"
+	.string "dan buat apa yang aku mampu.\p"
 	.string "Maaf sebab aku selalu memaksa\n"
 	.string "kau!\p"
 	.string "Lain kali, kita bertarung, okey?\n"
@@ -2290,14 +2290,14 @@ gText_ApprenticePickWinSpeech6::
 gText_ApprenticeWinSpeechThanks6::
 	.string "{STR_VAR_1}\p"
 	.string "Itu… Itu mengagumkan!\n"
-	.string "Bermaruah dan hebat! Saya ambil!\p"
+	.string "Penuh gaya dan bermaruah! Saya cop!\p"
 	.string "…Dengar sini, rasanya saya dah makin\n"
 	.string "pandai, kan?\p"
 	.string "Jadi, saya fikir nak cabar JURULATIH\n"
 	.string "lain mulai sekarang.\p"
 	.string "{PLAYER}, nasihat kamu banyak membantu.\p"
-	.string "Mungkin satu hari nanti, akan tiba\n"
-	.string "masa kita bertarung!\p"
+	.string "Mungkin satu hari nanti, kita akan\n"
+	.string "bertarung!\p"
 	.string "Terima kasih atas segalanya!$"
 
 gText_ApprenticePickWinSpeech7::
@@ -2315,8 +2315,8 @@ gText_ApprenticePickWinSpeech7::
 
 gText_ApprenticeWinSpeechThanks7::
 	.string "{STR_VAR_1}\p"
-	.string "Ah! Kata-kata itu! Ia menyegarkan saya\n"
-	.string "dan buat saya rasa lahir semula!\p"
+	.string "Ah! Kata-kata itu! Saya rasa segar,\n"
+	.string "seolah-olah lahir semula!\p"
 	.string "Saya mesti gunakannya segera!\p"
 	.string "Dan sekarang, saya mohon diri,\n"
 	.string "{PLAYER}…\p"
@@ -2331,7 +2331,7 @@ gText_ApprenticePickWinSpeech8::
 	.string "Oh-oh-oh! Ada sesuatu yang saya\n"
 	.string "mesti tanya kamu!\p"
 	.string "Tadi, saya menang satu pertarungan.\n"
-	.string "Bahagian tu memang mengujakan!\p"
+	.string "Masa tu memang seronok gila!\p"
 	.string "Tapi saya terlalu gembira sampai\n"
 	.string "tersekat dan tak dapat cakap apa-apa!\p"
 	.string "Jadi sekarang, {PLAYER}, tolonglah\n"
@@ -2364,7 +2364,7 @@ gText_ApprenticePickWinSpeech9::
 
 gText_ApprenticeWinSpeechThanks9::
 	.string "{STR_VAR_1}\p"
-	.string "Uh-huh, manisnya!\n"
+	.string "Uh-huh, mantap!\n"
 	.string "Si, bueno!\l"
 	.string "Aku cuba cakap tu, gitu, dam!\p"
 	.string "Dan sekarang, masa untuk berpisah!\n"
@@ -2456,7 +2456,7 @@ gText_ApprenticePickWinSpeech13::
 	.string "Hidung saya tak berhenti meleleh…\p"
 	.string "Saya cuba fikirkan sesuatu yang\n"
 	.string "hebat untuk dicakap bila menang.\p"
-	.string "Ia buat saya terharu sampai menangis,\n"
+	.string "Saya terharu sampai menangis,\n"
 	.string "dan sekarang hingus tak berhenti…\p"
 	.string "Jadi, memandangkan keadaan begini,\n"
 	.string "kamu tolong pilihkan, {PLAYER}{KUN}.\p"
@@ -2466,7 +2466,7 @@ gText_ApprenticePickWinSpeech13::
 gText_ApprenticeWinSpeechThanks13::
 	.string "{STR_VAR_1}\p"
 	.string "… … …Bagus tu.\n"
-	.string "Tak, ia sangat mengagumkan!\l"
+	.string "Tak, memang mengagumkan!\l"
 	.string "Air mata saya mengalir lagi!\p"
 	.string "Tapi walaupun berair mata dan\n"
 	.string "berhingus, saya akan guna ayat tu!\p"

@@ -10,10 +10,10 @@ SootopolisCity_House7_EventScript_PokefanF::
 	end
 
 SootopolisCity_House7_Text_CityFromEruptedVolcano:
-	.string "Gunung berapi bawah laut meletus dan\n"
-	.string "menolak diri naik dari dasar.\p"
-	.string "Kawahnya timbul dari laut dan dipenuhi\n"
-	.string "air hujan.\p"
+	.string "Gunung berapi bawah laut meletus\n"
+	.string "dan menjulang naik dari dasar laut.\p"
+	.string "Kawahnya timbul dari laut\n"
+	.string "dan dipenuhi air hujan.\p"
 	.string "Begitulah BANDAR SOOTOPOLIS\n"
 	.string "terbentuk.$"
 

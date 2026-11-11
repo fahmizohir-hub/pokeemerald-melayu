@@ -63,8 +63,8 @@ sText_MysteryGiftEgg:
 	.string "HADIAH MISTERI.\p"
 	.string "Daripada PUSAT POKéMON, kami ada\n"
 	.string "hadiah--sebiji TELUR POKéMON!\p"
-	.string "Tolong bela ia dengan penuh kasih\n"
-	.string "sayang.$"
+	.string "Tolong jaga TELUR ni dengan penuh\n"
+	.string "kasih sayang.$"
 
 sText_FullParty:
 	.string "Oh, nampaknya pasukan kamu dah penuh.\p"

@@ -107,15 +107,16 @@ Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
 	.string "Kamu ada SURAT untuk DEWFORD dan\n"
 	.string "bungkusan untuk SLATEPORT, ya?\p"
 	.string "Sibuk betul hidup kamu!\p"
-	.string "Tapi, permintaan kamu tu\n"
-	.string "langsung tak jadi masalah.\p"
-	.string "Kamu dah jumpa orang yang\n"
-	.string "tepat! Kita belayar ke DEWFORD.$"
+	.string "Tapi, permintaan kamu tu langsung tak\n"
+	.string "jadi masalah.\p"
+	.string "Kamu cari orang yang betul! Kita\n"
+	.string "belayar ke DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_SetSailForDewford:
-	.string "ENCIK BRINEY: DEWFORD, kalau begitu!\p"
-	.string "Angkat sauh! PEEKO, kita\n"
-	.string "nak belayar, sayang!$"
+	.string "ENCIK BRINEY: Kalau begitu, kita\n"
+	.string "ke DEWFORD!\p"
+	.string "Angkat sauh! PEEKO, kita nak\n"
+	.string "belayar, sayang!$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:
 	.string "ENCIK BRINEY: Begitu?\n"
@@ -124,21 +125,21 @@ Route104_MrBrineysHouse_Text_DeclineDeliverySail:
 	.string "bila kamu nak belayar!$"
 
 Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
-	.string "ENCIK BRINEY: Ahoi! Saya tahu\n"
-	.string "apa yang kamu nak cakap!\p"
-	.string "Kamu nak hantar SURAT ke DEWFORD\n"
-	.string "dan bungkusan ke SLATEPORT.\p"
-	.string "Apa yang kamu perlukan langsung\n"
-	.string "tak jadi masalah. Sayalah orangnya!\p"
+	.string "ENCIK BRINEY: Ahoi! Tak payah cakap,\n"
+	.string "saya dah tahu!\p"
+	.string "Kamu nak hantar SURAT ke DEWFORD dan\n"
+	.string "bungkusan ke SLATEPORT.\p"
+	.string "Tak ada masalah langsung. Serahkan\n"
+	.string "pada saya!\p"
 	.string "Mula-mula, kita belayar ke DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
-	.string "ENCIK BRINEY: Ahoi! Saya tahu\n"
-	.string "apa yang kamu nak cakap!\p"
-	.string "Kamu nak hantar bungkusan\n"
-	.string "kepada KAPT. STERN di SLATEPORT.\p"
-	.string "Apa yang kamu perlukan langsung\n"
-	.string "tak jadi masalah. Sayalah orangnya!\p"
+	.string "ENCIK BRINEY: Ahoi! Tak payah cakap,\n"
+	.string "saya dah tahu!\p"
+	.string "Kamu nak hantar bungkusan kepada\n"
+	.string "KAPT. STERN di SLATEPORT.\p"
+	.string "Tak ada masalah langsung. Serahkan\n"
+	.string "pada saya!\p"
 	.string "Mula-mula, kita belayar ke DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_WhereAreWeBound:

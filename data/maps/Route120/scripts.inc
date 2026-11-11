@@ -398,7 +398,8 @@ Route120_Text_StevenGoodbye:
 	.string "STEVEN: {PLAYER}{KUN}.\p"
 	.string "Saya suka lihat POKéMON dan\n"
 	.string "JURULATIH yang berusaha bersama.\p"
-	.string "Saya rasa kamu buat dengan baik.\p"
+	.string "Saya rasa kamu dah buat dengan sangat\n"
+	.string "baik.\p"
 	.string "Baiklah, kita jumpa lagi nanti.$"
 
 Kecleon_Text_SomethingUnseeable:

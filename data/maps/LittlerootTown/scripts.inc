@@ -922,11 +922,11 @@ LittlerootTown_Text_DangerousIfYouDontHavePokemon:
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
 	.string "Err, hai!\p"
 	.string "Ada POKéMON yang menakutkan di luar!\n"
-	.string "Saya boleh dengar jeritan mereka!\p"
+	.string "Saya dengar bunyi jeritannya!\p"
 	.string "Saya nak pergi tengok apa yang jadi,\n"
 	.string "tapi saya tak ada POKéMON…\p"
-	.string "Boleh tak kamu tolong pergi tengok\n"
-	.string "apa yang berlaku?$"
+	.string "Boleh tak kamu tolong tengokkan apa\n"
+	.string "yang jadi?$"
 
 LittlerootTown_Text_YouSavedBirch:
 	.string "Kamu dah selamatkan PROF. BIRCH!\n"

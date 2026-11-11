@@ -232,8 +232,8 @@ JaggedPass_Text_GoWhereverYouWant:
 	.string "Pergilah ke mana kau suka!$"
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem:
-	.string "Oh! Batu besar ni bergegar sebagai\n"
-	.string "tindak balas pada LAMBANG MAGMA!$"
+	.string "Oh! Batu besar ni bergegar, macam\n"
+	.string "bertindak balas pada LAMBANG MAGMA!$"
 
 JaggedPass_Text_JulioIntro:
 	.string "Aiyeeh! Seram betul meluncur turun\n"

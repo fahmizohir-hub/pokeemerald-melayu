@@ -30,7 +30,7 @@ PacifidlogTown_House4_EventScript_No::
 PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
 	.string "Orang kata mereka nampak POKéMON\n"
 	.string "terbang tinggi di atas HOENN.\p"
-	.string "Adakah ia terbang sepanjang masa?\n"
+	.string "Ia terbang sepanjang masa ke?\n"
 	.string "Tak perlu rehat di mana-mana ke?$"
 
 PacifidlogTown_House4_Text_SkyPokemon:

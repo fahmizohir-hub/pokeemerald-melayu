@@ -101,5 +101,5 @@ LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
 	.string "{STR_VAR_1} kamu nampaknya tak\n"
-	.string "sanggup lupakan LUNCUR OMBAK.$"
+	.string "sanggup lupakan LUNCURAN OMBAK.$"
 

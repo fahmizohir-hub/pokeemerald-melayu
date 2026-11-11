@@ -83,7 +83,7 @@ FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
 	.string "kamu ambillah.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:
-	.string "Terima kasih kepada WINGULL, saya ada\n"
+	.string "Berkat WINGULL saya, saya ada\n"
 	.string "kawan-kawan yang tinggal jauh.$"
 
 FortreeCity_House4_Text_Wingull:

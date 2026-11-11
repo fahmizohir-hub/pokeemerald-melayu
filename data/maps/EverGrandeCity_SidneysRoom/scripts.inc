@@ -67,21 +67,22 @@ EverGrandeCity_SidneysRoom_EventScript_Defeated::
 EverGrandeCity_SidneysRoom_Text_IntroSpeech:
 	.string "Selamat datang, pencabar!\n"
 	.string "Saya SIDNEY dari ELIT EMPAT.\p"
-	.string "Saya suka cara kamu pandang saya.\n"
-	.string "Mesti kamu lawan yang hebat.\l"
+	.string "Saya suka cara kamu pandang\n"
+	.string "saya. Mesti kamu lawan yang hebat.\l"
 	.string "Bagus! Nampak sangat bagus!\p"
-	.string "Baiklah! Kamu dan saya, mari nikmati\n"
-	.string "pertarungan yang hanya boleh\l"
-	.string "berlaku di LIGA POKéMON ini!$"
+	.string "Baiklah! Kamu dan saya, jom\n"
+	.string "berseronok dalam pertarungan\l"
+	.string "yang cuma ada di LIGA POKéMON ni!$"
 
 EverGrandeCity_SidneysRoom_Text_Defeat:
 	.string "Hah, macam mana tu? Saya kalah!\n"
 	.string "Eh, seronok juga, jadi tak kisahlah.$"
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
-	.string "Dengar apa orang yang kalah ni nak\n"
-	.string "cakap.\p"
-	.string "Kamu ada apa yang perlu untuk pergi\n"
+	.string "Dengar apa orang yang\n"
+	.string "kalah ni nak cakap.\p"
+	.string "Kamu memang ada bakat untuk pergi\n"
 	.string "jauh. Sekarang, pergi ke bilik\l"
-	.string "seterusnya dan nikmati pertarungan!$"
+	.string "seterusnya dan berseronoklah\l"
+	.string "dengan pertarungan seterusnya!$"
 

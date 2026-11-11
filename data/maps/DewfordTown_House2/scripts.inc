@@ -27,20 +27,20 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Puaskan mata kamu dengan benda ni!\p"
-	.string "Ini SKARF SUTERA. Fesyen paling terkini,\n"
-	.string "yeah!\p"
+	.string "Cuci mata tengok benda ni!\p"
+	.string "Ini SKARF SUTERA. Fesyen paling\n"
+	.string "terkini, yeah!\p"
 	.string "Oh, saya nampak mata kamu bersinar!\n"
-	.string "Kamu menghargai gaya saya yang\l"
-	.string "mempesona!\p"
-	.string "Oh, kamu memang menyenangkan! Nah,\n"
-	.string "saya nak kamu ambil ni!$"
+	.string "Kamu tahu menilai gaya saya\l"
+	.string "yang mempesona!\p"
+	.string "Oh, suka saya dengan kamu! Nah, saya\n"
+	.string "nak kamu ambil ni!$"
 
 DewfordTown_House2_Text_NoRoom:
 	.string "Oh, beg kamu tak ada ruang?\p"
 	.string "Dengar sini, SKARF ni wajib ada! Saya\n"
-	.string "sanggup jual semua barang saya demi\l"
-	.string "mendapatkannya!$"
+	.string "sanggup jual semua barang saya\l"
+	.string "semata-mata nak dapatkannya!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
 	.string "SKARF SUTERA menaikkan kuasa move\n"
@@ -51,8 +51,8 @@ DewfordTown_House2_Text_ExplainSilkScarf:
 DewfordTown_House2_Text_BrawlySoCool:
 	.string "Wah, kamu sanggup seberang laut untuk\n"
 	.string "datang ke DEWFORD?\p"
-	.string "Kamu datang sebab dengar pasal BRAWLY,\n"
-	.string "ya?\p"
-	.string "Dia segak sangat… Semua orang\n"
-	.string "memujanya.$"
+	.string "Kamu datang sebab dengar pasal\n"
+	.string "BRAWLY, ya?\p"
+	.string "Dia segak sangat… Semua orang minat\n"
+	.string "gila dengan dia.$"
 

@@ -11,8 +11,8 @@ EventTicket_Text_ThatPass:
 	.string "PAS itu…$"
 
 EventTicket_Text_ShowEonTicket:
-	.string "Ahoi, kawan, kamukah yang bawa\n"
-	.string "PAS yang sangat pelik itu?\p"
+	.string "Ahoi, kawan, kamu ke yang bawa\n"
+	.string "PAS pelik tu?\p"
 	.string "Biar saya beritahu, kamu nak ke sebuah\n"
 	.string "pulau kecil yang jauh di selatan.\p"
 	.string "Entah apa yang kita akan temui\n"
@@ -21,8 +21,8 @@ EventTicket_Text_ShowEonTicket:
 	.string "Semua naik kapal!$"
 
 EventTicket_Text_SouthernIslandSailBack:
-	.string "Ahoi, kawan, tiada apa yang boleh\n"
-	.string "dilihat di pulau yang sunyi ini.\p"
+	.string "Ahoi, kawan, tak ada apa nak\n"
+	.string "tengok di pulau sunyi ni.\p"
 	.string "Apa kata kita balik ke LILYCOVE?$"
 
 EventTicket_Text_SailHome:

@@ -932,7 +932,7 @@ SlateportCity_Text_SeaweedFullOfLife:
 
 SlateportCity_Text_HowTownIsBornAndGrows:
 	.string "Di mana airnya bersih, di situlah hasil\n"
-	.string "tuaian yang mewah berkumpul.\p"
+	.string "tuaian melimpah ruah.\p"
 	.string "Dan di mana orang berkumpul, tak lama\n"
 	.string "kemudian pasar pun bermula.\p"
 	.string "Begitulah sebuah pekan lahir dan\n"
@@ -1024,8 +1024,8 @@ SlateportCity_Text_IllReadSignForYou:
 	.string "Biar saya bacakan!$"
 
 SlateportCity_Text_SaysSomethingLikeSeaIsEndless:
-	.string "Mari kita tengok…\p"
-	.string "Err… Rasanya ia tulis lebih kurang\n"
+	.string "Hmm, kejap…\p"
+	.string "Err… Rasanya tertulis lebih kurang\n"
 	.string "“kehidupan di laut tiada penghujung.”\p"
 	.string "Ya, saya agak pasti itulah yang\n"
 	.string "tertulis.$"
@@ -1079,7 +1079,7 @@ SlateportCity_Text_BattleTentBuiltRecently:
 	.string "untuk KHEMAH BATTLE!$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
-	.string "Saya ingatkan bintang terkenal, boleh\n"
+	.string "Saya ingatkan artis terkenal, bolehlah\n"
 	.string "saya minta autograf.\p"
 	.string "Tapi siapa yang sedang ditemu bual tu?\n"
 	.string "Bukan ke itu KAPT. STERN?$"
@@ -1131,7 +1131,7 @@ SlateportCity_Text_GabbyWonderfulThanksForInterview:
 
 SlateportCity_Text_SternWhewFirstInterview:
 	.string "KAPT. STERN: Fuh…\p"
-	.string "Itulah kali pertama saya dirakam untuk\n"
+	.string "Itu kali pertama saya masuk\n"
 	.string "TV. Berdebar betul.$"
 
 SlateportCity_Text_OhPlayerWeMadeDiscovery:
@@ -1148,12 +1148,12 @@ SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
 	.string "KAPT. STERN, kan?\p"
 	.string "Kami TEAM AQUA akan ambil alih kapal\n"
 	.string "selam kau!\p"
-	.string "Bantahan kau tak bermakna!\n"
+	.string "Tak guna kau membantah!\n"
 	.string "Kami mahu kerjasama penuh daripada\l"
 	.string "kau!\p"
 	.string "Fufufu…\n"
-	.string "Tengok saja dan pelajari apa yang\l"
-	.string "TEAM AQUA rancang!$"
+	.string "Tengok sajalah apa yang TEAM\l"
+	.string "AQUA dah rancang!$"
 
 SlateportCity_Text_SternWhatWasAllThat:
 	.string "KAPT. STERN: Apa semua tu?\p"
@@ -1298,8 +1298,8 @@ SlateportCity_Text_MaybeThisTrainer:
 SlateportCity_Text_LetsRegisterEachOther:
 	.string "SCOTT: Baiklah! Saya rasa kita akan jadi\n"
 	.string "kawan baik.\p"
-	.string "Jadi, jom daftar satu sama lain dalam\n"
-	.string "POKéNAV kita.\p"
+	.string "Jadi, jom kita daftar nama\n"
+	.string "masing-masing dalam POKéNAV.\p"
 	.string "… … … … … …$"
 
 SlateportCity_Text_RegisteredScott:

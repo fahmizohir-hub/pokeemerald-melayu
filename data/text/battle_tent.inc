@@ -76,10 +76,10 @@ FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "Wahai pencabar!\p"
 	.string "Kamu tidak simpan permainan sebelum\n"
 	.string "mematikannya, bukan?\p"
-	.string "Malangnya, oleh sebab itu, penyertaan\n"
+	.string "Malangnya, sebab itulah penyertaan\n"
 	.string "kamu dalam cabaran ini\l"
 	.string "telah dibatalkan.\p"
-	.string "Tentu sekali, kamu boleh mulakan\n"
+	.string "Tapi kamu boleh mulakan\n"
 	.string "cabaran baru.$"
 
 FallarborTown_BattleTentLobby_Text_BeatThreeTrainers:
@@ -298,7 +298,7 @@ SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
 SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "Maaf, tapi kamu tidak simpan\n"
 	.string "sebelum berhenti bermain kali lepas.\p"
-	.string "Oleh itu, penyertaan kamu dalam\n"
+	.string "Jadi, penyertaan kamu dalam\n"
 	.string "cabaran telah dibatalkan.$"
 
 @ Unused

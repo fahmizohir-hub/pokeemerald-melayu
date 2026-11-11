@@ -560,20 +560,20 @@ BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight:
 BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy:
 	.string "Saya tak tahu macam mana nak cakap…\n"
 	.string "Terus terang, kamu nampak lemah.\l"
-	.string "Kamu pasti kamu mampu lawan saya?\p"
+	.string "Betul ke kamu mampu lawan saya?\p"
 	.string "Hmm…\p"
 	.string "Baiklah!\n"
 	.string "Kita mulakan dengan santai dulu!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
-	.string "Okey! Cuba nyalakan semangat saya\n"
-	.string "untuk bertarung!$"
+	.string "Okey! Tunjukkan yang kamu boleh buat\n"
+	.string "semangat saya membara!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
 	.string "GRETA: Aduh, sekejap!\n"
 	.string "Kamu memang hebat rupanya!\p"
 	.string "Saya suka kamu!\n"
-	.string "Mari tengok PAS FRONTIER kamu.$"
+	.string "Bagi saya tengok PAS FRONTIER kamu.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
 	.string "Simbol Berani telah dicap pada\n"
@@ -582,12 +582,12 @@ BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
 BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "Hmm…\p"
 	.string "Lain kali mesti lebih seronok!\n"
-	.string "Saya tak sabar menantinya!$"
+	.string "Saya tak sabar!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
 	.string "GRETA: Hei! Apa khabar!\n"
-	.string "Akhirnya kamu sampai kepada saya!\p"
-	.string "Risau saya menunggu kamu!\n"
+	.string "Akhirnya kamu sampai juga ke sini!\p"
+	.string "Risau saya tunggu kamu!\n"
 	.string "Saya betul-betul tak sabar nak jumpa\l"
 	.string "kamu lagi!$"
 
@@ -596,16 +596,16 @@ BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
 	.string "Jadi, kamu dah sedia?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
-	.string "Saya takkan terima usaha sambil lewa!\n"
-	.string "Bersedialah untuk dibelasah!$"
+	.string "Jangan lawan separuh hati, ya!\n"
+	.string "Siap sedia untuk kena belasah!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
-	.string "Ayuh, PENGADIL!\n"
-	.string "Mari kita mulakan!$"
+	.string "Cepatlah, PENGADIL!\n"
+	.string "Kita mulakan!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
-	.string "GRETA: Arghh! Saya kagum!\n"
-	.string "Mari tengok PAS FRONTIER kamu!$"
+	.string "GRETA: Arghh! Teruk saya kena!\n"
+	.string "Bagi saya tengok PAS FRONTIER kamu!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
 	.string "Simbol Berani kini bersinar\n"
@@ -615,4 +615,4 @@ BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose:
 	.string "Arrrgh!\n"
 	.string "Geramnya saya!\p"
 	.string "Kalau kita bertarung lagi, saya takkan\n"
-	.string "kalah! Jangan lupa! Selamat tinggal!$"
+	.string "kalah! Ingat tu! Jumpa lagi!$"

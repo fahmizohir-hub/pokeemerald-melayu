@@ -264,13 +264,13 @@ Route101_Text_DontLeaveMe:
 
 Route101_Text_YouSavedMe:
 	.string "PROF. BIRCH: Fuh…\p"
-	.string "Saya sedang mengkaji POKéMON liar\n"
-	.string "dalam rumput tinggi bila saya diserang.\p"
-	.string "Kamu dah selamatkan saya.\n"
-	.string "Terima kasih banyak!\p"
+	.string "Saya tengah kaji POKéMON liar dalam\n"
+	.string "rumput tinggi, tiba-tiba kena serang.\p"
+	.string "Kamu dah selamatkan saya. Terima\n"
+	.string "kasih banyak!\p"
 	.string "Oh?\p"
 	.string "Hai, kamu {PLAYER}{KUN}, kan!\p"
-	.string "Ini bukan tempat untuk berbual, jadi\n"
+	.string "Sini bukan tempat nak berbual, jadi\n"
 	.string "datanglah ke MAKMAL POKéMON saya\l"
 	.string "nanti, okey?$"
 

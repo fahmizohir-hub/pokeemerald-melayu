@@ -39,6 +39,11 @@ atau bawah = Bahasa Melayu). Semua gambar dalam [docs/pratonton](docs/pratonton)
 
 ![Ikon status](docs/pratonton/04-ikon-status.png) ![Ikon status pertarungan](docs/pratonton/04b-ikon-status-pertarungan.png)
 
+**Menu move pertarungan:** slot nama dilebarkan ke 80px (nama move sampai 16
+huruf) dan jenis move ditunjuk dengan ikon
+
+![Menu move](docs/pratonton/09-menu-move.png)
+
 **Pokédex**
 
 ![Pokédex](docs/pratonton/05-pokedex.png)
@@ -113,6 +118,9 @@ asal melalui tag git `asal` (`git tag asal 731ad5b` jika tiada).
 | `jana_easy_chat_abjad.py` | Jana semula senarai abjad Easy Chat |
 | `jana_skrin_tajuk.py` | Jana banner "TEKAN START" dan kredit (perlu Pillow) |
 | `terjemah_nama_tempat.py` | Terjemah nama tempat pop-up peta |
+| `kata_nama_move.py` | Tukar nama move ke kata nama, ukur lebar, cari dialog berkaitan |
+| `jana_menu_move.py` | Susun semula bingkai menu move pertarungan (perlu Pillow) |
+| `pratonton_menu_move.py` | Lukis pratonton menu move pertarungan (perlu Pillow) |
 
 Contoh: `python tools/semak_teks.py data/maps/LittlerootTown/scripts.inc`
 

@@ -191,11 +191,11 @@ LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales:
 	.string "iklannya pun.$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale:
-	.string "Yes! Dah lama saya tunggu jualan murah\n"
-	.string "ni.\p"
-	.string "Ada barang yang hanya boleh didapati di\n"
-	.string "sini. Saya nak borong, memang nak\l"
-	.string "borong!$"
+	.string "Yes! Dah lama saya\n"
+	.string "tunggu jualan murah ni.\p"
+	.string "Ada barang yang cuma boleh\n"
+	.string "dapat di sini. Saya nak\l"
+	.string "borong, memang nak borong!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BoneDryThirsty:
 	.string "Ohh… Hausnya, tekak dah kering\n"

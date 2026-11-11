@@ -23,16 +23,16 @@ AbandonedShip_CaptainsOffice_EventScript_ThisIsSSCactus::
 	end
 
 AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner:
-	.string "Saya sedang menyiasat kapal ini bagi\n"
-	.string "pihak KAPT. STERN.\p"
+	.string "Saya tengah siasat kapal\n"
+	.string "ni bagi pihak KAPT. STERN.\p"
 	.string "Dia juga minta saya cari PENGIMBAS,\n"
 	.string "tapi saya masih belum jumpa…$"
 
 AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner:
 	.string "Oh! Itu PENGIMBAS!\p"
-	.string "Boleh tak kamu tolong hantar barang itu\n"
-	.string "kepada KAPT. STERN?\p"
-	.string "Saya nak siasat kapal ini sikit lagi.$"
+	.string "Boleh tak kamu tolong hantar\n"
+	.string "barang tu kepada KAPT. STERN?\p"
+	.string "Saya nak siasat kapal ni sikit lagi.$"
 
 AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus:
 	.string "Kapal ini bernama S.S. CACTUS.\n"

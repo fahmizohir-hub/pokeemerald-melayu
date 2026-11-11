@@ -1119,16 +1119,16 @@ PetalburgCity_Gym_EventScript_GymStatue::
 
 PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon:
 	.string "AYAH: Hm?\p"
-	.string "Eh, {PLAYER} rupanya! Dah\n"
-	.string "siap pindah semuanya?\p"
-	.string "Ayah tak sangka kamu boleh\n"
-	.string "sampai ke sini seorang diri.\p"
-	.string "Oh, begitu. Kamu datang\n"
-	.string "dengan POKéMON kamu.\p"
-	.string "Hm… Jadi kamu nak jadi\n"
-	.string "JURULATIH macam Ayah, {PLAYER}.\p"
-	.string "Itu berita baik! Ayah\n"
-	.string "tak sabar nak tengok!$"
+	.string "Eh, {PLAYER} rupanya! Dah siap\n"
+	.string "pindah semuanya?\p"
+	.string "Ayah tak sangka kamu boleh sampai ke\n"
+	.string "sini seorang diri.\p"
+	.string "Oh, begitu. Kamu datang dengan\n"
+	.string "POKéMON kamu.\p"
+	.string "Hm… Jadi kamu nak jadi JURULATIH macam\n"
+	.string "Ayah, {PLAYER}.\p"
+	.string "Bagus sangat tu! Ayah tak sabar\n"
+	.string "nak tengok!$"
 
 PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
 	.string "Err… Sa… Saya nak\n"
@@ -1139,12 +1139,12 @@ PetalburgCity_Gym_Text_DadOhYoureWallyRight:
 	.string "Oh, ya. Kamu WALLY, kan?$"
 
 PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
-	.string "WALLY: Saya akan tinggal dengan\n"
+	.string "WALLY: Saya nak pergi tinggal dengan\n"
 	.string "saudara saya di PEKAN VERDANTURF.\p"
-	.string "Saya rasa saya akan sunyi seorang diri,\n"
-	.string "jadi saya nak bawa POKéMON bersama.\p"
-	.string "Tapi saya tak pernah tangkap\n"
-	.string "POKéMON. Saya tak tahu caranya…$"
+	.string "Saya takut sunyi duduk seorang, jadi\n"
+	.string "saya nak bawa POKéMON sekali.\p"
+	.string "Tapi saya tak pernah tangkap POKéMON.\n"
+	.string "Saya tak tahu caranya…$"
 
 PetalburgCity_Gym_Text_DadHmISee:
 	.string "AYAH: Hm. Begitu.$"
@@ -1175,39 +1175,39 @@ PetalburgCity_Gym_Text_DadSoDidItWorkOut:
 	.string "AYAH: Jadi, berjaya tak?$"
 
 PetalburgCity_Gym_Text_WallyThankYouBye:
-	.string "WALLY: Terima kasih, ya, berjaya.\n"
-	.string "Ini saya pulangkan POKéMON encik.\p"
-	.string "{PLAYER}, terima kasih\n"
-	.string "sebab temankan saya.\p"
-	.string "Sebab kamu berdualah saya\n"
-	.string "dapat tangkap POKéMON saya.\p"
-	.string "Saya janji saya akan jaga ia baik-baik.\p"
-	.string "Oh! Ibu saya sedang\n"
-	.string "tunggu, saya kena pergi!\p"
-	.string "Selamat tinggal, {PLAYER}!$"
+	.string "WALLY: Berjaya, terima kasih. Ini\n"
+	.string "POKéMON encik, saya pulangkan.\p"
+	.string "{PLAYER}, terima kasih sebab\n"
+	.string "temankan saya.\p"
+	.string "Sebab kamu berdualah saya dapat\n"
+	.string "tangkap POKéMON saya.\p"
+	.string "Saya janji akan jaga dia baik-baik.\p"
+	.string "Oh! Ibu saya dah tunggu, saya\n"
+	.string "kena pergi!\p"
+	.string "Jumpa lagi, {PLAYER}!$"
 
 PetalburgCity_Gym_Text_DadGoCollectBadges:
 	.string "AYAH: Baiklah…\p"
-	.string "{PLAYER}, kalau kamu nak jadi\n"
-	.string "JURULATIH yang kuat, ini nasihat Ayah.\p"
-	.string "Pergi ke BANDAR RUSTBORO,\n"
-	.string "di seberang pekan ni.\p"
+	.string "{PLAYER}, kalau kamu nak jadi JURULATIH\n"
+	.string "yang kuat, ini nasihat Ayah.\p"
+	.string "Pergi ke BANDAR RUSTBORO, di seberang\n"
+	.string "pekan ni.\p"
 	.string "Di sana, cabarlah KETUA GIM, ROXANNE.\p"
-	.string "Lepas tu, pergi ke GIM POKéMON\n"
-	.string "lain dan kalahkan KETUA mereka.\p"
+	.string "Lepas tu, pergi ke GIM POKéMON lain dan\n"
+	.string "kalahkan KETUA mereka.\p"
 	.string "Kumpul LENCANA daripada mereka, faham?\p"
 	.string "Ayah pun KETUA GIM juga. Satu hari\n"
 	.string "nanti kita akan bertarung, {PLAYER}.\p"
-	.string "Tapi itu hanya selepas\n"
-	.string "kamu jadi lebih kuat.$"
+	.string "Tapi tunggu sampai kamu dah lebih\n"
+	.string "kuat dulu.$"
 
 PetalburgCity_Gym_Text_NormanGoToRustboro:
-	.string "AYAH: Hm? Kamu tak pergi ke GIM\n"
-	.string "POKéMON di BANDAR RUSTBORO?\p"
-	.string "Tiada cabarannya Ayah bertarung\n"
-	.string "dengan JURULATIH yang masih mentah.\p"
-	.string "{PLAYER}, Ayah nak kamu cabar Ayah\n"
-	.string "bila kamu dah jauh lebih kuat.\p"
+	.string "AYAH: Hm? Kamu tak pergi ke GIM POKéMON\n"
+	.string "di BANDAR RUSTBORO?\p"
+	.string "Tak ada cabarannya kalau Ayah lawan\n"
+	.string "JURULATIH yang masih mentah.\p"
+	.string "{PLAYER}, Ayah nak kamu cabar Ayah bila\n"
+	.string "kamu dah jauh lebih kuat.\p"
 	.string "Ayah akan bertarung dengan kamu,\n"
 	.string "{PLAYER}, bila kamu boleh tunjuk empat\l"
 	.string "LENCANA GIM, okey?$"
@@ -1228,26 +1228,26 @@ PetalburgCity_Gym_Text_YouHaveGottenStronger:
 	.string "LENCANA yang kamu dah dapat.$"
 
 PetalburgCity_Gym_Text_NormanIntro:
-	.string "AYAH: Hm… Jadi, kamu dah\n"
-	.string "dapat empat LENCANA GIM.\p"
-	.string "Baiklah, macam yang Ayah janji,\n"
-	.string "kita akan bertarung POKéMON.\p"
+	.string "AYAH: Hm… Jadi, kamu dah dapat empat\n"
+	.string "LENCANA GIM.\p"
+	.string "Baiklah, macam yang Ayah janji, kita\n"
+	.string "akan bertarung POKéMON.\p"
 	.string "{PLAYER}…\p"
 	.string "Ayah gembira sangat dapat bertarung\n"
 	.string "betul-betul dengan anak sendiri.\p"
 	.string "Tapi, pertarungan tetap pertarungan!\p"
-	.string "Ayah akan buat sedaya upaya\n"
-	.string "sebagai KETUA GIM untuk menang.\p"
-	.string "{PLAYER}, kamu pun mesti\n"
-	.string "cuba sehabis baik!$"
+	.string "Sebagai KETUA GIM, Ayah akan buat\n"
+	.string "sedaya upaya untuk menang.\p"
+	.string "{PLAYER}, kamu pun kena beri\n"
+	.string "yang terbaik!$"
 
 PetalburgCity_Gym_Text_NormanDefeat:
 	.string "…\p"
 	.string "Ayah… Ayah tak…\p"
 	.string "Ayah tak percaya. {PLAYER}…\p"
-	.string "Ayah kalah kepada {PLAYER}?\p"
-	.string "Tapi, peraturan tetap\n"
-	.string "peraturan! Nah, ambil ini.$"
+	.string "Ayah kalah dengan {PLAYER}?\p"
+	.string "Tapi, peraturan tetap peraturan! Nah,\n"
+	.string "ambil ini.$"
 
 PetalburgCity_Gym_Text_ReceivedBalanceBadge:
 	.string "{PLAYER} menerima LENCANA\n"
@@ -1256,30 +1256,30 @@ PetalburgCity_Gym_Text_ReceivedBalanceBadge:
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:
 	.string "AYAH: Dengan LENCANA itu, PERTAHANAN\n"
 	.string "semua POKéMON kamu akan meningkat.\p"
-	.string "POKéMON yang tahu move HM LUNCUR\n"
-	.string "OMBAK akan dapat merentasi air.\p"
+	.string "POKéMON yang tahu HM LUNCURAN OMBAK\n"
+	.string "boleh merentas air.\p"
 	.string "Ini hadiah Ayah untuk kamu. {PLAYER},\n"
-	.string "Ayah pasti kamu boleh gunakannya\l"
+	.string "Ayah yakin kamu tahu gunakannya\l"
 	.string "dengan betul.$"
 
 PetalburgCity_Gym_Text_ExplainFacade:
 	.string "AYAH: TM42 mengandungi TOPENG.\p"
-	.string "Ia menggandakan kuasa move jika\n"
-	.string "POKéMON itu diracun, lumpuh atau\l"
-	.string "terbakar.\p"
-	.string "Ia mungkin boleh ubah keadaan\n"
-	.string "yang buruk menjadi kelebihan.$"
+	.string "Kuasanya jadi dua kali ganda kalau\n"
+	.string "POKéMON kamu keracunan, lumpuh\l"
+	.string "atau terbakar.\p"
+	.string "Mana tahu, keadaan yang buruk boleh\n"
+	.string "jadi kelebihan.$"
 
 PetalburgCity_Gym_Text_DadHappyAndSad:
-	.string "AYAH: Sebagai KETUA GIM, Ayah tak dapat\n"
-	.string "nak luahkan betapa kecewanya Ayah…\p"
+	.string "AYAH: Sebagai KETUA GIM, kecewanya\n"
+	.string "Ayah ni tak terkata…\p"
 	.string "Tapi sebagai seorang ayah, Ayah rasa\n"
-	.string "gembira dan sedikit sedih. Pelik, kan…$"
+	.string "gembira, dan sedih sikit. Pelik, kan…$"
 
 PetalburgCity_Gym_Text_PleaseComeWithMe:
-	.string "Ah, di sini rupanya kamu, {PLAYER}{KUN}!\p"
-	.string "Mari ikut saya. Ada sesuatu\n"
-	.string "yang saya nak beri kepada kamu.$"
+	.string "Ah, sini rupanya kamu, {PLAYER}{KUN}!\p"
+	.string "Mari ikut saya. Ada sesuatu yang saya\n"
+	.string "nak bagi kamu.$"
 
 PetalburgCity_Gym_Text_LetMeBorrowPlayer:
 	.string "NORMAN, kamu tak kisah, kan?\p"
@@ -1295,11 +1295,10 @@ PetalburgCity_Gym_Text_DadGoingToKeepTraining:
 	.string "kamu, {PLAYER}!$"
 
 PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough:
-	.string "AYAH: {PLAYER}, macam\n"
-	.string "mana keadaan kamu?\p"
-	.string "Dunia POKéMON ni sangat dalam.\p"
-	.string "Ayah betul-betul rasa tiada\n"
-	.string "latihan yang akan pernah cukup.$"
+	.string "AYAH: {PLAYER}, macam mana, semua okey?\p"
+	.string "Dunia POKéMON ni luas dan dalam.\p"
+	.string "Terus terang, Ayah rasa berlatih macam\n"
+	.string "mana pun takkan pernah cukup.$"
 
 PetalburgCity_Gym_Text_GymGuideAdvice:
 	.string "Hei, apa khabar, {PLAYER} bakal JUARA?\p"
@@ -1318,9 +1317,9 @@ PetalburgCity_Gym_Text_GymGuideAdvice:
 	.string "Bila dah pilih pintu… Hah, teruskan!$"
 
 PetalburgCity_Gym_Text_GymGuidePostVictory:
-	.string "{PLAYER}! Wah! Kamu\n"
-	.string "kalahkan ayah kamu sendiri!\p"
-	.string "Wah, betul-betul! Sungguh mengejutkan!$"
+	.string "{PLAYER}! Wah! Kamu kalahkan ayah\n"
+	.string "kamu sendiri!\p"
+	.string "Fuh! Tak sangka langsung!$"
 
 PetalburgCity_Gym_Text_RandallIntro:
 	.string "Kebolehan menyerang sebelum lawan…\p"
@@ -1328,22 +1327,22 @@ PetalburgCity_Gym_Text_RandallIntro:
 	.string "kelebihan besar, betul tak?$"
 
 PetalburgCity_Gym_Text_RandallDefeat:
-	.string "Itu pertarungan yang hebat!$"
+	.string "Hebat betul pertarungan tadi!$"
 
 PetalburgCity_Gym_Text_RandallPostBattle:
-	.string "Teruskan ke bilik seterusnya,\n"
-	.string "cabaran baru sedang menanti kamu.\p"
+	.string "Teruskan ke bilik sebelah. Ada cabaran\n"
+	.string "baru menanti kamu.\p"
 	.string "Di kiri ialah BILIK KELIRU.\p"
-	.string "Pintu kanan menuju\n"
-	.string "ke BILIK PERTAHANAN.$"
+	.string "Pintu kanan menuju ke\n"
+	.string "BILIK PERTAHANAN.$"
 
 PetalburgCity_Gym_Text_RandallPostBadge:
-	.string "Siapa pun yang kamu kalahkan, kepada\n"
-	.string "siapa pun kamu kalah, kamu tak pernah\l"
-	.string "lari daripada melatih diri dan POKéMON\l"
-	.string "kamu.\p"
-	.string "Itulah yang saya rasa erti\n"
-	.string "sebenar menjadi KETUA GIM.$"
+	.string "Tak kira siapa yang kamu kalahkan atau\n"
+	.string "siapa yang kalahkan kamu, kamu tak\l"
+	.string "pernah culas melatih diri dan\l"
+	.string "POKéMON kamu.\p"
+	.string "Bagi saya, itulah erti sebenar\n"
+	.string "KETUA GIM.$"
 
 PetalburgCity_Gym_Text_ParkerIntro:
 	.string "Inilah BILIK KELIRU.\p"
@@ -1363,24 +1362,22 @@ PetalburgCity_Gym_Text_ParkerPostBadge:
 	.string "latihan di sini jadi lebih berat.$"
 
 PetalburgCity_Gym_Text_GeorgeIntro:
-	.string "Bila kamu rasa kamu dah nak\n"
-	.string "menang, lawan kamu pulihkan HP…\p"
-	.string "Cuba bayangkan betapa\n"
-	.string "teruknya perasaan tu?\p"
-	.string "Saya akan tunjuk betapa\n"
-	.string "teruknya perasaan tu!$"
+	.string "Bila kamu rasa dah nak menang, lawan\n"
+	.string "kamu pulihkan HP…\p"
+	.string "Cuba bayangkan, geram tak?\p"
+	.string "Biar saya tunjuk macam mana geramnya!$"
 
 PetalburgCity_Gym_Text_GeorgeDefeat:
 	.string "Saya tak sempat pulihkan\n"
 	.string "HP… Kuat betul SERANGAN tu…$"
 
 PetalburgCity_Gym_Text_GeorgePostBattle:
-	.string "Memang patutlah, anak KETUA kami.\p"
-	.string "Eh, nanti! Kebolehan JURULATIH\n"
-	.string "hanya datang daripada usaha.\p"
+	.string "Patutlah, anak KETUA kami rupanya.\p"
+	.string "Eh, bukan! Kebolehan JURULATIH cuma\n"
+	.string "datang daripada usaha.\p"
 	.string "Saya kalah sebab usaha saya tak cukup.\p"
-	.string "Teruskan! BILIK KO SATU\n"
-	.string "PUKULAN seterusnya.$"
+	.string "Teruskan! Lepas ni BILIK KO\n"
+	.string "SATU PUKULAN.$"
 
 PetalburgCity_Gym_Text_GeorgePostBadge:
 	.string "Saya akan terus berlatih di GIM. Satu\n"
@@ -1393,16 +1390,16 @@ PetalburgCity_Gym_Text_BerkeIntro:
 	.string "POKéMON kena serangan kritikal!$"
 
 PetalburgCity_Gym_Text_BerkeDefeat:
-	.string "Kuasa kamu… Kamu memang hebat.$"
+	.string "Kuasa kamu… Kamu memang\n"
+	.string "bukan calang-calang.$"
 
 PetalburgCity_Gym_Text_BerkePostBattle:
-	.string "Ayah kamu memang kuat. Dia\n"
-	.string "JURULATIH yang saya hormati.\p"
-	.string "Dan saya rasa sinar yang sama\n"
-	.string "terpancar daripada kamu macam ayah\l"
-	.string "kamu.\p"
-	.string "Saya harap kamu akan beri pertarungan\n"
-	.string "yang hebat dengan ayah kamu!$"
+	.string "Ayah kamu memang kuat. Dia JURULATIH\n"
+	.string "yang saya hormati.\p"
+	.string "Dan saya nampak sinar yang sama pada\n"
+	.string "kamu, macam pada ayah kamu.\p"
+	.string "Saya harap pertarungan kamu dengan\n"
+	.string "ayah kamu nanti hebat!$"
 
 PetalburgCity_Gym_Text_BerkePostBadge:
 	.string "Sejak ayah kamu jadi KETUA, JURULATIH\n"
@@ -1411,19 +1408,19 @@ PetalburgCity_Gym_Text_BerkePostBadge:
 
 PetalburgCity_Gym_Text_MaryIntro:
 	.string "Hihi… Inilah BILIK KETEPATAN.\p"
-	.string "Memang teruk bila setiap\n"
-	.string "serangan kena tanpa gagal.$"
+	.string "Susah tau bila setiap serangan\n"
+	.string "kena tepat.$"
 
 PetalburgCity_Gym_Text_MaryDefeat:
-	.string "Kamu memang setingkat lebih hebat…$"
+	.string "Kamu memang selangkah di depan saya…$"
 
 PetalburgCity_Gym_Text_MaryPostBattle:
-	.string "Ada JURULATIH yang lebih\n"
-	.string "kuat sedang menanti kamu.\p"
-	.string "Di kiri ialah BILIK PERTAHANAN, dan\n"
-	.string "di kanan ialah BILIK PEMULIHAN.\p"
-	.string "Kuasa SERANGAN POKéMON kamu\n"
-	.string "akan diuji ke mana pun kamu pergi.$"
+	.string "Ada JURULATIH yang lebih kuat sedang\n"
+	.string "menanti kamu.\p"
+	.string "Di kiri ialah BILIK PERTAHANAN, dan di\n"
+	.string "kanan ialah BILIK PEMULIHAN.\p"
+	.string "Pilih mana-mana pun, kuasa SERANGAN\n"
+	.string "POKéMON kamu akan diuji.$"
 
 PetalburgCity_Gym_Text_MaryPostBadge:
 	.string "Kamu tahu apa yang kami cuba\n"
@@ -1439,21 +1436,21 @@ PetalburgCity_Gym_Text_AlexiaDefeat:
 	.string "Pertahanan kami tak cukup kuat…$"
 
 PetalburgCity_Gym_Text_AlexiaPostBattle:
-	.string "Saya rasa kamu dah ajar saya\n"
-	.string "satu pengajaran berharga.\p"
-	.string "Sekarang, teruskan! Pintu kiri\n"
-	.string "menuju ke BILIK KEKUATAN.\p"
-	.string "Pintu kanan menuju ke\n"
-	.string "BILIK KO SATU PUKULAN.\p"
-	.string "Kedua-duanya ada JURULATIH\n"
-	.string "yang mahir menyerang.$"
+	.string "Kamu dah beri saya pengajaran\n"
+	.string "yang berharga.\p"
+	.string "Sekarang, teruskan! Pintu kiri menuju\n"
+	.string "ke BILIK KEKUATAN.\p"
+	.string "Pintu kanan menuju ke BILIK KO\n"
+	.string "SATU PUKULAN.\p"
+	.string "Kedua-duanya ada JURULATIH yang\n"
+	.string "mahir menyerang.$"
 
 PetalburgCity_Gym_Text_AlexiaPostBadge:
-	.string "Hai! Kamu dah cuba guna LUNCUR OMBAK?$"
+	.string "Hai! Dah cuba guna LUNCURAN OMBAK?$"
 
 PetalburgCity_Gym_Text_JodyIntro:
-	.string "KETUA GIM kami suruh kami\n"
-	.string "habis-habisan kalahkan kamu.\p"
+	.string "KETUA GIM kami suruh kami lawan\n"
+	.string "habis-habisan untuk kalahkan kamu.\p"
 	.string "Walaupun kamu anak KETUA sendiri!$"
 
 PetalburgCity_Gym_Text_JodyDefeat:
@@ -1466,11 +1463,11 @@ PetalburgCity_Gym_Text_JodyPostBattle:
 	.string "kamu, sedang menunggu!$"
 
 PetalburgCity_Gym_Text_JodyPostBadge:
-	.string "Memang bagus buat\n"
-	.string "POKéMON kamu lebih kuat.\p"
+	.string "Memang bagus kalau POKéMON kamu\n"
+	.string "makin kuat.\p"
 	.string "Tapi apa yang tentukan pemenang?\p"
-	.string "Tentulah perasaan JURULATIH\n"
-	.string "terhadap POKéMON mereka.$"
+	.string "Tentulah perasaan JURULATIH terhadap\n"
+	.string "POKéMON mereka.$"
 
 PetalburgCity_Gym_Text_DoorAppearsLocked:
 	.string "Pintu ni nampaknya berkunci sekarang…$"
@@ -1528,15 +1525,15 @@ PetalburgCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 PetalburgCity_Gym_Text_NormanPreRematch:
-	.string "AYAH: {PLAYER}… Ayah dah\n"
-	.string "agak kamu akan datang.\p"
-	.string "Ayah takkan sesekali menolak\n"
-	.string "cabaran daripada kamu.\p"
+	.string "AYAH: {PLAYER}… Ayah dah agak kamu\n"
+	.string "akan datang.\p"
+	.string "Ayah takkan sesekali menolak cabaran\n"
+	.string "daripada kamu.\p"
 	.string "Kamu faham, kan?\p"
 	.string "Dalam GIM, tak kira kita ayah dan anak.\p"
-	.string "…Tidak, sebab kita ayah dan anaklah,\n"
-	.string "kita mesti beri yang terbaik kepada\l"
-	.string "satu sama lain. Betul tak, {PLAYER}?$"
+	.string "…Bukan, sebab kita ayah dan anaklah,\n"
+	.string "kita wajib beri yang terbaik. Betul\l"
+	.string "tak, {PLAYER}?$"
 
 PetalburgCity_Gym_Text_NormanRematchDefeat:
 	.string "Err… Haha… Mungkin Ayah\n"
@@ -1544,8 +1541,8 @@ PetalburgCity_Gym_Text_NormanRematchDefeat:
 
 PetalburgCity_Gym_Text_NormanPostRematch:
 	.string "AYAH: {PLAYER}… Apa impian kamu?\p"
-	.string "Impian Ayah… Hahaha…\n"
-	.string "Sebenarnya, ia dah pun tercapai.$"
+	.string "Impian Ayah… Hahaha… Sebenarnya, dah\n"
+	.string "pun jadi kenyataan.$"
 
 PetalburgCity_Gym_Text_NormanRematchNeedTwoMons:
 	.string "AYAH: {PLAYER}… Ayah dah\n"

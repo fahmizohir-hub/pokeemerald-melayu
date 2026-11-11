@@ -33,14 +33,13 @@ MtPyre_3F_EventScript_RematchGabrielle::
 	end
 
 MtPyre_3F_Text_WilliamIntro:
-	.string "Suasana gunung yang kuat ni dah\n"
-	.string "tingkatkan kuasa psikik saya!\p"
+	.string "Suasana gunung yang pekat ni\n"
+	.string "dah naikkan kuasa psikik saya!\p"
 	.string "Budak kecil macam kamu…\n"
 	.string "Kamu mimpi nak menang?$"
 
 MtPyre_3F_Text_WilliamDefeat:
-	.string "Saya tenggelam dalam rasa kasihan pada\n"
-	.string "diri…$"
+	.string "Aduh, kesiannya diri saya…$"
 
 MtPyre_3F_Text_WilliamPostBattle:
 	.string "Kuasa psikik saya pasti dah bertambah\n"
@@ -76,9 +75,9 @@ MtPyre_3F_Text_GabriellePostBattle:
 	.string "Tolong ingat itu.$"
 
 MtPyre_3F_Text_GabrielleRegister:
-	.string "Saya nak tengok POKéMON kamu bila\n"
-	.string "mereka dah lebih membesar…\p"
-	.string "Tolong, saya perlu tengok POKéNAV kamu.$"
+	.string "Saya nak tengok POKéMON kamu\n"
+	.string "bila mereka dah besar sikit lagi…\p"
+	.string "Boleh saya tengok POKéNAV kamu?$"
 
 MtPyre_3F_Text_GabrielleRematchIntro:
 	.string "Oh, kamu rupanya…\p"

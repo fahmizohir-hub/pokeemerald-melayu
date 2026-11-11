@@ -26,13 +26,13 @@ Route111_Text_WateredPlantsEveryDayTakeBerry:
 	.string "Ambillah!$"
 
 Route111_Text_GoingToTryToMakeDifferentColorBerries:
-	.string "Saya akan berusaha keras untuk\n"
+	.string "Saya nak cuba bersungguh-sungguh\n"
 	.string "hasilkan BERRY pelbagai warna.\p"
-	.string "Saya harap kamu pun berusaha juga!$"
+	.string "Kamu pun cubalah bersungguh-sungguh!$"
 
 Route111_Text_WhatColorBerriesToLookForToday:
 	.string "BERRY warna apa agaknya yang saya\n"
-	.string "akan cari hari ini?$"
+	.string "nak cari hari ni?$"
 
 Route114_Text_LoveUsingBerryCrushShareBerry:
 	.string "Saya suka guna mesin HANCUR BERRY,\n"
@@ -53,7 +53,7 @@ Route120_Text_BerriesExpressionOfLoveIsntIt:
 	.string "cahaya matahari.\p"
 	.string "Kita bantu BERRY membesar dengan\n"
 	.string "menyiramnya selalu.\p"
-	.string "Itu tanda kasih sayang, bukan?$"
+	.string "Itulah tanda kasih sayang, kan?$"
 
 Route120_Text_YesYouUnderstand:
 	.string "Ya, ya.\n"
@@ -119,8 +119,8 @@ Route123_BerryMastersHouse_Text_HeardAGoodSayingLately:
 	.string "pepatah yang bagus kebelakangan ini?$"
 
 Route123_BerryMastersHouse_Text_InspirationalTakeThis:
-	.string "Ah! Pepatah yang luar biasa!\n"
-	.string "Sungguh memberi inspirasi!\p"
+	.string "Ah! Hebatnya pepatah tu!\n"
+	.string "Memang memberi inspirasi!\p"
 	.string "Saya nak beri kamu ini.$"
 
 Route123_BerryMastersHouse_Text_GoodSayingTakeThis:
@@ -167,8 +167,7 @@ Route104_PrettyPetalFlowerShop_Text_BerriesExplanation:
 	.string "dan bawa lebih banyak bunga ke dunia.$"
 
 Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness:
-	.string "Bunga membawa banyak kebahagiaan\n"
-	.string "kepada orang, bukan?$"
+	.string "Bunga buat orang rasa bahagia, kan?$"
 
 Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis:
 	.string "Helo!\p"
@@ -221,9 +220,9 @@ SootopolisCity_Text_WhatKindOfWishInYourName:
 
 SootopolisCity_Text_LikeSeasonBornIn:
 	.string "Musim bunga, panas, luruh dan sejuk.\p"
-	.string "Kalau lahir masa musim bunga, adakah\n"
-	.string "kita suka musim bunga, dan kalau lahir\l"
-	.string "masa musim panas, suka musim panas?$"
+	.string "Kalau lahir masa musim bunga, kita\n"
+	.string "suka musim bunga ke? Kalau lahir masa\l"
+	.string "musim panas, suka musim panas ke?$"
 
 SootopolisCity_Text_ThenILoveAutumn:
 	.string "Jadi KIRI lahir masa musim luruh,\n"

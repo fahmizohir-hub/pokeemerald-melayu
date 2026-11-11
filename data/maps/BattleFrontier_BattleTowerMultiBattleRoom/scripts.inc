@@ -434,58 +434,58 @@ BattleFrontier_BattleTowerMultiBattleRoom_Movement_WalkInPlaceLeft:
 	step_end
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor2ndOpponentSet:
-	.string "Set lawan ke-2 seterusnya.\n"
+	.string "Seterusnya, set lawan ke-2.\n"
 	.string "Kamu dah bersedia?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor3rdOpponentSet:
-	.string "Set lawan ke-3 seterusnya.\n"
+	.string "Seterusnya, set lawan ke-3.\n"
 	.string "Kamu dah bersedia?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor4thOpponentSet:
-	.string "Set lawan ke-4 seterusnya.\n"
+	.string "Seterusnya, set lawan ke-4.\n"
 	.string "Kamu dah bersedia?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor5thOpponentSet:
-	.string "Set lawan ke-5 seterusnya.\n"
+	.string "Seterusnya, set lawan ke-5.\n"
 	.string "Kamu dah bersedia?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor6thOpponentSet:
-	.string "Set lawan ke-6 seterusnya.\n"
+	.string "Seterusnya, set lawan ke-6.\n"
 	.string "Kamu dah bersedia?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor7thOpponentSet:
-	.string "Set lawan ke-7 seterusnya.\n"
+	.string "Seterusnya, set lawan ke-7.\n"
 	.string "Kamu dah bersedia?$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_2ndOpponentSetNext:
-	.string "Set lawan ke-2 seterusnya.\n"
-	.string "Buat yang terbaik!$"
+	.string "Seterusnya, set lawan ke-2.\n"
+	.string "Semoga berjaya!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_3rdOpponentSetNext:
-	.string "Set lawan ke-3 seterusnya.\n"
-	.string "Buat yang terbaik!$"
+	.string "Seterusnya, set lawan ke-3.\n"
+	.string "Semoga berjaya!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_4thOpponentSetNext:
-	.string "Set lawan ke-4 seterusnya.\n"
-	.string "Buat yang terbaik!$"
+	.string "Seterusnya, set lawan ke-4.\n"
+	.string "Semoga berjaya!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_5thOpponentSetNext:
-	.string "Set lawan ke-5 seterusnya.\n"
-	.string "Buat yang terbaik!$"
+	.string "Seterusnya, set lawan ke-5.\n"
+	.string "Semoga berjaya!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_6thOpponentSetNext:
-	.string "Set lawan ke-6 seterusnya.\n"
-	.string "Buat yang terbaik!$"
+	.string "Seterusnya, set lawan ke-6.\n"
+	.string "Semoga berjaya!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext:
-	.string "Set lawan ke-7 seterusnya.\n"
-	.string "Buat yang terbaik!$"
+	.string "Seterusnya, set lawan ke-7.\n"
+	.string "Semoga berjaya!$"
 
 gText_LinkStandby3::
 	.string "Menunggu link…$"

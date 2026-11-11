@@ -411,7 +411,7 @@ BattleFrontier_BattlePalaceLobby_Text_ReturnWhenFortified:
 BattleFrontier_BattlePalaceLobby_Text_WhichChallenge:
 	.string "Ada dua DEWAN TARUNG,\n"
 	.string "LV. 50 dan LV. TERBUKA.\l"
-	.string "Cabaran mana pilihan kamu?$"
+	.string "Kamu pilih cabaran yang mana?$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50:
 	.string "Hmm…\p"
@@ -478,7 +478,7 @@ BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize:
 	.string "kemaskan BEG kamu.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting:
-	.string "Kami memang menanti kamu…$"
+	.string "Kami dah lama menanti kamu…$"
 
 BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge:
 	.string "Saya perlu simpan sebelum ke\n"
@@ -488,7 +488,7 @@ BattleFrontier_BattlePalaceLobby_Text_FailedToSaveBeforeEndingChallenge:
 	.string "Hmm…\p"
 	.string "Kamu tidak simpan sebelum menamatkan\n"
 	.string "cabaran kamu pada kali lepas.\p"
-	.string "Oleh itu, penyertaan kamu telah\n"
+	.string "Sebab itu, penyertaan kamu\n"
 	.string "dibatalkan. Sayang sekali.$"
 
 @ Unused
@@ -515,8 +515,8 @@ BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink:
 BattleFrontier_BattlePalaceLobby_Text_NatureAndMovesKeyHere:
 	.string "Hmm…\p"
 	.string "Nampaknya sifat POKéMON dan\n"
-	.string "move yang telah diajar kepadanya\l"
-	.string "ialah kunci pertarungan di sini.\p"
+	.string "move yang diajar kepadanya\l"
+	.string "ialah kunci untuk menang di sini.\p"
 	.string "Lebih tepat lagi, sejauh mana\n"
 	.string "move itu sepadan dengan sifat\l"
 	.string "POKéMON tersebut.\p"
@@ -589,7 +589,7 @@ BattleFrontier_BattlePalaceLobby_Text_LikeToRecordMatch:
 	.string "PAS FRONTIER?$"
 
 BattleFrontier_BattlePalaceLobby_Text_RulesAreListed:
-	.string "Peraturan DEWAN TARUNG tertera.$"
+	.string "Ini peraturan DEWAN TARUNG.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ReadWhichHeading:
 	.string "Tajuk mana yang kamu mahu baca?$"
@@ -620,9 +620,9 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves:
 	.string "Ada move bertahan yang digunakan\n"
 	.string "untuk bersedia menghadapi serangan\l"
 	.string "atau untuk memulihkan HP dan lain-lain.\p"
-	.string "Ada juga move lain yang agak pelik\n"
-	.string "yang boleh melemahkan musuh dengan\l"
-	.string "masalah status termasuk racun dan\l"
+	.string "Ada juga move yang agak pelik, yang\n"
+	.string "boleh melemahkan musuh dengan\l"
+	.string "masalah status seperti racun dan\l"
 	.string "lumpuh.\p"
 	.string "POKéMON akan pertimbangkan move\n"
 	.string "dalam tiga kategori ini.$"

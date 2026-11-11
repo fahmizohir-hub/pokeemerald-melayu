@@ -49,10 +49,10 @@ OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
 	.string "percuma. Tak perlu risau!$"
 
 OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable:
-	.string "KELAB WAYARLES POKéMON di\n"
-	.string "tingkat dua baru saja dibina.\p"
-	.string "Tapi kata mereka, ia masih\n"
-	.string "dalam proses penyelarasan.$"
+	.string "KELAB WAYARLES POKéMON di tingkat dua\n"
+	.string "baru saja dibina.\p"
+	.string "Tapi katanya mereka masih buat\n"
+	.string "penyesuaian lagi.$"
 
 OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub:
 	.string "KELAB WAYARLES POKéMON di\n"

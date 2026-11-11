@@ -45,7 +45,7 @@ MtPyre_1F_Text_ComeToPayRespects:
 	.string "kamu.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "Inilah tempat persemadian terakhir\n"
-	.string "ZIGZAGOON saya. Saya sangat\l"
-	.string "menyayanginya…$"
+	.string "Inilah tempat persemadian\n"
+	.string "terakhir ZIGZAGOON saya.\l"
+	.string "Saya sayang sangat padanya…$"
 

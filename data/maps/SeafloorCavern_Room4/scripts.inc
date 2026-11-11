@@ -27,7 +27,7 @@ SeafloorCavern_Room4_Text_Grunt4Intro:
 	.string "Kau ingat kau nak ke mana?$"
 
 SeafloorCavern_Room4_Text_Grunt4Defeat:
-	.string "Aku gagal menang!$"
+	.string "Aku tak dapat menang!$"
 
 SeafloorCavern_Room4_Text_Grunt4PostBattle:
 	.string "Kawan aku tertinggal peta dalam kapal\n"

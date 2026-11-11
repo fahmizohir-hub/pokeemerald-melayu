@@ -12,8 +12,8 @@ gText_Birch_Pokemon::
 	.string "$"
 
 gText_Birch_MainSpeech::
-	.string "Dunia ini didiami oleh banyak\n"
-	.string "makhluk yang dikenali sebagai POKéMON.\p"
+	.string "Dunia ini didiami banyak makhluk\n"
+	.string "yang dipanggil POKéMON.\p"
 	.string "Kita manusia hidup bersama POKéMON,\n"
 	.string "kadang-kadang sebagai teman bermain,\l"
 	.string "kadang-kadang sebagai rakan kerja.\p"
@@ -21,10 +21,10 @@ gText_Birch_MainSpeech::
 	.string "dan bertarung dengan orang lain.\p"
 	.string "Tapi walaupun kita rapat, kita tak\n"
 	.string "tahu segala-galanya tentang POKéMON.\p"
-	.string "Malah, ada banyak, banyak sekali\n"
+	.string "Sebenarnya, masih banyak lagi\n"
 	.string "rahsia tentang POKéMON.\p"
 	.string "Untuk merungkai misteri POKéMON,\n"
-	.string "saya menjalankan kajian.\l"
+	.string "saya buat kajian.\l"
 	.string "Itulah kerja saya.\p"
 	.string "$"
 

@@ -61,8 +61,8 @@ RS_MysteryEventsHouse_Text_YouWontBattle:
 RS_MysteryEventsHouse_Text_KeepItToA3On3:
 	.string "Oh, bagus, bagus!\p"
 	.string "Tapi rumah saya ni tak berapa kukuh.\p"
-	.string "Boleh saya minta kamu hadkan kepada\n"
-	.string "perlawanan 3 lawan 3?$"
+	.string "Boleh tak kamu bertarung\n"
+	.string "3 lawan 3 saja?$"
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
 	.string "Sebelum kamu berdua bertarung, kamu\n"
@@ -78,7 +78,7 @@ RS_MysteryEventsHouse_Text_BattleTie:
 	.string "tak berganjak walau selangkah!$"
 
 RS_MysteryEventsHouse_Text_BattleWon:
-	.string "Itu sungguh luar biasa!\p"
+	.string "Hebat sungguh!\p"
 	.string "Macam tengok diri saya masa muda dulu!$"
 
 RS_MysteryEventsHouse_Text_BattleLost:

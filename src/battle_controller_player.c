@@ -28,6 +28,7 @@
 #include "text.h"
 #include "util.h"
 #include "window.h"
+#include "graphics.h"
 #include "constants/battle_anim.h"
 #include "constants/items.h"
 #include "constants/moves.h"
@@ -1470,6 +1471,8 @@ static void MoveSelectionDisplayMoveNames(void)
     }
 }
 
+// BM: label PP dan nombor PP dicetak dalam satu tingkap (B_WIN_PP) supaya
+// kotak PP boleh dikecilkan dan slot nama move jadi 80px.
 static void MoveSelectionDisplayPPString(void)
 {
     StringCopy(gDisplayedStringBattle, gText_MoveInterfacePP);
@@ -1486,25 +1489,47 @@ static void MoveSelectionDisplayPPNumber(void)
 
     SetPPNumbersPaletteInMoveSelection();
     moveInfo = (struct ChooseMoveStruct *)(&gBattleBufferA[gActiveBattler][4]);
-    txtPtr = ConvertIntToDecimalStringN(gDisplayedStringBattle, moveInfo->currentPP[gMoveSelectionCursor[gActiveBattler]], STR_CONV_MODE_RIGHT_ALIGN, 2);
+    txtPtr = StringCopy(gDisplayedStringBattle, gText_MoveInterfacePP);
+    txtPtr = ConvertIntToDecimalStringN(txtPtr, moveInfo->currentPP[gMoveSelectionCursor[gActiveBattler]], STR_CONV_MODE_RIGHT_ALIGN, 2);
     *(txtPtr)++ = CHAR_SLASH;
     ConvertIntToDecimalStringN(txtPtr, moveInfo->maxPP[gMoveSelectionCursor[gActiveBattler]], STR_CONV_MODE_RIGHT_ALIGN, 2);
 
-    BattlePutTextOnWindow(gDisplayedStringBattle, B_WIN_PP_REMAINING);
+    BattlePutTextOnWindow(gDisplayedStringBattle, B_WIN_PP);
 }
+
+// BM: jenis move dipaparkan sebagai ikon (sama seperti skrin ringkasan),
+// bukan teks "JNS/xxx". Ikon dilukis terus ke tingkap B_WIN_MOVE_TYPE yang
+// guna palet BG 12 (tidak digunakan semasa pertarungan).
+#define MOVE_TYPE_ICON_PAL 12
+
+// Kumpulan palet ikon (move_types.gbapal mengandungi 3 palet).
+static const u8 sMoveTypeIconPalGroup[NUMBER_OF_MON_TYPES] =
+{
+    [TYPE_NORMAL] = 0, [TYPE_FIGHTING] = 0, [TYPE_FLYING] = 1, [TYPE_POISON] = 1,
+    [TYPE_GROUND] = 0, [TYPE_ROCK] = 0, [TYPE_BUG] = 2, [TYPE_GHOST] = 1,
+    [TYPE_STEEL] = 0, [TYPE_MYSTERY] = 2, [TYPE_FIRE] = 0, [TYPE_WATER] = 1,
+    [TYPE_GRASS] = 2, [TYPE_ELECTRIC] = 0, [TYPE_PSYCHIC] = 1, [TYPE_ICE] = 1,
+    [TYPE_DRAGON] = 2, [TYPE_DARK] = 0,
+};
 
 static void MoveSelectionDisplayMoveType(void)
 {
-    u8 *txtPtr;
     struct ChooseMoveStruct *moveInfo = (struct ChooseMoveStruct *)(&gBattleBufferA[gActiveBattler][4]);
+    u8 type = gBattleMoves[moveInfo->moves[gMoveSelectionCursor[gActiveBattler]]].type;
+    // Indeks warna yang tidak digunakan oleh ikon itu, untuk latar kotak.
+    u8 bgIndex = (type == TYPE_ICE) ? 12 : 13;
+    u16 boxColor = gPlttBufferUnfaded[BG_PLTT_ID(5) + 14];
 
-    txtPtr = StringCopy(gDisplayedStringBattle, gText_MoveInterfaceType);
-    *(txtPtr)++ = EXT_CTRL_CODE_BEGIN;
-    *(txtPtr)++ = EXT_CTRL_CODE_FONT;
-    *(txtPtr)++ = FONT_NORMAL;
+    if (type >= NUMBER_OF_MON_TYPES)
+        type = TYPE_MYSTERY;
+    LoadPalette(&gMoveTypes_PalRaw[16 * sMoveTypeIconPalGroup[type]], BG_PLTT_ID(MOVE_TYPE_ICON_PAL), PLTT_SIZE_4BPP);
+    gPlttBufferUnfaded[BG_PLTT_ID(MOVE_TYPE_ICON_PAL) + bgIndex] = boxColor;
+    gPlttBufferFaded[BG_PLTT_ID(MOVE_TYPE_ICON_PAL) + bgIndex] = boxColor;
 
-    StringCopy(txtPtr, gTypeNames[gBattleMoves[moveInfo->moves[gMoveSelectionCursor[gActiveBattler]]].type]);
-    BattlePutTextOnWindow(gDisplayedStringBattle, B_WIN_MOVE_TYPE);
+    FillWindowPixelBuffer(B_WIN_MOVE_TYPE, PIXEL_FILL(bgIndex));
+    BlitBitmapRectToWindow(B_WIN_MOVE_TYPE, (const u8 *)gMoveTypes_GfxRaw, 0, type * 16, 32, (NUMBER_OF_MON_TYPES + CONTEST_CATEGORIES_COUNT) * 16, 5, 0, 32, 16);
+    PutWindowTilemap(B_WIN_MOVE_TYPE);
+    CopyWindowToVram(B_WIN_MOVE_TYPE, COPYWIN_FULL);
 }
 
 static void MoveSelectionCreateCursorAt(u8 cursorPosition, u8 baseTileNum)
@@ -1513,7 +1538,7 @@ static void MoveSelectionCreateCursorAt(u8 cursorPosition, u8 baseTileNum)
     src[0] = baseTileNum + 1;
     src[1] = baseTileNum + 2;
 
-    CopyToBgTilemapBufferRect_ChangePalette(0, src, 9 * (cursorPosition & 1) + 1, 55 + (cursorPosition & 2), 1, 2, 0x11);
+    CopyToBgTilemapBufferRect_ChangePalette(0, src, 11 * (cursorPosition & 1) + 1, 55 + (cursorPosition & 2), 1, 2, 0x11);
     CopyBgTilemapBufferToVram(0);
 }
 
@@ -1523,7 +1548,7 @@ static void MoveSelectionDestroyCursorAt(u8 cursorPosition)
     src[0] = 0x1016;
     src[1] = 0x1016;
 
-    CopyToBgTilemapBufferRect_ChangePalette(0, src, 9 * (cursorPosition & 1) + 1, 55 + (cursorPosition & 2), 1, 2, 0x11);
+    CopyToBgTilemapBufferRect_ChangePalette(0, src, 11 * (cursorPosition & 1) + 1, 55 + (cursorPosition & 2), 1, 2, 0x11);
     CopyBgTilemapBufferToVram(0);
 }
 

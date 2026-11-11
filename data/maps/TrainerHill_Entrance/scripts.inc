@@ -330,7 +330,7 @@ TrainerHill_Entrance_Text_TooBadTremendousEffort:
 	.string "Datanglah lagi dan cuba sekali lagi!$"
 
 TrainerHill_Entrance_Text_HopeYouGiveItYourBest:
-	.string "Saya harap kamu buat yang terbaik.$"
+	.string "Berusahalah sehabis baik, ya.$"
 
 TrainerHill_Entrance_Text_MovedReceptionHereForSwitch:
 	.string "Bila JURULATIH bertukar tempat,\n"
@@ -343,11 +343,11 @@ TrainerHill_Entrance_Text_ThankYouForPlaying:
 	.string "Terima kasih kerana bermain!$"
 
 TrainerHill_Entrance_Text_ExplainTrainerHill:
-	.string "Di BUKIT JURULATIH, kami adakan\n"
-	.string "acara bernama Lumba Masa.\p"
-	.string "Ia perlumbaan yang mengukur berapa\n"
-	.string "lama kamu ambil untuk sampai kepada\l"
-	.string "pemilik kami di bumbung dari kaunter ini.\p"
+	.string "Di BUKIT JURULATIH, kami adakan acara\n"
+	.string "bernama Lumba Masa.\p"
+	.string "Perlumbaan ini mengukur berapa lama\n"
+	.string "kamu ambil untuk sampai kepada pemilik\l"
+	.string "kami di bumbung dari kaunter ini.\p"
 	.string "Masa terpantas dipaparkan di PAPAN\n"
 	.string "MASA. Cubalah bersaing dengan\l"
 	.string "kawan-kawan kamu.\p"
@@ -388,7 +388,7 @@ TrainerHill_Roof_Text_FullUpBeBackLaterForThis:
 
 TrainerHill_Roof_Text_GotHereMarvelouslyQuickly:
 	.string "Oh, nanti dulu! Kamu sampai ke sini\n"
-	.string "dengan pantas yang luar biasa?\p"
+	.string "dengan sangat pantas, ya?\p"
 	.string "Hebatnya! Tak perlulah tergesa-gesa\n"
 	.string "sangat nak jumpa saya!\p"
 	.string "Seronok sungguh. Saya akan suruh\n"

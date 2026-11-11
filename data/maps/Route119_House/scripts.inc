@@ -19,8 +19,8 @@ Route119_House_Text_RumorAboutCaveOfOrigin:
 	.string "Saya ada dengar tentang sebuah gua\n"
 	.string "bernama GUA ORIGIN.\p"
 	.string "Orang kata roh POKéMON dihidupkan\n"
-	.string "semula di sana. Betulkah perkara\l"
-	.string "macam tu boleh berlaku?$"
+	.string "semula di sana. Betul ke benda\l"
+	.string "macam tu boleh jadi?$"
 
 Route119_House_Text_Wingull:
 	.string "WINGULL: Pihyoh!$"

@@ -10,9 +10,9 @@ SlateportCity_SternsShipyard_2F_EventScript_Scientist2::
 	end
 
 SlateportCity_SternsShipyard_2F_Text_ShipDesignMoreLikeBuilding:
-	.string "Mereka bentuk kapal besar lebih macam\n"
-	.string "membina bangunan besar daripada\l"
-	.string "memasang kenderaan pengangkutan.$"
+	.string "Reka bentuk kapal besar ni lebih macam\n"
+	.string "bina bangunan besar, bukan macam\l"
+	.string "pasang kenderaan.$"
 
 SlateportCity_SternsShipyard_2F_Text_FloatsBecauseBuoyancy:
 	.string "Tak pelik ke kapal yang dibuat daripada\n"

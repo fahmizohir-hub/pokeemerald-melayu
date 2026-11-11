@@ -755,8 +755,8 @@ Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
 	.string "Lain kali, saya akan guna helah ni, dan\n"
 	.string "muslihat tu, dan tipu daya tu…\p"
-	.string "Mufufufu… Kalau boleh saya cakap, ia\n"
-	.string "susah gila, walaupun untuk saya!$"
+	.string "Mufufufu… Saya sendiri pun\n"
+	.string "mengaku, susahnya memang hebat!$"
 
 Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges:
 	.string "Hah? Apa?!\n"

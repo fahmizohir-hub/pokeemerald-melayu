@@ -277,25 +277,25 @@ RustboroCity_DevonCorp_2F_Text_DevelopingNewBalls:
 RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls:
 	.string "Akhirnya kami berjaya cipta POKé BALL\n"
 	.string "jenis baru!\p"
-	.string "REPEAT BALL memudahkan tangkapan\n"
-	.string "POKéMON yang pernah kamu tangkap.\p"
+	.string "REPEAT BALL buat POKéMON yang pernah\n"
+	.string "kamu tangkap lebih senang ditangkap.\p"
 	.string "TIMER BALL jadi lebih berkesan bila\n"
 	.string "pertarungan makin lama.\p"
-	.string "Kedua-duanya hasil ciptaan bangga\n"
-	.string "DEVON CORPORATION.\p"
+	.string "Kedua-duanya ciptaan DEVON\n"
+	.string "CORPORATION yang kami banggakan.\p"
 	.string "Cubalah!$"
 
 RustboroCity_DevonCorp_2F_Text_IMadePokenav:
 	.string "Sayalah yang cipta POKéNAV!\p"
 	.string "Sebagai jurutera, saya bersyukur dapat\n"
-	.string "cipta sesuatu yang hebat!$"
+	.string "cipta sesuatu sehebat ini!$"
 
 RustboroCity_DevonCorp_2F_Text_WowThatsAPokenav:
 	.string "Oh, wah! Itu POKéNAV!\p"
-	.string "Ia dicipta kerana PRESIDEN kami mahu\n"
-	.string "memahami perasaan POKéMON.\p"
-	.string "Nak saya terangkan ciri-cirinya dengan\n"
-	.string "terperinci?\p"
+	.string "Alat ni tercipta sebab PRESIDEN kami\n"
+	.string "nak faham perasaan POKéMON.\p"
+	.string "Nak saya terangkan ciri-cirinya\n"
+	.string "dengan terperinci?\p"
 	.string "Tak, tak. Saya rasa kamu akan faham\n"
 	.string "sendiri bila cuba guna POKéNAV tu.$"
 
@@ -307,14 +307,14 @@ RustboroCity_DevonCorp_2F_Text_DeviceToVisualizePokemonDreams:
 RustboroCity_DevonCorp_2F_Text_DevelopDeviceToResurrectFossils:
 	.string "Saya cuba cipta alat yang boleh\n"
 	.string "hidupkan semula POKéMON dari fosil…\p"
-	.string "Dan ia berjaya!$"
+	.string "Dan dah menjadi!$"
 
 RustboroCity_DevonCorp_2F_Text_WantToBringFossilBackToLife:
 	.string "Tunggu! Benda yang kamu bawa tu… Itu\n"
 	.string "fosil POKéMON ke?\p"
 	.string "Kamu nak hidupkan semula POKéMON tu?\p"
-	.string "Saya boleh, dengan PENJANA FOSIL yang\n"
-	.string "baru saya cipta.$"
+	.string "Saya boleh buat dengan PENJANA FOSIL\n"
+	.string "yang baru saya cipta.$"
 
 RustboroCity_DevonCorp_2F_Text_OhIsThatSo:
 	.string "Oh, begitu?\p"
@@ -322,15 +322,15 @@ RustboroCity_DevonCorp_2F_Text_OhIsThatSo:
 	.string "biasa, tau.$"
 
 RustboroCity_DevonCorp_2F_Text_TwoFossilsPickOne:
-	.string "Oh, ini mengejutkan! Kamu ada bukan\n"
-	.string "satu, tapi dua fosil?\p"
-	.string "Malangnya, mesin saya cuma boleh jana\n"
-	.string "semula satu POKéMON pada satu masa.\p"
-	.string "Kamu nak pilih satu fosil untuk dijana\n"
-	.string "semula?$"
+	.string "Wah, tak sangka! Kamu ada bukan satu,\n"
+	.string "tapi dua fosil?\p"
+	.string "Sayangnya, mesin saya cuma boleh jana\n"
+	.string "semula satu POKéMON setiap kali.\p"
+	.string "Kamu nak pilih satu fosil untuk\n"
+	.string "dijana semula?$"
 
 RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher:
-	.string "Bagus! Mari kita buat sekarang juga.\p"
+	.string "Bagus! Kita mulakan sekarang.\p"
 	.string "{PLAYER} menyerahkan {STR_VAR_1}\n"
 	.string "kepada PENYELIDIK DEVON.$"
 
@@ -343,11 +343,11 @@ RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime:
 	.string "dan tengok-tengok sekeliling dulu?$"
 
 RustboroCity_DevonCorp_2F_Text_FossilizedMonBroughtBackToLife:
-	.string "Terima kasih kerana menunggu!\p"
-	.string "POKéMON fosil kamu dah dihidupkan\n"
-	.string "semula!\p"
-	.string "Fosil tu ialah POKéMON purba.\n"
-	.string "{STR_VAR_2} rupanya!$"
+	.string "Terima kasih sebab tunggu!\p"
+	.string "POKéMON fosil kamu dah\n"
+	.string "dihidupkan semula!\p"
+	.string "Fosil tu sebenarnya POKéMON purba,\n"
+	.string "iaitu {STR_VAR_2}!$"
 
 RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher:
 	.string "{PLAYER} menerima {STR_VAR_2}\n"
@@ -366,8 +366,8 @@ RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature:
 RustboroCity_DevonCorp_2F_Text_WhatToWorkOnNext:
 	.string "Hmm, apa pula yang patut saya cipta\n"
 	.string "lepas ni?\p"
-	.string "Syarikat kami benarkan kami jadikan\n"
-	.string "ilham kami kenyataan.\p"
-	.string "Tak ada persekitaran yang lebih baik\n"
-	.string "untuk seorang jurutera.$"
+	.string "Syarikat kami beri peluang kami jadikan\n"
+	.string "ilham kenyataan.\p"
+	.string "Bagi jurutera, tak ada tempat kerja\n"
+	.string "yang lebih baik.$"
 

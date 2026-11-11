@@ -274,7 +274,7 @@ BattleFrontier_OutsideEast_Text_PyramidTooHarsh:
 	.string "saya boleh panjat dari luar…$"
 
 BattleFrontier_OutsideEast_Text_ThriveInDarkness:
-	.string "Aku subur dalam kegelapan… Ya… Apa\n"
+	.string "Kegelapan ialah duniaku… Ya… Apa\n"
 	.string "yang layak untukku? Tiada lain selain\l"
 	.string "BATTLE PYRAMID…\p"
 	.string "Apa kata kau mengembara dalam\n"
@@ -305,7 +305,7 @@ BattleFrontier_OutsideEast_Text_BelieveInYouBuddy:
 	.string "kecil saya!$"
 
 BattleFrontier_OutsideEast_Text_ZigzagoonLooksVacant:
-	.string "ZIGZAGOON nampak termenung kosong…$"
+	.string "Pandangan ZIGZAGOON kosong saja…$"
 
 BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody:
 	.string "Orang kata saya ni suka jaga tepi\n"
@@ -382,9 +382,9 @@ BattleFrontier_OutsideEast_Text_ToughTrainerInBattleTower:
 	.string "nak pergi ke BATTLE TOWER.$"
 
 BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll:
-	.string "Yes! Akhirnya Mata Tarung\n"
+	.string "Yeay! Akhirnya Mata Tarung\n"
 	.string "saya dah cukup!\p"
-	.string "Saya rasa saya nak tukar dengan\n"
+	.string "Rasanya saya nak tukar dengan\n"
 	.string "satu lagi PATUNG gebu gergasi!$"
 
 BattleFrontier_OutsideEast_Text_LikeToHaveNameRecordedHere:

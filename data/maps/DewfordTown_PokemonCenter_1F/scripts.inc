@@ -25,7 +25,7 @@ DewfordTown_PokemonCenter_1F_EventScript_Man::
 	end
 
 DewfordTown_PokemonCenter_1F_Text_StoneCavern:
-	.string "Ada sebuah gua batu di hujung pekan.\p"
+	.string "Ada gua batu di hujung pekan.\p"
 	.string "Saya dengar kamu boleh jumpa batu\n"
 	.string "nadir di sana.$"
 

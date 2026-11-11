@@ -86,13 +86,12 @@ EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
 	.string "sebaik mungkin!$"
 
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "SCOTT: {PLAYER}{KUN}, kamu dah berjuang\n"
-	.string "sampai ke LIGA POKéMON!\p"
-	.string "Saya gembira untuk kamu!\n"
-	.string "Berbaloi saya bersorak untuk kamu!\p"
+	.string "SCOTT: {PLAYER}{KUN}, kamu dah\n"
+	.string "berjuang sampai ke LIGA POKéMON!\p"
+	.string "Saya gembira untuk kamu! Berbaloi\n"
+	.string "saya bersorak untuk kamu!\p"
 	.string "{PLAYER}{KUN}, kalau kamu jadi\n"
 	.string "JUARA LIGA POKéMON…\p"
 	.string "Saya akan hubungi kamu nanti.\p"
-	.string "Okey, {PLAYER}{KUN}.\n"
-	.string "Capailah kegemilangan!$"
+	.string "Okey, {PLAYER}{KUN}. Pergi kejar kejayaan!$"
 

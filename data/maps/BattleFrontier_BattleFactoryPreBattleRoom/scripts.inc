@@ -456,32 +456,32 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
 	.string "Biar kami pulihkan POKéMON kamu!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "Perlawanan ke-2 seterusnya!\n"
+	.string "Seterusnya, perlawanan ke-2!\n"
 	.string "Sudah sedia?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "Perlawanan ke-3 seterusnya!\n"
+	.string "Seterusnya, perlawanan ke-3!\n"
 	.string "Sudah sedia?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
-	.string "Perlawanan ke-4 seterusnya!\n"
+	.string "Seterusnya, perlawanan ke-4!\n"
 	.string "Sudah sedia?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent:
-	.string "Perlawanan ke-5 seterusnya!\n"
+	.string "Seterusnya, perlawanan ke-5!\n"
 	.string "Sudah sedia?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent:
-	.string "Perlawanan ke-6 seterusnya!\n"
+	.string "Seterusnya, perlawanan ke-6!\n"
 	.string "Sudah sedia?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Akhirnya, perlawanan ke-7 seterusnya!\n"
+	.string "Akhirnya, tiba perlawanan ke-7!\n"
 	.string "Sudah sedia?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-	.string "Mahu simpan dan keluar\n"
-	.string "permainan?$"
+	.string "Mahu simpan dan berhenti\n"
+	.string "main sekarang?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
 	.string "Mahu undur diri daripada cabaran\n"
@@ -631,7 +631,7 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
 	.string "Maaf buat kamu menunggu!\p"
 	.string "Saya ada pesanan daripada bos\n"
 	.string "kemudahan ini, FACTORY HEAD.\p"
-	.string "Katanya, “Kita akan berlawan!\n"
+	.string "Katanya, “Jom kita lawan!\n"
 	.string "Datang sini sekarang!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:

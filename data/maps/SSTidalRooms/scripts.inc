@@ -67,10 +67,10 @@ SSTidalRooms_Text_TakeRestOnBed:
 	.string "Jom berehat.$"
 
 SSTidalRooms_Text_ColtonIntro:
-	.string "Saya selalu belayar ke BANDAR\n"
-	.string "LILYCOVE.\p"
-	.string "Saya suka menyertai PERTANDINGAN,\n"
-	.string "tahu tak.$"
+	.string "Saya selalu belayar\n"
+	.string "ke BANDAR LILYCOVE.\p"
+	.string "Saya memang suka pergi\n"
+	.string "tengok PERTANDINGAN.$"
 
 SSTidalRooms_Text_ColtonDefeat:
 	.string "Seronok betul pertarungan tadi!$"
@@ -170,7 +170,7 @@ SSTidalRooms_Text_NotSuspiciousTakeThis:
 	.string "begitu! Ia bersih! Gunalah!$"
 
 SSTidalRooms_Text_ExplainSnatch:
-	.string "RAMPAS mencuri kesan baik move\n"
+	.string "RAMPASAN mencuri kesan baik move\n"
 	.string "tertentu sebelum ia dapat diguna\l"
 	.string "oleh musuh atau rakan.$"
 

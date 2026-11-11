@@ -681,19 +681,19 @@ static const struct WindowTemplate sPageMovesTemplate[] = // This is used for bo
         .bg = 0,
         .tilemapLeft = 15,
         .tilemapTop = 4,
-        .width = 9,
+        .width = 10,
         .height = 10,
         .paletteNum = 6,
         .baseBlock = 449,
     },
     [PSS_DATA_WINDOW_MOVE_PP] = {
         .bg = 0,
-        .tilemapLeft = 24,
+        .tilemapLeft = 25,
         .tilemapTop = 4,
-        .width = 6,
+        .width = 5,
         .height = 10,
         .paletteNum = 8,
-        .baseBlock = 539,
+        .baseBlock = 549,
     },
     [PSS_DATA_WINDOW_MOVE_DESCRIPTION] = {
         .bg = 0,
@@ -2735,6 +2735,17 @@ static void PrintTextOnWindow(u8 windowId, const u8 *string, u8 x, u8 y, u8 line
     AddTextPrinterParameterized4(windowId, FONT_NORMAL, x, y, 0, lineSpacing, sTextColors[colorId], 0, string);
 }
 
+// BM: nama move boleh sampai 16 huruf. Guna fon biasa jika muat dalam
+// tingkap 80px, jika tidak guna fon sempit.
+#define MOVE_NAME_WINDOW_WIDTH 80
+static void PrintMoveNameOnWindow(u8 windowId, const u8 *string, u8 x, u8 y, u8 colorId)
+{
+    u8 fontId = FONT_NORMAL;
+    if (GetStringWidth(FONT_NORMAL, string, 0) > MOVE_NAME_WINDOW_WIDTH - x)
+        fontId = FONT_NARROW;
+    AddTextPrinterParameterized4(windowId, fontId, x, y, 0, 0, sTextColors[colorId], 0, string);
+}
+
 static void PrintMonInfo(void)
 {
     FillWindowPixelBuffer(PSS_LABEL_WINDOW_PORTRAIT_DEX_NUMBER, PIXEL_FILL(0));
@@ -3537,7 +3548,7 @@ static void PrintMoveNameAndPP(u8 moveIndex)
     if (move != 0)
     {
         pp = CalculatePPWithBonus(move, summary->ppBonuses, moveIndex);
-        PrintTextOnWindow(moveNameWindowId, gMoveNames[move], 0, moveIndex * 16 + 1, 0, 1);
+        PrintMoveNameOnWindow(moveNameWindowId, gMoveNames[move], 0, moveIndex * 16 + 1, 1);
         ConvertIntToDecimalStringN(gStringVar1, summary->pp[moveIndex], STR_CONV_MODE_RIGHT_ALIGN, 2);
         ConvertIntToDecimalStringN(gStringVar2, pp, STR_CONV_MODE_RIGHT_ALIGN, 2);
         DynamicPlaceholderTextUtil_Reset();
@@ -3546,14 +3557,14 @@ static void PrintMoveNameAndPP(u8 moveIndex)
         DynamicPlaceholderTextUtil_ExpandPlaceholders(gStringVar4, sMovesPPLayout);
         text = gStringVar4;
         ppState = GetCurrentPPToMaxPPState(summary->pp[moveIndex], pp) + 9;
-        x = GetStringRightAlignXOffset(FONT_NORMAL, text, 44);
+        x = GetStringRightAlignXOffset(FONT_NORMAL, text, 38);
     }
     else
     {
         PrintTextOnWindow(moveNameWindowId, gText_OneDash, 0, moveIndex * 16 + 1, 0, 1);
         text = gText_TwoDashes;
         ppState = 12;
-        x = GetStringCenterAlignXOffset(FONT_NORMAL, text, 44);
+        x = GetStringCenterAlignXOffset(FONT_NORMAL, text, 38);
     }
 
     PrintTextOnWindow(ppValueWindowId, text, x, moveIndex * 16 + 1, 0, ppState);
@@ -3697,23 +3708,23 @@ static void PrintNewMoveDetailsOrCancelText(void)
         u16 move = sMonSummaryScreen->newMove;
 
         if (sMonSummaryScreen->currPageIndex == PSS_PAGE_BATTLE_MOVES)
-            PrintTextOnWindow(windowId1, gMoveNames[move], 0, 65, 0, 6);
+            PrintMoveNameOnWindow(windowId1, gMoveNames[move], 0, 65, 6);
         else
-            PrintTextOnWindow(windowId1, gMoveNames[move], 0, 65, 0, 5);
+            PrintMoveNameOnWindow(windowId1, gMoveNames[move], 0, 65, 5);
 
         ConvertIntToDecimalStringN(gStringVar1, gBattleMoves[move].pp, STR_CONV_MODE_RIGHT_ALIGN, 2);
         DynamicPlaceholderTextUtil_Reset();
         DynamicPlaceholderTextUtil_SetPlaceholderPtr(0, gStringVar1);
         DynamicPlaceholderTextUtil_SetPlaceholderPtr(1, gStringVar1);
         DynamicPlaceholderTextUtil_ExpandPlaceholders(gStringVar4, sMovesPPLayout);
-        PrintTextOnWindow(windowId2, gStringVar4, GetStringRightAlignXOffset(FONT_NORMAL, gStringVar4, 44), 65, 0, 12);
+        PrintTextOnWindow(windowId2, gStringVar4, GetStringRightAlignXOffset(FONT_NORMAL, gStringVar4, 38), 65, 0, 12);
     }
 }
 
 static void AddAndFillMoveNamesWindow(void)
 {
     u8 windowId = AddWindowFromTemplateList(sPageMovesTemplate, PSS_DATA_WINDOW_MOVE_NAMES);
-    FillWindowPixelRect(windowId, PIXEL_FILL(0), 0, 66, 72, 16);
+    FillWindowPixelRect(windowId, PIXEL_FILL(0), 0, 66, 80, 16);
     CopyWindowToVram(windowId, COPYWIN_GFX);
 }
 
@@ -3722,11 +3733,11 @@ static void SwapMovesNamesPP(u8 moveIndex1, u8 moveIndex2)
     u8 windowId1 = AddWindowFromTemplateList(sPageMovesTemplate, PSS_DATA_WINDOW_MOVE_NAMES);
     u8 windowId2 = AddWindowFromTemplateList(sPageMovesTemplate, PSS_DATA_WINDOW_MOVE_PP);
 
-    FillWindowPixelRect(windowId1, PIXEL_FILL(0), 0, moveIndex1 * 16, 72, 16);
-    FillWindowPixelRect(windowId1, PIXEL_FILL(0), 0, moveIndex2 * 16, 72, 16);
+    FillWindowPixelRect(windowId1, PIXEL_FILL(0), 0, moveIndex1 * 16, 80, 16);
+    FillWindowPixelRect(windowId1, PIXEL_FILL(0), 0, moveIndex2 * 16, 80, 16);
 
-    FillWindowPixelRect(windowId2, PIXEL_FILL(0), 0, moveIndex1 * 16, 48, 16);
-    FillWindowPixelRect(windowId2, PIXEL_FILL(0), 0, moveIndex2 * 16, 48, 16);
+    FillWindowPixelRect(windowId2, PIXEL_FILL(0), 0, moveIndex1 * 16, 40, 16);
+    FillWindowPixelRect(windowId2, PIXEL_FILL(0), 0, moveIndex2 * 16, 40, 16);
 
     PrintMoveNameAndPP(moveIndex1);
     PrintMoveNameAndPP(moveIndex2);

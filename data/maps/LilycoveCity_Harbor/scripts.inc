@@ -563,5 +563,4 @@ LilycoveCity_Harbor_Text_SailorFerryAvailable:
 	.string "Feri S.S. TIDAL akhirnya dah beroperasi.\p"
 	.string "Orang-orang di LIMBUNGAN SLATEPORT\n"
 	.string "mesti dah bekerja keras.\p"
-	.string "Hah, sekarang giliran saya pula untuk\n"
-	.string "sibuk!$"
+	.string "Hah, sekarang giliran saya pula sibuk!$"

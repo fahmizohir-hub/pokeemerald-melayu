@@ -63,8 +63,8 @@ LilycoveCity_DepartmentStore_2F_Pokemart2:
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_2F_Text_LearnToUseItemsProperly:
-	.string "Belajar guna barang dengan betul.\n"
-	.string "Itu asasnya, sebenarnya.$"
+	.string "Belajarlah guna barang\n"
+	.string "dengan betul. Itu asas, tau.$"
 
 LilycoveCity_DepartmentStore_2F_Text_GoodGiftForHusband:
 	.string "Suami saya tengah tunggu di rumah.\n"

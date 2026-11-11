@@ -23,8 +23,8 @@ MossdeepCity_PokemonCenter_2F_EventScript_Woman5::
 	end
 
 MossdeepCity_PokemonCenter_2F_Text_Woman5:
-	.string "Kalau saya menang banyak pertarungan\n"
-	.string "pautan dan tunjuk pada semua orang\l"
+	.string "Kalau saya menang banyak TARUNG\n"
+	.string "LINK dan tunjuk pada semua orang\l"
 	.string "betapa hebatnya saya, mungkin saya ada\l"
 	.string "peminat!$"
 

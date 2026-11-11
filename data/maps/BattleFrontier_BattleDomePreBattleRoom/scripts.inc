@@ -265,19 +265,19 @@ BattleFrontier_BattleDomePreBattleRoom_Movement_PlayerEnterDoor:
 	step_end
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound1:
-	.string "Perlawanan pusingan pertama kamu\n"
-	.string "seterusnya. Sudah sedia?$"
+	.string "Seterusnya, perlawanan pusingan\n"
+	.string "pertama kamu. Sudah sedia?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound2:
-	.string "Perlawanan pusingan kedua kamu\n"
-	.string "seterusnya. Sudah sedia?$"
+	.string "Seterusnya, perlawanan pusingan\n"
+	.string "kedua kamu. Sudah sedia?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals:
-	.string "Perlawanan separuh akhir kamu\n"
-	.string "seterusnya. Sudah sedia?$"
+	.string "Seterusnya, perlawanan separuh\n"
+	.string "akhir kamu. Sudah sedia?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals:
-	.string "Perlawanan akhir kamu seterusnya.\n"
+	.string "Seterusnya, perlawanan akhir kamu.\n"
 	.string "Sudah sedia?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons:
@@ -333,20 +333,20 @@ BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:
 	.string "ialah JURULATIH ini.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1:
-	.string "Kejohanan di pusingan pertama.$"
+	.string "Kejohanan kini di pusingan pertama.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound2:
-	.string "Kejohanan di pusingan kedua.$"
+	.string "Kejohanan kini di pusingan kedua.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInSemifinals:
-	.string "Kejohanan di peringkat separuh akhir.$"
+	.string "Kejohanan kini di separuh akhir.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals:
-	.string "Kejohanan sudah sampai ke akhir.$"
+	.string "Kejohanan kini di perlawanan akhir.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame:
-	.string "Mahu simpan dan\n"
-	.string "keluar permainan?$"
+	.string "Mahu simpan dan berhenti\n"
+	.string "main sekarang?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge:
 	.string "Mahu undur diri daripada cabaran\n"
@@ -376,11 +376,11 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
 	.string "Sudah sedia?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
-	.string "Pertarungan akhir dengan TUCKER\n"
-	.string "seterusnya. Sudah sedia?$"
+	.string "Seterusnya, pertarungan akhir dengan\n"
+	.string "TUCKER. Sudah sedia?$"
 
 @ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort:
-	.string "Pertarungan akhir dengan TUCKER\n"
-	.string "seterusnya. Sudah sedia?$"
+	.string "Seterusnya, pertarungan akhir dengan\n"
+	.string "TUCKER. Sudah sedia?$"
 

@@ -175,14 +175,13 @@ SootopolisCity_Gym_1F_EventScript_GymStatue::
 	end
 
 SootopolisCity_Gym_1F_Text_GymGuideAdvice:
-	.string "Yo! Apa khabar, bakal JUARA\n"
-	.string "{PLAYER}?\p"
-	.string "KETUA GIM SOOTOPOLIS, JUAN, ialah pakar\n"
-	.string "POKéMON jenis AIR.\p"
-	.string "Dan, untuk sampai kepada JUAN, lantai\n"
-	.string "ais akan menyukarkan perjalanan kamu…\p"
-	.string "Maaf, tapi itu saja nasihat yang saya\n"
-	.string "ada untuk kamu.\p"
+	.string "Yo! Apa khabar, bakal JUARA {PLAYER}?\p"
+	.string "KETUA GIM SOOTOPOLIS, JUAN,\n"
+	.string "ialah pakar POKéMON jenis AIR.\p"
+	.string "Dan, nak sampai kepada JUAN,\n"
+	.string "lantai ais akan menyusahkan kamu…\p"
+	.string "Maaf, tapi itu saja nasihat\n"
+	.string "yang saya ada untuk kamu.\p"
 	.string "Selebihnya, kamu kena usaha sendiri!$"
 
 SootopolisCity_Gym_1F_Text_GymGuidePostVictory:

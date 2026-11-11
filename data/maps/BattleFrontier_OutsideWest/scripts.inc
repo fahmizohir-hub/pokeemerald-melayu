@@ -290,8 +290,8 @@ BattleFrontier_OutsideWest_EventScript_PokefanF::
 
 BattleFrontier_OutsideWest_Text_BattleDomeSign:
 	.string "Inilah BATTLE DOME!\n"
-	.string "Jalan kamu menjadi bintang yang tak\l"
-	.string "terkalahkan!$"
+	.string "Laluan kamu untuk jadi bintang\l"
+	.string "yang tak terkalahkan!$"
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign:
 	.string "Inilah BATTLE FACTORY!\n"
@@ -426,7 +426,7 @@ BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa:
 BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe:
 	.string "Ah, jadi inilah BATTLE DOME? Saya\n"
 	.string "takkan biar BUDIMAN kalahkan saya!\p"
-	.string "Tapi di mana pintu masuknya?$"
+	.string "Tapi mana pintu masuknya?$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
 	.string "Tak lama dulu, tempat ni kosong saja.\p"
@@ -437,8 +437,8 @@ BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
 BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier:
 	.string "Akhirnya saya sampai\n"
 	.string "di BATTLE FRONTIER!\p"
-	.string "Mesti saya menarik perhatian\n"
-	.string "dengan rupa dan kebolehan saya!$"
+	.string "Mesti semua orang perasan rupa\n"
+	.string "dan kebolehan saya!$"
 
 BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople:
 	.string "Kunyah, kunyah…\p"
@@ -501,6 +501,6 @@ BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier:
 	.string "biasa panjang di suatu tempat di\l"
 	.string "BATTLE FRONTIER.\p"
 	.string "Mesti comel. Saya pasti…\p"
-	.string "Oh, cabaran boleh tunggu. Saya rasa\n"
-	.string "terdorong nak cari makhluk comel tu!$"
+	.string "Oh, cabaran boleh tunggu. Saya\n"
+	.string "mesti cari makhluk comel tu!$"
 

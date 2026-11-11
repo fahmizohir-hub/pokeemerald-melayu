@@ -348,16 +348,16 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 
 MossdeepCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, apa khabar, bakal JUARA {PLAYER}?\p"
-	.string "KETUA GIM di sini guna POKéMON jenis\n"
-	.string "PSIKIK.\p"
-	.string "Kalau kamu lawan mereka dengan POKéMON\n"
-	.string "jenis LAWAN atau RACUN, mereka akan\l"
-	.string "beri kerosakan yang dahsyat!\p"
-	.string "Lagipun, mereka akan serang kamu\n"
-	.string "dengan gabungan serangan yang hebat.\p"
-	.string "Kalau nak menang, kamu kena tunjuk\n"
-	.string "betapa rapatnya kamu dengan POKéMON\l"
-	.string "kamu. Teruskan!$"
+	.string "KETUA GIM di sini guna\n"
+	.string "POKéMON jenis PSIKIK.\p"
+	.string "Kalau kamu lawan mereka dengan\n"
+	.string "POKéMON jenis LAWAN atau RACUN, mereka\l"
+	.string "akan beri kerosakan yang dahsyat!\p"
+	.string "Lagi satu, mereka akan serang kamu\n"
+	.string "dengan serangan gabungan yang hebat.\p"
+	.string "Kalau nak menang, kamu kena\n"
+	.string "tunjuk betapa rapatnya kamu\l"
+	.string "dengan POKéMON kamu. Teruskan!$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
 	.string "Wah, kamu memang menakjubkan!\n"
@@ -373,8 +373,8 @@ MossdeepCity_Gym_Text_PrestonDefeat:
 	.string "Saya mesti tempa semangat saya lagi!$"
 
 MossdeepCity_Gym_Text_PrestonPostBattle:
-	.string "Yang tak tegas akan kalah.\n"
-	.string "Itu amaran saya kepada kamu.$"
+	.string "Orang yang teragak-agak akan\n"
+	.string "kalah. Itu amaran saya kepada kamu.$"
 
 MossdeepCity_Gym_Text_VirgilIntro:
 	.string "Tunjukkan bakat kamu!$"
@@ -391,13 +391,12 @@ MossdeepCity_Gym_Text_VirgilPostBattle:
 MossdeepCity_Gym_Text_BlakeIntro:
 	.string "Fufufufu… Tengok saya apungkan\n"
 	.string "POKé BALL dengan telekinesis!\p"
-	.string "Hiaaaaaaarghhh!\n"
-	.string "… … … … … … …\p"
-	.string "Kadang-kadang, saya tak serasi…$"
+	.string "Hiaaaaaaarghhh! … … … … … … …\p"
+	.string "Kadang-kadang, saya hilang rentak…$"
 
 MossdeepCity_Gym_Text_BlakeDefeat:
-	.string "Kemahiran bertarung POKéMON saya pun\n"
-	.string "tak serasi!$"
+	.string "Kemahiran bertarung POKéMON\n"
+	.string "saya pun hilang rentak!$"
 
 MossdeepCity_Gym_Text_BlakePostBattle:
 	.string "POKé BALL terlalu berat nak diangkat\n"
@@ -482,8 +481,8 @@ MossdeepCity_Gym_Text_NatePostBattle:
 	.string "g-goyah, walau seteruk m-mana pun.$"
 
 MossdeepCity_Gym_Text_KathleenIntro:
-	.string "Biar saya beri kamu saat yang sungguh\n"
-	.string "ngeri dan menakutkan!$"
+	.string "Biar saya buat kamu rasa\n"
+	.string "ngeri yang amat sangat!$"
 
 MossdeepCity_Gym_Text_KathleenDefeat:
 	.string "T-tidaaaak!$"
@@ -546,10 +545,11 @@ MossdeepCity_Gym_Text_TateAndLizaIntro:
 	.string "LIZA: Boleh kamu kalahkan?$"
 
 MossdeepCity_Gym_Text_TateAndLizaDefeat:
-	.string "TATE: Apa?! Gabungan kami…\n"
-	.string "LIZA: Dah hancur!\p"
-	.string "TATE: Apa boleh buat. Kamu menang…\n"
-	.string "LIZA: Jadi, sebagai tanda, ambil ni.$"
+	.string "TATE: Apa?! Gabungan\n"
+	.string "kami… LIZA: Dah hancur!\p"
+	.string "TATE: Apa boleh buat. Kamu\n"
+	.string "menang… LIZA: Jadi, sebagai\l"
+	.string "pengiktirafan, ambil ni.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
 	.string "{PLAYER} menerima LENCANA MINDA\n"
@@ -564,11 +564,11 @@ MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
 	.string "TATE: Kamu patut ambil ni juga.$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind:
-	.string "TATE: TM04 itu mengandungi…\n"
+	.string "TATE: TM04 tu mengandungi…\n"
 	.string "LIZA: MINDA TENANG!\p"
 	.string "TATE: Ia naikkan SERANGAN KHAS dan…\n"
 	.string "LIZA: Ia naikkan PERTAHANAN KHAS!\p"
-	.string "TATE: Move ini sangat sesuai…\n"
+	.string "TATE: Move ni memang sesuai…\n"
 	.string "LIZA: Untuk POKéMON PSIKIK!\p"
 	.string "… … … … … …$"
 
@@ -619,7 +619,7 @@ MossdeepCity_Gym_Text_TateAndLizaRematchDefeat:
 
 MossdeepCity_Gym_Text_TateAndLizaPostRematch:
 	.string "TATE: Kamu boleh tumbangkan kami,\n"
-	.string "tapi kami takkan terus rebah!\p"
+	.string "tapi kami akan bangkit semula!\p"
 	.string "LIZA: Sebab kami berdua\n"
 	.string "sentiasa saling menyokong!$"
 

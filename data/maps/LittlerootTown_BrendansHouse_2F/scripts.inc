@@ -263,14 +263,14 @@ PlayersHouse_2F_Text_ClockIsStopped:
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
 	.string "IBU: {PLAYER}, suka tak bilik baru kamu?\p"
-	.string "Bagus! Semua barang\n"
-	.string "dah tersusun kemas!\p"
-	.string "Barang-barang di bawah pun\n"
-	.string "dah siap diangkat masuk.\p"
-	.string "Syarikat pindah POKéMON\n"
-	.string "ni memang senang!\p"
-	.string "Oh, kamu patut periksa semua\n"
-	.string "barang atas meja kamu tu ada.$"
+	.string "Bagus! Semua barang dah tersusun\n"
+	.string "kemas!\p"
+	.string "Barang-barang di bawah pun dah siap\n"
+	.string "diangkat masuk.\p"
+	.string "Senang betul ada POKéMON syarikat\n"
+	.string "pindah ni!\p"
+	.string "Oh, cuba periksa barang atas meja kamu\n"
+	.string "tu, cukup ke tak.$"
 
 PlayersHouse_2F_Text_Notebook:
 	.string "{PLAYER} membuka buku nota.\p"
@@ -285,5 +285,5 @@ Common_Text_LookCloserAtMap:
 
 PlayersHouse_2F_Text_ItsAGameCube:
 	.string "Ini Nintendo GameCube.\p"
-	.string "Sebuah Game Boy Advance\n"
-	.string "disambungkan sebagai alat kawalan.$"
+	.string "Ada Game Boy Advance disambung\n"
+	.string "sebagai alat kawalan.$"

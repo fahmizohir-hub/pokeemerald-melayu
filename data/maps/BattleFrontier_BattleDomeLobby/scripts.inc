@@ -441,9 +441,9 @@ BattleFrontier_BattleDomeLobby_Text_HopeToSeeYouAgain:
 	.string "Kami harap dapat jumpa kamu lagi.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge:
-	.string "Kejohanan TARUNG TUNGGAL adalah\n"
-	.string "seperti namanya--\l"
-	.string "kejohanan TARUNG TUNGGAL.\p"
+	.string "Seperti namanya, Kejohanan TARUNG\n"
+	.string "TUNGGAL ialah kejohanan untuk\l"
+	.string "TARUNG TUNGGAL.\p"
 	.string "Setiap JURULATIH yang menyertai\n"
 	.string "mesti mendaftar tiga POKéMON.\p"
 	.string "Dalam setiap pertarungan, seekor\n"
@@ -468,7 +468,7 @@ BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge:
 BattleFrontier_BattleDomeLobby_Text_WhichLevelMode:
 	.string "Kejohanan ini ada dua tahap cabaran,\n"
 	.string "LV. 50 dan LV. TERBUKA.\l"
-	.string "Yang mana pilihan kamu?$"
+	.string "Kamu pilih yang mana?$"
 
 BattleFrontier_BattleDomeLobby_Text_SelectThreeMons:
 	.string "Sekarang, sila pilih tiga POKéMON\n"
@@ -500,8 +500,8 @@ BattleFrontier_BattleDomeLobby_Text_DidntSaveBeforeQuitting:
 	.string "Maafkan saya!\p"
 	.string "Kamu tidak simpan sebelum berhenti\n"
 	.string "cabaran pada kali lepas.\p"
-	.string "Oleh itu, cabaran kamu setakat ini\n"
-	.string "telah dibatalkan. Maaf!$"
+	.string "Sebab itu, cabaran kamu setakat ini\n"
+	.string "dibatalkan. Maaf ya!$"
 
 BattleFrontier_BattleDomeLobby_Text_CongratsForWinningTourney:
 	.string "Tahniah kerana memenangi\n"
@@ -519,7 +519,7 @@ BattleFrontier_BattleDomeLobby_Text_ReceivedPrize:
 
 @ Unused
 BattleFrontier_BattleDomeLobby_Text_BagFullMakeRoom:
-	.string "Oh, BEG kamu nampaknya penuh.\p"
+	.string "Oh, nampaknya BEG kamu dah penuh.\p"
 	.string "Sila kosongkan ruang dalam BEG,\n"
 	.string "kemudian jumpa saya.$"
 
@@ -531,7 +531,7 @@ BattleFrontier_BattleDomeLobby_Text_RecordWillBeSaved:
 	.string "Sila tunggu.$"
 
 BattleFrontier_BattleDomeLobby_Text_WeveBeenWaitingForYou:
-	.string "Kami memang menanti kamu!$"
+	.string "Kami dah lama tunggu kamu!$"
 
 BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge2:
 	.string "Sebelum ke BATTLE DOME, saya perlu\n"
@@ -549,9 +549,9 @@ BattleFrontier_BattleDomeLobby_Text_TakeDoublesChallenge:
 	.string "Kejohanan TARUNG GANDA?$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge:
-	.string "Kejohanan TARUNG GANDA adalah\n"
-	.string "seperti namanya--\l"
-	.string "kejohanan TARUNG GANDA.\p"
+	.string "Seperti namanya, Kejohanan TARUNG\n"
+	.string "GANDA ialah kejohanan untuk\l"
+	.string "TARUNG GANDA.\p"
 	.string "Setiap JURULATIH yang menyertai\n"
 	.string "mesti mendaftar tiga POKéMON.\p"
 	.string "Dalam setiap pertarungan, seekor\n"
@@ -622,8 +622,8 @@ BattleFrontier_BattleDomeLobby_Text_TrashedInFirstRound:
 	.string "Tentulah saya kalah teruk…$"
 
 BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully:
-	.string "Saya mesti menang kalau saya simpan\n"
-	.string "POKéMON ini sebagai simpanan.\p"
+	.string "Kalau saya simpan POKéMON ni sebagai\n"
+	.string "simpanan, mesti saya dah menang.\p"
 	.string "Kamu perlu teliti POKéMON lawan\n"
 	.string "dengan cermat sebelum memilih\l"
 	.string "POKéMON untuk bertarung.$"
@@ -644,8 +644,8 @@ BattleFrontier_BattleDomeLobby_Text_RecordLastMatch:
 	.string "PAS FRONTIER?$"
 
 BattleFrontier_BattleDomeLobby_Text_RulesAreListed:
-	.string "Peraturan Kejohanan Pertarungan\n"
-	.string "tertera di sini.$"
+	.string "Ini peraturan Kejohanan\n"
+	.string "Pertarungan.$"
 
 BattleFrontier_BattleDomeLobby_Text_ReadWhichHeading:
 	.string "Tajuk mana yang kamu mahu baca?$"

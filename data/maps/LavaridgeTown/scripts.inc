@@ -316,8 +316,8 @@ LavaridgeTown_Text_HaveEggWillYouTakeIt:
 	.string "dibawa ke sana sini.\p"
 	.string "Kamu seorang JURULATIH, kan?\n"
 	.string "POKéMON kamu nampak sangat bertenaga.\p"
-	.string "Jadi, bagaimana?\n"
-	.string "Sudi kamu ambil TELUR ni untuk ditetas?$"
+	.string "Jadi, macam mana?\n"
+	.string "Sudi kamu ambil TELUR ni dan tetaskan?$"
 
 LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:
 	.string "Bagus! Saya harap kamu banyak berjalan\n"
@@ -358,8 +358,8 @@ LavaridgeTown_Text_PokemonNippedBackside:
 
 LavaridgeTown_Text_OhYouLikeHotSprings:
 	.string "Oh, kamu suka kolam air panas, ya?\p"
-	.string "Mengejutkan untuk orang semuda\n"
-	.string "kamu.$"
+	.string "Tak sangka, orang semuda kamu pun\n"
+	.string "suka.$"
 
 LavaridgeTown_Text_BatheInHotSpringsEveryDay:
 	.string "Saya mandi di kolam air panas setiap\n"

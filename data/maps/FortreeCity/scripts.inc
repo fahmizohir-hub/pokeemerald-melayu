@@ -111,7 +111,7 @@ FortreeCity_Text_TreesGrowByDrinkingRainwater:
 	.string "air dan tanah.$"
 
 FortreeCity_Text_EveryoneHealthyAndLively:
-	.string "BANDAR ni terdiri daripada rumah yang\n"
+	.string "Rumah-rumah di BANDAR ni semuanya\n"
 	.string "dibina di atas pokok.\p"
 	.string "Mungkin sebab cara hidup begitu,\n"
 	.string "semua orang sihat dan cergas.\p"

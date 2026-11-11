@@ -38,10 +38,10 @@ gText_NolandDefeatSilver::
 
 gText_NolandWonGold::
 	.string "Hei, hei, hei!\n"
-	.string "Kamu dah tamat ke?$"
+	.string "Dah habis ke?$"
 
 gText_NolandDefeatGold::
-	.string "Apa yang dah berlaku ni?$"
+	.string "Apa dah jadi ni?$"
 
 @ Battle Pike
 gText_LucyWonSilver::

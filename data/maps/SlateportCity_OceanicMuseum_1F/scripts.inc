@@ -265,8 +265,8 @@ SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
 	.string "ilmu tu untuk bertarung.$"
 
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
-	.string "Saya jadi teruja dan cair bila nampak\n"
-	.string "laut!\p"
+	.string "Saya jadi teruja dan seronok sangat\n"
+	.string "bila nampak laut!\p"
 	.string "Bagi saya, KAPT. STERN ialah idola\n"
 	.string "nombor satu!$"
 

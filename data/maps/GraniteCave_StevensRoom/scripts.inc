@@ -86,21 +86,20 @@ GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
 
 GraniteCave_StevensRoom_Text_ThankYouTakeThis:
 	.string "STEVEN: Baiklah, terima kasih.\p"
-	.string "Kamu bersusah payah untuk hantar\n"
-	.string "surat ni. Saya perlu berterima kasih.\p"
-	.string "Biar saya lihat… Saya beri kamu TM ini.\p"
-	.string "Ia mengandungi move kegemaran saya,\n"
+	.string "Susah payah kamu datang hantar surat\n"
+	.string "ni. Saya patut balas jasa kamu.\p"
+	.string "Biar saya fikir… Saya bagi kamu TM ni.\p"
+	.string "Dalamnya ada move kegemaran saya,\n"
 	.string "SAYAP BESI.$"
 
 GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
-	.string "STEVEN: POKéMON kamu nampak agak\n"
-	.string "berkebolehan.\p"
+	.string "STEVEN: POKéMON kamu nampak cekap.\p"
 	.string "Kalau terus berlatih, kamu mungkin\n"
 	.string "boleh jadi JUARA LIGA POKéMON satu hari\l"
-	.string "nanti. Itulah pendapat saya.\p"
-	.string "Apa kata, memandangkan kita dah\n"
-	.string "berkenalan, kita daftar satu sama lain\l"
-	.string "dalam POKéNAV kita.\p"
+	.string "nanti. Saya rasa begitulah.\p"
+	.string "Memandangkan kita dah berkenalan, apa\n"
+	.string "kata kita daftar nama masing-masing\l"
+	.string "dalam POKéNAV?\p"
 	.string "… … … … … …$"
 
 GraniteCave_StevensRoom_Text_RegisteredSteven:
@@ -108,7 +107,7 @@ GraniteCave_StevensRoom_Text_RegisteredSteven:
 	.string "dalam POKéNAV.$"
 
 GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
-	.string "Sekarang, saya perlu bergegas.$"
+	.string "Baiklah, saya kena pergi dulu.$"
 
 GraniteCave_StevensRoom_Text_OhBagIsFull:
 	.string "Oh, BEG kamu penuh… Sayang sekali.$"

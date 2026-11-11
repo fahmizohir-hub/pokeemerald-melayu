@@ -182,8 +182,8 @@ SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle:
 SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3:
 	.string "Oh, bagus, bagus!\p"
 	.string "Tapi rumah saya ni tak berapa kukuh.\p"
-	.string "Boleh tak kamu hadkan kepada\n"
-	.string "pertarungan 3 lawan 3?$"
+	.string "Boleh tak kamu bertarung\n"
+	.string "3 lawan 3 saja?$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle:
 	.string "Sebelum kamu berdua bertarung,\n"

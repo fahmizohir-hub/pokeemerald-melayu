@@ -313,7 +313,7 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "…Tidak! Takkanlah!\n"
 	.string "Kau bukan ahli TEAM MAGMA, kan?\p"
 	.string "Tunggu, tak mungkin.\n"
-	.string "Pakaian kau tak sesuai.\p"
+	.string "Pakaian kau pun tak kena.\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "POKéMON, manusia… Semua kehidupan\n"
@@ -321,13 +321,13 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "Jadi, TEAM AQUA berjuang untuk\n"
 	.string "meluaskan lautan.\p"
 	.string "Kau setuju, kan? Apa yang kami buat\n"
-	.string "ialah usaha yang agung.\p"
+	.string "ni kerja yang hebat.\p"
 	.string "Ah, sudahlah…\n"
 	.string "Kau masih terlalu muda untuk faham\l"
 	.string "matlamat murni kami.\p"
 	.string "Tapi aku beri amaran, jangan sesekali\n"
 	.string "fikir nak ganggu rancangan kami lagi.\p"
-	.string "Akibatnya akan sangat mahal buat kau!\p"
+	.string "Padahnya kau tanggung sendiri!\p"
 	.string "Dan jangan kau lupa!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
@@ -350,11 +350,11 @@ SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
 
 SlateportCity_OceanicMuseum_2F_Text_RemindsMeOfAbandonedShip:
 	.string "Saya nampak model kapal di sini.\p"
-	.string "Ia buat saya teringat KAPAL TERBIAR\n"
+	.string "Teringat saya pada KAPAL TERBIAR\n"
 	.string "dekat PEKAN DEWFORD…$"
 
 SlateportCity_OceanicMuseum_2F_Text_DontRunInMuseum:
-	.string "Jangan berani berlari-lari dalam\n"
+	.string "Jangan sesekali berlari-lari dalam\n"
 	.string "MUZIUM!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
@@ -370,8 +370,8 @@ SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
 	.string "“SAMPEL KUALITI AIR 2,” tertulis pada\n"
 	.string "label.\p"
-	.string "Adakah kemasinan air laut juga berbeza\n"
-	.string "ikut kawasan?$"
+	.string "Kemasinan air laut pun berbeza ikut\n"
+	.string "kawasan ke?$"
 
 SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
 	.string "Sebiji bola getah mengembang dan\n"

@@ -28,9 +28,9 @@ PacifidlogTown_House5_Text_CanSeeMirageIslandToday:
 
 PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather:
 	.string "PULAU ILUSI…\p"
-	.string "Mesti ia kelihatan dan hilang ikut\n"
-	.string "keadaan cuaca yang menghasilkan\l"
-	.string "fatamorgana.\p"
-	.string "Atau adakah ia betul-betul muncul dan\n"
-	.string "hilang?$"
+	.string "Mesti ia kelihatan dan hilang\n"
+	.string "ikut keadaan cuaca yang\l"
+	.string "menghasilkan fatamorgana.\p"
+	.string "Atau memang betul-betul\n"
+	.string "muncul dan hilang?$"
 

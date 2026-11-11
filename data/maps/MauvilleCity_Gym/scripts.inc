@@ -332,7 +332,7 @@ MauvilleCity_Gym_Text_AngeloPostBattle:
 	.string "Saya suka tengok!$"
 
 MauvilleCity_Gym_Text_WattsonIntro:
-	.string "Saya dah lupakan rancangan saya untuk\n"
+	.string "Saya dah lupakan rancangan nak\n"
 	.string "ubah bandar ni, ya.\p"
 	.string "Jadi, saya habiskan masa buat\n"
 	.string "perangkap pintu dalam GIM saya.\p"
@@ -364,9 +364,8 @@ MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
 
 MauvilleCity_Gym_Text_ExplainShockWave:
 	.string "TM34 tu mengandungi OMBAK KEJUT.\p"
-	.string "Ia move yang boleh dipercayai dan tak\n"
-	.string "pernah tersasar! Kamu boleh harapkan\l"
-	.string "ia!\p"
+	.string "Move ni tak pernah tersasar!\n"
+	.string "Memang boleh diharap!\p"
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
@@ -394,7 +393,7 @@ MauvilleCity_Gym_Text_WattsonPreRematch:
 	.string "Saya tahu apa kamu mahu.\l"
 	.string "Kamu nak lawan POKéMON saya!\p"
 	.string "Wahahahaha!\p"
-	.string "Saya akan buat kamu terpercik api!\n"
+	.string "Saya renjat kamu sampai berpercik!\n"
 	.string "Jangan kata saya tak beri amaran!$"
 
 MauvilleCity_Gym_Text_WattsonRematchDefeat:

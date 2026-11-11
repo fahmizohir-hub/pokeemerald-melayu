@@ -57,7 +57,7 @@ MatchCall_WildBattleText7::
 	.string "Eh, tunggu! Tunggu!\n"
 	.string "Saya boleh tangkap {STR_VAR_2} ni…\p"
 	.string "Aaarrrgh! Ia dah lari!\n"
-	.string "Itu bukan setakat hampir!$"
+	.string "Nyaris sangat tadi!$"
 
 MatchCall_WildBattleText8::
 	.string "Oh, {PLAYER}{KUN}, apa khabar?\n"
@@ -93,7 +93,7 @@ MatchCall_WildBattleText11::
 	.string "Kamu apa khabar?\p"
 	.string "Tadi saya cuba tangkap {STR_VAR_2}\n"
 	.string "liar, tapi ia berjaya lari.\p"
-	.string "Rasa kalah betul saya…$"
+	.string "Hilang semangat saya…$"
 
 MatchCall_WildBattleText12::
 	.string "Helo, {PLAYER}{KUN}.\n"
@@ -101,7 +101,7 @@ MatchCall_WildBattleText12::
 	.string "Kamu masih tangkap POKéMON?\p"
 	.string "Saya pun ada cuba tangkap,\n"
 	.string "tapi bukannya senang.\p"
-	.string "Dunia POKéMON ni sungguh dalam!$"
+	.string "Ilmu POKéMON ni memang dalam!$"
 
 MatchCall_WildBattleText13::
 	.string "Ah, helo, {PLAYER}{KUN}!\n"
@@ -109,7 +109,7 @@ MatchCall_WildBattleText13::
 	.string "Kamu ada tangkap POKéMON?\p"
 	.string "Saya pun ada cuba tangkap,\n"
 	.string "tapi tak banyak berjaya.\p"
-	.string "Dunia POKéMON ni sungguh dalam!$"
+	.string "Ilmu POKéMON ni memang dalam!$"
 
 MatchCall_WildBattleText14::
 	.string "Oh, hai, {PLAYER}{KUN}, apa khabar?\n"
@@ -176,7 +176,7 @@ MatchCall_NegativeBattleText6::
 	.string "Kamu macam mana?\p"
 	.string "Saya bertarung bersungguh-sungguh,\n"
 	.string "tapi tak banyak berjaya.\p"
-	.string "Saya tak dapat rentak.\n"
+	.string "Saya belum dapat rentak lagi.\n"
 	.string "Jaga diri.$"
 
 MatchCall_NegativeBattleText7::
@@ -262,7 +262,7 @@ MatchCall_PositiveBattleText3::
 	.string "Hei, {PLAYER}!\n"
 	.string "Saya ni, {STR_VAR_1}!\l"
 	.string "Macam mana pertarungan kamu?\p"
-	.string "Saya, hari tu ada bertarung,\n"
+	.string "Saya pula, hari tu ada bertarung,\n"
 	.string "dan {STR_VAR_2} saya hebat gila!\p"
 	.string "Lain kali kita bertarung,\n"
 	.string "{PLAYER}, bukan saya yang kalah!$"
@@ -324,10 +324,10 @@ MatchCall_PositiveBattleText9::
 MatchCall_PositiveBattleText10::
 	.string "Oh, {PLAYER}{KUN}, helo…\n"
 	.string "Ini {STR_VAR_1}.\p"
-	.string "Hidup kamu macam mana?\p"
+	.string "Semuanya okey dengan kamu?\p"
 	.string "POKéMON saya nampak penuh\n"
 	.string "bertenaga.\p"
-	.string "Saya baru menang bersama mereka.\n"
+	.string "Kami baru menang satu pertarungan.\n"
 	.string "Jumpa lagi.$"
 
 MatchCall_PositiveBattleText11::
@@ -335,13 +335,13 @@ MatchCall_PositiveBattleText11::
 	.string "Ini {STR_VAR_1}.\p"
 	.string "Ada bertarung baru-baru ni?\n"
 	.string "Saya menang lagi hari ni!\p"
-	.string "Tengah naik ni! Gahahaha!\n"
+	.string "Saya tengah rancak ni! Gahahaha!\n"
 	.string "Okeylah, jumpa lagi!$"
 
 MatchCall_PositiveBattleText12::
 	.string "Helo, {PLAYER}{KUN}.\n"
 	.string "Saya ni, {STR_VAR_1}.\p"
-	.string "Kamu sihat, saya harap?\n"
+	.string "Harap kamu sihat.\n"
 	.string "Saya masih penuh bertenaga!\p"
 	.string "Malah, saya baru menang lagi tadi.\n"
 	.string "Saya belum nak mengalah kepada\l"
@@ -644,8 +644,8 @@ MatchCall_DifferentRouteBattleRequestText14::
 MatchCall_PersonalizedText1::
 	.string "Saya ni, si pencinta gunung,\n"
 	.string "{STR_VAR_1}!\p"
-	.string "Jadi, sejak kita jumpa, makin\n"
-	.string "sukakah kamu pada gunung?\p"
+	.string "Jadi, sejak kita jumpa, kamu makin\n"
+	.string "suka gunung tak?\p"
 	.string "Jarang saya nampak kamu di gunung…\p"
 	.string "Lain kali, kita jumpa di mana-mana\n"
 	.string "sekitar {STR_VAR_2}.$"
@@ -717,8 +717,8 @@ MatchCall_PersonalizedText8::
 	.string "Apa khabar?\p"
 	.string "Saya dah latih POKéMON saya\n"
 	.string "dengan kamu sebagai sasaran.\p"
-	.string "Saya tak berniat nak kalah bila\n"
-	.string "kita bertarung lagi.\p"
+	.string "Saya tak nak kalah bila kita\n"
+	.string "bertarung lagi.\p"
 	.string "Seronok, kan, ada kawan JURULATIH?\n"
 	.string "Jom jumpa lagi!$"
 
@@ -764,10 +764,10 @@ MatchCall_PersonalizedText12::
 	.string "dah bertambah sejak kita jumpa.\p"
 	.string "Lebih-lebih lagi, POKéMON saya\n"
 	.string "pun dah makin kuat.\p"
-	.string "Saya tak dapat buang perasaan\n"
-	.string "dunia ni wujud untuk saya!\p"
+	.string "Saya rasa macam dunia ni memang\n"
+	.string "wujud untuk saya!\p"
 	.string "Oh, tak perlu cakap apa-apa!\n"
-	.string "Semua orang tahu itu benar!\p"
+	.string "Semua orang tahu memang betul!\p"
 	.string "Oh, maafkan saya, saya ada\n"
 	.string "majlis makan malam rasmi.$"
 
@@ -790,17 +790,16 @@ MatchCall_PersonalizedText14::
 	.string "saya akan tinggal sini lama sikit.\p"
 	.string "Kalau kamu rasa terpanggil,\n"
 	.string "apa kata datang jumpa saya?\p"
-	.string "Rasanya hari ni la harinya saya\n"
-	.string "akhirnya cabar lelaki di bilik\l"
-	.string "sebelah untuk bertarung.\p"
+	.string "Rasanya hari ni saya akan cabar\n"
+	.string "juga lelaki di bilik sebelah tu.\p"
 	.string "Jumpa lagi!$"
 
 MatchCall_PersonalizedText15::
 	.string "Saya {STR_VAR_1}!\n"
 	.string "Lelaki lautan!\p"
 	.string "Kamu tahu apa saya fikir?\p"
-	.string "JURULATIH di laut ialah yang\n"
-	.string "paling gagah antara yang gagah!\p"
+	.string "JURULATIH di laut memang paling\n"
+	.string "gagah antara yang gagah!\p"
 	.string "Kamu patut belajar dari saya dan\n"
 	.string "berlatih di laut…\p"
 	.string "Alamak, ombak besar datang!\p"
@@ -841,8 +840,8 @@ MatchCall_PersonalizedText18::
 	.string "Ulang korus, perlahan-lahan…$"
 
 MatchCall_PersonalizedText19::
-	.string "Saya {STR_VAR_1}, kamu tahu,\n"
-	.string "si pakar berkhemah!\p"
+	.string "Saya {STR_VAR_1}, ingat tak?\n"
+	.string "Si pakar berkhemah!\p"
 	.string "Masa kita bertarung, memang saya\n"
 	.string "tak dapat elak kalah dengan kamu.\p"
 	.string "Lagipun, kepakaran saya ialah\n"
@@ -967,7 +966,7 @@ MatchCall_PersonalizedText29::
 	.string "Pasal {STR_VAR_2} kesayangan saya.\p"
 	.string "Bila sesiapa angkat dia, dia terus\n"
 	.string "melompat ke dalam pelukan saya!\p"
-	.string "Oh… Oh… Adakah yang lebih\n"
+	.string "Oh… Oh… Ada lagi ke yang lebih\n"
 	.string "membahagiakan daripada ini?\p"
 	.string "Oh, rasa macam di syurga!\p"
 	.string "Gembira saya dapat kongsi sedikit\n"
@@ -985,7 +984,7 @@ MatchCall_PersonalizedText30::
 	.string "JURULATIH boleh jadi MAHAGURU.\p"
 	.string "Hmph! Rasanya saya baru cakap\n"
 	.string "sesuatu yang dalam maknanya!\p"
-	.string "Saya biarkan kamu dengan semangat!$"
+	.string "Semoga kamu terus bersemangat!$"
 
 MatchCall_PersonalizedText31::
 	.string "{STR_VAR_1} ni.\n"
@@ -1023,7 +1022,7 @@ MatchCall_PersonalizedText33::
 	.string "selain laut dan sungai?\p"
 	.string "Saya rasa teringin sangat nak\n"
 	.string "memancing di mana-mana saja!\p"
-	.string "Alamak, celaka betul!\n"
+	.string "Alamak, aduhai!\n"
 	.string "Tali pancing saya kusut!\p"
 	.string "Saya kena pergi!\n"
 	.string "Carikan saya tempat pancing baru!$"
@@ -1061,8 +1060,8 @@ MatchCall_PersonalizedText35::
 	.string "Jumpa lagi!$"
 
 MatchCall_PersonalizedText36::
-	.string "Yo, ini {STR_VAR_1}! Saya tengah\n"
-	.string "di tengah-tengah triatlon!\p"
+	.string "Yo, ini {STR_VAR_1}! Saya sedang\n"
+	.string "berlumba triatlon ni!\p"
 	.string "Tapi, hei, saya sentiasa ada masa\n"
 	.string "untuk berborak!\p"
 	.string "Bersenam dengan POKéMON memang\n"
@@ -1129,7 +1128,7 @@ MatchCall_PersonalizedText42::
 	.string "{STR_VAR_2} saya dah jadi lebih\n"
 	.string "kuat berbanding kali terakhir.\p"
 	.string "Saya takkan kalah lagi dengan kamu.\n"
-	.string "Tunggu sampai lain kali!\p"
+	.string "Tunggulah lain kali!\p"
 	.string "Jumpa lagi!$"
 
 MatchCall_PersonalizedText43::
@@ -1234,7 +1233,7 @@ MatchCall_PersonalizedText53::
 	.string "kita boleh selesa di alam liar.\p"
 	.string "Semua orang patut sedar dan\n"
 	.string "lebih bekerjasama dengan POKéMON.\p"
-	.string "Itulah yang ideal.\n"
+	.string "Itulah yang terbaik.\n"
 	.string "Saya betul-betul rasa begitu.\p"
 	.string "Saya rasa kamu di landasan betul!\n"
 	.string "Jumpa lagi!$"
@@ -1305,8 +1304,8 @@ MatchCall_PersonalizedText59::
 	.string "untuk berlatih.\p"
 	.string "BRAWLY, KETUA GIM itu, nampaknya\n"
 	.string "dah makin gagah.\p"
-	.string "Katanya dia digagahkan oleh\n"
-	.string "ombak yang ganas…\p"
+	.string "Katanya dia jadi gagah sebab\n"
+	.string "dilambung ombak ganas…\p"
 	.string "Tapi dia tetap segak macam biasa.\n"
 	.string "Gadis-gadis memujanya!\l"
 	.string "Terus terang, saya cemburu.\p"
@@ -1325,11 +1324,11 @@ MatchCall_PersonalizedText60::
 	.string "muda macam kamu.\p"
 	.string "Saya rasa kamu akan terus sukakan\n"
 	.string "POKéMON walau berapa pun umur kamu.\p"
-	.string "Bukankah bagus kalau kamu ada\n"
+	.string "Kan bagus kalau kamu ada\n"
 	.string "pasangan macam kami?\p"
 	.string "Tentu saja, {PLAYER}{KUN}, kamu dah pun\n"
-	.string "menikmati kepercayaan dan teman\l"
-	.string "setia POKéMON kamu sekarang.\p"
+	.string "ada kepercayaan dan persahabatan\l"
+	.string "POKéMON kamu sekarang.\p"
 	.string "Kamu dah ada asas hubungan yang\n"
 	.string "panjang dan berkekalan!\p"
 	.string "Hahaha!\n"
@@ -2130,7 +2129,7 @@ MatchCall_Text_Wattson_RematchReady::
 MatchCall_Text_Wattson_PostRematch::
 	.string "WATTSON: Wahahaha!\p"
 	.string "Bertarung dengan kamu sentiasa\n"
-	.string "penuh kuasa yang mengejutkan!$"
+	.string "penuh renjatan kuasa!$"
 
 MatchCall_Text_Flannery_Preparing::
 	.string "FLANNERY: {PLAYER}…\p"
@@ -2236,8 +2235,8 @@ MatchCall_Text_Juan_Preparing::
 MatchCall_Text_Juan_PreparingPostGame::
 	.string "JUAN: Fufu… {PLAYER}{KUN}…\n"
 	.string "Kamu akhirnya capai matlamat kamu.\p"
-	.string "Mata saya menilai bakat ternyata\n"
-	.string "tidak silap…\p"
+	.string "Ternyata mata saya tak silap\n"
+	.string "menilai bakat…\p"
 	.string "Saya ingin peluang bertemu kamu\n"
 	.string "lagi, kerana kamu telah mendaki\l"
 	.string "puncak kuasa dan kemasyhuran.$"
@@ -2284,7 +2283,7 @@ MatchCall_Text_Glacia::
 MatchCall_Text_Drake::
 	.string "DRAKE: Suara itu… {PLAYER}, bukan?\n"
 	.string "Kamu kedengaran sihat…\p"
-	.string "Saya faham sekarang ada sebuah\n"
+	.string "Saya dengar sekarang ada sebuah\n"
 	.string "kemudahan bernama BATTLE\l"
 	.string "FRONTIER yang menguji kemahiran\l"
 	.string "JURULATIH.\p"
@@ -2338,9 +2337,10 @@ MatchCall_Text_BrendanRayquazaCall:
 
 MatchCall_Text_May1::
 	.string "MAY: Hai, {PLAYER}{KUN}!\p"
-	.string "ENCIK BRINEY dah bersara jadi KELASI,\n"
-	.string "tapi kadang-kadang aku nampak dia\l"
-	.string "di laut dengan PEEKO kesayangannya.\p"
+	.string "ENCIK BRINEY dah bersara sebagai\n"
+	.string "KELASI, tapi kadang-kadang aku\l"
+	.string "nampak dia di laut dengan PEEKO\l"
+	.string "kesayangannya.\p"
 	.string "Mesti dia masih sayangkan laut.$"
 
 MatchCall_Text_May2::
@@ -2417,7 +2417,7 @@ MatchCall_Text_May10::
 
 MatchCall_Text_May11::
 	.string "MAY: Hai, {PLAYER}{KUN}!\n"
-	.string "Tak rasa ke ia hebat?\p"
+	.string "Hebat betul, kan?\p"
 	.string "Walaupun tak ada bot, kau\n"
 	.string "boleh menyeberang laut guna\l"
 	.string "move POKéMON.\p"
@@ -2428,8 +2428,8 @@ MatchCall_Text_May11::
 MatchCall_Text_May12::
 	.string "MAY: Hai, {PLAYER}{KUN}!\n"
 	.string "Harap semuanya okey!\p"
-	.string "Pernah tak kau di laut dan\n"
-	.string "dapati jalan ke seberang\l"
+	.string "Pernah tak kau tengah di laut,\n"
+	.string "tapi jalan ke seberang\l"
 	.string "terhalang?\p"
 	.string "Cuba selam dalam-dalam dan\n"
 	.string "ikut parit di dasar laut.\p"
@@ -2463,9 +2463,10 @@ MatchCall_Text_May15::
 
 MatchCall_Text_Brendan1::
 	.string "BRENDAN: Hei, {PLAYER}!\p"
-	.string "ENCIK BRINEY dah bersara jadi KELASI,\n"
-	.string "tapi kadang-kadang aku nampak dia\l"
-	.string "di laut dengan PEEKO kesayangannya.\p"
+	.string "ENCIK BRINEY dah bersara sebagai\n"
+	.string "KELASI, tapi kadang-kadang aku\l"
+	.string "nampak dia di laut dengan PEEKO\l"
+	.string "kesayangannya.\p"
 	.string "Rasanya dia mesti masih\n"
 	.string "sayangkan laut.$"
 
@@ -2545,7 +2546,7 @@ MatchCall_Text_Brendan10::
 
 MatchCall_Text_Brendan11::
 	.string "BRENDAN: Hei, {PLAYER}!\n"
-	.string "Tak rasa ke ia hebat?\p"
+	.string "Hebat betul, kan?\p"
 	.string "Walaupun tak ada bot, kau\n"
 	.string "boleh menyeberang laut guna\l"
 	.string "move POKéMON.\p"
@@ -2613,8 +2614,8 @@ MatchCall_Text_Wally4::
 	.string "Dunia JURULATIH memang menakjubkan!\p"
 	.string "Bila saya bawa POKéMON saya,\n"
 	.string "macam-macam orang tegur saya!\p"
-	.string "Macam semua orang berhubung\n"
-	.string "antara satu sama lain melalui POKéMON!$"
+	.string "Macam semua orang jadi rapat\n"
+	.string "sebab POKéMON!$"
 
 MatchCall_Text_Wally5::
 	.string "WALLY: {PLAYER}? Hebat sangat!\n"
@@ -2730,7 +2731,8 @@ MatchCall_Text_Norman3::
 	.string "AYAH: Begitu…\n"
 	.string "Kamu dah kumpul empat LENCANA GIM…\p"
 	.string "Tak boleh dielak lagi.\n"
-	.string "Kita akan bertarung macam dijanji.\p"
+	.string "Kita akan bertarung, macam yang\l"
+	.string "Ayah janji.\p"
 	.string "Datanglah bila-bila masa.\n"
 	.string "Kami semua tunggu kamu!$"
 
@@ -2739,8 +2741,8 @@ MatchCall_Text_Norman4::
 	.string "pergilah jenguk Ibu.\p"
 	.string "Ayah akan tinggal di sini dan\n"
 	.string "gandakan latihan.\p"
-	.string "Jalan pertarungan ni dalam\n"
-	.string "dan tidak memaafkan!$"
+	.string "Ilmu pertarungan ni dalam\n"
+	.string "dan tak kenal belas kasihan!$"
 
 MatchCall_Text_Norman5::
 	.string "AYAH: Oh, hai, {PLAYER}!\p"
@@ -2795,7 +2797,7 @@ MatchCall_Text_Steven3::
 	.string "STEVEN: Hai, {PLAYER}{KUN}!\p"
 	.string "Bila kamu mengembara bersama\n"
 	.string "POKéMON kamu, apa yang kamu fikir?\p"
-	.string "Adakah kamu anggap mereka rakan\n"
+	.string "Kamu anggap mereka rakan\n"
 	.string "yang kuat?\p"
 	.string "Atau kamu anggap mereka teman\n"
 	.string "yang menyeronokkan?\p"
@@ -2805,7 +2807,7 @@ MatchCall_Text_Steven3::
 MatchCall_Text_Steven4::
 	.string "STEVEN: Helo?\n"
 	.string "{PLAYER}{KUN}?\p"
-	.string "Saya terlibat dalam sedikit masalah\n"
+	.string "Saya ada sedikit masalah\n"
 	.string "di PUSAT ANGKASA.\p"
 	.string "Maaf, saya tak boleh berbual sekarang.\n"
 	.string "Bye!$"
@@ -2838,8 +2840,8 @@ MatchCall_Text_BirchRegisterCall:
 	.string "dinaik taraf dengan MATCH CALL.\p"
 	.string "Jadi, saya pun patut daftar!\p"
 	.string "Dengan cara tu, saya boleh periksa\n"
-	.string "POKéDEX kamu walaupun kamu sedang\l"
-	.string "berada di luar.\p"
+	.string "POKéDEX kamu walaupun kamu tengah\l"
+	.string "mengembara.\p"
 	.string "… … … … … …$"
 
 MatchCall_Text_RegisteredBirch:
@@ -2892,10 +2894,10 @@ MatchCall_Text_MrStone4::
 	.string "TEROWONG RUSTURF?\p"
 	.string "Tapi kami hentikan operasi untuk\n"
 	.string "melindungi POKéMON di kawasan itu.\p"
-	.string "Itu keputusan yang mudah, sebenarnya.\p"
-	.string "Biarkan POKéMON hidup dengan aman\n"
-	.string "lebih penting daripada memikirkan\l"
-	.string "kemudahan kita sendiri.$"
+	.string "Tak perlu fikir panjang pun.\p"
+	.string "Membiarkan POKéMON hidup aman\n"
+	.string "lebih penting daripada kemudahan\l"
+	.string "kita sendiri.$"
 
 MatchCall_Text_MrStone5::
 	.string "ENCIK STONE: Helo, helo, {PLAYER}{KUN}!\p"
@@ -2919,7 +2921,7 @@ MatchCall_Text_MrStone7::
 	.string "PRESIDEN kami ada di sini tadi,\n"
 	.string "tapi dia dah keluar.\p"
 	.string "PRESIDEN kami sibuk, tapi kamu\n"
-	.string "nampak sama sibuk, {PLAYER}.$"
+	.string "pun nampak sama sibuk, {PLAYER}.$"
 
 MatchCall_Text_MrStone8::
 	.string "…Hah? …Apa tu?\p"
@@ -2940,8 +2942,8 @@ MatchCall_Text_MrStone10::
 	.string "Nampaknya kamu terlibat dalam\n"
 	.string "macam-macam hal, tapi saya sibuk,\l"
 	.string "jadi tak tahu apa sebenarnya!\p"
-	.string "Apa pun, saya gesa kamu\n"
-	.string "ikut jalan yang kamu percaya.\p"
+	.string "Apa pun, ikutlah jalan yang kamu\n"
+	.string "yakini, dan teruskan melangkah.\p"
 	.string "Saya sentiasa menyokong kamu!\n"
 	.string "Jaga diri!$"
 

@@ -211,7 +211,7 @@ BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
 	.string "BATTLE PYRAMID!\p"
 	.string "Di atas sana ialah menara tinjau\n"
 	.string "PYRAMID.\p"
-	.string "Ia tempat yang hanya dibuka kepada\n"
+	.string "Tempat itu hanya dibuka kepada\n"
 	.string "mereka yang telah menakluk PYRAMID.\p"
 	.string "Silakan!\n"
 	.string "Naiklah!$"
@@ -240,8 +240,9 @@ BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
 	.string "Akal kamu sendiri!\p"
 	.string "Kekuatan kamu sendiri!\p"
 	.string "POKéMON kamu sendiri!\p"
-	.string "Dan, yang terpenting, hanya keberanian\n"
-	.string "kamu memandu ke dunia tak dikenali…$"
+	.string "Dan yang paling penting, hanya\n"
+	.string "keberanian kamu yang membawa kamu\l"
+	.string "ke dunia yang belum diterokai…$"
 
 BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon:
 	.string "Aah, ya, hidup ini memang hebat!\n"
@@ -254,17 +255,17 @@ BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon:
 	.string "yakin sangat dengan diri sendiri,\l"
 	.string "betul tak?\p"
 	.string "Hahahah!\n"
-	.string "Ini pasti mengujakan!$"
+	.string "Mesti seronok ni!$"
 
 BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle:
-	.string "Ayuh, sekarang!\n"
-	.string "Bawa keberanian kamu ke pertarungan!$"
+	.string "Baiklah!\n"
+	.string "Tunjukkan keberanian kamu!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
 	.string "BRANDON: Hahahah! Hebat sungguh!\n"
 	.string "Hebat, ya, memang hebat!\p"
 	.string "Syabas! Kamu layak diiktiraf!\n"
-	.string "PAS FRONTIER kamu, silakan!$"
+	.string "Bagi saya PAS FRONTIER kamu!$"
 
 BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol:
 	.string "Simbol Wira telah dicap pada\n"
@@ -272,7 +273,7 @@ BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol:
 
 BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
 	.string "Wahai penjelajah muda!\n"
-	.string "Saya menanti pertemuan kita lagi!$"
+	.string "Saya tak sabar nak jumpa kamu lagi!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
 	.string "BRANDON: …Akhirnya kamu kembali,\n"
@@ -289,7 +290,7 @@ BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
 	.string "dan menghidupkan jiwa kini kembali…$"
 
 BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter:
-	.string "Ayuh, sekarang!\p"
+	.string "Baiklah!\p"
 	.string "Saya rasa keberanian saya sudah\n"
 	.string "melimpah-limpah!$"
 
@@ -310,8 +311,8 @@ BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine:
 	.string "keemasan!$"
 
 BattleFrontier_BattlePyramidTop_Text_FarewellForNow:
-	.string "Ah, ya! Ini membuktikan saya masih\n"
-	.string "banyak yang perlu dipelajari!\p"
+	.string "Ah, ya! Ini bukti yang saya masih\n"
+	.string "banyak perlu belajar!\p"
 	.string "Semoga kita bertemu lagi!\n"
 	.string "Selamat tinggal, penjelajah muda!$"
 

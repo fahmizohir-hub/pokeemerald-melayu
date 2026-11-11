@@ -234,7 +234,7 @@ Route128_EventScript_Carlee::
 Route128_Text_ArchieWhatHappened:
 	.string "ARCHIE: Apa yang dah jadi…\n"
 	.string "Pemandangan dahsyat apakah ini…\p"
-	.string "Adakah aku… dah buat kesilapan besar?$"
+	.string "Aku… dah buat kesilapan besar ke?$"
 
 Route128_Text_ArchieIOnlyWanted:
 	.string "Aku…\n"
@@ -251,13 +251,13 @@ Route128_Text_MaxieDoYouUnderstandNow:
 
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
 	.string "MAXIE: {PLAYER}, jangan cakap apa-apa.\p"
-	.string "Aku tahu aku tiada hak untuk\n"
-	.string "mengkritik ARCHIE…\p"
-	.string "Tapi dalam keadaan sekarang, aku ragu\n"
-	.string "kita manusia mampu buat apa-apa\l"
-	.string "untuk mengatasinya.\p"
-	.string "Tapi kita juga tak boleh berdiri dan\n"
-	.string "tengok saja tanpa daya.\p"
+	.string "Aku tahu aku tiada hak\n"
+	.string "untuk mengkritik ARCHIE…\p"
+	.string "Tapi dalam keadaan sekarang,\n"
+	.string "aku ragu kita manusia mampu buat\l"
+	.string "apa-apa untuk mengatasinya.\p"
+	.string "Tapi kita juga tak boleh\n"
+	.string "berdiam diri dan tengok saja.\p"
 	.string "Tanggungjawab untuk menamatkan semua\n"
 	.string "ini terletak pada ARCHIE dan aku…$"
 

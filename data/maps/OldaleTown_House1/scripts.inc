@@ -12,5 +12,5 @@ OldaleTown_House1_Text_LeftPokemonGoesOutFirst:
 	.string "Jadi, bila kamu dah ada lebih banyak\n"
 	.string "POKéMON dalam pasukan, cubalah tukar\l"
 	.string "susunannya.\p"
-	.string "Mungkin ia boleh beri kamu kelebihan.$"
+	.string "Mana tahu, boleh beri kamu kelebihan.$"
 

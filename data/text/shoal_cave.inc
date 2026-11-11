@@ -39,15 +39,15 @@ ShoalCave_LowTideEntranceRoom_Text_WantedToMakeShellBell:
 	.string "Saya nak buat LOCENG KERANG…$"
 
 ShoalCave_LowTideEntranceRoom_Text_NoSpaceInYourBag:
-	.string "BEG kamu tiada ruang kalau\n"
+	.string "BEG kamu tak ada ruang kalau\n"
 	.string "saya buatkan untuk kamu.\p"
 	.string "Kosongkan ruang dan datang semula\n"
 	.string "untuk LOCENG KERANG.$"
 
 ShoalCave_Text_WasShoalSaltNowNothing:
 	.string "Tadi ada GARAM SHOAL di sini.\n"
-	.string "Tapi, sekarang tiada apa-apa.$"
+	.string "Tapi sekarang dah tak ada apa-apa.$"
 
 ShoalCave_Text_WasShoallShellNowNothing:
 	.string "Tadi ada KERANG SHOAL di sini.\n"
-	.string "Tapi, sekarang tiada apa-apa.$"
+	.string "Tapi sekarang dah tak ada apa-apa.$"

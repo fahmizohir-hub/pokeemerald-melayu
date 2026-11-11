@@ -16,8 +16,8 @@ FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
 	.string "STEVEN, masa saya cari batu nadir.\p"
 	.string "Wah, POKéMON yang dia bawa memang\n"
 	.string "menakjubkan.\p"
-	.string "Bukan sekadar nadir, malah dilatih\n"
-	.string "sampai tahap yang menggerunkan!\p"
+	.string "Dahlah nadir, dilatih pula sampai\n"
+	.string "tahap yang menggerunkan!\p"
 	.string "Mungkin dia lebih kuat daripada\n"
 	.string "KETUA GIM pekan ni…$"
 

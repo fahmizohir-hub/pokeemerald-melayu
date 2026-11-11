@@ -457,8 +457,8 @@ BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
 	.string "dalam PAS FRONTIER.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame:
-	.string "Mahu simpan dan\n"
-	.string "keluar permainan?$"
+	.string "Mahu simpan dan berhenti\n"
+	.string "main sekarang?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
 	.string "Menyimpan data pertarungan kamu.\n"
@@ -500,7 +500,7 @@ BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent:
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
 	.string "ANABEL: Fufufu, bagus sekali…\p"
-	.string "PAS FRONTIER kamu, silakan…\n"
+	.string "Boleh saya lihat PAS FRONTIER kamu…\n"
 	.string "Bakat kamu patut diiktiraf.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
@@ -520,7 +520,7 @@ BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack:
 	.string "ANABEL: Kamu betul-betul kembali\n"
 	.string "untuk jumpa saya…\p"
 	.string "… … … … … …\p"
-	.string "Kamu menang berturut-turut demi saya…\n"
+	.string "Kamu terus menang demi jumpa saya…\n"
 	.string "Saya tak perlu menahan diri lagi…\p"
 	.string "Sudah terlalu lama…\p"
 	.string "Terlalu lama sejak saya bertarung\n"
@@ -531,7 +531,7 @@ BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe:
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease:
 	.string "ANABEL: Fufu, tahniah…\n"
-	.string "PAS FRONTIER kamu, silakan…$"
+	.string "Boleh saya lihat PAS FRONTIER kamu…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine:
 	.string "Simbol Keupayaan kini bersinar\n"

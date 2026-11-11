@@ -116,11 +116,11 @@ EverGrandeCity_PokemonLeague_1F_Movement_RightGuardOutOfWay:
 	step_end
 
 EverGrandeCity_PokemonLeague_1F_Text_MustHaveAllGymBadges:
-	.string "Melepasi tempat ini, hanya JURULATIH\n"
-	.string "yang dah kumpul semua LENCANA GIM\l"
-	.string "dibenarkan masuk.\p"
-	.string "JURULATIH, biar kami pastikan kamu ada\n"
-	.string "semua LENCANA GIM.$"
+	.string "Mulai dari sini, hanya JURULATIH\n"
+	.string "yang dah kumpul semua\l"
+	.string "LENCANA GIM dibenarkan masuk.\p"
+	.string "JURULATIH, biar kami pastikan\n"
+	.string "kamu ada semua LENCANA GIM.$"
 
 EverGrandeCity_PokemonLeague_1F_Text_HaventObtainedAllBadges:
 	.string "Kamu belum dapat semua LENCANA.\p"

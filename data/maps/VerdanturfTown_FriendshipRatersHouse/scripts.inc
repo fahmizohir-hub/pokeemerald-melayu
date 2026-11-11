@@ -70,8 +70,8 @@ VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
 	.string "Ia sangat sayangkan kamu.\n"
-	.string "Tak mungkin ia sayang kamu lebih lagi.\l"
-	.string "Saya pun rasa gembira tengok ia.$"
+	.string "Sayangnya dah tak boleh lebih lagi.\l"
+	.string "Saya pun gembira tengok ia.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
 	.string "Ia nampak sangat gembira.\n"

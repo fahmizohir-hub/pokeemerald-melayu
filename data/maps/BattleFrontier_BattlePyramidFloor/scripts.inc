@@ -126,7 +126,7 @@ BattlePyramid_Retire::
 
 @ Also used by Trainer Hill
 BattleFacility_TrainerBattle_PlaceholderText:
-	.string "Ini ialah mesej contoh.$"
+	.string "Ini mesej contoh.$"
 
 gText_BattlePyramidConfirmRest::
 	.string "Pengembaraan BATTLE PYRAMID kamu\n"
@@ -218,19 +218,19 @@ BattlePyramid_Text_ExitHintDown5::
 	.string "Ikut arah {DOWN_ARROW} tu.$"
 
 BattlePyramid_Text_ExitHintUp6::
-	.string "Pintu keluar kebetulan berada\n"
+	.string "Kebetulan, pintu keluar ada\n"
 	.string "ke arah {UP_ARROW}.$"
 
 BattlePyramid_Text_ExitHintLeft6::
-	.string "Pintu keluar kebetulan berada\n"
+	.string "Kebetulan, pintu keluar ada\n"
 	.string "ke arah {LEFT_ARROW}.$"
 
 BattlePyramid_Text_ExitHintRight6::
-	.string "Pintu keluar kebetulan berada\n"
+	.string "Kebetulan, pintu keluar ada\n"
 	.string "ke arah {RIGHT_ARROW}.$"
 
 BattlePyramid_Text_ExitHintDown6::
-	.string "Pintu keluar kebetulan berada\n"
+	.string "Kebetulan, pintu keluar ada\n"
 	.string "ke arah {DOWN_ARROW}.$"
 
 BattlePyramid_Text_EightItemsRemaining1::
@@ -545,7 +545,7 @@ BattlePyramid_Text_TwoTrainersRemaining1::
 
 BattlePyramid_Text_OneTrainersRemaining1::
 	.string "Kamu memang hebat!\p"
-	.string "Tapi masih ada satu JURULATIH\n"
+	.string "Tapi masih ada seorang JURULATIH\n"
 	.string "hebat selain saya!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining1::
@@ -585,7 +585,7 @@ BattlePyramid_Text_TwoTrainersRemaining2::
 
 BattlePyramid_Text_OneTrainersRemaining2::
 	.string "Geramnya saya!\p"
-	.string "Tapi masih ada satu JURULATIH!\n"
+	.string "Tapi masih ada seorang JURULATIH!\n"
 	.string "Pasti kamu akan ditundukkan!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining2::
@@ -625,7 +625,7 @@ BattlePyramid_Text_TwoTrainersRemaining3::
 
 BattlePyramid_Text_OneTrainersRemaining3::
 	.string "Boleh tahan hebat kamu!\p"
-	.string "Tapi masih ada satu lagi JURULATIH\n"
+	.string "Tapi masih ada seorang lagi JURULATIH\n"
 	.string "di tingkat ini. Boleh kamu menang?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining3::
@@ -691,7 +691,7 @@ BattlePyramid_Text_TwoTrainersRemaining5::
 
 BattlePyramid_Text_OneTrainersRemaining5::
 	.string "Mungkin kamu mampu tewaskan\n"
-	.string "satu JURULATIH pakar yang tinggal.$"
+	.string "seorang JURULATIH pakar yang tinggal.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining5::
 	.string "Kemahiran kamu tiada tolok bandingnya.\p"

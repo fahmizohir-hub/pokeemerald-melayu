@@ -915,12 +915,12 @@ BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting:
 	.string "Maafkan saya!\p"
 	.string "Kamu tidak simpan sebelum berhenti\n"
 	.string "cabaran pada kali lepas.\p"
-	.string "Oleh itu, cabaran kamu setakat ini\n"
-	.string "telah dibatalkan. Maaf!$"
+	.string "Sebab itu, cabaran kamu setakat ini\n"
+	.string "dibatalkan. Maaf ya!$"
 
 BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven:
 	.string "Tahniah!\n"
-	.string "Kamu telah tewaskan tujuh JURULATIH!\p"
+	.string "Kamu dah tewaskan tujuh JURULATIH!\p"
 	.string "$"
 
 @ Unused
@@ -935,7 +935,7 @@ BattleFrontier_BattleTowerLobby_Text_ReceivedPrize:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom:
-	.string "Oh, BEG kamu nampaknya penuh.\p"
+	.string "Oh, nampaknya BEG kamu dah penuh.\p"
 	.string "Sila kosongkan ruang dalam BEG,\n"
 	.string "kemudian jumpa saya.$"
 
@@ -948,7 +948,7 @@ BattleFrontier_BattleTowerLobby_Text_RecordWillBeSaved:
 	.string "Sila tunggu.$"
 
 BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou:
-	.string "Kami memang menanti kamu!\p"
+	.string "Kami dah lama tunggu kamu!\p"
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved:
@@ -998,11 +998,11 @@ BattleFrontier_BattleTowerLobby_Text_DontThinkMuchAboutIt:
 
 BattleFrontier_BattleTowerLobby_Text_ChangedYourMind:
 	.string "Hah? Kamu ubah fikiran?\n"
-	.string "Kamu ni berbelah bahagi rupanya.$"
+	.string "Cepat berubah fikiran kamu ni.$"
 
 BattleFrontier_BattleTowerLobby_Text_ThatsHowYouFeel:
-	.string "Okey, begitu perasaan kamu?\n"
-	.string "Asli sungguh.\p"
+	.string "Okey, macam tu perasaan kamu?\n"
+	.string "Unik betul.\p"
 	.string "Terima kasih!$"
 
 BattleFrontier_BattleTowerLobby_Text_WinsInRowRecorded:
@@ -1037,13 +1037,13 @@ BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction:
 	.string "sudah siap.$"
 
 BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge:
-	.string "Kami menanti untuk jumpa kamu dalam\n"
-	.string "cabaran lain!$"
+	.string "Kami nantikan kamu dalam\n"
+	.string "cabaran akan datang!$"
 
 BattleFrontier_BattleTowerLobby_Text_WhichLevelMode:
 	.string "BILIK TARUNG ada dua tahap cabaran,\n"
 	.string "LV. 50 dan LV. TERBUKA.\l"
-	.string "Yang mana pilihan kamu?$"
+	.string "Kamu pilih yang mana?$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
@@ -1333,13 +1333,14 @@ BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden:
 
 BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
 	.string "Sebagai penghargaan atas bakat kamu\n"
-	.string "yang tiada had, terimalah Mata Tarung.$"
+	.string "yang tiada had, terimalah Mata Tarung\l"
+	.string "ini.$"
 
 BattleFrontier_Text_ObtainedXBattlePoints:
 	.string "{PLAYER} mendapat {STR_VAR_1} Mata Tarung.$"
 
 BattleFrontier_BattleTowerLobby_Text_RulesAreListed:
-	.string "Peraturan BATTLE TOWER tertera.$"
+	.string "Ini peraturan BATTLE TOWER.$"
 
 BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading:
 	.string "Tajuk mana yang kamu mahu baca?$"

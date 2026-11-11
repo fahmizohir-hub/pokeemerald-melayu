@@ -118,10 +118,10 @@ VictoryRoad_1F_EventScript_Katelynn::
 VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
 	.string "WALLY: Hai! {PLAYER}!\p"
 	.string "Mesti kamu terkejut jumpa saya di sini!\p"
-	.string "Saya berjaya sampai ke sini, dan\n"
-	.string "semuanya terima kasih kepada kamu!\p"
-	.string "{PLAYER}, kalah dengan kamu dulu buat\n"
-	.string "saya jadi lebih kuat!\p"
+	.string "Saya berjaya sampai ke sini,\n"
+	.string "dan semuanya berkat kamu!\p"
+	.string "{PLAYER}, kalah dengan kamu\n"
+	.string "dulu buat saya jadi lebih kuat!\p"
 	.string "Tapi saya takkan kalah lagi!\p"
 	.string "Saya akan menang! Demi POKéMON yang\n"
 	.string "beri saya keberanian dan kekuatan!\p"
@@ -139,7 +139,8 @@ VictoryRoad_1F_Text_WallyPostEntranceBattle:
 VictoryRoad_1F_Text_WallyIntro:
 	.string "WALLY: Hai! {PLAYER}!\p"
 	.string "Saya dah makin kuat sejak kali\n"
-	.string "terakhir! Saya nak tunjuk, {PLAYER}!\p"
+	.string "terakhir kita jumpa! Saya nak\l"
+	.string "tunjuk pada kamu, {PLAYER}!\p"
 	.string "Okey… Saya datang ni!$"
 
 VictoryRoad_1F_Text_WallyDefeat:
@@ -165,8 +166,8 @@ VictoryRoad_1F_Text_EdgarPostBattle:
 	.string "ada yang mampu, kamulah orangnya!$"
 
 VictoryRoad_1F_Text_AlbertIntro:
-	.string "Saya tak datang sejauh ini untuk kalah.\n"
-	.string "Kemungkinan itu tak wujud!$"
+	.string "Saya tak datang sejauh ini untuk\n"
+	.string "kalah. Kalah tak ada dalam kamus saya!$"
 
 VictoryRoad_1F_Text_AlbertDefeat:
 	.string "Mustahil…\n"
@@ -204,8 +205,8 @@ VictoryRoad_1F_Text_QuincyPostBattle:
 	.string "KEMENANGAN.$"
 
 VictoryRoad_1F_Text_KatelynnIntro:
-	.string "Tiada apa nak saya cakap kepada yang\n"
-	.string "dah sampai sejauh ini. Ayuh!$"
+	.string "Saya tak ada apa nak cakap dengan\n"
+	.string "orang yang dah sampai sejauh ni. Ayuh!$"
 
 VictoryRoad_1F_Text_KatelynnDefeat:
 	.string "Memalukan…$"

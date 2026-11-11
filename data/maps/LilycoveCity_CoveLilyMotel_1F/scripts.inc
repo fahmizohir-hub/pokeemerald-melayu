@@ -101,12 +101,11 @@ LilycoveCity_CoveLilyMotel_1F_Text_HeardAquaHideoutBusted:
 	.string "GAME sesuatu…$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar:
-	.string "Hebatnya! POKéMON penjaga rumah\n"
-	.string "tangkap pencuri?\p"
+	.string "Hebatnya! POKéMON penjaga\n"
+	.string "rumah tangkap pencuri?\p"
 	.string "Bagus tu. Kalau kami ada POKéMON yang\n"
 	.string "tegap sebagai pengawal keselamatan…\p"
-	.string "Kami boleh beri tetamu kami keselamatan\n"
-	.string "yang lebih terjamin.$"
+	.string "Tetamu kami tentu lebih selamat.$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_BetterGetWorkingOnGuestsDinner:
 	.string "Oh, maaf, maaf!\n"

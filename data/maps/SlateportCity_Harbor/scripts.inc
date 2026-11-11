@@ -414,7 +414,7 @@ SlateportCity_Harbor_Text_LoveToGoDeepUnderwaterSomeday:
 SlateportCity_Harbor_Text_AbnormalWeather:
 	.string "Untuk kapal belayar dengan selamat,\n"
 	.string "kita perlu tahu tentang cuaca!\p"
-	.string "Bercakap tentang cuaca, saya dengar\n"
+	.string "Cakap pasal cuaca, saya dengar\n"
 	.string "sesuatu daripada seorang lelaki di\l"
 	.string "INSTITUT CUACA.\p"
 	.string "Dia kata cuaca luar biasa dilaporkan di\n"
@@ -432,7 +432,7 @@ SlateportCity_Harbor_Text_SubTooSmallForMe:
 
 SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum:
 	.string "KAPT. STERN: Samseng-samseng tu…\p"
-	.string "Mereka geng yang sama yang cuba rompak\n"
+	.string "Merekalah geng yang cuba rompak\n"
 	.string "BARANG DEVON di MUZIUM.$"
 
 SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove:

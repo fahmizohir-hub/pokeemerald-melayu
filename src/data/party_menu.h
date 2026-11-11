@@ -507,9 +507,9 @@ static const struct WindowTemplate sMailReadTakeWindowTemplate =
 static const struct WindowTemplate sMoveSelectWindowTemplate =
 {
     .bg = 2,
-    .tilemapLeft = 19,
+    .tilemapLeft = 18,
     .tilemapTop = 11,
-    .width = 10,
+    .width = 11,
     .height = 8,
     .paletteNum = 14,
     .baseBlock = 0x2E9,

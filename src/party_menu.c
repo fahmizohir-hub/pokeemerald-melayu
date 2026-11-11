@@ -2554,7 +2554,9 @@ static u8 DisplaySelectionWindow(u8 windowType)
     for (i = 0; i < sPartyMenuInternal->numActions; i++)
     {
         u8 fontColorsId = (sPartyMenuInternal->actions[i] >= MENU_FIELD_MOVES) ? 4 : 3;
-        AddTextPrinterParameterized4(sPartyMenuInternal->windowId[0], FONT_NORMAL, cursorDimension, (i * 16) + 1, letterSpacing, 0, sFontColorTable[fontColorsId], 0, sCursorOptions[sPartyMenuInternal->actions[i]].text);
+        // BM: nama move medan yang panjang guna fon sempit (tingkap 80px)
+        u8 fontId = (GetStringWidth(FONT_NORMAL, sCursorOptions[sPartyMenuInternal->actions[i]].text, letterSpacing) > 80 - cursorDimension) ? FONT_NARROW : FONT_NORMAL;
+        AddTextPrinterParameterized4(sPartyMenuInternal->windowId[0], fontId, cursorDimension, (i * 16) + 1, letterSpacing, 0, sFontColorTable[fontColorsId], 0, sCursorOptions[sPartyMenuInternal->actions[i]].text);
     }
 
     InitMenuInUpperLeftCorner(sPartyMenuInternal->windowId[0], sPartyMenuInternal->numActions, 0, TRUE);
@@ -4580,6 +4582,8 @@ static void ShowMoveSelectWindow(u8 slot)
     for (i = 0; i < MAX_MON_MOVES; i++)
     {
         move = GetMonData(&gPlayerParty[slot], MON_DATA_MOVE1 + i);
+        // BM: nama move panjang guna fon sempit (tingkap dilebarkan ke 88px)
+        fontId = (GetStringWidth(FONT_NORMAL, gMoveNames[move], 0) > 80) ? FONT_NARROW : FONT_NORMAL;
         AddTextPrinterParameterized(windowId, fontId, gMoveNames[move], 8, (i * 16) + 1, TEXT_SKIP_DRAW, NULL);
         if (move != MOVE_NONE)
             moveCount++;

@@ -11,7 +11,7 @@ RustboroCity_Flat1_1F_EventScript_Woman::
 
 RustboroCity_Flat1_1F_Text_EveryPokemonHasAbility:
 	.string "Setiap POKéMON ada KEBOLEHAN istimewa\n"
-	.string "yang boleh digunakannya.$"
+	.string "yang boleh ia guna.$"
 
 RustboroCity_Flat1_1F_Text_PokemonStrange:
 	.string "POKéMON ni makhluk yang pelik betul.$"

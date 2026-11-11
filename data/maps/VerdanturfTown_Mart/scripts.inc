@@ -39,8 +39,8 @@ VerdanturfTown_Mart_EventScript_Lass::
 	end
 
 VerdanturfTown_Mart_Text_XSpecialIsCrucial:
-	.string "Untuk apa-apa perlawanan POKéMON,\n"
-	.string "X KHAS sangat penting.\p"
+	.string "Dalam apa-apa perlawanan POKéMON,\n"
+	.string "X KHAS memang penting.\p"
 	.string "Ia naikkan kuasa sesetengah move\n"
 	.string "walaupun untuk satu pertarungan saja.$"
 

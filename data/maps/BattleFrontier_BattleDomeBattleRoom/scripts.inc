@@ -914,7 +914,7 @@ BattleFrontier_BattleDomeBattleRoom_Movement_RefereeExit:
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome:
-	.string "{PLAYER} telah memasuki BATTLE DOME!$"
+	.string "{PLAYER} memasuki BATTLE DOME!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer:
 	.string "Perlawanan\n"
@@ -941,18 +941,18 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp:
 	.string "Tahniah!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
-	.string "Penamat yang sukar dipercayai!\n"
+	.string "Penamat yang tak disangka-sangka!\n"
 	.string "Kedua-duanya tumbang serentak!\p"
 	.string "Dalam keadaan ini, peraturan Kejohanan\n"
 	.string "memerlukan keputusan PENGADIL.\p"
 	.string "Sila tunggu sementara penilaian\n"
-	.string "sedang dibuat.$"
+	.string "dibuat.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
 	.string "Para PENGADIL telah membuat\n"
 	.string "keputusan!\p"
 	.string "Pemenangnya ialah…\n"
-	.string "Oh, ya ampun!\l"
+	.string "Wah, tak sangka!\l"
 	.string "Pemenangnya ialah {STR_VAR_1}!\l"
 	.string "Tahniah!$"
 
@@ -960,7 +960,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
 	.string "Para PENGADIL telah membuat\n"
 	.string "keputusan!\p"
 	.string "Pemenangnya ialah…\n"
-	.string "Oh, ya ampun!\l"
+	.string "Wah, tak sangka!\l"
 	.string "Pemenangnya ialah {PLAYER}!\l"
 	.string "Tahniah!$"
 
@@ -969,11 +969,11 @@ BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RisingStar:
-	.string "Bintang yang sedang meningkat!\p"
+	.string "Bintang yang sedang naik!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship:
-	.string "Adakah JURULATIH ini akan meluru\n"
+	.string "Mampukah JURULATIH ini mara terus\n"
 	.string "ke kejuaraan?\p"
 	.string "$"
 
@@ -983,7 +983,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
-	.string "Mampukah kekalahan lalu\n"
+	.string "Dapatkah kekalahan perlawanan lalu\n"
 	.string "dibalas?\p"
 	.string "$"
 
@@ -998,8 +998,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue:
-	.string "Adakah impian lama untuk menjadi\n"
-	.string "juara akhirnya akan tercapai?\p"
+	.string "Akankah impian lama untuk jadi\n"
+	.string "juara akhirnya tercapai?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
@@ -1007,12 +1007,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer:
-	.string "Adakah sesiapa mampu menewaskan\n"
+	.string "Ada sesiapa yang mampu tewaskan\n"
 	.string "JURULATIH ini?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer:
-	.string "Adakah pertarungan wujud hanya\n"
+	.string "Adakah pertarungan dicipta khas\n"
 	.string "untuk JURULATIH ini?\p"
 	.string "$"
 
@@ -1040,7 +1040,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_WillFormerChampRegainGlory:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
-	.string "Rasailah sinar seorang pakar sejati!$"
+	.string "Rasakan sinar seorang pakar sejati!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
 	.string "Dan kini… JURULATIH yang menghalang\n"
@@ -1068,7 +1068,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
 	.string "Strategi kamu!\n"
-	.string "Mari kita lihat!$"
+	.string "Tunjukkan pada saya!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
 	.string "Sukar dipercayai! Luar biasa!\n"
@@ -1076,7 +1076,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
 	.string "Pemenangnya ialah TUCKER!\n"
-	.string "DOME ACE telah berjaya!\p"
+	.string "DOME ACE tetap tak tergugat!\p"
 	.string "Tahniah, TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
@@ -1093,8 +1093,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime:
 	.string "Saya takkan ulang silap itu lagi…$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched:
-	.string "Mampukah rekod menang dipanjangkan?\n"
-	.string "Keyakinannya ada!$"
+	.string "Mampukah rentetan kemenangan\n"
+	.string "diteruskan? Keyakinan tu ada!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
 	.string "Tuan-tuan dan puan-puan!\n"
@@ -1137,8 +1137,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
 	.string "kamu ada daya tarikan tersendiri!\p"
 	.string "Dalam diri kamu, saya nampak potensi\n"
 	.string "menjadi bintang hebat macam saya.\p"
-	.string "Saya sangat menantikan\n"
-	.string "pertemuan kita yang seterusnya!$"
+	.string "Saya memang tak sabar nak\n"
+	.string "jumpa kamu lagi!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
@@ -1161,7 +1161,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
 	.string "Para PENGADIL telah membuat\n"
 	.string "keputusan!\p"
 	.string "Pemenangnya ialah…\n"
-	.string "Oh, ya ampun!\l"
+	.string "Wah, tak sangka!\l"
 	.string "Pemenangnya ialah DOME ACE kita!\l"
 	.string "Dialah TUCKER!\p"
 	.string "Tahniah! Dan terima kasih!\n"

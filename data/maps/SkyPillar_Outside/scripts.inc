@@ -144,7 +144,7 @@ SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
 	.string "WALLACE: Gempa bumi!\p"
-	.string "Tiada masa lagi!\n"
+	.string "Tak ada masa nak dibuang!\n"
 	.string "Kita mesti cepat!$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:

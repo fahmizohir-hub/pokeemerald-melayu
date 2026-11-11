@@ -75,18 +75,19 @@ LilycoveCity_CoveLilyMotel_2F_Text_ShowMeCompletedDex:
 	.string "pada saya.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_FilledPokedexGiveYouThis:
-	.string "Wah! Hebatnya!\n"
-	.string "Ya, memang hebat sungguh!\p"
-	.string "POKéDEX ni dah penuh sepenuhnya!\n"
+	.string "Wah! Hebatnya! Ya,\n"
+	.string "memang hebat sungguh!\p"
+	.string "POKéDEX ni dah lengkap penuh!\n"
 	.string "Kamu memang sayang POKéMON!\p"
-	.string "Saya sangat kagum!\p"
+	.string "Saya kagum betul!\p"
 	.string "Biar saya beri sesuatu sebagai\n"
 	.string "penghargaan atas kejayaan kamu!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ImTheProgrammer:
-	.string "Saya? Kamu cakap dengan saya?\n"
-	.string "Saya PENGATURCARA.\p"
-	.string "Macam mana agaknya MESIN SLOT di sini.$"
+	.string "Saya? Kamu cakap dengan\n"
+	.string "saya? Saya PENGATURCARA.\p"
+	.string "Macam mana agaknya\n"
+	.string "MESIN SLOT di sini, ya?$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ImTheGraphicArtist:
 	.string "Saya PELUKIS GRAFIK! POKéMON di HOENN\n"
@@ -101,8 +102,8 @@ LilycoveCity_CoveLilyMotel_2F_Text_GirlsAreCute:
 	.string "Wuhuu, seronok tak terkata!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SeaBreezeTicklesHeart:
-	.string "Bayu laut menggeletek hati saya.\n"
-	.string "Seronoknya di sini!$"
+	.string "Bayu laut ni buat hati saya\n"
+	.string "berbunga. Seronoknya di sini!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy:
 	.string "Kita tak tahu bila dan di mana orang\n"
@@ -111,26 +112,24 @@ LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy:
 	.string "tanpa GAME BOY ADVANCE saya.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles:
-	.string "SCOTT: … … … … …\n"
-	.string "… … … … … Zzz…\p"
-	.string "… … … … … Hah?!\n"
-	.string "Oh, maaf, maaf! Saya terlelap!\p"
-	.string "Saya datang nak tengok PERTANDINGAN\n"
-	.string "POKéMON ni.\p"
-	.string "Saya akui, ia memang nampak\n"
-	.string "menghiburkan, tapi…\p"
-	.string "Saya ni orang tradisional, saya lebih\n"
-	.string "suka pertarungan dan JURULATIH yang\l"
-	.string "kuat.\p"
+	.string "SCOTT: … … … … … … … … … … Zzz…\p"
+	.string "… … … … … Hah?! Oh, maaf,\n"
+	.string "maaf! Saya terlelap!\p"
+	.string "Saya datang nak tengok\n"
+	.string "PERTANDINGAN POKéMON ni.\p"
+	.string "Saya akui, ia memang\n"
+	.string "nampak menghiburkan, tapi…\p"
+	.string "Saya ni jenis tegar: saya lebih suka\n"
+	.string "pertarungan dan JURULATIH yang kuat.\p"
 	.string "Tapi itu saya sajalah.\p"
-	.string "{PLAYER}{KUN}, saya harap kamu nikmati\n"
-	.string "semuanya, GIM, PERTANDINGAN, KHEMAH\l"
-	.string "BATTLE, semuanya!$"
+	.string "{PLAYER}{KUN}, saya harap kamu seronok\n"
+	.string "dengan semuanya, GIM, PERTANDINGAN,\l"
+	.string "KHEMAH BATTLE, semualah!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ContestsDoTakeStrategy:
 	.string "SCOTT: Saya rasa memang perlukan\n"
 	.string "strategi untuk menang PERTANDINGAN.\p"
-	.string "Merangka strategi PERTANDINGAN ialah\n"
-	.string "satu cara untuk jadi JURULATIH yang\l"
-	.string "lebih baik, pada saya.$"
+	.string "Pada saya, merangka strategi\n"
+	.string "PERTANDINGAN ni satu cara nak\l"
+	.string "jadi JURULATIH yang lebih baik.$"
 

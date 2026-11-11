@@ -412,7 +412,7 @@ RusturfTunnel_Text_Peeko:
 	.string "PEEKO: Pii pihyoh!$"
 
 RusturfTunnel_Text_GruntIntro:
-	.string "Cis, tenggelamkan semuanya!\p"
+	.string "Cis, tak guna betul!\p"
 	.string "POKéMON tebusan tu rupanya tak\n"
 	.string "berguna langsung!\p"
 	.string "Dan aku pula lari… ke dalam terowong\n"
@@ -424,10 +424,11 @@ RusturfTunnel_Text_GruntDefeat:
 	.string "sampai jalan buntu!$"
 
 RusturfTunnel_Text_GruntTakePackage:
-	.string "Ini memang tak patut…\p"
-	.string "BOS kata kerja ni senang dan mudah.\p"
-	.string "Aku cuma kena curi bungkusan dari\n"
-	.string "DEVON.\p"
+	.string "Tak patut betul ni…\p"
+	.string "BOS kata kerja ni senang macam\n"
+	.string "petik jari.\p"
+	.string "Aku cuma kena curi bungkusan\n"
+	.string "dari DEVON.\p"
 	.string "Ceh! Kalau kau nak sangat, ambillah!$"
 
 RusturfTunnel_Text_PeekoGladToSeeYouSafe:
@@ -435,14 +436,13 @@ RusturfTunnel_Text_PeekoGladToSeeYouSafe:
 
 RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
 	.string "PEEKO terhutang nyawa pada kamu!\p"
-	.string "Orang panggil saya ENCIK BRINEY. Dan\n"
-	.string "kamu?\p"
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "Ah, jadi kamu {PLAYER}{KUN}!\n"
-	.string "Saya ucapkan terima kasih!\p"
-	.string "Kalau ada apa-apa yang menyusahkan\n"
-	.string "kamu, jangan segan beritahu saya!\p"
+	.string "Orang panggil saya ENCIK BRINEY.\n"
+	.string "Dan kamu?\p"
+	.string "… … … … … … … … … … … … … … … …\p"
+	.string "Ah, jadi kamu {PLAYER}{KUN}! Terima\n"
+	.string "kasih banyak-banyak!\p"
+	.string "Kalau ada apa-apa masalah, jangan\n"
+	.string "segan beritahu saya!\p"
 	.string "Biasanya saya ada di pondok saya tepi\n"
 	.string "laut dekat HUTAN PETALBURG.\p"
 	.string "Mari, PEEKO, kita balik rumah.\p"
@@ -457,7 +457,7 @@ RusturfTunnel_Text_WhyCantTheyKeepDigging:
 	.string "Kalau RUSTBORO dan VERDANTURF\n"
 	.string "disambung oleh terowong ni, saya boleh\l"
 	.string "jumpa dia setiap hari…\p"
-	.string "Tapi ini… Apa yang patut saya buat?$"
+	.string "Tapi sekarang… Apa saya nak buat?$"
 
 RusturfTunnel_Text_ToGetToVerdanturf:
 	.string "Untuk ke VERDANTURF dari RUSTBORO,\n"
@@ -479,8 +479,8 @@ RusturfTunnel_Text_ExplainStrength:
 RusturfTunnel_Text_WandaReunion:
 	.string "WANDA! Sekarang saya boleh jumpa kamu\n"
 	.string "bila-bila masa!\p"
-	.string "WANDA: Itu… bagus sekali.\p"
-	.string "Silakan, berehatlah di rumah saya.$"
+	.string "WANDA: Baguslah…\p"
+	.string "Jemputlah berehat di rumah saya.$"
 
 RusturfTunnel_Text_BoyfriendOnOtherSideOfRock:
 	.string "Di sebalik batu ni… Teman lelaki saya\n"

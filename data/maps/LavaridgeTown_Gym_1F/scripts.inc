@@ -204,7 +204,7 @@ LavaridgeTown_Gym_1F_Text_ColeDefeat:
 LavaridgeTown_Gym_1F_Text_ColePostBattle:
 	.string "Ditimbus dalam pasir panas boleh\n"
 	.string "melancarkan peredaran darah.\p"
-	.string "Ia berkesan untuk ubati sakit\n"
+	.string "Bagus untuk ubati sakit\n"
 	.string "sendi.$"
 
 LavaridgeTown_Gym_1F_Text_AxleIntro:
@@ -223,9 +223,9 @@ LavaridgeTown_Gym_B1F_Text_KeeganIntro:
 	.string "Mesti kamu dah penat sekarang.\n"
 	.string "Kamu nak berehat dalam pasir panas,\l"
 	.string "kan?\p"
-	.string "Tapi ingat, menjaga kekuatan semangat\n"
-	.string "ialah kebolehan penting bagi\l"
-	.string "semua JURULATIH.$"
+	.string "Tapi ingat, semua JURULATIH mesti\n"
+	.string "pandai jaga semangat supaya tak\l"
+	.string "luntur.$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
 	.string "Main api, terbakar diri…$"
@@ -269,9 +269,9 @@ LavaridgeTown_Gym_B1F_Text_JaceDefeat:
 	.string "terasa membeku…$"
 
 LavaridgeTown_Gym_B1F_Text_JacePostBattle:
-	.string "Melihat semangat juang yang membara\n"
-	.string "dalam diri kamu, kamu mungkin ada\l"
-	.string "peluang menentang KETUA kami.$"
+	.string "Tengok semangat kamu yang membara tu,\n"
+	.string "mungkin kamu ada peluang lawan\l"
+	.string "KETUA kami.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffIntro:
 	.string "Nampak tak api yang marak ni?\n"
@@ -281,7 +281,7 @@ LavaridgeTown_Gym_B1F_Text_JeffDefeat:
 	.string "Ada yang tak kena.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffPostBattle:
-	.string "Jadi, kenapa? Saya kata, kenapa?\n"
+	.string "Jadi apa? Saya kata, jadi apa?\n"
 	.string "Saya boleh jalan atas bara tanpa kasut!\p"
 	.string "…Jangan sesekali cuba!$"
 
@@ -371,7 +371,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:
 	.string "Saya sayang POKéMON.\n"
 	.string "Saya suka bertarung.\l"
 	.string "Dan… Saya sayang GIM ni!\p"
-	.string "Mari bertukar move super panas\n"
+	.string "Jom kita berbalas move super panas\n"
 	.string "dalam satu lagi pertarungan!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
@@ -392,7 +392,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons:
 	.string "Saya sayang POKéMON.\n"
 	.string "Saya suka bertarung.\l"
 	.string "Dan… Saya sayang GIM ni!\p"
-	.string "Mari bertukar move super panas\n"
+	.string "Jom kita berbalas move super panas\n"
 	.string "dalam satu lagi pertarungan!\p"
 	.string "Oh, tunggu. Kamu cuma ada satu\n"
 	.string "POKéMON yang boleh bertarung?\p"

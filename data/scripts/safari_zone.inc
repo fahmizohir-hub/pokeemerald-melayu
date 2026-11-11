@@ -97,14 +97,13 @@ SafariZone_Text_PokeblockWasPlaced:
 
 Route121_SafariZoneEntrance_Text_WelcomeToSafariZone:
 	.string "Selamat datang ke ZON SAFARI!\p"
-	.string "Di sini, kamu boleh lihat pelbagai jenis\n"
-	.string "POKéMON yang jarang dilihat di HOENN.\p"
-	.string "Malah, kamu akan lihat mereka dalam\n"
-	.string "keadaan liar di habitat semula jadi.\p"
+	.string "Di sini, kamu boleh tengok banyak\n"
+	.string "jenis POKéMON yang jarang ada di HOENN.\p"
+	.string "Kamu akan nampak mereka hidup liar\n"
+	.string "di habitat semula jadi.\p"
 	.string "Lebih hebat lagi, pintu kami terbuka\n"
 	.string "luas untuk JURULATIH POKéMON.\p"
-	.string "Kamu digalakkan menangkap POKéMON\n"
-	.string "untuk disimpan!\p"
+	.string "Tangkaplah POKéMON dan bawa pulang!\p"
 	.string "Masuklah dan berseronok di ZON SAFARI!$"
 
 Route121_SafariZoneEntrance_Text_WelcomeFirstTime:
@@ -130,7 +129,7 @@ Route121_SafariZoneEntrance_Text_WouldYouLikeToPlay:
 
 Route121_SafariZoneEntrance_Text_PlayAnotherTime:
 	.string "Baiklah.\n"
-	.string "Sila main lain kali!$"
+	.string "Datanglah main lain kali!$"
 
 Route121_SafariZoneEntrance_Text_NotEnoughMoney:
 	.string "Wang kamu tak cukup.\n"
@@ -159,7 +158,7 @@ Route121_SafariZoneEntrance_Text_YouNeedPokeblockCase:
 	.string "Maaf!\n"
 	.string "Nampaknya kamu tiada BEKAS {POKEBLOCK}.\p"
 	.string "Permainan SAFARI kamu akan lebih\n"
-	.string "berhasil kalau kamu guna {POKEBLOCK}.\p"
+	.string "menjadi kalau guna {POKEBLOCK}.\p"
 	.string "Sila datang balik dengan BEKAS {POKEBLOCK}.\p"
 	.string "Kamu boleh dapatkan BEKAS {POKEBLOCK} di\n"
 	.string "DEWAN PERTANDINGAN LILYCOVE.$"
@@ -189,16 +188,16 @@ SafariZone_South_Text_Boy:
 	.string "segi empat itu, POKéMON akan berkumpul.$"
 
 SafariZone_South_Text_Man:
-	.string "Saya nak terus masuk lebih dalam, tapi\n"
-	.string "saya terlupa bawa BASIKAL.\p"
-	.string "Saya rasa POKéMON nadir tinggal di\n"
-	.string "kawasan pinggir.$"
+	.string "Saya nak masuk lebih jauh ke dalam,\n"
+	.string "tapi terlupa bawa BASIKAL.\p"
+	.string "Hati saya kata POKéMON nadir tinggal\n"
+	.string "di kawasan pinggir.$"
 
 SafariZone_Southwest_Text_Woman:
 	.string "Kadang-kadang, bila saya baling {POKEBLOCK}\n"
-	.string "pada POKéMON, ia tak dipedulikan.\p"
-	.string "POKéMON ada makanan yang mereka suka\n"
-	.string "dan tak suka ke?$"
+	.string "pada POKéMON, ia buat tak tahu saja.\p"
+	.string "POKéMON pun ada makanan yang dia\n"
+	.string "suka dan tak suka ke?$"
 
 SafariZone_Northwest_Text_Man:
 	.string "Hah… Hah…\n"
@@ -207,9 +206,9 @@ SafariZone_Northwest_Text_Man:
 	.string "tangkap POKéMON…$"
 
 SafariZone_North_Text_Fisherman:
-	.string "Saya sedang mencari POKéMON AIR yang\n"
+	.string "Saya nak cari POKéMON AIR yang\n"
 	.string "tak ada di HOENN.\p"
-	.string "Kamu tahu tak di mana tasik itu?$"
+	.string "Kamu tahu tak tasik tu di mana?$"
 
 SafariZone_North_Text_Man:
 	.string "Saya nak tangkap banyak POKéMON nadir\n"
@@ -218,14 +217,14 @@ SafariZone_North_Text_Man:
 
 SafariZone_South_Text_Youngster:
 	.string "Saya letak {POKEBLOCK} di atas PENYUAP\n"
-	.string "{POKEBLOCK}. Tapi nampaknya ia dah hilang.\p"
-	.string "Mesti POKéMON dah makan tanpa saya\n"
-	.string "sedar.$"
+	.string "{POKEBLOCK}. Tapi nampaknya dah hilang.\p"
+	.string "Mesti POKéMON dah makan masa saya\n"
+	.string "tak perasan.$"
 
 Route121_SafariZoneEntrance_Text_TrainerTip:
 	.string "PETUA JURULATIH ZON SAFARI!\p"
 	.string "Baling {POKEBLOCK} pada POKéMON liar supaya\n"
-	.string "mereka kurang cenderung melarikan diri.$"
+	.string "mereka tak cepat lari.$"
 
 SafariZone_Southwest_Text_RestHouseSign:
 	.string "“Rehatkan kaki kamu yang penat.”\n"
@@ -234,9 +233,9 @@ SafariZone_Southwest_Text_RestHouseSign:
 SafariZone_RestHouse_Text_Youngster:
 	.string "Saya tak ada {POKEBLOCK}, tapi saya dapat\n"
 	.string "tangkap banyak juga POKéMON.\p"
-	.string "Peluang kamu menangkap boleh\n"
-	.string "meningkat kalau kamu dekati mereka\l"
-	.string "sebelum membaling SAFARI BALL.$"
+	.string "Peluang nak tangkap lebih tinggi\n"
+	.string "kalau kamu dekati mereka dulu\l"
+	.string "sebelum baling SAFARI BALL.$"
 
 SafariZone_RestHouse_Text_PsychicM:
 	.string "Kalau kamu guna {POKEBLOCK}, POKéMON liar\n"
@@ -246,8 +245,7 @@ SafariZone_RestHouse_Text_PsychicM:
 
 SafariZone_RestHouse_Text_FatMan:
 	.string "Kalau kamu letak {POKEBLOCK} di atas\n"
-	.string "PENYUAP, POKéMON akan tertarik\l"
-	.string "kepadanya.\p"
+	.string "PENYUAP, POKéMON akan datang.\p"
 	.string "Saya rasa POKéMON yang sama sifatnya\n"
 	.string "akan tertarik kepada {POKEBLOCK} tertentu.$"
 
@@ -256,8 +254,8 @@ SafariZone_South_Text_AreaOffLimits1:
 	.string "Tak boleh masuk, maaf!$"
 
 SafariZone_Southeast_Text_ExpansionIsFinished:
-	.string "Projek pembesaran ZON SAFARI kini\n"
-	.string "sudah siap.\p"
+	.string "Projek pembesaran ZON SAFARI\n"
+	.string "dah siap.\p"
 	.string "Kami harap kamu seronok di kawasan\n"
 	.string "baru ini.$"
 
@@ -267,17 +265,17 @@ SafariZone_South_Text_AreaOffLimits2:
 
 SafariZone_Southeast_Text_LittleGirl:
 	.string "Wah! Yeay! Saya tak pernah nampak\n"
-	.string "POKéMON-POKéMON ini!$"
+	.string "POKéMON macam ni!$"
 
 SafariZone_Southeast_Text_FatMan:
-	.string "POKéMON di kawasan ini semuanya baru\n"
-	.string "bagi saya.\p"
-	.string "Dan saya dibenarkan tangkap POKéMON\n"
-	.string "nadir ini! Hebatnya!$"
+	.string "Semua POKéMON di kawasan ni tak\n"
+	.string "pernah saya jumpa.\p"
+	.string "Dan saya boleh tangkap POKéMON nadir\n"
+	.string "ni! Hebatnya!$"
 
 SafariZone_Southeast_Text_RichBoy:
-	.string "POKéMON di sekitar sini nampaknya\n"
-	.string "datang dari tempat selain HOENN.$"
+	.string "POKéMON di sekitar sini macam datang\n"
+	.string "dari luar HOENN.$"
 
 SafariZone_Northeast_Text_Boy:
 	.string "SAFARI BALL saya tinggal beberapa biji\n"
@@ -292,5 +290,5 @@ SafariZone_Northeast_Text_Woman:
 SafariZone_Northeast_Text_Girl:
 	.string "Alahai!\n"
 	.string "Saya tak dapat tangkap apa-apa pun!\p"
-	.string "Membazir saja duit masuk kalau saya tak\n"
-	.string "tangkap sesuatu!$"
+	.string "Rugi duit masuk kalau saya balik\n"
+	.string "tangan kosong!$"

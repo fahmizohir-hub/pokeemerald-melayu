@@ -978,13 +978,13 @@ LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum:
 	.string "Patut ke saya bawa lukisan ni ke sana?$"
 
 LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum:
-	.string "Betul ke? Kalau macam tu, saya akan\n"
-	.string "bawa lukisan ni ke sana sekarang juga.\p"
-	.string "Saya akan beri tajuk yang sesuai juga.\p"
-	.string "Harap mereka suka dan sudi\n"
-	.string "pamerkannya.\p"
-	.string "Nanti tolong tengok sama ada mereka\n"
-	.string "terima atau tidak. Terima kasih!$"
+	.string "Betul ke? Kalau macam tu, saya bawa\n"
+	.string "lukisan ni ke sana sekarang juga.\p"
+	.string "Saya bagi tajuk yang sesuai sekali.\p"
+	.string "Harap mereka suka\n"
+	.string "dan sudi pamerkannya.\p"
+	.string "Nanti tolong tengok mereka\n"
+	.string "terima ke tak. Terima kasih!$"
 
 LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
 	.string "Oh, ya!\p"
@@ -992,7 +992,7 @@ LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
 	.string "kamu, ambillah ini.$"
 
 LilycoveCity_ContestLobby_Text_ReceivedARibbon:
-	.string "{PLAYER} menerima sebuah REBEN.$"
+	.string "{PLAYER} menerima REBEN.$"
 
 LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon:
 	.string "{PLAYER} memakaikan REBEN pada\n"
@@ -1010,8 +1010,8 @@ LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum:
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
 	.string "Oh, baiklah, kalau dah begitu.\n"
 	.string "Saya gantung saja di rumah saya.\p"
-	.string "Saya kena cuba lebih keras lain kali.\n"
-	.string "Baiklah, jumpa lagi.$"
+	.string "Lain kali saya kena usaha\n"
+	.string "lebih lagi. Baiklah, jumpa lagi.$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome:
 	.string "Fuh… PERTANDINGAN TAHAP MASTER, saya\n"
@@ -1021,11 +1021,10 @@ LilycoveCity_ContestLobby_Text_MasterRankHereICome:
 	.string "semesta. Masanya dah tiba! Uheheheh.$"
 
 LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
-	.string "Macam-macam jenis POKéMON boleh\n"
-	.string "dilihat di sini.\p"
-	.string "Sebab tu saya jadikan tempat ni\n"
-	.string "sebahagian daripada siar-siar harian\l"
-	.string "saya.$"
+	.string "Macam-macam jenis POKéMON\n"
+	.string "boleh dilihat di sini.\p"
+	.string "Sebab tu saya selalu singgah sini\n"
+	.string "masa bersiar-siar setiap hari.$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
 	.string "Wah, datang ke PERTANDINGAN ni memang\n"

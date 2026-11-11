@@ -37,8 +37,8 @@ VictoryRoad_B2F_Text_VitoIntro:
 	.string "Saya takkan kalah dengan sesiapa!$"
 
 VictoryRoad_B2F_Text_VitoDefeat:
-	.string "Lebih hebat daripada keluarga saya?!\n"
-	.string "Mungkinkah?!$"
+	.string "Lebih hebat daripada\n"
+	.string "keluarga saya?! Biar betul?!$"
 
 VictoryRoad_B2F_Text_VitoPostBattle:
 	.string "Saya paling hebat dalam keluarga saya.\n"
@@ -95,9 +95,9 @@ VictoryRoad_B2F_Text_FelixPostBattle:
 	.string "Saya cuma mampu buat-buat tenang.$"
 
 VictoryRoad_B2F_Text_DianneIntro:
-	.string "Golongan elit antara yang elit\n"
-	.string "berkumpul di gua ini.\p"
-	.string "Macam mana kamu rasa?$"
+	.string "Golongan elit antara yang\n"
+	.string "elit berkumpul di gua ini.\p"
+	.string "Apa pendapat kamu?$"
 
 VictoryRoad_B2F_Text_DianneDefeat:
 	.string "Langsung tak gentar!$"

@@ -471,7 +471,7 @@ MauvilleCity_Text_WallyWillYouBattleMe:
 	.string "Saya dah jadi jauh lebih kuat sejak kita\n"
 	.string "berjumpa.\p"
 	.string "{PLAYER}, saya nak kamu dan PAKCIK saya\n"
-	.string "faham tentang itu.\p"
+	.string "nampak sendiri.\p"
 	.string "{PLAYER}, tolonglah, boleh kamu\n"
 	.string "bertarung dengan saya?$"
 
@@ -481,7 +481,7 @@ MauvilleCity_Text_WallyMyUncleWontKnowImStrong:
 	.string "yang saya dah betul-betul kuat.$"
 
 MauvilleCity_Text_UncleCanYouBattleWally:
-	.string "PAKCIK: {PLAYER}{KUN}, betul?\n"
+	.string "PAKCIK: {PLAYER}{KUN}, kan?\n"
 	.string "Boleh saya minta kamu bertarung\l"
 	.string "dengan WALLY sekali ni saja?\p"
 	.string "Saya rasa dia takkan dengar apa-apa\n"
@@ -508,14 +508,14 @@ MauvilleCity_Text_ThankYouNotEnoughToBattle:
 	.string "{PLAYER}, terima kasih.\n"
 	.string "Jadi JURULATIH ni susah, kan?\p"
 	.string "Tak cukup sekadar ada POKéMON dan\n"
-	.string "suruh mereka bertarung. Itu bukan\l"
-	.string "maksud sebenar menjadi JURULATIH.$"
+	.string "suruh mereka bertarung. Bukan itu\l"
+	.string "maknanya jadi JURULATIH sebenar.$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
 	.string "PAKCIK: WALLY, tak perlu kecewa dengan\n"
 	.string "diri sendiri.\p"
-	.string "Apa yang menghalang kamu daripada jadi\n"
-	.string "semakin kuat?\p"
+	.string "Lagipun, apa yang boleh halang kamu\n"
+	.string "jadi makin kuat?\p"
 	.string "Jom, kita balik.\n"
 	.string "Semua orang tengah tunggu kamu.$"
 
@@ -565,24 +565,24 @@ MauvilleCity_Text_WattsonNeedFavorTakeKey:
 	.string "tanah bernama MAUVILLE BARU.\p"
 	.string "{PLAYER}{KUN}, saya nak kamu pergi ke sana\n"
 	.string "dan matikan PENJANA.\p"
-	.string "PENJANA tu dah tak berapa betul. Ia\n"
-	.string "makin tak selamat.\p"
+	.string "PENJANA tu dah buat hal sikit.\n"
+	.string "Makin lama makin bahaya.\p"
 	.string "Nah, ini KUNCI untuk masuk ke MAUVILLE\n"
 	.string "BARU.$"
 
 MauvilleCity_Text_WattsonWontBeChallenge:
 	.string "WATTSON: Jangan risau.\n"
-	.string "Ia takkan jadi cabaran buat kamu.\p"
-	.string "Pintu masuk MAUVILLE BARU cuma dekat\n"
-	.string "saja kalau LUNCUR OMBAK dari\l"
+	.string "Takkan susah punya bagi kamu.\p"
+	.string "Pintu masuk MAUVILLE BARU tak jauh,\n"
+	.string "guna LUNCURAN OMBAK sikit saja dari\l"
 	.string "LALUAN 110.\p"
 	.string "Itu saja, saya percayakan kamu!\n"
 	.string "Wahahahaha!$"
 
 MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "WATTSON: Wahahahaha!\p"
-	.string "Saya dah agak, {PLAYER}{KUN}! Memang tepat\n"
-	.string "saya minta tolong kamu!\p"
+	.string "Saya dah agak, {PLAYER}{KUN}! Memang\n"
+	.string "tak salah saya minta tolong kamu!\p"
 	.string "Ini tanda terima kasih saya, TM yang\n"
 	.string "mengandungi PANAH PETIR!\p"
 	.string "Ambillah, kamu layak!$"

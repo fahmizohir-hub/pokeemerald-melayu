@@ -43,5 +43,5 @@ RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
 RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
 	.string "Pak cik sebelah rumah bagi saya HM!\p"
 	.string "Saya guna untuk ajar POKéMON saya\n"
-	.string "POTONG pokok-pokok kecil.$"
+	.string "POTONGAN. Boleh tebang pokok kecil!$"
 

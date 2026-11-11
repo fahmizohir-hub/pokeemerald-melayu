@@ -337,12 +337,11 @@ OldaleTown_Text_IWorkAtPokemonMart:
 	.string "Boleh kamu ikut saya sekejap?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "Inilah POKéMON MART. Cari\n"
-	.string "saja bumbung biru kami.\p"
-	.string "Kami jual pelbagai barang termasuk\n"
-	.string "POKé BALL untuk tangkap POKéMON.\p"
-	.string "Nah, ambillah ini\n"
-	.string "sebagai barang promosi.$"
+	.string "Inilah POKéMON MART. Cari saja bumbung\n"
+	.string "biru kami.\p"
+	.string "Kami jual pelbagai barang termasuk POKé\n"
+	.string "BALL untuk tangkap POKéMON.\p"
+	.string "Nah, ini barang promosi untuk kamu.$"
 
 OldaleTown_Text_PotionExplanation:
 	.string "UBAT boleh diguna bila-bila masa, jadi\n"

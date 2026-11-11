@@ -74,6 +74,6 @@ RustboroCity_House1_Text_AnyPokemonCanBeCute:
 RustboroCity_House1_Text_AllSortsOfPlaces:
 	.string "Di serata tempat, ada macam-macam\n"
 	.string "POKéMON dan manusia.\p"
-	.string "Saya rasa itu menarik, jadi saya pergi\n"
-	.string "ke serata tempat.$"
+	.string "Menarik, kan? Sebab tu saya suka pergi\n"
+	.string "merata tempat.$"
 

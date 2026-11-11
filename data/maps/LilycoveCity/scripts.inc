@@ -407,17 +407,16 @@ LilycoveCity_EventScript_DontKnowAboutBerryBlender::
 	return
 
 LilycoveCity_Text_MayShoppingLetsBattle:
-	.string "MAY: Eh, hai?\n"
-	.string "{PLAYER}{KUN}, kau pun datang membeli-belah?\p"
+	.string "MAY: Eh, hai? {PLAYER}{KUN}, kau\n"
+	.string "pun datang membeli-belah?\p"
 	.string "Aku beli banyak PATUNG dan POSTER.\p"
-	.string "Mestilah aku pun dah tangkap banyak\n"
-	.string "POKéMON, dan aku latih mereka dengan\l"
-	.string "betul.\p"
-	.string "Sebenarnya, aku lebih risau kalau kau\n"
-	.string "tak latih POKéMON dengan betul,\l"
-	.string "{PLAYER}{KUN}.\p"
-	.string "Jom bertarung, supaya kau boleh tunjuk\n"
-	.string "POKéMON kau pada aku, {PLAYER}{KUN}.$"
+	.string "Mestilah aku pun dah tangkap\n"
+	.string "banyak POKéMON, dan aku\l"
+	.string "latih mereka dengan betul.\p"
+	.string "Yang aku risau, kau tu latih POKéMON\n"
+	.string "dengan betul ke tak, {PLAYER}{KUN}.\p"
+	.string "Jom bertarung. Tunjuk POKéMON\n"
+	.string "kau pada aku, {PLAYER}{KUN}.$"
 
 LilycoveCity_Text_MayNotRaisingPokemon:
 	.string "MAY: Eh, kenapa? {PLAYER}{KUN}, kau tak latih\n"
@@ -527,16 +526,16 @@ LilycoveCity_Text_BrendanYouGoingToPokemonLeague:
 
 LilycoveCity_Text_BrendanYouGoingToBattleFrontier:
 	.string "{PLAYER}, kau nak buat apa lepas ni?\p"
-	.string "Kau nak sahut cabaran BATTLE\n"
-	.string "FRONTIER?\p"
+	.string "Kau nak sahut cabaran\n"
+	.string "BATTLE FRONTIER?\p"
 	.string "Atau, kau nak lengkapkan POKéDEX kau?\p"
-	.string "Kau dah sekuat ni, patutlah kau cuba\n"
-	.string "BATTLE FRONTIER.\p"
-	.string "Heh, kalau aku latih POKéMON aku sikit\n"
-	.string "lagi, aku akan jadi lebih kuat daripada\l"
-	.string "kau, {PLAYER}.\p"
-	.string "Mungkin aku patut pergi ke BATTLE\n"
-	.string "FRONTIER.\p"
+	.string "Kau dah sekuat ni, apa kata\n"
+	.string "kau cuba BATTLE FRONTIER?\p"
+	.string "Heh, kalau aku latih POKéMON aku\n"
+	.string "sikit lagi, aku akan jadi lebih\l"
+	.string "kuat daripada kau, {PLAYER}.\p"
+	.string "Mungkin aku patut pergi\n"
+	.string "ke BATTLE FRONTIER.\p"
 	.string "Apa-apa pun, teruskan usaha!$"
 
 LilycoveCity_Text_MovedLootIntoHideoutToday:
@@ -567,7 +566,7 @@ LilycoveCity_Text_IfWorldBecomesOurs:
 
 LilycoveCity_Text_WailmerLeapOutOfWater:
 	.string "Sekarang! WAILMER!\n"
-	.string "Melompat keluar dari air!$"
+	.string "Lompat keluar dari air!$"
 
 LilycoveCity_Text_GetLostMessingUpTraining:
 	.string "Hah? Kau nak apa?\p"
@@ -575,10 +574,10 @@ LilycoveCity_Text_GetLostMessingUpTraining:
 	.string "kau berambus?$"
 
 LilycoveCity_Text_ContestHallInTown:
-	.string "Ada DEWAN PERTANDINGAN POKéMON di\n"
-	.string "bandar ni sendiri.\p"
-	.string "Maknanya, POKéMON yang terlatih akan\n"
-	.string "datang dari seluruh negara.\p"
+	.string "Ada DEWAN PERTANDINGAN POKéMON\n"
+	.string "betul-betul di bandar ni.\p"
+	.string "Maknanya, POKéMON yang terlatih\n"
+	.string "akan datang dari serata negara.\p"
 	.string "Berdebar-debar hati saya!$"
 
 LilycoveCity_Text_StrangeCaveInCove:
@@ -593,17 +592,17 @@ LilycoveCity_Text_GoingToMoveDeleterForHMs:
 
 LilycoveCity_Text_ImFromKanto:
 	.string "Saya datang dari KANTO.\p"
-	.string "Wilayah HOENN ni cantik, dengan airnya\n"
-	.string "dan alam semula jadi yang hijau.\p"
+	.string "Wilayah HOENN ni cantik, banyak\n"
+	.string "air dan alamnya hijau subur.\p"
 	.string "Hah? Tunggu sekejap…\p"
-	.string "Mungkinkah ada POKéMON nadir yang\n"
-	.string "hidup di kawasan ini saja?$"
+	.string "Agaknya ada tak POKéMON nadir\n"
+	.string "yang hidup di kawasan ni saja?$"
 
 LilycoveCity_Text_TeamAquaBeenTrainingWailmer:
-	.string "TEAM AQUA asyik latih WAILMER mereka di\n"
-	.string "teluk tu.\p"
-	.string "Kami KELASI tak boleh bawa bot ke laut\n"
-	.string "sebab mereka menghalang!$"
+	.string "TEAM AQUA asyik latih\n"
+	.string "WAILMER mereka di teluk tu.\p"
+	.string "Kami KELASI tak boleh bawa bot ke\n"
+	.string "laut sebab mereka menghalang jalan!$"
 
 LilycoveCity_Text_SomeonePuntedTeamAquaOut:
 	.string "Ahoi, kamu tahu tak?\p"
@@ -632,9 +631,9 @@ LilycoveCity_Text_ImArtDealer:
 	.string "karya yang hebat…$"
 
 LilycoveCity_Text_SeaRemainsForeverYoung:
-	.string "Walaupun kita makin tua dan berkedut,\n"
-	.string "laut tetap muda selamanya dengan sinar\l"
-	.string "kehidupan yang terang…\p"
+	.string "Walaupun kita makin tua dan\n"
+	.string "berkedut, laut tetap muda selamanya,\l"
+	.string "penuh dengan sinar kehidupan…\p"
 	.string "Fwohoho fwohohohoho…$"
 
 LilycoveCity_Text_SixtyYearsAgoHusbandProposed:
@@ -644,27 +643,27 @@ LilycoveCity_Text_SixtyYearsAgoHusbandProposed:
 	.string "Mufufufu mufufufufufu…$"
 
 LilycoveCity_Text_TeamAquaRenovatedCavern:
-	.string "Hm, kamu tahu tentang gua pelik di teluk\n"
-	.string "ni?\p"
-	.string "Dulu ia terbentuk secara semula jadi,\n"
-	.string "tapi kemudian geng TEAM AQUA tu datang\l"
-	.string "dan ubah suai.\p"
+	.string "Hm, kamu tahu tentang\n"
+	.string "gua pelik di teluk ni?\p"
+	.string "Asalnya gua tu terbentuk secara\n"
+	.string "semula jadi, tapi kemudian geng\l"
+	.string "TEAM AQUA tu datang dan ubah suai.\p"
 	.string "Mereka gelar diri mereka\n"
 	.string "“TEAM AQUA pencinta alam”!\p"
-	.string "Tapi apa yang mereka buat dan apa yang\n"
-	.string "mereka cakap langsung tak sama!$"
+	.string "Tapi cakap dengan buat\n"
+	.string "langsung tak serupa!$"
 
 LilycoveCity_Text_TeamAquaLotGoneForGood:
 	.string "Gua di teluk tu…\p"
-	.string "Saya tak perasan pada mulanya, tapi\n"
-	.string "sekarang ia dah kosong sama sekali.\p"
-	.string "Geng TEAM AQUA tu mesti dah pergi untuk\n"
-	.string "selamanya.$"
+	.string "Mula-mula saya tak perasan, tapi\n"
+	.string "sekarang gua tu dah kosong langsung.\p"
+	.string "Geng TEAM AQUA tu\n"
+	.string "mesti dah pergi terus.$"
 
 LilycoveCity_Text_CitySign:
 	.string "BANDAR LILYCOVE\p"
-	.string "“Di mana daratan berakhir dan\n"
-	.string "lautan bermula.”$"
+	.string "“Tempat daratan berakhir\n"
+	.string "dan lautan bermula.”$"
 
 LilycoveCity_Text_ContestHallSign:
 	.string "DEWAN PERTANDINGAN POKéMON\n"
@@ -725,21 +724,21 @@ LilycoveCity_Text_FasterSpinBetterPokeblocks:
 	.string "makin bagus {POKEBLOCK} yang kamu dapat.$"
 
 LilycoveCity_Text_ExplainBerryBlender:
-	.string "Ia digunakan untuk buat sejenis\n"
+	.string "Mesin tu untuk buat sejenis\n"
 	.string "gula-gula yang dipanggil {POKEBLOCK}.\p"
 	.string "Kalau kamu beri {POKEBLOCK} yang bagus\n"
-	.string "kepada POKéMON, keadaannya akan jadi\l"
-	.string "jauh lebih baik.$"
+	.string "kepada POKéMON, keadaannya\l"
+	.string "akan jadi jauh lebih baik.$"
 
 LilycoveCity_Text_HeardTowerCalledSkyPillar:
-	.string "Saya dengar ada sebuah menara di laluan\n"
-	.string "laut entah di mana.\p"
+	.string "Saya dengar ada menara di\n"
+	.string "laluan laut, entah di mana.\p"
 	.string "Namanya TIANG LANGIT, katanya.$"
 
 LilycoveCity_Text_SawTallTowerOnRoute131:
-	.string "Saya nampak menara tinggi di sekitar\n"
-	.string "LALUAN 131.\p"
-	.string "Mungkinkah itu…?$"
+	.string "Saya nampak menara tinggi\n"
+	.string "di sekitar LALUAN 131.\p"
+	.string "Itu ke agaknya…?$"
 
 LilycoveCity_Text_JustArrivedAndSawRarePokemon:
 	.string "Kami baru sampai di sini untuk berbulan\n"
@@ -750,9 +749,9 @@ LilycoveCity_Text_JustArrivedAndSawRarePokemon:
 	.string "wilayah HOENN ke?$"
 
 LilycoveCity_Text_HoneymoonVowToSeeRarePokemon:
-	.string "Semasa bulan madu, kami berjanji nak\n"
+	.string "Untuk bulan madu ni, kami berjanji nak\n"
 	.string "tengok sebanyak mungkin POKéMON nadir.\p"
 	.string "Jadi kami gembira sangat dapat tengok\n"
 	.string "POKéMON nadir sebaik saja sampai.\p"
-	.string "Maksud saya, kami memang bahagia!$"
+	.string "Pendek kata, kami bahagia sangat!$"
 

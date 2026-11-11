@@ -76,8 +76,8 @@ Route102_EventScript_Allen::
 Route102_Text_WatchMeCatchPokemon:
 	.string "WALLY: {PLAYER}… POKéMON bersembunyi\n"
 	.string "dalam rumput tinggi macam ni, kan?\p"
-	.string "Tolong tengok saya, sama ada saya\n"
-	.string "boleh tangkap seekor dengan betul.\p"
+	.string "Tolong tengokkan, boleh ke saya\n"
+	.string "tangkap seekor dengan betul.\p"
 	.string "…Uwaa!$"
 
 Route102_Text_WallyIDidIt:

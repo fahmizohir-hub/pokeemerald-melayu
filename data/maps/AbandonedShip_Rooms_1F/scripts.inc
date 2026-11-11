@@ -42,12 +42,13 @@ AbandonedShip_Rooms_1F_Text_ThaliaIntro:
 	.string "Mesti kamu ni suka ambil tahu!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
-	.string "Bukan saja suka ambil tahu, tapi kuat…$"
+	.string "Bukan setakat suka\n"
+	.string "ambil tahu, kuat pula tu…$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
 	.string "Lelaki di bilik sebelah tu…\p"
-	.string "Katanya dia cuma melawat, tapi saya tak\n"
-	.string "berapa percaya.$"
+	.string "Katanya dia cuma melancong,\n"
+	.string "tapi saya tak berapa percaya.$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
 	.string "Kamu memang JURULATIH yang hebat!\n"
@@ -61,7 +62,7 @@ AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
 	.string "Kamu ni kuat sangat, kan?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-	.string "Saya pasti lelaki tu ada rancangan!\n"
+	.string "Saya pasti lelaki tu ada apa-apa!\n"
 	.string "Gerak-gerinya mencurigakan!$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:

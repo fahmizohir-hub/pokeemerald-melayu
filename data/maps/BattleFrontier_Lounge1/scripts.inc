@@ -226,7 +226,7 @@ BattleFrontier_Lounge1_Text_StatFlawless:
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice:
 	.string "Apa? Kamu tak ada masa\n"
 	.string "untuk nasihat saya?\p"
-	.string "Kamu patut sentiasa ghairah belajar\n"
+	.string "Kamu patut sentiasa rajin belajar\n"
 	.string "daripada pengalaman orang tua!$"
 
 @ Unused
@@ -250,7 +250,7 @@ BattleFrontier_Lounge1_Text_EvenICantTell:
 
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
 	.string "Dia kata POKéMON saya cemerlang!\n"
-	.string "Nasib baik saya bela ia dengan teliti!$"
+	.string "Berbaloi saya jaga ia baik-baik!$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
 	.string "Dia kata POKéMON saya cemerlang! Tapi\n"

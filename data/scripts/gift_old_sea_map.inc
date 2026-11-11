@@ -38,14 +38,14 @@ sText_MysteryGiftOldSeaMapForYou:
 	.string "Terima kasih kerana menggunakan Sistem\n"
 	.string "HADIAH MISTERI.\p"
 	.string "Biar saya pastikan--kamu {PLAYER}?\p"
-	.string "Kami terima PETA LAUT TUA ini yang\n"
-	.string "dialamatkan kepada kamu.$"
+	.string "Kami ada terima PETA LAUT TUA ini\n"
+	.string "yang dialamatkan kepada kamu.$"
 
 sText_MysteryGiftOldSeaMapUseAtPort:
 	.string "Nampaknya peta ini untuk digunakan di\n"
 	.string "pelabuhan BANDAR LILYCOVE.\p"
-	.string "Apa kata kamu cuba dan tengok apa\n"
-	.string "sebenarnya?$"
+	.string "Apa kata kamu pergi ke sana dan\n"
+	.string "tengok sendiri?$"
 
 sText_MysteryGiftOldSeaMapThankYou:
 	.string "Terima kasih kerana menggunakan Sistem\n"
@@ -55,4 +55,4 @@ sText_MysteryGiftOldSeaMapBagFull:
 	.string "Oh, maaf, {PLAYER}.\n"
 	.string "POKET BRG PENTING dalam BEG penuh.\p"
 	.string "Tolong simpan sesuatu dalam PC,\n"
-	.string "kemudian datang balik untuk ambil ini.$"
+	.string "lepas tu datang balik ambil peta ni.$"

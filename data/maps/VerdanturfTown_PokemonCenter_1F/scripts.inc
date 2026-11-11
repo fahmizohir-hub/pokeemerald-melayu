@@ -32,8 +32,8 @@ VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon:
 	.string "sampai ke penghujung.$"
 
 VerdanturfTown_PokemonCenter_1F_Text_VisitForBattleTent:
-	.string "Sebab orang datang ke VERDANTURF…\p"
-	.string "Sudah tentu KHEMAH BATTLE.\p"
+	.string "Kenapa orang datang ke VERDANTURF…\p"
+	.string "Mestilah sebab KHEMAH BATTLE.\p"
 	.string "Atau ada seseorang di sini yang kamu\n"
 	.string "datang nak jumpa?$"
 

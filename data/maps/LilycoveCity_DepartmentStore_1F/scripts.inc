@@ -167,17 +167,17 @@ LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
-	.string "Komunikasi Wayarles memang seronok,\n"
-	.string "kan?\p"
-	.string "Saya rasa ia boleh buat perkara yang\n"
-	.string "dulu tak mungkin.\p"
-	.string "Contohnya, sekarang kamu boleh\n"
-	.string "bertukar dengan orang yang dulu tak\l"
-	.string "boleh.\p"
-	.string "Saya rasa ia akan jadi sangat menarik!$"
+	.string "Komunikasi Wayarles\n"
+	.string "memang seronok, kan?\p"
+	.string "Kita boleh buat benda\n"
+	.string "yang dulu tak boleh.\p"
+	.string "Contohnya, sekarang kamu\n"
+	.string "boleh bertukar dengan\l"
+	.string "orang yang dulu tak dapat.\p"
+	.string "Mesti seronok nanti!$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm:
-	.string "Saya nak sebarkan betapa seronoknya\n"
-	.string "Komunikasi Wayarles.$"
+	.string "Saya nak beritahu semua orang betapa\n"
+	.string "seronoknya Komunikasi Wayarles.$"
 

@@ -80,15 +80,15 @@ gBirchDexRatingText_LessThan150::
 	.string "HOENN.$"
 
 gBirchDexRatingText_LessThan160::
-	.string "Sekali-sekala, ada POKéMON muncul\n"
-	.string "dalam jumlah besar seperti wabak.\p"
-	.string "Jangan lepaskan peluang seperti\n"
+	.string "Sekali-sekala, ada POKéMON yang\n"
+	.string "muncul beramai-ramai.\p"
+	.string "Jangan lepaskan peluang macam\n"
 	.string "itu.$"
 
 gBirchDexRatingText_LessThan170::
-	.string "Kita boleh faham POKéMON di wilayah\n"
-	.string "HOENN dengan sangat baik\l"
-	.string "dengan melihat POKéDEX kamu.$"
+	.string "Dengan tengok POKéDEX kamu, kita\n"
+	.string "boleh faham POKéMON di wilayah\l"
+	.string "HOENN dengan baik sekali.$"
 
 gBirchDexRatingText_LessThan180::
 	.string "Boleh saya katakan kamu dah layak\n"

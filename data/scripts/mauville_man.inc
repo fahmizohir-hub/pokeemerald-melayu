@@ -104,12 +104,12 @@ MauvilleCity_PokemonCenter_1F_Text_PickADecorItem:
 
 MauvilleCity_PokemonCenter_1F_Text_YouDontWantAnything:
 	.string "Kamu tak nak apa-apa?\n"
-	.string "Saya rasa tak diperlukan…$"
+	.string "Rasa macam tak dihargai pula…$"
 
 MauvilleCity_PokemonCenter_1F_Text_OnceBelongedToPlayerDoYouWantIt:
 	.string "Barang hiasan itu dulu milik\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Kamu mahu?$"
+	.string "Kamu nak?$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouDontHaveAnyDecor:
 	.string "Eh… Sekejap. Kamu tak ada sebarang\n"
@@ -121,22 +121,22 @@ MauvilleCity_PokemonCenter_1F_Text_PickTheDecorToTrade:
 
 MauvilleCity_PokemonCenter_1F_Text_YouDontWantToTrade:
 	.string "Kamu tak nak bertukar dengan saya?\n"
-	.string "Saya rasa tak diperlukan…$"
+	.string "Rasa macam tak dihargai pula…$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouveNoRoomForThis:
 	.string "{STR_VAR_2} kamu dah penuh, tak boleh\n"
-	.string "simpan lagi. Tiada ruang untuk ini.$"
+	.string "simpan lagi. Tak ada ruang untuk ni.$"
 
 MauvilleCity_PokemonCenter_1F_Text_SoWellTradeTheseDecor:
 	.string "Okey, jadi kita tukar {STR_VAR_3} saya\n"
 	.string "dengan {STR_VAR_2} kamu?$"
 
 MauvilleCity_PokemonCenter_1F_Text_ThatDecorIsInUse:
-	.string "Barang hiasan itu sedang digunakan.\n"
-	.string "Kamu tak boleh menukarnya.$"
+	.string "Barang hiasan tu tengah diguna.\n"
+	.string "Tak boleh tukar.$"
 
 MauvilleCity_PokemonCenter_1F_Text_SendDecorToYourPC:
-	.string "Jadi, kita bertukar!\n"
+	.string "Okey, kita tukar!\n"
 	.string "Saya hantar barang hiasan saya ke PC.$"
 
 MauvilleCity_PokemonCenter_1F_Text_CantTradeThatOne:
@@ -248,27 +248,26 @@ MauvilleCity_PokemonCenter_1F_Text_IKnowNoTales:
 	.string "Tapi, saya tak kenal mana-mana\n"
 	.string "JURULATIH lagenda.\l"
 	.string "Jadi, saya tak tahu sebarang kisah.\p"
-	.string "Di mana boleh dicari JURULATIH yang\n"
-	.string "layak dijadikan kisah lagenda?$"
+	.string "Di mana agaknya saya boleh jumpa\n"
+	.string "JURULATIH yang layak jadi lagenda?$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouDidStatXTimes:
 	.string "Apa?!\n"
 	.string "Kamu… Kamu…\p"
 	.string "{STR_VAR_2}\n"
 	.string "sebanyak {STR_VAR_1} kali?!\p"
-	.string "Memang hebat sungguh!\n"
-	.string "Inilah kelahiran lagenda baru!$"
+	.string "Hebat betul!\n"
+	.string "Lahirlah satu lagenda baru!$"
 
 MauvilleCity_PokemonCenter_1F_Text_CouldThereBeOtherLegends:
-	.string "Saya jadi terfikir, mungkinkah ada\n"
-	.string "JURULATIH lain dengan lagenda yang\l"
-	.string "lebih hebat sedang menunggu untuk\l"
-	.string "ditemui?$"
+	.string "Saya tertanya-tanya, agaknya ada\n"
+	.string "tak JURULATIH lain yang lagendanya\l"
+	.string "lebih hebat, yang belum saya jumpa?$"
 
 MauvilleCity_PokemonCenter_1F_Text_HaveYouAnyLegendaryTales:
 	.string "Kamu JURULATIH?\p"
-	.string "Kalau begitu, beritahu saya, kamu ada\n"
-	.string "kisah yang boleh dikatakan lagenda?$"
+	.string "Kalau begitu, cuba cerita, kamu ada\n"
+	.string "kisah yang layak digelar lagenda?$"
 
 @ Unused
 MauvilleCity_PokemonCenter_1F_Text_HearAnotherLegendaryTale:
@@ -339,8 +338,8 @@ MauvilleCity_PokemonCenter_1F_Text_BikeTradesStory::
 	.string "bernama {STR_VAR_3}.\p"
 	.string "JURULATIH ini menukar BASIKAL\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
-	.string "{STR_VAR_3} mesti sangat menyayangi\n"
-	.string "BASIKAL sepenuh jiwa!$"
+	.string "{STR_VAR_3} mesti sayang BASIKAL\n"
+	.string "sepenuh jiwa!$"
 
 MauvilleCity_PokemonCenter_1F_Text_InterviewsTitle::
 	.string "JURULATIH Yang Ditemu Bual$"
@@ -470,15 +469,15 @@ MauvilleCity_PokemonCenter_1F_Text_SafariGamesStory::
 	.string "di ZON SAFARI!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutTitle::
-	.string "JURULATIH Gila POTONG$"
+	.string "JURULATIH Gila POTONGAN$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutAction::
-	.string "Menggunakan POTONG$"
+	.string "Menggunakan POTONGAN$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutStory::
 	.string "Ini kisah seorang JURULATIH\n"
 	.string "bernama {STR_VAR_3}.\p"
-	.string "JURULATIH ini menggunakan POTONG\n"
+	.string "JURULATIH ini menggunakan POTONGAN\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
 	.string "{STR_VAR_3} mesti JURULATIH yang\n"
 	.string "sangat suka MEMOTONG!$"
@@ -494,8 +493,9 @@ MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashStory::
 	.string "bernama {STR_VAR_3}.\p"
 	.string "JURULATIH ini menggunakan HANCUR BATU\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
-	.string "{STR_VAR_3} mesti JURULATIH yang tak\n"
-	.string "biarkan satu batu pun tak dihancurkan!$"
+	.string "{STR_VAR_3} mesti JURULATIH yang\n"
+	.string "pantang nampak batu, mesti\l"
+	.string "dihancurkan!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesTitle::
 	.string "JURULATIH Kaki Pindah$"
@@ -512,15 +512,15 @@ MauvilleCity_PokemonCenter_1F_Text_MovedBasesStory::
 	.string "berpindah rumah!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashTitle::
-	.string "JURULATIH Kaki PERCIK$"
+	.string "JURULATIH Kaki PERCIKAN$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashAction::
-	.string "Menggunakan PERCIK$"
+	.string "Menggunakan PERCIKAN$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashStory::
 	.string "Ini kisah seorang JURULATIH\n"
 	.string "bernama {STR_VAR_3}.\p"
-	.string "JURULATIH ini menggunakan PERCIK\n"
+	.string "JURULATIH ini menggunakan PERCIKAN\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
 	.string "{STR_VAR_3} mesti JURULATIH yang suka\n"
 	.string "BERPERCIKAN ke sana sini!$"
@@ -537,7 +537,7 @@ MauvilleCity_PokemonCenter_1F_Text_UsedStruggleStory::
 	.string "JURULATIH ini terpaksa guna MERONTA\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
 	.string "{STR_VAR_3} ialah JURULATIH tabah yang\n"
-	.string "tak pernah tunduk kepada kesusahan!$"
+	.string "tak pernah mengalah walau susah!$"
 
 MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsTitle::
 	.string "Juara MESIN SLOT$"
@@ -663,7 +663,7 @@ MauvilleCity_PokemonCenter_1F_Text_TimesRainedStory::
 	.string "JURULATIH ini basah ditimpa hujan\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
 	.string "Karisma {STR_VAR_3} mesti sampai\n"
-	.string "boleh menarik hujan!$"
+	.string "hujan pun tertarik!$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexTitle::
 	.string "Pembaca POKéDEX Tegar$"
@@ -759,8 +759,8 @@ MauvilleCity_PokemonCenter_1F_Text_UsedDaycareStory::
 	.string "bernama {STR_VAR_3}.\p"
 	.string "JURULATIH ini menghantar POKéMON ke\n"
 	.string "TASKA sebanyak {STR_VAR_1} kali!\p"
-	.string "{STR_VAR_3} mesti seorang yang gigih\n"
-	.string "membela POKéMON bersungguh-sungguh!$"
+	.string "{STR_VAR_3} mesti rajin betul\n"
+	.string "membela POKéMON!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RodeCableCarTitle::
 	.string "JURULATIH Kaki KERETA KABEL$"
@@ -870,7 +870,7 @@ MauvilleCity_PokemonCenter_1F_Text_AlsoIWasThinking:
 
 MauvilleCity_PokemonCenter_1F_Text_WeShouldChatAgain:
 	.string "Rasanya itu saja…\p"
-	.string "Kita patut berbual lagi!\n"
+	.string "Nanti kita borak lagi!\n"
 	.string "Bai-bai!$"
 
 MauvilleCity_PokemonCenter_1F_EventScript_Giddy::
@@ -929,8 +929,8 @@ MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues1:
 
 MauvilleCity_PokemonCenter_1F_Text_WishICouldPlaySongForOthers:
 	.string "Oh, lagu yang menyentuh hati…\n"
-	.string "Alangkah baiknya kalau saya dapat\l"
-	.string "nyanyikannya untuk orang lain…$"
+	.string "Kalaulah saya dapat nyanyikan lagu\l"
+	.string "ni untuk orang lain…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToWriteSomeLyrics:
 	.string "Jadi?\n"
@@ -948,11 +948,12 @@ MauvilleCity_PokemonCenter_1F_Text_LetMeSingItForYou:
 	.string "Biar saya nyanyikan untuk kamu.$"
 
 MauvilleCity_PokemonCenter_1F_Text_ThatHowYouWantedSongToGo:
-	.string "Begitukah lagu yang kamu mahu?$"
+	.string "Macam tu ke lagu yang kamu nak?$"
 
 MauvilleCity_PokemonCenter_1F_Text_IllSingThisSongForAWhile:
-	.string "Okey! Kalau begitu, jadilah.\n"
-	.string "Saya nyanyikan lagu ini buat sementara.$"
+	.string "Okey! Kalau macam tu, jadilah.\n"
+	.string "Saya akan nyanyi lagu ni buat\l"
+	.string "sementara waktu.$"
 
 MauvilleCity_PokemonCenter_1F_Text_TeachWhatsHipAndHappening:
 	.string "Hei, yo! Orang panggil saya HIPSTER.\n"

@@ -79,15 +79,15 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	end
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Helo dan selamat datang ke DEVON\n"
-	.string "CORPORATION.\p"
+	.string "Helo, selamat datang ke\n"
+	.string "DEVON CORPORATION.\p"
 	.string "Kami pengeluar barang dan ubat-ubatan\n"
 	.string "yang menceriakan hidup anda.$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
-	.string "Salah seorang staf penyelidik kami dah\n"
-	.string "bodoh-bodoh kena rompak bungkusan\l"
-	.string "penting.$"
+	.string "Ada staf penyelidik kami yang bodoh\n"
+	.string "sangat, sampai bungkusan penting pun\l"
+	.string "kena rompak.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
 	.string "Eh, KASUT LARI tu! Itu salah satu\n"
@@ -97,8 +97,8 @@ RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
 	.string "Bungkusan yang dicuri tu…\p"
-	.string "Memanglah ia penting, tapi bukannya\n"
-	.string "benda yang sesiapa boleh guna.\p"
+	.string "Memanglah penting, tapi bukannya benda\n"
+	.string "yang orang lain boleh guna.\p"
 	.string "Pada pendapat saya, perompak tu mesti\n"
 	.string "tak berapa cerdik.$"
 

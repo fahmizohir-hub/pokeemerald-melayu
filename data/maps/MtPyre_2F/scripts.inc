@@ -53,8 +53,8 @@ MtPyre_2F_Text_TumbledFromFloorAbove:
 	.string "tingkat atas.$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hoi! Kamu cari POKéMON ke?\n"
-	.string "Kamu ikut saya! Biadabnya!$"
+	.string "Hoi! Kamu cari POKéMON ke? Kamu\n"
+	.string "ekori saya, kan! Kurang ajar!$"
 
 MtPyre_2F_Text_MarkDefeat:
 	.string "Aiyaaaaa!\n"
@@ -65,11 +65,11 @@ MtPyre_2F_Text_MarkPostBattle:
 	.string "ingat ada POKéMON nadir.$"
 
 MtPyre_2F_Text_LukeIntro:
-	.string "LUKE: Kami datang sini sebab disahut\n"
-	.string "cabaran.\p"
-	.string "Hehe, kalau saya tunjuk betapa\n"
-	.string "hebatnya saya, mesti dia jatuh cinta.\l"
-	.string "Saya tahu!\p"
+	.string "LUKE: Kami datang sini\n"
+	.string "sebab kena cabar.\p"
+	.string "Hehe, kalau saya tunjuk\n"
+	.string "betapa hebatnya saya, mesti\l"
+	.string "dia jatuh cinta. Saya tahu!\p"
 	.string "Saya tahu! Saya belasah kamu dan\n"
 	.string "tunjuk pada dia betapa hebatnya saya!$"
 
@@ -89,13 +89,13 @@ MtPyre_2F_Text_LukeNotEnoughMons:
 	.string "saya!$"
 
 MtPyre_2F_Text_DezIntro:
-	.string "DEZ: Saya datang sini sebab disahut\n"
-	.string "cabaran dengan teman lelaki saya.\p"
-	.string "Memang seram sangat, tapi saya bersama\n"
-	.string "teman lelaki saya. Tak apa.\p"
-	.string "Saya tahu! Saya akan buat teman lelaki\n"
-	.string "saya nampak hebat dengan kalahkan\l"
-	.string "kamu!$"
+	.string "DEZ: Saya datang sini dengan teman\n"
+	.string "lelaki saya sebab kena cabar.\p"
+	.string "Memang seram sangat, tapi saya\n"
+	.string "bersama teman lelaki saya. Tak apa.\p"
+	.string "Saya tahu! Saya akan buat\n"
+	.string "teman lelaki saya nampak\l"
+	.string "hebat dengan kalahkan kamu!$"
 
 MtPyre_2F_Text_DezDefeat:
 	.string "DEZ: Waaaa! Saya takut!$"
@@ -119,10 +119,10 @@ MtPyre_2F_Text_LeahDefeat:
 	.string "Kamu memang tahan lasak.$"
 
 MtPyre_2F_Text_LeahPostBattle:
-	.string "Keluarga kami dah jadi JURULATIH di sini\n"
-	.string "sejak zaman moyang saya…\p"
-	.string "Menjadi tugas saya untuk melindungi\n"
-	.string "gunung ini…$"
+	.string "Keluarga kami dah jadi JURULATIH\n"
+	.string "di sini sejak zaman moyang saya…\p"
+	.string "Sudah jadi tugas saya\n"
+	.string "melindungi gunung ini…$"
 
 MtPyre_2F_Text_ZanderIntro:
 	.string "Kyaaaaaa!\n"

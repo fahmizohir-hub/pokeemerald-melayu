@@ -31,8 +31,8 @@ Route111_OldLadysRestStop_EventScript_DeclineRest::
 Route111_OldLadysRestStop_Text_RestUpHere:
 	.string "Aduhai, aduhai.\n"
 	.string "POKéMON kamu nampak penat sangat.\p"
-	.string "Kalau kamu mahu, berehatlah di sini.\n"
-	.string "Idea yang bagus tu! Buatlah begitu.$"
+	.string "Kalau nak, berehatlah di sini.\n"
+	.string "Bagus juga tu! Rehatlah dulu.$"
 
 Route111_OldLadysRestStop_Text_TakeYourTimeRestUp:
 	.string "Betul tu.\n"
@@ -42,7 +42,7 @@ Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest:
 	.string "Aduhai, aduhai.\n"
 	.string "POKéMON kamu masih penat?\p"
 	.string "Berehatlah lagi di sini.\n"
-	.string "Idea yang bagus tu. Buatlah begitu.$"
+	.string "Bagus juga tu. Rehatlah dulu.$"
 
 Route111_OldLadysRestStop_Text_DontNeedToBeShy:
 	.string "Begitu ke?\n"

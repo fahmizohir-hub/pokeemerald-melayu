@@ -284,16 +284,16 @@ DewfordTown_Gym_EventScript_GymStatue::
 
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hei, apa khabar, bakal JUARA {PLAYER}?\p"
-	.string "KETUA GIM DEWFORD, BRAWLY,\n"
-	.string "menggunakan POKéMON jenis LAWAN.\p"
+	.string "KETUA GIM DEWFORD, BRAWLY, guna\n"
+	.string "POKéMON jenis LAWAN.\p"
 	.string "Melawan dia dengan POKéMON jenis\n"
 	.string "NORMAL memang cari nahas.\p"
-	.string "POKéMON LAWAN akan belasan teruk\n"
+	.string "POKéMON LAWAN akan belasah teruk\n"
 	.string "POKéMON NORMAL, jadi berhati-hati!\p"
-	.string "Lebih teruk lagi, GIM ni gelap macam\n"
-	.string "dasar lautan.\p"
-	.string "Tapi ia akan jadi lebih terang bila kamu\n"
-	.string "kalahkan JURULATIH yang menghalang.\p"
+	.string "Satu lagi masalah, GIM ni gelap macam\n"
+	.string "dasar laut.\p"
+	.string "Tapi makin terang bila kamu kalahkan\n"
+	.string "JURULATIH yang menghalang.\p"
 	.string "Okey, ayuh, buat yang terbaik!$"
 
 DewfordTown_Gym_Text_GymGuidePostVictory:
@@ -312,18 +312,18 @@ DewfordTown_Gym_Text_TakaoPostBattle:
 
 DewfordTown_Gym_Text_JocelynIntro:
 	.string "BRAWLY tak perlu masuk campur!\p"
-	.string "Saya akan hancurkan kamu!$"
+	.string "Biar saya yang tumpaskan kamu!$"
 
 DewfordTown_Gym_Text_JocelynDefeat:
 	.string "Tapi… Macam mana? Macam mana saya\n"
 	.string "boleh kalah semudah itu?$"
 
 DewfordTown_Gym_Text_JocelynPostBattle:
-	.string "Saya takkan sia-siakan kekalahan ni. Ia\n"
-	.string "akan jadi pendorong saya untuk\l"
-	.string "berlatih!\p"
-	.string "Satu hari nanti saya akan jadi KETUA\n"
-	.string "GIM…\p"
+	.string "Saya takkan sia-siakan kekalahan ni.\n"
+	.string "Saya akan jadikan ia semangat\l"
+	.string "untuk berlatih!\p"
+	.string "Satu hari nanti saya akan jadi\n"
+	.string "KETUA GIM…\p"
 	.string "Tak, saya akan jadi JUARA LIGA POKéMON!$"
 
 DewfordTown_Gym_Text_LauraIntro:
@@ -341,7 +341,7 @@ DewfordTown_Gym_Text_LauraPostBattle:
 	.string "pernah nampak muka BRAWLY…$"
 
 DewfordTown_Gym_Text_LilithIntro:
-	.string "Ufufu… Kamu tersadung-sadung dalam\n"
+	.string "Ufufu… Kamu teraba-raba dalam\n"
 	.string "gelap ke?$"
 
 DewfordTown_Gym_Text_LilithDefeat:
@@ -352,23 +352,22 @@ DewfordTown_Gym_Text_LilithPostBattle:
 	.string "ke pintu masuk lagi!$"
 
 DewfordTown_Gym_Text_BrendenIntro:
-	.string "Saya tunjukkan semangat seorang\n"
-	.string "pelaut!$"
+	.string "Biar saya tunjuk semangat anak kapal!$"
 
 DewfordTown_Gym_Text_BrendenDefeat:
 	.string "Macam mana boleh jadi begini? Bukan\n"
-	.string "biasa saya kalah macam ni!$"
+	.string "selalu saya kalah macam ni!$"
 
 DewfordTown_Gym_Text_BrendenPostBattle:
-	.string "Oh, ya! Kamu layak berjumpa KETUA GIM\n"
-	.string "kami.$"
+	.string "Ya, betul! Kamu layak jumpa KETUA\n"
+	.string "GIM kami.$"
 
 DewfordTown_Gym_Text_CristianIntro:
 	.string "Kalau kamu nak lalu, kamu kena\n"
 	.string "tumpaskan saya dulu!$"
 
 DewfordTown_Gym_Text_CristianDefeat:
-	.string "Grrrrr! Jauh lebih kuat!$"
+	.string "Grrrrr! Kamu jauh lebih kuat!$"
 
 DewfordTown_Gym_Text_CristianPostBattle:
 	.string "Kamu menang! Pergilah dapatkan\n"
@@ -376,16 +375,16 @@ DewfordTown_Gym_Text_CristianPostBattle:
 
 DewfordTown_Gym_Text_BrawlyIntro:
 	.string "Saya BRAWLY! KETUA GIM DEWFORD!\p"
-	.string "Saya dah dipukul ombak ganas di sini,\n"
-	.string "dan jadi tegap dalam gua yang gelap\l"
-	.string "gelita!\p"
+	.string "Saya dibesarkan dek ombak ganas di\n"
+	.string "sini, dan jadi tegap dalam gua yang\l"
+	.string "gelap gelita!\p"
 	.string "Jadi kamu nak cabar saya? Tunjukkan\n"
 	.string "apa yang kamu ada!$"
 
 DewfordTown_Gym_Text_BrawlyDefeat:
 	.string "Wah, wah! Percikan kamu jauh lebih besar\n"
 	.string "dari jangkaan saya!\p"
-	.string "Saya ditenggelamkan!\p"
+	.string "Saya pula yang tenggelam!\p"
 	.string "Okey, kamu menang. Ambil LENCANA GIM ni!$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
@@ -395,17 +394,16 @@ DewfordTown_Gym_Text_ReceivedKnuckleBadge:
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
 	.string "Dengan LENCANA BUKU JARI, semua\n"
 	.string "POKéMON sehingga Tahap 30, termasuk\l"
-	.string "yang didapati melalui tukaran, akan\l"
+	.string "yang kamu dapat melalui tukaran, akan\l"
 	.string "patuh tanpa soal.\p"
-	.string "Dan kamu boleh guna move HM KILAT di\n"
+	.string "Kamu juga boleh guna HM KILAT di\n"
 	.string "luar pertarungan.\p"
-	.string "Kalau mahu, gunakan MESIN TEKNIKAL ini\n"
-	.string "juga.$"
+	.string "Kalau nak, ambil MESIN TEKNIKAL ni juga.$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
 	.string "TM08 tu mengandungi BINA OTOT.\p"
-	.string "Ia move yang menaikkan stat SERANGAN\n"
-	.string "dan PERTAHANAN.\p"
+	.string "Move ni naikkan stat SERANGAN dan\n"
+	.string "PERTAHANAN sekali gus.\p"
 	.string "… … … … … …$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:

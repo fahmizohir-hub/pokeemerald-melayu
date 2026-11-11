@@ -133,7 +133,7 @@ Route109_SeashoreHouse_Text_HereYouGo:
 	.string "Nah, ambil ni!$"
 
 Route109_SeashoreHouse_Text_NotEnoughMoney:
-	.string "Kamu tak cukup wang.$"
+	.string "Duit kamu tak cukup.$"
 
 Route109_SeashoreHouse_Text_ThatsTooBad:
 	.string "Tak nak? Sayangnya.$"
@@ -148,12 +148,13 @@ Route109_SeashoreHouse_Text_DwayneDefeated:
 	.string "kekalahan ni, kawan!$"
 
 Route109_SeashoreHouse_Text_DwaynePostBattle:
-	.string "Setiap kali di SLATEPORT, saya nikmati\n"
-	.string "pertarungan panas dan AIR SODA sejuk!$"
+	.string "Setiap kali ke SLATEPORT, saya mesti\n"
+	.string "layan pertarungan panas dan AIR\l"
+	.string "SODA sejuk!$"
 
 Route109_SeashoreHouse_Text_JohannaIntro:
-	.string "Pertarungan yang membosankan tak\n"
-	.string "berbaloi.\p"
+	.string "Tak berbaloi bertarung\n"
+	.string "kalau membosankan.\p"
 	.string "Pertarungan yang panas membara yang\n"
 	.string "buat JURULATIH dan POKéMON jadi tegap!$"
 
@@ -161,7 +162,7 @@ Route109_SeashoreHouse_Text_JohannaDefeated:
 	.string "Panasnya!$"
 
 Route109_SeashoreHouse_Text_JohannaPostBattle:
-	.string "Fuh, hausnya. Baik saya minum AIR SODA.$"
+	.string "Fuh, hausnya. Nak minum AIR SODA lah.$"
 
 Route109_SeashoreHouse_Text_SimonIntro:
 	.string "Saya nak tunjuk betapa hebatnya\n"
@@ -172,8 +173,8 @@ Route109_SeashoreHouse_Text_SimonDefeated:
 	.string "menangis…$"
 
 Route109_SeashoreHouse_Text_SimonPostBattle:
-	.string "Kalau POKéMON saya tahu move yang\n"
-	.string "boleh bawa saya seberang air atas\l"
+	.string "Kalau POKéMON saya tahu move untuk\n"
+	.string "bawa saya merentas air atas\l"
 	.string "belakangnya, saya boleh buang\l"
 	.string "pelampung ni.$"
 

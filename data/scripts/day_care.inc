@@ -274,12 +274,13 @@ Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon:
 
 Route117_Text_DoYouWantEgg:
 	.string "Ah, kamu rupanya!\p"
-	.string "Kami tengah bela POKéMON kamu, dan ya\n"
-	.string "ampun, terkejut betul kami!\p"
+	.string "Masa kami jaga POKéMON kamu,\n"
+	.string "aduhai, terkejut betul kami!\p"
 	.string "POKéMON kamu ada sebiji TELUR!\p"
-	.string "Kami tak tahu macam mana ia boleh ada,\n"
-	.string "tapi POKéMON kamu yang ada telur itu.\p"
-	.string "Kamu mahu, kan?$"
+	.string "Kami pun tak tahu dari mana datangnya,\n"
+	.string "tapi memang POKéMON kamu yang ada\l"
+	.string "TELUR tu.\p"
+	.string "Kamu nak, kan?$"
 
 Route117_Text_YourMonIsDoingFine:
 	.string "Ah, kamu rupanya! Gembira jumpa kamu.\n"
@@ -290,7 +291,7 @@ Route117_Text_IllKeepIt:
 	.string "Terima kasih!$"
 
 Route117_Text_YouHaveNoRoomForIt:
-	.string "Kamu tak ada ruang untuknya…\n"
+	.string "Kamu dah tak ada ruang…\n"
 	.string "Datang balik bila dah ada ruang.$"
 
 Route117_Text_ReceivedEgg:
@@ -298,14 +299,14 @@ Route117_Text_ReceivedEgg:
 	.string "PAKCIK TASKA.$"
 
 Route117_Text_TakeGoodCareOfIt:
-	.string "Jaga ia baik-baik, ya.$"
+	.string "Jaga baik-baik, ya.$"
 
 Route117_Text_FriendlyWithOtherTrainersMon:
 	.string "Oh ya, tentang {STR_VAR_1} kamu,\n"
-	.string "ia nampak mesra dengan\l"
+	.string "nampaknya dia rapat dengan\l"
 	.string "{STR_VAR_3} milik {STR_VAR_2}.\p"
-	.string "Saya rasa saya pernah nampak ia\n"
-	.string "menerima sepucuk SURAT.$"
+	.string "Rasanya saya pernah nampak dia\n"
+	.string "terima sepucuk SURAT.$"
 
 @ Unused
 Route117_Text_SeeWifeIfYouWantToPickUpMon:
@@ -317,8 +318,8 @@ Route117_Text_YourMonsAreDoingFine:
 	.string "{STR_VAR_2} kamu sihat-sihat saja.$"
 
 Route117_Text_IWillKeepDoYouWantIt:
-	.string "Saya betul-betul akan simpan, tau.\n"
-	.string "Kamu mahu, kan?$"
+	.string "Betul ni, nanti saya simpan sendiri.\n"
+	.string "Kamu nak, kan?$"
 
 Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon:
 	.string "Saya MAKCIK TASKA.\p"
@@ -329,9 +330,9 @@ Route117_PokemonDayCare_Text_WhichMonShouldWeRaise:
 	.string "POKéMON mana yang kamu nak kami bela?$"
 
 Route117_PokemonDayCare_Text_WellRaiseYourMon:
-	.string "Baiklah, kami akan bela {STR_VAR_1}\n"
-	.string "kamu buat sementara waktu.\p"
-	.string "Datang ambil nanti, ya.$"
+	.string "Baiklah, kami jaga {STR_VAR_1}\n"
+	.string "kamu untuk sementara.\p"
+	.string "Nanti datang ambil, ya.$"
 
 Route117_PokemonDayCare_Text_WeCanRaiseOneMore:
 	.string "Kami boleh bela dua POKéMON kamu.\n"
@@ -365,7 +366,8 @@ Route117_PokemonDayCare_Text_YourMonHasGrownXLevels:
 
 Route117_PokemonDayCare_Text_YourTeamIsFull:
 	.string "Pasukan POKéMON kamu dah penuh.\n"
-	.string "Kosongkan ruang, kemudian jumpa saya.$"
+	.string "Kosongkan ruang dulu, lepas tu\l"
+	.string "jumpa saya.$"
 
 @ Unused
 Route117_PokemonDayCare_Text_TakeBackWhichMon:
@@ -403,5 +405,5 @@ Route117_PokemonDayCare_Text_YoullBeLeftWithJustOne:
 	.string "Sabar, sabar.\p"
 	.string "Kalau POKéMON itu ditinggalkan di sini,\n"
 	.string "kamu cuma ada seekor saja.\p"
-	.string "Lebih baik kamu tangkap beberapa ekor\n"
-	.string "lagi, rasanya.$"
+	.string "Rasanya lebih baik kamu tangkap\n"
+	.string "beberapa ekor lagi.$"

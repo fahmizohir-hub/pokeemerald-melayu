@@ -43,8 +43,8 @@ sText_AuroraTicketForYou:
 sText_AuroraTicketUseAtPort:
 	.string "Nampaknya tiket ini untuk digunakan di\n"
 	.string "pelabuhan BANDAR LILYCOVE.\p"
-	.string "Apa kata kamu cuba dan tengok apa\n"
-	.string "sebenarnya?$"
+	.string "Apa kata kamu pergi ke sana dan\n"
+	.string "tengok sendiri?$"
 
 sText_AuroraTicketThankYou:
 	.string "Terima kasih kerana menggunakan Sistem\n"
@@ -54,4 +54,4 @@ sText_AuroraTicketBagFull:
 	.string "Oh, maaf, {PLAYER}.\n"
 	.string "POKET BRG PENTING dalam BEG penuh.\p"
 	.string "Tolong simpan sesuatu dalam PC,\n"
-	.string "kemudian datang balik untuk ambil ini.$"
+	.string "lepas tu datang balik ambil tiket ni.$"

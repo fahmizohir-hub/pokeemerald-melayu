@@ -846,9 +846,8 @@ Route110_Text_ChallengeReactionGood:
 	.string "masih mengelak perlanggaran.$"
 
 Route110_Text_ChallengeReactionOk:
-	.string "Saya anggap kamu masih dalam proses\n"
-	.string "belajar.\p"
-	.string "Namun, saya harap kamu tak lupa nikmat\n"
+	.string "Kamu masih belajar lagi, agaknya.\p"
+	.string "Tapi jangan lupa betapa seronoknya\n"
 	.string "berbasikal.$"
 
 Route110_Text_ChallengeReactionBad:
@@ -861,8 +860,8 @@ Route110_Text_ChallengeReactionWorst:
 	.string "…Saya terkejut…\p"
 	.string "Mungkin kamu tak sesuai untuk urusan\n"
 	.string "berbasikal ni.\p"
-	.string "Kamu patut fikir masak-masak untuk\n"
-	.string "pulangkan BASIKAL tu kepada RYDEL.$"
+	.string "Baik kamu fikir masak-masak, patut\n"
+	.string "tak pulangkan BASIKAL tu kepada RYDEL.$"
 
 Route110_Text_RatedForNumberOfCollisions:
 	.string "Ini JALAN BASIKAL.\p"
@@ -912,7 +911,7 @@ Route110_Text_TrainerTipsPrlzSleep:
 	.string "PETUA JURULATIH\p"
 	.string "Musuh boleh jadi tak berdaya kalau\n"
 	.string "dilumpuhkan atau ditidurkan.\p"
-	.string "Ia teknik penting dalam pertarungan\n"
+	.string "Ini teknik penting dalam pertarungan\n"
 	.string "POKéMON.$"
 
 Route110_Text_TrainerTipsRegisterItems:

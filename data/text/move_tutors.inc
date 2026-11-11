@@ -32,7 +32,7 @@ MoveTutor_Text_RolloutTeach:
 	.string "ke sana.\p"
 	.string "Agaknya POKéMON kamu pun nak\n"
 	.string "bergolek juga?\p"
-	.string "Saya boleh ajar move GOLEK\n"
+	.string "Saya boleh ajar move GOLEKAN\n"
 	.string "kalau kamu nak.$"
 
 MoveTutor_Text_RolloutDeclined:
@@ -73,10 +73,10 @@ MoveTutor_MimicTeach:
 	.string "di pekan ini.\p"
 	.string "Apa kata kamu, anak muda?\n"
 	.string "Sudikah kamu kalau saya tawarkan\l"
-	.string "untuk ajar move TIRU?$"
+	.string "untuk ajar move TIRUAN?$"
 
 MoveTutor_MimicDeclined:
-	.string "Alahai! Saya nak ajar TIRU\n"
+	.string "Alahai! Saya nak ajar TIRUAN\n"
 	.string "kepada POKéMON kamu!$"
 
 MoveTutor_Text_MimicWhichMon:
@@ -85,7 +85,7 @@ MoveTutor_Text_MimicWhichMon:
 	.string "yang kamu mahu saya ajar.$"
 
 MoveTutor_Text_MimicTaught:
-	.string "TIRU ialah move yang sangat mendalam.\p"
+	.string "TIRUAN ialah move yang amat mendalam.\p"
 	.string "Bolehkah kamu gunakannya sesempurna\n"
 	.string "saya…?$"
 
@@ -174,7 +174,7 @@ MoveTutor_Text_DynamicPunchTeach:
 	.string "Apa, jangan pandang saya macam tu!\n"
 	.string "Saya cuma tumbuk tanah!\p"
 	.string "Atau kamu nak saya ajar POKéMON\n"
-	.string "kamu TINJUDINAMIK?$"
+	.string "kamu TUMBUKAN DINAMIK?$"
 
 MoveTutor_Text_DynamicPunchDeclined:
 	.string "Cis! Kamu pun nak ejek saya?\n"
@@ -186,7 +186,7 @@ MoveTutor_Text_DynamicPunchWhichMon:
 
 MoveTutor_Text_DynamicPunchTaught:
 	.string "Saya nak kamu menang di GIM MOSSDEEP\n"
-	.string "dengan TINJUDINAMIK itu!$"
+	.string "dengan TUMBUKAN DINAMIK itu!$"
 
 MoveTutor_Text_DoubleEdgeTeach:
 	.string "Haih…\p"

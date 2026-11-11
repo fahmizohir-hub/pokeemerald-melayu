@@ -294,13 +294,13 @@ Route103_Text_MayDefeated:
 	.string "kau boleh tahan juga!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "MAY: Rasanya aku dah faham\n"
-	.string "kenapa ayah aku perhatikan kau.\p"
-	.string "Maksud aku, kau baru dapat\n"
-	.string "POKéMON tu, tapi ia dah suka kau.\p"
-	.string "Mungkin kau boleh berkawan dengan\n"
-	.string "apa saja jenis POKéMON dengan mudah.\p"
-	.string "Okeylah, masa untuk balik ke MAKMAL.$"
+	.string "MAY: Rasanya aku dah faham kenapa ayah\n"
+	.string "aku perhatikan kau.\p"
+	.string "Maksud aku, kau baru dapat POKéMON tu,\n"
+	.string "tapi dia dah sayang kau.\p"
+	.string "Mungkin kau memang senang berkawan\n"
+	.string "dengan apa saja jenis POKéMON.\p"
+	.string "Okeylah, jom balik ke MAKMAL.$"
 
 Route103_Text_BrendanRoute103Pokemon:
 	.string "BRENDAN: Okey, jadi yang ni dan\n"
@@ -318,13 +318,12 @@ Route103_Text_BrendanDefeated:
 	.string "Hmm, {PLAYER}, boleh tahan juga kau.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: Aku rasa aku faham. Aku\n"
-	.string "tahu kenapa ayah aku perhatikan kau.\p"
-	.string "Tengok, POKéMON kau dah suka\n"
-	.string "kau, walaupun kau baru dapat.\p"
-	.string "{PLAYER}, aku rasa kau boleh berkawan\n"
-	.string "dengan mana-mana POKéMON dengan\l"
-	.string "mudah.\p"
+	.string "BRENDAN: Aku rasa aku faham. Aku tahu\n"
+	.string "kenapa ayah aku perhatikan kau.\p"
+	.string "Tengok, POKéMON kau dah suka kau,\n"
+	.string "walaupun kau baru dapat.\p"
+	.string "{PLAYER}, aku rasa kau memang senang\n"
+	.string "berkawan dengan mana-mana POKéMON.\p"
 	.string "Jom kita balik ke MAKMAL.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
@@ -333,8 +332,8 @@ Route103_Text_ShouldHaveBroughtPotion:
 	.string "UBAT…$"
 
 Route103_Text_ShortcutToOldale:
-	.string "Kalau kamu seberangi laut dari sini,\n"
-	.string "itu jalan pintas ke PEKAN OLDALE.\p"
+	.string "Kalau seberang laut dari sini, ada jalan\n"
+	.string "pintas ke PEKAN OLDALE.\p"
 	.string "Hehehe, berguna, kan?$"
 
 Route103_Text_RouteSign:

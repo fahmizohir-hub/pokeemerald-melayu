@@ -215,10 +215,10 @@ SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
 	.string "Dah lama aku tunggu hari ini tiba…$"
 
 SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
-	.string "ARCHIE: Aku terkejut kau berjaya kejar\n"
-	.string "aku sampai ke sini.\p"
+	.string "ARCHIE: Aku terkejut kau\n"
+	.string "berjaya kejar aku sampai ke sini.\p"
 	.string "Tapi semuanya dah berakhir sekarang.\p"
-	.string "Demi merealisasikan impian aku, kau\n"
+	.string "Demi impian aku, kau\n"
 	.string "mesti lenyap sekarang!$"
 
 SeafloorCavern_Room9_Text_ArchieDefeat:
@@ -282,20 +282,19 @@ SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
 	.string "lautan yang makin dalam…$"
 
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
-	.string "ARCHIE: A-apa?!\n"
-	.string "Jangan nak berlagak mulia depan aku!\p"
-	.string "Bukankah kau, TEAM MAGMA, yang buat\n"
-	.string "GROUDON mengamuk?\p"
-	.string "Selagi aku ada MESTIKA MERAH ini, aku\n"
-	.string "sepatutnya boleh kawal KYOGRE…\p"
-	.string "Aku sepatutnya boleh kawal ia…$"
+	.string "ARCHIE: A-apa?! Jangan nak\n"
+	.string "berlagak mulia depan aku!\p"
+	.string "Bukankah kau, TEAM MAGMA,\n"
+	.string "yang buat GROUDON mengamuk?\p"
+	.string "Selagi aku ada MESTIKA MERAH ini,\n"
+	.string "aku sepatutnya boleh kawal KYOGRE…\p"
+	.string "Aku sepatutnya boleh kawal makhluk tu…$"
 
 SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue:
-	.string "MAXIE: Kita tiada masa nak bertekak di\n"
-	.string "sini!\p"
+	.string "MAXIE: Kita tiada masa\n"
+	.string "nak bertekak di sini!\p"
 	.string "Keluar dan tengok sendiri!\p"
-	.string "Tengok sama ada apa yang kau dah buat\n"
-	.string "ialah dunia yang kita impikan!$"
+	.string "Tengok, inikah dunia yang kita impikan?!$"
 
 SeafloorCavern_Room9_Text_MaxieComeOnPlayer:
 	.string "MAXIE: {PLAYER}, ayuh, kau pun kena\n"

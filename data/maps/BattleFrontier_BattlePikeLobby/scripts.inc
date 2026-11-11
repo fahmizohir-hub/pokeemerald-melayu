@@ -293,8 +293,8 @@ BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
 	.string "penyertaan kamu akan dibatalkan.$"
 
 BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou:
-	.string "Kami menanti untuk berjumpa kamu\n"
-	.string "pada lain kali…$"
+	.string "Kami nantikan kedatangan kamu\n"
+	.string "lain kali…$"
 
 BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
 	.string "Ada dua pilihan laluan,\n"
@@ -330,8 +330,8 @@ BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
 	.string "kamu mahu sertakan dalam cabaran…$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge:
-	.string "Sebelum memulakan cabaran Pilih\n"
-	.string "Tarung, saya perlu simpan permainan.\l"
+	.string "Sebelum cabaran Pilih Tarung kamu\n"
+	.string "bermula, saya perlu simpan permainan.\l"
 	.string "Boleh?$"
 
 BattleFrontier_BattlePikeLobby_Text_StepThisWay:
@@ -344,8 +344,8 @@ BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults:
 
 BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
 	.string "Kamu telah selesaikan cabaran…\p"
-	.string "Saya mesti katakan… Kamu nampaknya\n"
-	.string "memiliki tuah yang melimpah…$"
+	.string "Harus saya katakan… Tuah kamu\n"
+	.string "nampaknya melimpah-ruah…$"
 
 BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
 	.string "Saya akan rekodkan keputusan kamu.\n"
@@ -368,20 +368,22 @@ BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
 	.string "Maafkan saya, tapi…\p"
 	.string "Kamu tidak simpan sebelum berhenti\n"
 	.string "cabaran pada kali lepas.\p"
-	.string "Oleh itu, cabaran kamu setakat ini\n"
-	.string "telah dibatalkan. Saya minta maaf…$"
+	.string "Sebab itu, cabaran kamu setakat ini\n"
+	.string "dibatalkan. Saya minta maaf…$"
 
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
 	.string "Tahniah…\p"
-	.string "Kamu telah merampas kemenangan\n"
-	.string "daripada PIKE QUEEN dan tamat acara…$"
+	.string "Kamu berjaya merampas kemenangan\n"
+	.string "daripada PIKE QUEEN dan menamatkan\l"
+	.string "acara ini…$"
 
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints:
 	.string "Sebagai penghargaan atas tuah kamu\n"
-	.string "yang luar biasa, terimalah Mata Tarung…$"
+	.string "yang luar biasa, terimalah Mata Tarung\l"
+	.string "ini…$"
 
 BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
-	.string "Arrgh! Saya lepaskan peluang!\n"
+	.string "Arrgh! Melepas peluang saya!\n"
 	.string "Tinggal satu bilik saja lagi!\p"
 	.string "Di tempat ini, kamu kena berhati-hati\n"
 	.string "dengan racun, beku dan sebagainya.$"
@@ -406,7 +408,7 @@ BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
 	.string "JURULATIH tak kira laluan mana pun.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
-	.string "Peraturan Pilih Tarung tertera.$"
+	.string "Ini peraturan Pilih Tarung.$"
 
 BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
 	.string "Tajuk mana yang kamu mahu baca?$"
@@ -418,7 +420,7 @@ BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
 	.string "Semasa cabaran Pilih Tarung,\n"
 	.string "BERRY atau HERBA pegangan POKéMON\l"
-	.string "hanya berkesan sekali sahaja.$"
+	.string "berkesan sekali sahaja.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:
 	.string "Semasa cabaran Pilih Tarung,\n"

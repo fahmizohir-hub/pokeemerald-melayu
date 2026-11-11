@@ -39,5 +39,5 @@ MysteryGift_Text_TheresATicketForYou::
 MysteryGift_Text_TryUsingItAtLilycovePort::
 	.string "Nampaknya ia untuk digunakan di\n"
 	.string "pelabuhan BANDAR LILYCOVE.\p"
-	.string "Apa kata kamu cuba dan lihat\n"
-	.string "apa sebenarnya?$"
+	.string "Apa kata kamu cuba guna dan\n"
+	.string "tengok apa sebenarnya?$"

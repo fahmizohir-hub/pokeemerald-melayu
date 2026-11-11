@@ -53,10 +53,10 @@ PetalburgCity_PokemonCenter_1F_EventScript_SayMudkipType::
 	return
 
 PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem:
-	.string "Sistem Simpanan POKéMON\n"
-	.string "berasaskan PC tu…\p"
-	.string "Siapa pun yang mencipta, mesti\n"
-	.string "seorang ahli sains yang genius!$"
+	.string "Sistem Simpanan POKéMON berasaskan\n"
+	.string "PC tu…\p"
+	.string "Siapa pun yang cipta, mesti\n"
+	.string "genius sains!$"
 
 PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP:
 	.string "Bila POKéMON saya makan\n"

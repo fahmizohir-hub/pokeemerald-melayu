@@ -11,12 +11,12 @@ Text_PokemonCenterBookShelf:
 	.string "POKéMON COMEL…$"
 
 Text_Vase:
-	.string "Pasu ini nampak mahal…\n"
+	.string "Pasu ni nampak mahal…\n"
 	.string "Cuba jenguk ke dalam…\p"
-	.string "Tapi, ia kosong.$"
+	.string "Kosong rupanya.$"
 
 Text_EmptyTrashCan:
-	.string "Ia kosong.$"
+	.string "Kosong.$"
 
 Text_ShopShelf:
 	.string "Rak-raknya penuh dengan pelbagai\n"

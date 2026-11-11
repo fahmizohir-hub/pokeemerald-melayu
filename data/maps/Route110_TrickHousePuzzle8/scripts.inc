@@ -53,8 +53,8 @@ Route110_TrickHousePuzzle8_Text_KeiraDefeat:
 	.string "Saya tak boleh kalah!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "Satu keajaiban kamu kalahkan saya.\n"
-	.string "Kamu boleh berbangga.$"
+	.string "Ajaib betul kamu boleh kalahkan saya.\n"
+	.string "Bolehlah kamu bangga.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
 	.string "Kamu pun bertungkus-lumus melalui\n"

@@ -30,7 +30,7 @@ PacifidlogTown_EventScript_TownSign::
 PacifidlogTown_Text_FastRunningCurrent:
 	.string "Laut antara PACIFIDLOG dan SLATEPORT\n"
 	.string "ada arus yang sangat deras.\p"
-	.string "Kalau kamu guna LUNCUR OMBAK, kamu\n"
+	.string "Kalau kamu guna LUNCURAN OMBAK, kamu\n"
 	.string "mungkin dihanyutkan ke tempat lain.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:

@@ -534,8 +534,8 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
 	.string "meneroka PYRAMID dan cuba\l"
 	.string "sampai ke puncak.\p"
 	.string "Dalam PYRAMID ada tujuh tingkat\n"
-	.string "labirin, penuh bukan sahaja dengan\l"
-	.string "JURULATIH mahir tapi juga POKéMON liar.\p"
+	.string "labirin, yang penuh dengan JURULATIH\l"
+	.string "mahir dan juga POKéMON liar.\p"
 	.string "Kamu mesti masuk dengan tiga POKéMON,\n"
 	.string "tanpa sebarang barang dipegang.\p"
 	.string "Semasa mendaki, kamu akan diberi\n"
@@ -559,25 +559,25 @@ BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons:
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Ada sedikit masalah, pengembara!\p"
-	.string "Kamu nampaknya tiada tiga POKéMON\n"
+	.string "Nampaknya kamu tiada tiga POKéMON\n"
 	.string "yang layak untuk cabaran ini.\p"
 	.string "Ingat juga untuk ambil semua\n"
 	.string "barang daripada POKéMON kamu.\p"
 	.string "TELUR{STR_VAR_1}tidak layak.\p"
-	.string "Bila kamu sudah sedia, sila\n"
-	.string "bercakap dengan saya.$"
+	.string "Bila kamu dah sedia, datang\n"
+	.string "jumpa saya.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50:
 	.string "Ada sedikit masalah, pengembara!\p"
-	.string "Kamu nampaknya tiada tiga POKéMON\n"
+	.string "Nampaknya kamu tiada tiga POKéMON\n"
 	.string "yang layak untuk cabaran ini.\p"
 	.string "Tiga POKéMON itu mesti berlainan\n"
 	.string "dan tidak melebihi Tahap 50.\p"
 	.string "Ingat juga untuk ambil semua\n"
 	.string "barang daripada POKéMON kamu.\p"
 	.string "TELUR{STR_VAR_1}tidak layak.\p"
-	.string "Bila kamu sudah sedia, sila\n"
-	.string "bercakap dengan saya.$"
+	.string "Bila kamu dah sedia, datang\n"
+	.string "jumpa saya.$"
 
 BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge:
 	.string "Sebelum masuk BATTLE PYRAMID,\n"
@@ -593,7 +593,7 @@ BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
 	.string "Sebagai ganti, ambil BEG TARUNG ini,\n"
-	.string "yang kamu guna sebelum ini.$"
+	.string "iaitu yang kamu guna sebelum ini.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
 	.string "Sebagai ganti, sila ambil\n"
@@ -614,15 +614,15 @@ BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
 	.string "Masalah besar, penjelajah!\p"
 	.string "Kamu tidak simpan sebelum menamatkan\n"
 	.string "cabaran kamu pada kali lepas.\p"
-	.string "Oleh itu, penyertaan kamu telah\n"
-	.string "dibatalkan, dengan kesalnya.\p"
+	.string "Dengan kesalnya, penyertaan kamu\n"
+	.string "dalam cabaran itu dibatalkan.\p"
 	.string "Ini BEG yang kami jaga\n"
 	.string "untuk kamu.\p"
 	.string "{PLAYER} mendapat semula BEG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
-	.string "Gembira melihat kamu kembali!\p"
-	.string "Kamu telah menakluk PYRAMID!\n"
+	.string "Gembira tengok kamu kembali!\p"
+	.string "Kamu berjaya menakluk PYRAMID!\n"
 	.string "Hebat sungguh!$"
 
 BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
@@ -678,7 +678,7 @@ BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
 	.string "…Ah…\n"
-	.string "BEG kamu nampaknya penuh.\p"
+	.string "Nampaknya BEG kamu dah penuh.\p"
 	.string "Sila datang semula selepas kamu\n"
 	.string "kemaskan isi BEG kamu.$"
 
@@ -689,20 +689,20 @@ BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
 	.string "{PLAYER} mendapat semula BEG.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
-	.string "Kami menanti cabaran kamu\n"
+	.string "Kami nantikan cabaran kamu\n"
 	.string "yang seterusnya!$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize:
-	.string "Kami memang menanti\n"
-	.string "ketibaan kamu!\p"
+	.string "Kami memang nantikan\n"
+	.string "kedatangan kamu!\p"
 	.string "Ini hadiah kamu kerana menakluk\n"
 	.string "PYRAMID.$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait:
 	.string "Selamat datang…\p"
-	.string "Saya dengan senang hati akan ramal\n"
-	.string "nasib malang yang menanti di PYRAMID…$"
+	.string "Biar saya ramalkan nasib malang\n"
+	.string "yang menanti kamu di PYRAMID…$"
 
 BattleFrontier_BattlePyramidLobby_Text_Aah:
 	.string "… … … … … …\n"
@@ -753,7 +753,7 @@ BattleFrontier_BattlePyramidLobby_Text_HintExplosion:
 	.string "Saya nampak rentetan move yang\n"
 	.string "membahayakan penggunanya…\p"
 	.string "…Dan, saya nampak POKéMON kamu\n"
-	.string "tumbang olehnya…$"
+	.string "tumbang kerananya…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPsychic:
 	.string "Saya nampak POKéMON jenis PSIKIK…\p"
@@ -832,8 +832,8 @@ BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning:
 	.string "Kalau kamu berlari laju, JURULATIH\n"
 	.string "mungkin perasan dan kejar kamu.\p"
 	.string "Jadi, kalau mahu elak JURULATIH,\n"
-	.string "jangan sampai mereka nampak, tapi\l"
-	.string "menyelinap perlahan-lahan dan senyap.$"
+	.string "jangan sampai mereka nampak kamu.\l"
+	.string "Lalu perlahan-lahan, senyap-senyap.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
 	.string "Awaaaaaaarrrrgh!\p"
@@ -843,7 +843,7 @@ BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
 
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing:
 	.string "Selamat kembali!\n"
-	.string "Kamu telah buat perkara mustahil!\p"
+	.string "Kamu buat sesuatu yang luar biasa!\p"
 	.string "Kamu menewaskan PYRAMID KING\n"
 	.string "dan menakluk BATTLE PYRAMID!$"
 
@@ -853,7 +853,7 @@ BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints:
 	.string "kami berikan Mata Tarung ini!$"
 
 BattleFrontier_BattlePyramidLobby_Text_RulesAreListed:
-	.string "Peraturan Misi Tarung tertera.$"
+	.string "Ini peraturan Misi Tarung.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ReadWhichHeading:
 	.string "Tajuk mana yang kamu mahu baca?$"
