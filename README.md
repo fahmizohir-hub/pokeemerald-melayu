@@ -5,6 +5,8 @@ dekompilasi [pret/pokeemerald](https://github.com/pret/pokeemerald).
 
 Terjemahan oleh **me2suzuran**.
 
+Versi terkini: **v0.2.0**. Lihat [CHANGELOG.md](CHANGELOG.md) untuk senarai perubahan.
+
 > Projek peminat, tidak berkaitan dengan Nintendo, Game Freak, Creatures Inc.
 > atau The Pokémon Company. Repo ini **tidak** mengandungi fail ROM. Pokémon dan
 > semua nama berkaitan ialah tanda dagangan pemilik masing-masing.
