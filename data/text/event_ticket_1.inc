@@ -1,41 +1,41 @@
 EventTicket_Text_ShowOldSeaMap:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "I beg your pardon?\n"
-	.string "Can we sail to this place on the map?\p"
-	.string "I know someone who will help you better.\n"
-	.string "Please wait.$"
+	.string "Feri ke SLATEPORT ialah…\p"
+	.string "Maaf, apa tadi?\n"
+	.string "Boleh belayar ke tempat dalam peta ini?\p"
+	.string "Saya kenal orang yang boleh bantu.\n"
+	.string "Sila tunggu.$"
 
 EventTicket_Text_ThatPass:
-	.string "The ferry to SLATEPORT is…\p"
+	.string "Feri ke SLATEPORT ialah…\p"
 	.string "Oh?\n"
-	.string "That PASS…$"
+	.string "PAS itu…$"
 
 EventTicket_Text_ShowEonTicket:
-	.string "Aye, mate, are you the one who brought\n"
-	.string "that mighty odd PASS?\p"
-	.string "I'll tell you, you're trying to reach a\n"
-	.string "tiny spit of an island far in the south.\p"
-	.string "There's no telling what we'll encounter\n"
-	.string "once we reach there, aye.\l"
-	.string "That shivers my timbers!\p"
-	.string "All aboard!$"
+	.string "Ahoi, kawan, kamukah yang bawa\n"
+	.string "PAS yang sangat pelik itu?\p"
+	.string "Biar saya beritahu, kamu nak ke sebuah\n"
+	.string "pulau kecil yang jauh di selatan.\p"
+	.string "Entah apa yang kita akan temui\n"
+	.string "bila sampai di sana nanti.\l"
+	.string "Meremang bulu roma saya!\p"
+	.string "Semua naik kapal!$"
 
 EventTicket_Text_SouthernIslandSailBack:
-	.string "Aye, mate, there's nothing here to\n"
-	.string "see or do on this forgettable island.\p"
-	.string "What say we sail back to LILYCOVE?$"
+	.string "Ahoi, kawan, tiada apa yang boleh\n"
+	.string "dilihat di pulau yang sunyi ini.\p"
+	.string "Apa kata kita balik ke LILYCOVE?$"
 
 EventTicket_Text_SailHome:
-	.string "Aye, right, then!\n"
-	.string "Sail home we will!$"
+	.string "Baiklah, kalau begitu!\n"
+	.string "Kita belayar pulang!$"
 
 EventTicket_Text_AsYouLike:
-	.string "Aye, right, as you like, then.$"
+	.string "Baiklah, ikut suka kamulah.$"
 
 SouthernIsland_Interior_Text_Sign:
-	.string "“All dreams are but another reality.\n"
-	.string "Never forget…”$"
+	.string "“Setiap mimpi hanyalah realiti lain.\n"
+	.string "Jangan sesekali lupa…”$"
 
 SouthernIsland_Exterior_Text_Sign:
-	.string "“Those whose memories fade seek to\n"
-	.string "carve them in their hearts…”$"
+	.string "“Mereka yang ingatannya pudar cuba\n"
+	.string "mengukirnya di dalam hati…”$"

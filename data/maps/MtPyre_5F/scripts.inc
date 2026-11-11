@@ -9,17 +9,17 @@ MtPyre_4F_EventScript_Tasha::
 	end
 
 MtPyre_4F_Text_TashaIntro:
-	.string "I love all things horrifying…\n"
-	.string "It's like a disease…\p"
-	.string "When I'm here…\n"
-	.string "I shiver with fear…$"
+	.string "Saya suka semua benda yang\n"
+	.string "menyeramkan… Macam satu penyakit…\p"
+	.string "Bila saya di sini…\n"
+	.string "Saya menggigil ketakutan…$"
 
 MtPyre_4F_Text_TashaDefeat:
-	.string "Losing, I dislike…$"
+	.string "Kalah… saya tak suka…$"
 
 MtPyre_4F_Text_TashaPostBattle:
-	.string "I want to see dreadful things…\n"
-	.string "I can't leave…\p"
-	.string "Stay…\n"
-	.string "Won't you stay with me?$"
+	.string "Saya nak tengok benda yang ngeri… Saya\n"
+	.string "tak boleh pergi…\p"
+	.string "Tinggallah…\n"
+	.string "Sudikah kamu tinggal bersama saya?$"
 

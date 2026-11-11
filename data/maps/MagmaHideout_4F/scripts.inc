@@ -119,99 +119,99 @@ MagmaHideout_4F_EventScript_Tabitha::
 	end
 
 MagmaHideout_4F_Text_Grunt11Intro:
-	.string "I want to see GROUDON, too, but they\n"
-	.string "won't let me see even its tail…\p"
-	.string "It's got me feeling really frustrated.\p"
-	.string "Oh, no!\n"
-	.string "I blabbed about GROUDON!$"
+	.string "Aku pun nak tengok GROUDON, tapi\n"
+	.string "ekornya pun mereka tak bagi tengok…\p"
+	.string "Geram betul aku rasa.\p"
+	.string "Alamak!\n"
+	.string "Aku terlepas cakap pasal GROUDON!$"
 
 MagmaHideout_4F_Text_Grunt11Defeat:
-	.string "I guess it's impossible to win if one\n"
-	.string "doesn't have a calm mind…$"
+	.string "Rasanya memang mustahil menang kalau\n"
+	.string "fikiran tak tenang…$"
 
 MagmaHideout_4F_Text_Grunt11PostBattle:
-	.string "I wonder if GROUDON even has a tail?$"
+	.string "GROUDON tu ada ekor ke, agaknya?$"
 
 MagmaHideout_4F_Text_Grunt12Intro:
 	.string "Fuhahaha!\n"
-	.string "Soon! Very soon!\l"
-	.string "Our grand objective will be achieved!$"
+	.string "Tak lama lagi! Tak lama lagi!\l"
+	.string "Matlamat besar kami akan tercapai!$"
 
 MagmaHideout_4F_Text_Grunt12Defeat:
 	.string "Grrr…\n"
-	.string "I've come so far, but now this?$"
+	.string "Dah sampai sejauh ni, jadi begini?$"
 
 MagmaHideout_4F_Text_Grunt12PostBattle:
-	.string "MAXIE, sir!\n"
-	.string "An intruder is headed your way!$"
+	.string "Tuan MAXIE!\n"
+	.string "Ada penceroboh menuju ke arah tuan!$"
 
 MagmaHideout_4F_Text_Grunt13Intro:
-	.string "You're not finished yet!\n"
-	.string "You're not getting by me easily!$"
+	.string "Kau belum selesai lagi!\n"
+	.string "Kau takkan lepasi aku dengan mudah!$"
 
 MagmaHideout_4F_Text_Grunt13Defeat:
-	.string "Was I that easy to knock down?$"
+	.string "Senang sangat ke aku ditumpaskan?$"
 
 MagmaHideout_4F_Text_Grunt13PostBattle:
-	.string "C-come on, one more match…$"
+	.string "J-jomlah, satu pusingan lagi…$"
 
 MagmaHideout_4F_Text_TabithaIntro:
 	.string "Hehehe!\n"
-	.string "You made it this far, so I'll tell you!\p"
-	.string "That's right!\n"
-	.string "Up ahead, GROUDON is sleeping!\p"
-	.string "MAXIE went to GROUDON just seconds\n"
-	.string "ago!\p"
-	.string "It's going to awaken real soon!\n"
+	.string "Kau dah sampai sejauh ni, aku beritahu!\p"
+	.string "Betul!\n"
+	.string "Di hadapan sana, GROUDON sedang tidur!\p"
+	.string "MAXIE baru saja pergi ke arah GROUDON\n"
+	.string "beberapa saat tadi!\p"
+	.string "Ia akan bangun tak lama lagi!\n"
 	.string "Hehe! Hehehe!$"
 
 MagmaHideout_4F_Text_TabithaDefeat:
-	.string "Taken down again…\n"
+	.string "Tumpas lagi…\n"
 	.string "Hehe…$"
 
 MagmaHideout_4F_Text_TabithaPostBattle:
-	.string "…And while you wasted time with me,\n"
-	.string "MAXIE should have awakened GROUDON…$"
+	.string "…Dan masa kau buang masa dengan aku,\n"
+	.string "MAXIE patut dah bangunkan GROUDON…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon:
 	.string "MAXIE: GROUDON…\p"
-	.string "Nothing could awaken you from your\n"
-	.string "sleep bathed in magma…\p"
-	.string "This BLUE ORB is what you sought.\n"
-	.string "Wasn't it?\p"
-	.string "I have brought you the BLUE ORB.\n"
-	.string "Let its shine awaken you!\p"
-	.string "And show me…\n"
-	.string "Show me the full extent of your power!$"
+	.string "Tiada apa yang dapat membangunkan\n"
+	.string "kau dari tidur bermandikan magma…\p"
+	.string "MESTIKA BIRU inilah yang kau cari.\n"
+	.string "Bukankah begitu?\p"
+	.string "Aku dah bawakan MESTIKA BIRU.\n"
+	.string "Biar sinarnya membangunkan kau!\p"
+	.string "Dan tunjukkan kepadaku…\n"
+	.string "Tunjukkan sepenuh kuasamu!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
 	.string "MAXIE: GROUDON!\n"
-	.string "What's wrong?\p"
-	.string "Wasn't the BLUE ORB the key?\p"
+	.string "Kenapa?\p"
+	.string "Bukankah MESTIKA BIRU kuncinya?\p"
 	.string "GROUDON!\n"
-	.string "Where have you gone…$"
+	.string "Ke mana kau pergi…$"
 
 MagmaHideout_4F_Text_MaxieOhItWasYou:
-	.string "MAXIE: Oh, so it was you?\p"
-	.string "I've seen you poking around uninvited\n"
-	.string "here and there…\p"
-	.string "I get it now!\n"
-	.string "You must have pulled a cheap stunt!$"
+	.string "MAXIE: Oh, jadi kau rupanya?\p"
+	.string "Aku nampak kau menyibuk di sana sini\n"
+	.string "tanpa diundang…\p"
+	.string "Sekarang aku faham!\n"
+	.string "Kau mesti dah buat helah murahan!$"
 
 MagmaHideout_4F_Text_MaxieDefeat:
-	.string "What makes you so adept at handling\n"
-	.string "POKéMON?$"
+	.string "Apa yang buat kau begitu mahir\n"
+	.string "mengendalikan POKéMON?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
-	.string "MAXIE: There has to be some reason\n"
-	.string "why GROUDON fled…\p"
-	.string "That's what you're trying to say,\n"
-	.string "aren't you?\p"
+	.string "MAXIE: Mesti ada sebab kenapa\n"
+	.string "GROUDON melarikan diri…\p"
+	.string "Itu yang kau cuba katakan,\n"
+	.string "bukan?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "Humph…\n"
-	.string "You think I didn't know that?\p"
-	.string "With GROUDON gone, there is no longer\n"
-	.string "any need for this blasted volcano.\p"
-	.string "I am going after GROUDON, so this\n"
-	.string "is where we part!$"
+	.string "Hmph…\n"
+	.string "Kau ingat aku tak tahu?\p"
+	.string "Bila GROUDON dah tiada, gunung\n"
+	.string "berapi celaka ni tak diperlukan lagi.\p"
+	.string "Aku akan kejar GROUDON, jadi di\n"
+	.string "sinilah kita berpisah!$"

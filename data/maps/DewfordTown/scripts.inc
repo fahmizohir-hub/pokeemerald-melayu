@@ -620,164 +620,164 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "DEWFORD is a tiny island community.\n"
-	.string "If something gets trendy here,\l"
-	.string "everyone picks up on it right away.$"
+	.string "DEWFORD ni komuniti pulau yang kecil.\n"
+	.string "Kalau ada benda jadi trend di sini,\l"
+	.string "semua orang terus ikut.$"
 
 DewfordTown_Text_TownSign:
-	.string "DEWFORD TOWN\n"
-	.string "“A tiny island in the blue sea.”$"
+	.string "PEKAN DEWFORD\n"
+	.string "“Pulau kecil di tengah laut biru.”$"
 
 DewfordTown_Text_GymSign:
-	.string "DEWFORD TOWN POKéMON GYM\n"
-	.string "LEADER: BRAWLY\l"
-	.string "“A big wave in fighting!”$"
+	.string "GIM POKéMON PEKAN DEWFORD\n"
+	.string "KETUA: BRAWLY\l"
+	.string "“Ombak besar dalam pertarungan!”$"
 
 DewfordTown_Text_HallSign:
-	.string "DEWFORD HALL\n"
-	.string "“Everyone's information exchange!”$"
+	.string "DEWAN DEWFORD\n"
+	.string "“Tempat semua bertukar maklumat!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've hit land in DEWFORD.\p"
-	.string "I suppose you're off to deliver that\n"
-	.string "LETTER to, who was it now, STEVEN!$"
+	.string "ENCIK BRINEY: Ahoi! Kita dah mendarat\n"
+	.string "di DEWFORD.\p"
+	.string "Kamu nak pergi hantar SURAT tu kepada,\n"
+	.string "siapa namanya, STEVEN, kan!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
-	.string "MR. BRINEY: Have you delivered your\n"
-	.string "LETTER?\p"
-	.string "Or were you meaning to sail back to\n"
+	.string "ENCIK BRINEY: Kamu dah hantar SURAT\n"
+	.string "kamu?\p"
+	.string "Atau kamu nak belayar balik ke\n"
 	.string "PETALBURG?$"
 
 DewfordTown_Text_PetalburgWereSettingSail2:
-	.string "MR. BRINEY: PETALBURG it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "ENCIK BRINEY: Kalau begitu, ke\n"
+	.string "PETALBURG kita!\p"
+	.string "Angkat sauh! PEEKO, kita belayar,\n"
+	.string "sayangku!$"
 
 DewfordTown_Text_GoDeliverIllBeWaiting:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the LETTER. I'll be waiting.$"
+	.string "ENCIK BRINEY: Kalau begitu, pergilah\n"
+	.string "hantar SURAT tu. Saya tunggu.$"
 
 DewfordTown_Text_BrineyLandedInDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've hit land in DEWFORD!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+	.string "ENCIK BRINEY: Ahoi! Kita dah mendarat\n"
+	.string "di DEWFORD!\p"
+	.string "Bila-bila kamu nak belayar lagi,\n"
+	.string "beritahu saja saya!$"
 
 DewfordTown_Text_WhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "ENCIK BRINEY: Ahoi! Untuk kamu, saya\n"
+	.string "sanggup ke laut bila-bila masa!\p"
+	.string "Jadi, kawanku, kita nak ke mana?$"
 
 DewfordTown_Text_PetalburgWereSettingSail:
-	.string "MR. BRINEY: PETALBURG, is it?\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "ENCIK BRINEY: PETALBURG, ya?\p"
+	.string "Angkat sauh! PEEKO, kita belayar,\n"
+	.string "sayangku!$"
 
 DewfordTown_Text_SlateportWereSettingSail:
-	.string "MR. BRINEY: SLATEPORT, is it?\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "ENCIK BRINEY: SLATEPORT, ya?\p"
+	.string "Angkat sauh! PEEKO, kita belayar,\n"
+	.string "sayangku!$"
 
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "ENCIK BRINEY: Bila-bila kamu nak\n"
+	.string "belayar lagi, beritahu saja saya!$"
 
 DewfordTown_Text_GettingItchToFish:
-	.string "This is a renowned fishing spot.\n"
-	.string "Are you getting the itch to fish?$"
+	.string "Ini tempat memancing yang terkenal.\n"
+	.string "Kamu dah gatal tangan nak memancing?$"
 
 DewfordTown_Text_GiveYouOneOfMyRods:
-	.string "I hear you, and I like what\n"
-	.string "you're saying!\p"
-	.string "I'll give you one of my fishing RODS.$"
+	.string "Saya dengar, dan saya suka jawapan\n"
+	.string "kamu!\p"
+	.string "Saya beri kamu salah satu JORAN saya.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
-	.string "And, as an added bonus, I'll even throw\n"
-	.string "in a little fishing advice!\p"
-	.string "First, you want to face the water,\n"
-	.string "then use the ROD.\p"
-	.string "Focus your mind…\n"
-	.string "If you get a bite, pull on the ROD.\p"
-	.string "Sometimes you can snag something\n"
-	.string "immediately, but with bigger catches,\l"
-	.string "you need to time the pulls on your ROD\l"
-	.string "to haul them in.$"
+	.string "Dan sebagai bonus, saya beri sikit\n"
+	.string "nasihat memancing!\p"
+	.string "Mula-mula, hadap ke arah air, kemudian\n"
+	.string "guna JORAN.\p"
+	.string "Tumpukan fikiran… Kalau umpan dimakan,\n"
+	.string "tarik JORAN.\p"
+	.string "Kadang-kadang kamu boleh terus dapat\n"
+	.string "sesuatu, tapi untuk tangkapan yang\l"
+	.string "lebih besar, kamu kena tarik JORAN pada\l"
+	.string "masa yang tepat.$"
 
 DewfordTown_Text_ThatsTooBadThen:
-	.string "Oh, is that so?\n"
-	.string "That's too bad, then.$"
+	.string "Oh, begitu? Sayang sekali.$"
 
 DewfordTown_Text_HowsYourFishing:
-	.string "Yo!\n"
-	.string "How's your fishing?$"
+	.string "Hoi! Macam mana memancing kamu?$"
 
 DewfordTown_Text_GreatHaulInSomeBigOnes:
-	.string "Is that right! That's great!\n"
-	.string "Haul in some big ones!$"
+	.string "Betul ke! Bagusnya! Tangkaplah yang\n"
+	.string "besar-besar!$"
 
 DewfordTown_Text_FishingAdvice:
-	.string "Oh, hey, don't get down on yourself!\n"
-	.string "I'll give you a little fishing advice.\p"
-	.string "First, you want to face the water,\n"
-	.string "then use the ROD.\p"
-	.string "Focus your mind…\n"
-	.string "If you get a bite, pull the ROD.\p"
-	.string "Sometimes you can snag something\n"
-	.string "immediately, but with bigger catches,\l"
-	.string "you need to time the pulls on your ROD\l"
-	.string "to haul them in.$"
+	.string "Eh, jangan putus asa! Saya beri sikit\n"
+	.string "nasihat memancing.\p"
+	.string "Mula-mula, hadap ke arah air, kemudian\n"
+	.string "guna JORAN.\p"
+	.string "Tumpukan fikiran… Kalau umpan dimakan,\n"
+	.string "tarik JORAN.\p"
+	.string "Kadang-kadang kamu boleh terus dapat\n"
+	.string "sesuatu, tapi untuk tangkapan yang\l"
+	.string "lebih besar, kamu kena tarik JORAN pada\l"
+	.string "masa yang tepat.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
-	.string "I like what's hip, happening, and trendy.\n"
-	.string "I'm always checking it out.\p"
-	.string "Listen, have you heard about this new\n"
-	.string "“{STR_VAR_1}”?\p"
-	.string "That's right!\n"
-	.string "Of course you know!\p"
-	.string "I mean, sheesh,\n"
+	.string "Saya suka benda yang hip, hangat dan\n"
+	.string "trendy. Saya sentiasa ikut\l"
+	.string "perkembangannya.\p"
+	.string "Dengar sini, kamu dah dengar tentang\n"
+	.string "“{STR_VAR_1}” yang baru ni?\p"
+	.string "Betul tu! Mestilah kamu tahu!\p"
+	.string "Maksud saya, aduhai,\n"
 	.string "“{STR_VAR_1}”…\l"
-	.string "It's the hottest thing in cool!\p"
-	.string "Wherever you're from,\n"
+	.string "Itulah benda paling hangat sekarang!\p"
+	.string "Dari mana pun kamu datang,\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "is the biggest happening thing, right?$"
+	.string "memang benda paling hangat, kan?$"
 
 DewfordTown_Text_TellMeWhatsNewAndIn:
-	.string "Hunh?\n"
-	.string "It's not the hip and happening thing?\p"
-	.string "Well, hey, you have to tell me,\n"
-	.string "what's new and what's “in”?$"
+	.string "Hah? Itu bukan benda yang hip dan\n"
+	.string "hangat?\p"
+	.string "Kalau begitu, beritahulah saya, apa\n"
+	.string "yang baru dan apa yang “in”?$"
 
 DewfordTown_Text_OfCourseIKnowAboutThat:
-	.string "Hunh?\n"
+	.string "Hah?\n"
 	.string "“{STR_VAR_2}”?\p"
 	.string "… …\p"
-	.string "…Uh… Yeah! That's right!\n"
-	.string "Yeah, I knew that! Knew it all along!\p"
-	.string "Of course I know about that!\n"
-	.string "“{STR_VAR_2},” right?\p"
-	.string "Yeah, that's it, it's there!\n"
-	.string "Isn't “{STR_VAR_2}”\l"
-	.string "the coolest, or what?\p"
-	.string "It's the hippest thing in hip.\n"
-	.string "You think I'd not know about it?\p"
+	.string "…Err… Ya! Betul tu! Ya, saya tahu! Dah\n"
+	.string "lama saya tahu!\p"
+	.string "Mestilah saya tahu!\n"
+	.string "“{STR_VAR_2},” kan?\p"
+	.string "Ya, itulah dia, memang betul!\n"
+	.string "Bukankah “{STR_VAR_2}”\l"
+	.string "paling hebat?\p"
+	.string "Itulah benda paling hip. Takkanlah saya\n"
+	.string "tak tahu?\p"
 	.string "“{STR_VAR_1}”…\n"
-	.string "It's, like, so five minutes ago.\p"
-	.string "Now, “{STR_VAR_2}” is\n"
-	.string "what's vital and in tune with the times!$"
+	.string "Itu dah ketinggalan zaman.\p"
+	.string "Sekarang, “{STR_VAR_2}”\n"
+	.string "yang paling kena dengan zaman!$"
 
 DewfordTown_Text_XHuhIThinkYIsCool:
 	.string "Hmm…\n"
-	.string "“{STR_VAR_2},” huh?\p"
-	.string "But personally, I think\n"
+	.string "“{STR_VAR_2},” ya?\p"
+	.string "Tapi bagi saya,\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "is what's real in cool.$"
+	.string "yang betul-betul hebat.$"
 
 DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
-	.string "Well, if you hear of any happening new\n"
-	.string "trends, come share them with me, okay?$"
+	.string "Kalau kamu dengar apa-apa trend baru\n"
+	.string "yang hangat, kongsilah dengan saya,\l"
+	.string "okey?$"
 
 DewfordTown_Text_YeahDefinitionOfInRightNow:
-	.string "Yeah, absolutely right!\p"
-	.string "“{STR_VAR_1}” is the\n"
-	.string "definition of “in” right now.$"
+	.string "Ya, betul sangat!\p"
+	.string "“{STR_VAR_1}” memang\n"
+	.string "paling “in” sekarang ni.$"

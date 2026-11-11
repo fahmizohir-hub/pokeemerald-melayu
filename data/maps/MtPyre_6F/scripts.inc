@@ -28,42 +28,42 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "When I'm here…\n"
-	.string "A curious power flows into me…$"
+	.string "Bila saya di sini…\n"
+	.string "Satu kuasa aneh mengalir ke dalam diri…$"
 
 MtPyre_6F_Text_ValerieDefeat:
-	.string "The power is ebbing away…$"
+	.string "Kuasa itu semakin surut…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here…$"
+	.string "Mungkin kuasa itu datang daripada roh\n"
+	.string "POKéMON yang tidur gelisah di sini…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… I lost the match, but…\n"
-	.string "I have this little ability…\p"
-	.string "Without ever laying my hands on\n"
-	.string "your POKéNAV… Hiyah!$"
+	.string "Fufufu… Saya kalah, tapi… Saya ada\n"
+	.string "kebolehan kecil ni…\p"
+	.string "Tanpa sentuh POKéNAV kamu pun… Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
-	.string "Behind you…\n"
-	.string "What is it…$"
+	.string "Di belakang kamu…\n"
+	.string "Apa itu…$"
 
 MtPyre_6F_Text_ValerieRematchDefeat:
-	.string "Something faded away…$"
+	.string "Sesuatu dah lenyap…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "The POKéMON at rest here…\n"
-	.string "Sometimes, they play…$"
+	.string "POKéMON yang bersemadi di sini…\n"
+	.string "Kadang-kadang, mereka bermain…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Have you lost your bearings?\n"
-	.string "Have no fear for I am here!$"
+	.string "Kamu sesat ke?\n"
+	.string "Jangan takut, saya ada di sini!$"
 
 MtPyre_6F_Text_CedricDefeat:
-	.string "Weren't you lost?$"
+	.string "Kamu tak sesat ke?$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "I had this feeling that a lost TRAINER\n"
-	.string "would be panicked and easy to beat.\p"
-	.string "It's dirty and I won't try it again…$"
+	.string "Saya ingat JURULATIH yang sesat mesti\n"
+	.string "panik dan senang dikalahkan.\p"
+	.string "Itu taktik kotor, saya takkan cuba\n"
+	.string "lagi…$"
 

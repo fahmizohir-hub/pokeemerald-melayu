@@ -126,606 +126,606 @@ BattlePyramid_Retire::
 
 @ Also used by Trainer Hill
 BattleFacility_TrainerBattle_PlaceholderText:
-	.string "This is a sample message.$"
+	.string "Ini ialah mesej contoh.$"
 
 gText_BattlePyramidConfirmRest::
-	.string "Your BATTLE PYRAMID quest will be\n"
-	.string "saved so that you may quit for now.\l"
-	.string "Is that okay?$"
+	.string "Pengembaraan BATTLE PYRAMID kamu\n"
+	.string "akan disimpan supaya boleh berhenti.\l"
+	.string "Boleh?$"
 
 gText_BattlePyramidConfirmRetire::
-	.string "Are you sure you want to quit your\n"
-	.string "PYRAMID quest?$"
+	.string "Kamu pasti mahu hentikan\n"
+	.string "pengembaraan PYRAMID kamu?$"
 
 BattlePyramid_Text_ExitHintUp1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {UP_ARROW}$"
+	.string "Pintu keluar tingkat ini ada di\n"
+	.string "arah sana: {UP_ARROW}$"
 
 BattlePyramid_Text_ExitHintLeft1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {LEFT_ARROW}$"
+	.string "Pintu keluar tingkat ini ada di\n"
+	.string "arah sana: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {RIGHT_ARROW}$"
+	.string "Pintu keluar tingkat ini ada di\n"
+	.string "arah sana: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown1::
-	.string "This floor's exit is in\n"
-	.string "that direction: {DOWN_ARROW}$"
+	.string "Pintu keluar tingkat ini ada di\n"
+	.string "arah sana: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp2::
-	.string "The exit on this floor is in\n"
-	.string "the {UP_ARROW} direction.$"
+	.string "Pintu keluar di tingkat ini\n"
+	.string "menghala ke {UP_ARROW}.$"
 
 BattlePyramid_Text_ExitHintLeft2::
-	.string "The exit on this floor is in\n"
-	.string "the {LEFT_ARROW} direction.$"
+	.string "Pintu keluar di tingkat ini\n"
+	.string "menghala ke {LEFT_ARROW}.$"
 
 BattlePyramid_Text_ExitHintRight2::
-	.string "The exit on this floor is in\n"
-	.string "the {RIGHT_ARROW} direction.$"
+	.string "Pintu keluar di tingkat ini\n"
+	.string "menghala ke {RIGHT_ARROW}.$"
 
 BattlePyramid_Text_ExitHintDown2::
-	.string "The exit on this floor is in\n"
-	.string "the {DOWN_ARROW} direction.$"
+	.string "Pintu keluar di tingkat ini\n"
+	.string "menghala ke {DOWN_ARROW}.$"
 
 BattlePyramid_Text_ExitHintUp3::
-	.string "The exit is over\n"
-	.string "that {UP_ARROW} way.$"
+	.string "Pintu keluar ada\n"
+	.string "di sebelah {UP_ARROW} sana.$"
 
 BattlePyramid_Text_ExitHintLeft3::
-	.string "The exit is over\n"
-	.string "that {LEFT_ARROW} way.$"
+	.string "Pintu keluar ada\n"
+	.string "di sebelah {LEFT_ARROW} sana.$"
 
 BattlePyramid_Text_ExitHintRight3::
-	.string "The exit is over\n"
-	.string "that {RIGHT_ARROW} way.$"
+	.string "Pintu keluar ada\n"
+	.string "di sebelah {RIGHT_ARROW} sana.$"
 
 BattlePyramid_Text_ExitHintDown3::
-	.string "The exit is over\n"
-	.string "that {DOWN_ARROW} way.$"
+	.string "Pintu keluar ada\n"
+	.string "di sebelah {DOWN_ARROW} sana.$"
 
 BattlePyramid_Text_ExitHintUp4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {UP_ARROW} direction.$"
+	.string "Di tingkat ini, pintu keluar ada di\n"
+	.string "suatu tempat ke arah {UP_ARROW}.$"
 
 BattlePyramid_Text_ExitHintLeft4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {LEFT_ARROW} direction.$"
+	.string "Di tingkat ini, pintu keluar ada di\n"
+	.string "suatu tempat ke arah {LEFT_ARROW}.$"
 
 BattlePyramid_Text_ExitHintRight4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {RIGHT_ARROW} direction.$"
+	.string "Di tingkat ini, pintu keluar ada di\n"
+	.string "suatu tempat ke arah {RIGHT_ARROW}.$"
 
 BattlePyramid_Text_ExitHintDown4::
-	.string "On this floor, the exit is somewhere\n"
-	.string "in the {DOWN_ARROW} direction.$"
+	.string "Di tingkat ini, pintu keluar ada di\n"
+	.string "suatu tempat ke arah {DOWN_ARROW}.$"
 
 BattlePyramid_Text_ExitHintUp5::
-	.string "The exit?\n"
-	.string "It's that {UP_ARROW} way.$"
+	.string "Pintu keluar?\n"
+	.string "Ikut arah {UP_ARROW} tu.$"
 
 BattlePyramid_Text_ExitHintLeft5::
-	.string "The exit?\n"
-	.string "It's that {LEFT_ARROW} way.$"
+	.string "Pintu keluar?\n"
+	.string "Ikut arah {LEFT_ARROW} tu.$"
 
 BattlePyramid_Text_ExitHintRight5::
-	.string "The exit?\n"
-	.string "It's that {RIGHT_ARROW} way.$"
+	.string "Pintu keluar?\n"
+	.string "Ikut arah {RIGHT_ARROW} tu.$"
 
 BattlePyramid_Text_ExitHintDown5::
-	.string "The exit?\n"
-	.string "It's that {DOWN_ARROW} way.$"
+	.string "Pintu keluar?\n"
+	.string "Ikut arah {DOWN_ARROW} tu.$"
 
 BattlePyramid_Text_ExitHintUp6::
-	.string "The exit happens to be in\n"
-	.string "the {UP_ARROW} direction.$"
+	.string "Pintu keluar kebetulan berada\n"
+	.string "ke arah {UP_ARROW}.$"
 
 BattlePyramid_Text_ExitHintLeft6::
-	.string "The exit happens to be in\n"
-	.string "the {LEFT_ARROW} direction.$"
+	.string "Pintu keluar kebetulan berada\n"
+	.string "ke arah {LEFT_ARROW}.$"
 
 BattlePyramid_Text_ExitHintRight6::
-	.string "The exit happens to be in\n"
-	.string "the {RIGHT_ARROW} direction.$"
+	.string "Pintu keluar kebetulan berada\n"
+	.string "ke arah {RIGHT_ARROW}.$"
 
 BattlePyramid_Text_ExitHintDown6::
-	.string "The exit happens to be in\n"
-	.string "the {DOWN_ARROW} direction.$"
+	.string "Pintu keluar kebetulan berada\n"
+	.string "ke arah {DOWN_ARROW}.$"
 
 BattlePyramid_Text_EightItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are eight items left to\n"
-	.string "be found.$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Ada lapan barang lagi yang\n"
+	.string "belum dijumpai.$"
 
 BattlePyramid_Text_SevenItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are seven items left to\n"
-	.string "be found.$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Ada tujuh barang lagi yang\n"
+	.string "belum dijumpai.$"
 
 BattlePyramid_Text_SixItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are six items left to\n"
-	.string "be found.$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Ada enam barang lagi yang\n"
+	.string "belum dijumpai.$"
 
 BattlePyramid_Text_FiveItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are five items left to\n"
-	.string "be found.$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Ada lima barang lagi yang\n"
+	.string "belum dijumpai.$"
 
 BattlePyramid_Text_FourItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are four items left to\n"
-	.string "be found.$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Ada empat barang lagi yang\n"
+	.string "belum dijumpai.$"
 
 BattlePyramid_Text_ThreeItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are three items left to\n"
-	.string "be found.$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Ada tiga barang lagi yang\n"
+	.string "belum dijumpai.$"
 
 BattlePyramid_Text_TwoItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There are two items left to\n"
-	.string "be found.$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Ada dua barang lagi yang\n"
+	.string "belum dijumpai.$"
 
 BattlePyramid_Text_OneItemRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There is one item left to\n"
-	.string "be found.$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Ada satu barang lagi yang\n"
+	.string "belum dijumpai.$"
 
 BattlePyramid_Text_ZeroItemsRemaining1::
-	.string "Are you looking for items?\p"
-	.string "There isn't anything left to\n"
-	.string "be found!$"
+	.string "Kamu sedang cari barang?\p"
+	.string "Dah tiada apa-apa lagi yang\n"
+	.string "boleh dijumpai!$"
 
 BattlePyramid_Text_EightItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are eight items\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Ada lapan barang\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_SevenItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are seven items left\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Ada tujuh barang lagi\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_SixItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are six items left\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Ada enam barang lagi\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_FiveItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are five items left\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Ada lima barang lagi\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_FourItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are four items left\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Ada empat barang lagi\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_ThreeItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are three items left\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Ada tiga barang lagi\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_TwoItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There are two items left\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Ada dua barang lagi\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_OneItemRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There is just one item\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Cuma ada satu barang\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_ZeroItemsRemaining2::
-	.string "Because you won, I'll tell you\n"
-	.string "a little secret!\p"
-	.string "There isn't anything left\n"
-	.string "lying around here.$"
+	.string "Sebab kamu menang, saya beritahu\n"
+	.string "satu rahsia kecil!\p"
+	.string "Dah tiada apa-apa lagi\n"
+	.string "bertaburan di sini.$"
 
 BattlePyramid_Text_EightItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are eight items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya ada lapan barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.$"
 
 BattlePyramid_Text_SevenItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are seven items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya ada tujuh barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.$"
 
 BattlePyramid_Text_SixItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are six items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya ada enam barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.$"
 
 BattlePyramid_Text_FiveItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are five items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya ada lima barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.$"
 
 BattlePyramid_Text_FourItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are four items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya ada empat barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.$"
 
 BattlePyramid_Text_ThreeItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are three items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya ada tiga barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.$"
 
 BattlePyramid_Text_TwoItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are two items left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya ada dua barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.$"
 
 BattlePyramid_Text_OneItemRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there's but one item left\n"
-	.string "waiting to be found on this floor.$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya cuma ada satu barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.$"
 
 BattlePyramid_Text_ZeroItemsRemaining3::
-	.string "How's your stock of items holding up?\p"
-	.string "I reckon there are no more items\n"
-	.string "waiting to be found on this floor.\l"
-	.string "You take care now!$"
+	.string "Macam mana stok barang kamu?\p"
+	.string "Rasanya dah tiada barang lagi\n"
+	.string "menunggu dijumpai di tingkat ini.\l"
+	.string "Jaga diri, ya!$"
 
 BattlePyramid_Text_EightItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be eight more\n"
-	.string "items on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya ada lapan lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_SevenItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be seven more\n"
-	.string "items on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya ada tujuh lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_SixItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be six more\n"
-	.string "items on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya ada enam lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_FiveItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be five more\n"
-	.string "items on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya ada lima lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_FourItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be four more\n"
-	.string "items on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya ada empat lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_ThreeItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be three more\n"
-	.string "items on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya ada tiga lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_TwoItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be two more\n"
-	.string "items on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya ada dua lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_OneItemRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appears to be only one more\n"
-	.string "item on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya cuma ada satu lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_ZeroItemsRemaining4::
-	.string "You're strong, so you've earned\n"
-	.string "a hint!\p"
-	.string "There appear to be no more\n"
-	.string "items on the ground.$"
+	.string "Kamu kuat, jadi kamu layak dapat\n"
+	.string "satu petunjuk!\p"
+	.string "Nampaknya dah tiada lagi\n"
+	.string "barang di atas lantai.$"
 
 BattlePyramid_Text_EightItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are eight items…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya ada lapan barang…$"
 
 BattlePyramid_Text_SevenItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are seven items…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya ada tujuh barang…$"
 
 BattlePyramid_Text_SixItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are six items…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya ada enam barang…$"
 
 BattlePyramid_Text_FiveItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are five items…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya ada lima barang…$"
 
 BattlePyramid_Text_FourItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are four items…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya ada empat barang…$"
 
 BattlePyramid_Text_ThreeItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are three items…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya ada tiga barang…$"
 
 BattlePyramid_Text_TwoItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are two items…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya ada dua barang…$"
 
 BattlePyramid_Text_OneItemRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there is one item…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya ada satu barang…$"
 
 BattlePyramid_Text_ZeroItemsRemaining5::
-	.string "On this floor of the PYRAMID,\n"
-	.string "I hear there are no items…$"
+	.string "Di tingkat PYRAMID ini,\n"
+	.string "katanya tiada barang…$"
 
 BattlePyramid_Text_EightItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are eight more\n"
-	.string "items on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa ada lapan lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_SevenItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are seven more\n"
-	.string "items on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa ada tujuh lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_SixItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are six more\n"
-	.string "items on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa ada enam lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_FiveItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are five more\n"
-	.string "items on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa ada lima lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_FourItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are four more\n"
-	.string "items on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa ada empat lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_ThreeItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are three more\n"
-	.string "items on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa ada tiga lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_TwoItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are two more\n"
-	.string "items on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa ada dua lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_OneItemRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there is one more\n"
-	.string "item on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa ada satu lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_ZeroItemsRemaining6::
-	.string "Have you collected any items?\p"
-	.string "I believe there are no more\n"
-	.string "items on this floor.$"
+	.string "Kamu ada kumpul barang?\p"
+	.string "Saya rasa dah tiada lagi\n"
+	.string "barang di tingkat ini.$"
 
 BattlePyramid_Text_SevenTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still seven tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Kamu memang hebat!\p"
+	.string "Tapi masih ada tujuh JURULATIH\n"
+	.string "hebat selain saya!$"
 
 BattlePyramid_Text_SixTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still six tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Kamu memang hebat!\p"
+	.string "Tapi masih ada enam JURULATIH\n"
+	.string "hebat selain saya!$"
 
 BattlePyramid_Text_FiveTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still five tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Kamu memang hebat!\p"
+	.string "Tapi masih ada lima JURULATIH\n"
+	.string "hebat selain saya!$"
 
 BattlePyramid_Text_FourTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still four tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Kamu memang hebat!\p"
+	.string "Tapi masih ada empat JURULATIH\n"
+	.string "hebat selain saya!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still three tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Kamu memang hebat!\p"
+	.string "Tapi masih ada tiga JURULATIH\n"
+	.string "hebat selain saya!$"
 
 BattlePyramid_Text_TwoTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there are still two tough\n"
-	.string "TRAINERS other than me!$"
+	.string "Kamu memang hebat!\p"
+	.string "Tapi masih ada dua JURULATIH\n"
+	.string "hebat selain saya!$"
 
 BattlePyramid_Text_OneTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "But there's still one tough\n"
-	.string "TRAINER other than me!$"
+	.string "Kamu memang hebat!\p"
+	.string "Tapi masih ada satu JURULATIH\n"
+	.string "hebat selain saya!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining1::
-	.string "You were really awesome!\p"
-	.string "There's no one left that\n"
-	.string "can beat you!$"
+	.string "Kamu memang hebat!\p"
+	.string "Dah tiada sesiapa lagi yang\n"
+	.string "boleh kalahkan kamu!$"
 
 BattlePyramid_Text_SevenTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are seven TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Geramnya saya!\p"
+	.string "Tapi ada tujuh JURULATIH lagi!\n"
+	.string "Akan ada yang tundukkan kamu!$"
 
 BattlePyramid_Text_SixTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are six TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Geramnya saya!\p"
+	.string "Tapi ada enam JURULATIH lagi!\n"
+	.string "Akan ada yang tundukkan kamu!$"
 
 BattlePyramid_Text_FiveTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are five TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Geramnya saya!\p"
+	.string "Tapi ada lima JURULATIH lagi!\n"
+	.string "Akan ada yang tundukkan kamu!$"
 
 BattlePyramid_Text_FourTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are four TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Geramnya saya!\p"
+	.string "Tapi ada empat JURULATIH lagi!\n"
+	.string "Akan ada yang tundukkan kamu!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are three TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Geramnya saya!\p"
+	.string "Tapi ada tiga JURULATIH lagi!\n"
+	.string "Akan ada yang tundukkan kamu!$"
 
 BattlePyramid_Text_TwoTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are two TRAINERS left!\n"
-	.string "Someone will humble you!$"
+	.string "Geramnya saya!\p"
+	.string "Tapi ada dua JURULATIH lagi!\n"
+	.string "Akan ada yang tundukkan kamu!$"
 
 BattlePyramid_Text_OneTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there's one TRAINER left!\n"
-	.string "I'm sure you will be humbled!$"
+	.string "Geramnya saya!\p"
+	.string "Tapi masih ada satu JURULATIH!\n"
+	.string "Pasti kamu akan ditundukkan!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining2::
-	.string "This is so upsetting!\p"
-	.string "But there are no more TRAINERS\n"
-	.string "who can engage you!$"
+	.string "Geramnya saya!\p"
+	.string "Tapi dah tiada JURULATIH lagi\n"
+	.string "yang boleh lawan kamu!$"
 
 BattlePyramid_Text_SevenTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are seven more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Boleh tahan hebat kamu!\p"
+	.string "Tapi ada tujuh lagi JURULATIH di\n"
+	.string "tingkat ini. Boleh kalahkan semua?$"
 
 BattlePyramid_Text_SixTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are six more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Boleh tahan hebat kamu!\p"
+	.string "Tapi ada enam lagi JURULATIH di\n"
+	.string "tingkat ini. Boleh kalahkan semua?$"
 
 BattlePyramid_Text_FiveTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are five more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Boleh tahan hebat kamu!\p"
+	.string "Tapi ada lima lagi JURULATIH di\n"
+	.string "tingkat ini. Boleh kalahkan semua?$"
 
 BattlePyramid_Text_FourTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are four more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Boleh tahan hebat kamu!\p"
+	.string "Tapi ada empat lagi JURULATIH di\n"
+	.string "tingkat ini. Boleh kalahkan semua?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are three more TRAINERS\n"
-	.string "on this floor. Can you beat them all?$"
+	.string "Boleh tahan hebat kamu!\p"
+	.string "Tapi ada tiga lagi JURULATIH di\n"
+	.string "tingkat ini. Boleh kalahkan semua?$"
 
 BattlePyramid_Text_TwoTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there are two more TRAINERS\n"
-	.string "on this floor. Can you beat them both?$"
+	.string "Boleh tahan hebat kamu!\p"
+	.string "Tapi ada dua lagi JURULATIH di\n"
+	.string "tingkat ini. Boleh kalahkan kedua-dua?$"
 
 BattlePyramid_Text_OneTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "But there's still one more TRAINER\n"
-	.string "on this floor. Can you prevail?$"
+	.string "Boleh tahan hebat kamu!\p"
+	.string "Tapi masih ada satu lagi JURULATIH\n"
+	.string "di tingkat ini. Boleh kamu menang?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining3::
-	.string "That's pretty impressive!\p"
-	.string "You've gone through all the TRAINERS\n"
-	.string "on this floor.$"
+	.string "Boleh tahan hebat kamu!\p"
+	.string "Kamu dah tewaskan semua JURULATIH\n"
+	.string "di tingkat ini.$"
 
 BattlePyramid_Text_SevenTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the seven TRAINERS left on this floor.$"
+	.string "Mungkin kamu boleh sapu bersih\n"
+	.string "tujuh JURULATIH yang tinggal di sini.$"
 
 BattlePyramid_Text_SixTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the six TRAINERS left on this floor.$"
+	.string "Mungkin kamu boleh sapu bersih\n"
+	.string "enam JURULATIH yang tinggal di sini.$"
 
 BattlePyramid_Text_FiveTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the five TRAINERS left on this floor.$"
+	.string "Mungkin kamu boleh sapu bersih\n"
+	.string "lima JURULATIH yang tinggal di sini.$"
 
 BattlePyramid_Text_FourTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the four TRAINERS left on this floor.$"
+	.string "Mungkin kamu boleh sapu bersih\n"
+	.string "empat JURULATIH yang tinggal di sini.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the three TRAINERS left on this floor.$"
+	.string "Mungkin kamu boleh sapu bersih\n"
+	.string "tiga JURULATIH yang tinggal di sini.$"
 
 BattlePyramid_Text_TwoTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
-	.string "the two TRAINERS left on this floor.$"
+	.string "Mungkin kamu boleh sapu bersih\n"
+	.string "dua JURULATIH yang tinggal di sini.$"
 
 BattlePyramid_Text_OneTrainersRemaining4::
-	.string "Maybe you could complete your sweep\n"
-	.string "with the one TRAINER left on this floor.$"
+	.string "Mungkin kamu boleh sapu bersih\n"
+	.string "dengan JURULATIH terakhir di sini.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining4::
-	.string "There isn't a single person left who\n"
-	.string "can defeat you now…$"
+	.string "Dah tiada sesiapa lagi yang boleh\n"
+	.string "kalahkan kamu sekarang…$"
 
 BattlePyramid_Text_SevenTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the seven expert TRAINERS who remain.$"
+	.string "Mungkin kamu mampu tewaskan\n"
+	.string "tujuh JURULATIH pakar yang tinggal.$"
 
 BattlePyramid_Text_SixTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the six expert TRAINERS who remain.$"
+	.string "Mungkin kamu mampu tewaskan\n"
+	.string "enam JURULATIH pakar yang tinggal.$"
 
 BattlePyramid_Text_FiveTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the five expert TRAINERS who remain.$"
+	.string "Mungkin kamu mampu tewaskan\n"
+	.string "lima JURULATIH pakar yang tinggal.$"
 
 BattlePyramid_Text_FourTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the four expert TRAINERS who remain.$"
+	.string "Mungkin kamu mampu tewaskan\n"
+	.string "empat JURULATIH pakar yang tinggal.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the three expert TRAINERS who remain.$"
+	.string "Mungkin kamu mampu tewaskan\n"
+	.string "tiga JURULATIH pakar yang tinggal.$"
 
 BattlePyramid_Text_TwoTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the two expert TRAINERS who remain.$"
+	.string "Mungkin kamu mampu tewaskan\n"
+	.string "dua JURULATIH pakar yang tinggal.$"
 
 BattlePyramid_Text_OneTrainersRemaining5::
-	.string "You may have what it takes to beat\n"
-	.string "the one expert TRAINER who remains.$"
+	.string "Mungkin kamu mampu tewaskan\n"
+	.string "satu JURULATIH pakar yang tinggal.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining5::
-	.string "Your skills are beyond reproach.\p"
-	.string "There are no more TRAINERS here\n"
-	.string "who have any chance of beating you.$"
+	.string "Kemahiran kamu tiada tolok bandingnya.\p"
+	.string "Tiada lagi JURULATIH di sini\n"
+	.string "yang mampu kalahkan kamu.$"
 
 BattlePyramid_Text_SevenTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the seven remaining TRAINERS?$"
+	.string "Boleh kamu terus menang menentang\n"
+	.string "tujuh JURULATIH yang tinggal?$"
 
 BattlePyramid_Text_SixTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the six remaining TRAINERS?$"
+	.string "Boleh kamu terus menang menentang\n"
+	.string "enam JURULATIH yang tinggal?$"
 
 BattlePyramid_Text_FiveTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the five remaining TRAINERS?$"
+	.string "Boleh kamu terus menang menentang\n"
+	.string "lima JURULATIH yang tinggal?$"
 
 BattlePyramid_Text_FourTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the four remaining TRAINERS?$"
+	.string "Boleh kamu terus menang menentang\n"
+	.string "empat JURULATIH yang tinggal?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the three remaining TRAINERS?$"
+	.string "Boleh kamu terus menang menentang\n"
+	.string "tiga JURULATIH yang tinggal?$"
 
 BattlePyramid_Text_TwoTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the two remaining TRAINERS?$"
+	.string "Boleh kamu terus menang menentang\n"
+	.string "dua JURULATIH yang tinggal?$"
 
 BattlePyramid_Text_OneTrainersRemaining6::
-	.string "Can you keep winning against\n"
-	.string "the last remaining TRAINER?$"
+	.string "Boleh kamu terus menang menentang\n"
+	.string "JURULATIH terakhir yang tinggal?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining6::
-	.string "There aren't any TRAINERS left that\n"
-	.string "can take you on now…$"
+	.string "Dah tiada JURULATIH yang boleh\n"
+	.string "lawan kamu sekarang…$"

@@ -1,90 +1,90 @@
 @ Battle Tower
 gText_AnabelWonSilver::
-	.string "It's very disappointing…$"
+	.string "Sangat mengecewakan…$"
 
 gText_AnabelDefeatSilver::
-	.string "Okay, I understand…$"
+	.string "Baiklah, saya faham…$"
 
 gText_AnabelWonGold::
-	.string "I'm terribly sorry…$"
+	.string "Saya minta maaf sangat…$"
 
 gText_AnabelDefeatGold::
-	.string "Thank you…$"
+	.string "Terima kasih…$"
 
 @ Battle Dome
 gText_TuckerWonSilver::
-	.string "Ahahaha! Aren't you embarrassed?\n"
-	.string "Everyone's watching!$"
+	.string "Ahahaha! Kamu tak malu ke?\n"
+	.string "Semua orang tengok!$"
 
 gText_TuckerDefeatSilver::
 	.string "Grr…\n"
-	.string "What the…$"
+	.string "Apa ni…$"
 
 gText_TuckerWonGold::
-	.string "My DOME ACE title isn't just for show!$"
+	.string "Gelaran DOME ACE saya bukan hiasan!$"
 
 gText_TuckerDefeatGold::
 	.string "Ahahaha!\n"
-	.string "You're inspiring!$"
+	.string "Kamu memberi inspirasi!$"
 
 @ Battle Factory
 gText_NolandWonSilver::
-	.string "Way to work!\n"
-	.string "That was a good lesson, eh?$"
+	.string "Macam tu baru betul!\n"
+	.string "Pengajaran yang bagus, kan?$"
 
 gText_NolandDefeatSilver::
-	.string "Good job!\n"
-	.string "You know what you're doing!$"
+	.string "Bagus!\n"
+	.string "Kamu memang tahu apa kamu buat!$"
 
 gText_NolandWonGold::
-	.string "Hey, hey, hey!\n"
-	.string "You're finished already?$"
+	.string "Hei, hei, hei!\n"
+	.string "Kamu dah tamat ke?$"
 
 gText_NolandDefeatGold::
-	.string "What happened here?$"
+	.string "Apa yang dah berlaku ni?$"
 
 @ Battle Pike
 gText_LucyWonSilver::
-	.string "Humph…$"
+	.string "Hmph…$"
 
 gText_LucyDefeatSilver::
-	.string "Urk…$"
+	.string "Urgh…$"
 
 gText_LucyWonGold::
 	.string "Hah!$"
 
 gText_LucyDefeatGold::
-	.string "Darn!$"
+	.string "Cis!$"
 
 @ Battle Arena
 gText_GretaWonSilver::
-	.string "Oh, come on!\n"
-	.string "You have to try harder than that!$"
+	.string "Alah, janganlah!\n"
+	.string "Kamu kena berusaha lebih lagi!$"
 
 gText_GretaDefeatSilver::
-	.string "No way!\n"
-	.string "Good job!$"
+	.string "Biar betul!\n"
+	.string "Bagus!$"
 
 gText_GretaWonGold::
-	.string "Heheh!\n"
-	.string "What did you expect?$"
+	.string "Hehe!\n"
+	.string "Apa yang kamu harapkan?$"
 
 gText_GretaDefeatGold::
-	.string "Huh?\n"
-	.string "Are you serious?!$"
+	.string "Hah?\n"
+	.string "Kamu serius?!$"
 
 @ Battle Palace
 gText_SpenserWonSilver::
-	.string "Your POKéMON are wimpy because\n"
-	.string "you're wimpy as a TRAINER!$"
+	.string "POKéMON kamu lemah sebab kamu\n"
+	.string "lemah sebagai JURULATIH!$"
 
 gText_SpenserDefeatSilver::
 	.string "Ah…\n"
-	.string "Now this is something else…$"
+	.string "Ini memang luar biasa…$"
 
 gText_SpenserWonGold::
 	.string "Gwahahaha!\n"
-	.string "My brethren, we have nothing to fear!$"
+	.string "Saudara-saudaraku, tiada apa ditakuti!$"
 
 gText_SpenserDefeatGold::
 	.string "Gwah!\n"
@@ -92,17 +92,17 @@ gText_SpenserDefeatGold::
 
 @ Battle Pyramid
 gText_BrandonWonSilver::
-	.string "Hey! What's wrong with you!\n"
-	.string "Let's see some effort! Get up!$"
+	.string "Hei! Apa kena dengan kamu!\n"
+	.string "Tunjukkan usaha! Bangun!$"
 
 gText_BrandonDefeatSilver::
-	.string "That's it! You've done great!\n"
-	.string "You've worked hard for this!$"
+	.string "Itulah dia! Kamu hebat!\n"
+	.string "Kamu dah berusaha keras untuk ini!$"
 
 gText_BrandonWonGold::
-	.string "Hey! Don't you give up now!\n"
-	.string "Get up! Don't lose faith in yourself!$"
+	.string "Hei! Jangan putus asa sekarang!\n"
+	.string "Bangun! Jangan hilang yakin pada diri!$"
 
 gText_BrandonDefeatGold::
-	.string "That's it! You've done it!\n"
-	.string "You kept working for this!$"
+	.string "Itulah dia! Kamu berjaya!\n"
+	.string "Kamu terus berusaha untuk ini!$"

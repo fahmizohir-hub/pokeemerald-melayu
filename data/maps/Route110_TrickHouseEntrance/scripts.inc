@@ -679,130 +679,131 @@ Route110_TrickHouseEntrance_EventScript_DoHidingSpotSparkle::
 	return
 
 Route110_TrickHouseEntrance_Text_YoureBeingWatched:
-	.string "You're being watched…$"
+	.string "Ada yang sedang memerhati kamu…$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk:
 	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this desk? You're sharp!$"
+	.string "Macam mana kamu tahu saya sembunyi di\n"
+	.string "bawah meja ni? Bijak kamu!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindTree:
 	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this tree? You're sharp!$"
+	.string "Macam mana kamu tahu saya sembunyi di\n"
+	.string "belakang pokok ni? Bijak kamu!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInDresser:
 	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this dresser? You're sharp!$"
+	.string "Macam mana kamu tahu saya sembunyi\n"
+	.string "dalam almari solek ni? Bijak kamu!$"
 
 Route110_TrickHouseEntrance_Text_ConealedBeyondWindow:
 	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beyond this window? You're sharp!$"
+	.string "Macam mana kamu tahu saya sembunyi di\n"
+	.string "luar tingkap ni? Bijak kamu!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInPlanter:
 	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this planter? You're sharp!$"
+	.string "Macam mana kamu tahu saya sembunyi\n"
+	.string "dalam pasu bunga ni? Bijak kamu!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInCupboard:
 	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this cupboard? You're sharp!$"
+	.string "Macam mana kamu tahu saya sembunyi\n"
+	.string "dalam almari ni? Bijak kamu!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindWindow:
 	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this window? You're sharp!$"
+	.string "Macam mana kamu tahu saya sembunyi di\n"
+	.string "sebalik tingkap ni? Bijak kamu!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
 	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this cushion? You're sharp!$"
+	.string "Macam mana kamu tahu saya sembunyi di\n"
+	.string "bawah kusyen ni? Bijak kamu!$"
 
 Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
-	.string "Behold!\p"
-	.string "For I am the greatest living mystery\n"
-	.string "of a man in all of HOENN!\l"
-	.string "They call me…\p"
-	.string "The TRICK MASTER!\n"
-	.string "Wahahaha! Glad to meet you!$"
+	.string "Lihatlah!\p"
+	.string "Sayalah lelaki paling misteri yang masih\n"
+	.string "hidup di seluruh HOENN!\l"
+	.string "Orang panggil saya…\p"
+	.string "PAKAR HELAH!\n"
+	.string "Wahahaha! Selamat berkenalan!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
-	.string "You, you've come to challenge\n"
-	.string "my TRICK HOUSE, haven't you?\p"
-	.string "That's why you're here, isn't it?\n"
-	.string "Yes, it is!\p"
-	.string "Consider your challenge accepted!\p"
-	.string "Enter through the scroll there,\n"
-	.string "and let your challenge commence!\p"
-	.string "I shall be waiting in the back!$"
+	.string "Kamu, kamu datang nak cabar\n"
+	.string "RUMAH HELAH saya, kan?\p"
+	.string "Sebab itulah kamu di sini, kan?\n"
+	.string "Ya, betul!\p"
+	.string "Cabaran kamu diterima!\p"
+	.string "Masuk melalui gulungan di sana, dan\n"
+	.string "mulakan cabaran kamu!\p"
+	.string "Saya akan tunggu di belakang!$"
 
 Route110_TrickHouseEntrance_Text_ItsAScroll:
-	.string "It's a scroll.$"
+	.string "Ini gulungan kertas.$"
 
 Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
-	.string "There is a big hole behind the scroll!\p"
-	.string "Want to go in?$"
+	.string "Ada lubang besar di belakang gulungan\n"
+	.string "ni!\p"
+	.string "Nak masuk?$"
 
 Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
-	.string "There is a note affixed to the scroll…\p"
-	.string "“I am leaving on a journey.\n"
-	.string "Don't look for me. TRICK MASTER”$"
+	.string "Ada nota dilekatkan pada gulungan ni…\p"
+	.string "“Saya pergi mengembara.\n"
+	.string "Jangan cari saya. PAKAR HELAH”$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
-	.string "For the next time, I'll use this trick,\n"
-	.string "and that scheme, and those ruses…\p"
-	.string "Mufufufu… If I may say so, it's\n"
-	.string "brilliantly difficult, even for me!$"
+	.string "Lain kali, saya akan guna helah ni, dan\n"
+	.string "muslihat tu, dan tipu daya tu…\p"
+	.string "Mufufufu… Kalau boleh saya cakap, ia\n"
+	.string "susah gila, walaupun untuk saya!$"
 
 Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges:
-	.string "Hah? What?!\n"
-	.string "Oh, it's you!\p"
-	.string "I'm in the midst of devising new tricky\n"
-	.string "challenges!\p"
-	.string "It's not too much to ask for a bit more\n"
-	.string "time for me to think, is it now?\l"
-	.string "You wouldn't begrudge me that?\l"
-	.string "Come back in a little while!$"
+	.string "Hah? Apa?!\n"
+	.string "Oh, kamu rupanya!\p"
+	.string "Saya tengah cipta cabaran helah yang\n"
+	.string "baru!\p"
+	.string "Tak salah kalau saya minta masa sikit\n"
+	.string "lagi untuk berfikir, kan?\l"
+	.string "Kamu takkan berkira, kan?\l"
+	.string "Datang semula sekejap lagi!$"
 
 Route110_TrickHouseEntrance_Text_YoureHereToAcceptReward:
-	.string "Ah, it's you! You're here to accept the\n"
-	.string "reward from before, isn't that right?\l"
-	.string "Yes, right I am!\p"
-	.string "Here!\n"
-	.string "I'll give it to you now!$"
+	.string "Ah, kamu rupanya! Kamu datang nak ambil\n"
+	.string "ganjaran yang tadi, betul tak?\l"
+	.string "Ya, betul tekaan saya!\p"
+	.string "Nah!\n"
+	.string "Saya bagi sekarang!$"
 
 Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward:
 	.string "Hah?\n"
-	.string "Did you not come to claim your reward?$"
+	.string "Kamu tak datang nak tuntut ganjaran?$"
 
 Route110_TrickHouseEntrance_Text_MechadollWhichTent:
-	.string "MECHADOLL 5 I AM!\n"
-	.string "IF REWARD IS NOT TAKEN BY YOU,\l"
-	.string "THEN TRICK MASTER YOU CANNOT FOLLOW.\p"
-	.string "RED TENT OR BLUE TENT,\n"
-	.string "WHICH DO YOU PREFER?$"
+	.string "MECHADOLL 5 SAYA!\n"
+	.string "JIKA GANJARAN TIDAK DIAMBIL KAMU,\l"
+	.string "PAKAR HELAH TIDAK BOLEH KAMU IKUT.\p"
+	.string "KHEMAH MERAH ATAU KHEMAH BIRU,\n"
+	.string "YANG MANA KAMU MAHU?$"
 
 Route110_TrickHouseEntrance_Text_ThenFarewell:
-	.string "THEN FAREWELL.$"
+	.string "KALAU BEGITU, SELAMAT TINGGAL.$"
 
 Route110_TrickHouseEntrance_Text_PCFullAgain:
-	.string "YOUR PC STATUS: FULL AGAIN.\n"
-	.string "MEAN, YOU ARE.$"
+	.string "STATUS PC KAMU: PENUH LAGI.\n"
+	.string "KEDEKUT, KAMU NI.$"
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
-	.string "{PLAYER} found a scroll.$"
+	.string "{PLAYER} menjumpai gulungan kertas.$"
 
 Route110_TrickHousePuzzle_Text_MemorizedSecretCode:
-	.string "{PLAYER} memorized the secret code\n"
-	.string "written on the scroll.$"
+	.string "{PLAYER} menghafal kod rahsia yang\n"
+	.string "tertulis pada gulungan itu.$"
 
 Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:
-	.string "A secret code is written on it.$"
+	.string "Ada kod rahsia tertulis padanya.$"
 
 Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere:
-	.string "The door is locked.\p"
-	.string "…On closer inspection, this is written\n"
-	.string "on it: “Write the secret code here.”$"
+	.string "Pintu ni berkunci.\p"
+	.string "…Bila diteliti, ada tertulis: “Tulis kod\n"
+	.string "rahsia di sini.”$"

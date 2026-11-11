@@ -1,85 +1,85 @@
 BerryBlender_Text_BlendWithTheBlendMaster:
-	.string "BLEND MASTER: Indeed I am!\n"
-	.string "The BLEND MASTER am I!\p"
-	.string "Blend with me, and you shall witness\n"
-	.string "the mastery I bring to blending!$"
+	.string "PAKAR PENGISAR: Memang benar!\n"
+	.string "Sayalah PAKAR PENGISAR!\p"
+	.string "Mengisarlah bersama saya, dan kamu\n"
+	.string "akan lihat kehebatan saya mengisar!$"
 
 BerryBlender_Text_SeeMyMasteryInAction:
-	.string "BLEND MASTER: Hmmm! So, you wish to\n"
-	.string "see my mastery in action?$"
+	.string "PAKAR PENGISAR: Hmmm! Jadi, kamu mahu\n"
+	.string "lihat kehebatan saya beraksi?$"
 
 BerryBlender_Text_TooBusyNowIsee:
 	.string "Hmmm!\p"
-	.string "So, you are too busy now, I see!\p"
-	.string "But fear not!\n"
-	.string "I shall be here all day!\l"
-	.string "Hurry back from your errand!$"
+	.string "Jadi, kamu sibuk sekarang, ya!\p"
+	.string "Tapi jangan bimbang!\n"
+	.string "Saya ada di sini sepanjang hari!\l"
+	.string "Cepat kembali selepas urusan kamu!$"
 
 BerryBlender_Text_BlendMasterNoBerries:
 	.string "Hmmm!\p"
-	.string "You haven't got a single BERRY!\p"
-	.string "I shall be here all day!\n"
-	.string "Hurry back with some BERRIES!$"
+	.string "Kamu tiada sebiji BERRY pun!\p"
+	.string "Saya ada di sini sepanjang hari!\n"
+	.string "Cepat kembali dengan BERRY!$"
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
-	.string "Of course!\n"
-	.string "Of course!\p"
-	.string "Incidentally…\n"
-	.string "You do know how to blend {POKEBLOCK}S\l"
-	.string "from BERRIES?$"
+	.string "Sudah tentu!\n"
+	.string "Sudah tentu!\p"
+	.string "Oh ya…\n"
+	.string "Kamu tahu cara mengisar {POKEBLOCK}\l"
+	.string "daripada BERRY?$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
 	.string "Hmmm!\p"
-	.string "Ah, but it is a simple process!\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\p"
-	.string "When you see how precisely I press\n"
-	.string "the A Button, you will understand.$"
+	.string "Ah, caranya mudah sahaja!\p"
+	.string "Bila anak panah PENGISAR tiba di\n"
+	.string "penanda kamu, tekan saja Butang A.\p"
+	.string "Itu sahaja yang perlu kamu buat.\p"
+	.string "Bila kamu lihat betapa tepatnya saya\n"
+	.string "menekan Butang A, kamu akan faham.$"
 
 BerryBlender_Text_BlendMasterLetsBerryBlender:
-	.string "Fine!\p"
-	.string "Let's get started, then!\p"
-	.string "All together with the BLEND MASTER,\n"
-	.string "let's BERRY BLENDER!$"
+	.string "Bagus!\p"
+	.string "Mari kita mulakan!\p"
+	.string "Bersama-sama PAKAR PENGISAR,\n"
+	.string "ayuh PENGISAR BERRY!$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase:
 	.string "Hmmm!\p"
-	.string "You don't appear to have gotten\n"
-	.string "the {POKEBLOCK} CASE!\p"
-	.string "I shall be here all day!\n"
-	.string "Obtain the {POKEBLOCK} CASE and hurry back!$"
+	.string "Nampaknya kamu belum dapat\n"
+	.string "BEKAS {POKEBLOCK}!\p"
+	.string "Saya ada di sini sepanjang hari!\n"
+	.string "Dapatkan BEKAS {POKEBLOCK}, cepat kembali!$"
 
 BerryBlender_Text_BlendMasterPokeblockCaseFull:
 	.string "Hmmm!\p"
-	.string "Your {POKEBLOCK} CASE appears to be full!\p"
-	.string "I shall be here all day!\n"
-	.string "Use some {POKEBLOCK}S and hurry back!$"
+	.string "BEKAS {POKEBLOCK} kamu nampaknya penuh!\p"
+	.string "Saya ada di sini sepanjang hari!\n"
+	.string "Guna sedikit {POKEBLOCK}, cepat kembali!$"
 
 BerryBlender_Text_WhoaAwesome:
-	.string "Whoa!\n"
-	.string "Awesome!$"
+	.string "Wah!\n"
+	.string "Hebatnya!$"
 
 BerryBlender_Text_WickedlyFast:
-	.string "Wickedly fast!$"
+	.string "Laju gila!$"
 
 BerryBlender_Text_WhatAnExpert:
-	.string "What an expert!$"
+	.string "Memang pakar!$"
 
 BerryBlender_Text_MadeAmazingPokeblocksWithMaster:
-	.string "When I blended with the MASTER,\n"
-	.string "we made amazing {POKEBLOCK}S!$"
+	.string "Bila saya mengisar bersama PAKAR itu,\n"
+	.string "kami hasilkan {POKEBLOCK} yang hebat!$"
 
 BerryBlender_Text_QualitiesOfBlendMaster:
-	.string "Eyes that track the arrow with\n"
-	.string "machinelike intensity…\p"
-	.string "A hand that taps the A Button\n"
-	.string "with clockwork-like precision…\p"
-	.string "Possessing these qualities makes\n"
-	.string "the BLEND MASTER truly great.$"
+	.string "Mata yang menjejak anak panah\n"
+	.string "setajam mesin…\p"
+	.string "Tangan yang menekan Butang A\n"
+	.string "setepat jam…\p"
+	.string "Sifat-sifat inilah yang menjadikan\n"
+	.string "PAKAR PENGISAR benar-benar hebat.$"
 
 BerryBlender_Text_MasterWorksOnSkillsInMountains:
-	.string "The BLEND MASTER's supposed to work\n"
-	.string "on his skills deep in the mountains.\p"
-	.string "Sometimes, he comes to LILYCOVE\n"
-	.string "to blend BERRIES all day long.$"
+	.string "Kata orang, PAKAR PENGISAR mengasah\n"
+	.string "kemahirannya jauh di pergunungan.\p"
+	.string "Kadang-kadang, dia datang ke LILYCOVE\n"
+	.string "untuk mengisar BERRY sepanjang hari.$"

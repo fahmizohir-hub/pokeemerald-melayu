@@ -302,44 +302,45 @@ Route110_TrickHousePuzzle3_EventScript_Alan::
 	end
 
 Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is coveted.”\n"
+	.string "{PLAYER} menulis kod rahsia pada pintu.\p"
+	.string "“PAKAR HELAH memang didambakan.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Kunci terbuka dengan bunyi klik!$"
 
 Route110_TrickHousePuzzle3_Text_JustinIntro:
-	.string "I keep coming back to this same place!$"
+	.string "Saya asyik kembali ke tempat yang sama!$"
 
 Route110_TrickHousePuzzle3_Text_JustinDefeat:
-	.string "I'm already having trouble, and then\n"
-	.string "you have to beat me? It's not fair!$"
+	.string "Saya dah cukup susah, lepas tu kamu\n"
+	.string "kalahkan saya pula? Tak adil!$"
 
 Route110_TrickHousePuzzle3_Text_JustinPostBattle:
-	.string "It's full of doors here!\n"
-	.string "It's too small and dark in here! Help!$"
+	.string "Penuh dengan pintu di sini!\n"
+	.string "Sempit dan gelap sangat! Tolong!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaIntro:
-	.string "I don't know what's going on here.\n"
-	.string "I'm starting to feel sad…$"
+	.string "Saya tak tahu apa yang berlaku di sini.\n"
+	.string "Saya mula rasa sedih…$"
 
 Route110_TrickHousePuzzle3_Text_MarthaDefeat:
-	.string "You… You're awful!$"
+	.string "Kamu… Kamu jahat!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaPostBattle:
-	.string "I know I'm weak!\n"
-	.string "And, I have no sense of direction!$"
+	.string "Saya tahu saya lemah!\n"
+	.string "Dan saya tak tahu arah langsung!$"
 
 Route110_TrickHousePuzzle3_Text_AlanIntro:
-	.string "I don't get it. What would anyone want\n"
-	.string "with a house this bizarre?$"
+	.string "Saya tak faham. Siapa yang nak rumah\n"
+	.string "seaneh ni?$"
 
 Route110_TrickHousePuzzle3_Text_AlanDefeat:
-	.string "I don't get it.\n"
-	.string "How did I lose?$"
+	.string "Saya tak faham.\n"
+	.string "Macam mana saya boleh kalah?$"
 
 Route110_TrickHousePuzzle3_Text_AlanPostBattle:
-	.string "I don't get it.\n"
-	.string "How many traps are in this house?\p"
-	.string "You may be the one to solve that.$"
+	.string "Saya tak faham.\n"
+	.string "Berapa banyak perangkap dalam rumah\l"
+	.string "ni?\p"
+	.string "Mungkin kamulah orang yang akan\n"
+	.string "selesaikannya.$"
 

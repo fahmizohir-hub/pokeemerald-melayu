@@ -281,164 +281,168 @@ TrainerHill_Entrance_Pokemart_Expanded:
 	pokemartlistend
 
 TrainerHill_Entrance_Text_StillGettingReady:
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS.\p"
-	.string "Unfortunately, we're still getting\n"
-	.string "things ready. Please come back later!$"
+	.string "Inilah BUKIT JURULATIH, tempat kamu\n"
+	.string "boleh nikmati pertarungan berpasangan\l"
+	.string "dengan ramai JURULATIH.\p"
+	.string "Malangnya, kami masih membuat\n"
+	.string "persiapan. Sila datang lagi nanti!$"
 
 TrainerHill_Entrance_Text_WelcomeToTrainerHill:
-	.string "Welcome!\p"
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS!$"
+	.string "Selamat datang!\p"
+	.string "Inilah BUKIT JURULATIH, tempat kamu\n"
+	.string "boleh nikmati pertarungan berpasangan\l"
+	.string "dengan ramai JURULATIH!$"
 
 TrainerHill_Entrance_Text_SaveGameBeforeEnter:
-	.string "Is this your first visit here?\p"
-	.string "Before you enter, please save\n"
-	.string "your game.$"
+	.string "Ini kali pertama kamu datang ke sini?\p"
+	.string "Sebelum masuk, sila\n"
+	.string "simpan permainan kamu.$"
 
 TrainerHill_Entrance_Text_TrainersUpToFloorX:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "Up to floor no. {STR_VAR_1}.$"
+	.string "Biar saya lihat… JURULATIH\n"
+	.string "yang ada sekarang…\p"
+	.string "Sehingga tingkat {STR_VAR_1}.$"
 
 TrainerHill_Entrance_Text_TrainersInEveryRoom:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "There appear to be TRAINERS gathered\n"
-	.string "in every room.$"
+	.string "Biar saya lihat… JURULATIH\n"
+	.string "yang ada sekarang…\p"
+	.string "Nampaknya ada JURULATIH\n"
+	.string "berkumpul di setiap bilik.$"
 
 TrainerHill_Entrance_Text_LikeToChallengeTrainers:
-	.string "Would you like to challenge the\n"
-	.string "waiting TRAINERS?$"
+	.string "Kamu mahu mencabar JURULATIH\n"
+	.string "yang sedang menunggu?$"
 
 TrainerHill_Entrance_Text_TimeProgessGetSetGo:
-	.string "I will time your progress.\n"
-	.string "Best of luck!\p"
-	.string "On your marks…\p"
-	.string "Get set…\p"
-	.string "Go!$"
+	.string "Saya akan kira masa perjalanan\n"
+	.string "kamu. Semoga berjaya!\p"
+	.string "Di garisan…\p"
+	.string "Sedia…\p"
+	.string "Mula!$"
 
 TrainerHill_Entrance_Text_PleaseVisitUsAgain:
-	.string "Please do visit us again!$"
+	.string "Datanglah melawat kami lagi!$"
 
 TrainerHill_Entrance_Text_TooBadTremendousEffort:
-	.string "That was too bad.\p"
-	.string "I think you put in a tremendous\n"
-	.string "effort in your battling.\p"
-	.string "Please come back and try again!$"
+	.string "Sayang sekali.\p"
+	.string "Saya rasa kamu dah berusaha\n"
+	.string "bersungguh-sungguh dalam pertarungan.\p"
+	.string "Datanglah lagi dan cuba sekali lagi!$"
 
 TrainerHill_Entrance_Text_HopeYouGiveItYourBest:
-	.string "I hope you give it your best.$"
+	.string "Saya harap kamu buat yang terbaik.$"
 
 TrainerHill_Entrance_Text_MovedReceptionHereForSwitch:
-	.string "When the TRAINERS switch places,\n"
-	.string "the movement can be hectic.\p"
-	.string "To avoid the stampede, we moved\n"
-	.string "the reception counter here.\p"
-	.string "I'm sorry for the inconvenience.$"
+	.string "Bila JURULATIH bertukar tempat,\n"
+	.string "keadaan boleh jadi kelam-kabut.\p"
+	.string "Untuk elak rempuhan, kami pindahkan\n"
+	.string "kaunter penyambut tetamu ke sini.\p"
+	.string "Maaf atas kesulitan.$"
 
 TrainerHill_Entrance_Text_ThankYouForPlaying:
-	.string "Thank you for playing!$"
+	.string "Terima kasih kerana bermain!$"
 
 TrainerHill_Entrance_Text_ExplainTrainerHill:
-	.string "Here at the TRAINER HILL, we conduct\n"
-	.string "an event called the Time Attack.\p"
-	.string "It is a race that measures how long\n"
-	.string "you take to reach our owner on\l"
-	.string "the rooftop from this counter.\p"
-	.string "The fastest times are posted on\n"
-	.string "the Time Board--try competing with\l"
-	.string "your friends.\p"
-	.string "In TRAINER battles along the way,\n"
-	.string "neither Exp. Points nor money will\l"
-	.string "be awarded.$"
+	.string "Di BUKIT JURULATIH, kami adakan\n"
+	.string "acara bernama Lumba Masa.\p"
+	.string "Ia perlumbaan yang mengukur berapa\n"
+	.string "lama kamu ambil untuk sampai kepada\l"
+	.string "pemilik kami di bumbung dari kaunter ini.\p"
+	.string "Masa terpantas dipaparkan di PAPAN\n"
+	.string "MASA. Cubalah bersaing dengan\l"
+	.string "kawan-kawan kamu.\p"
+	.string "Dalam pertarungan JURULATIH di\n"
+	.string "sepanjang jalan, Mata EXP. dan wang\l"
+	.string "tidak akan diberi.$"
 
 @ Unused
 TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon:
-	.string "Oh, I'm sorry, but you appear to have\n"
-	.string "only one POKéMON with you.\p"
-	.string "You will need at least two POKéMON\n"
-	.string "to enter this event.$"
+	.string "Oh, maaf, nampaknya kamu\n"
+	.string "cuma bawa satu POKéMON.\p"
+	.string "Kamu perlukan sekurang-kurangnya dua\n"
+	.string "POKéMON untuk menyertai acara ini.$"
 
 TrainerHill_Roof_Text_YouFinallyCameBravo:
 	.string "Hm! Hm!\p"
-	.string "You finally came!\n"
-	.string "Yes, you have arrived!\p"
-	.string "Wait! Don't say it!\n"
-	.string "I know why you came all the way\l"
-	.string "here by yourself!\p"
-	.string "You wanted to see me, the owner\n"
-	.string "of the TRAINER HILL, because…\p"
-	.string "You want to form a tag team with me!\n"
-	.string "Wa-hoo!\p"
-	.string "…Uh?\n"
-	.string "That's not it?\p"
-	.string "Anyway, I watched you on your way up.\n"
-	.string "Marvelous battling! Bravo, indeed!$"
+	.string "Akhirnya kamu datang!\n"
+	.string "Ya, kamu dah tiba!\p"
+	.string "Tunggu! Jangan cakap! Saya tahu\n"
+	.string "kenapa kamu datang jauh-jauh ke sini\l"
+	.string "seorang diri!\p"
+	.string "Kamu nak jumpa saya, pemilik\n"
+	.string "BUKIT JURULATIH, sebab…\p"
+	.string "Kamu nak berganding bahu dengan\n"
+	.string "saya sebagai pasangan! Wa-hoo!\p"
+	.string "…Eh? Bukan begitu?\p"
+	.string "Apa-apa pun, saya perhatikan kamu\n"
+	.string "sepanjang jalan ke atas. Pertarungan\l"
+	.string "yang mengagumkan! Bravo, memang bravo!$"
 
 TrainerHill_Roof_Text_HaveTheMostMarvelousGift:
-	.string "For a marvelous someone like you,\n"
-	.string "I have the most marvelous gift!$"
+	.string "Untuk insan hebat macam kamu,\n"
+	.string "saya ada hadiah yang paling hebat!$"
 
 TrainerHill_Roof_Text_FullUpBeBackLaterForThis:
-	.string "Oh, no, full up with things!\n"
-	.string "You'll be back later for this!$"
+	.string "Alamak, barang kamu dah penuh!\n"
+	.string "Kamu datang ambil ini nanti!$"
 
 TrainerHill_Roof_Text_GotHereMarvelouslyQuickly:
-	.string "Oh, hold on here! Did you possibly get\n"
-	.string "here marvelously quickly?\p"
-	.string "How splendid! You needn't have\n"
-	.string "hurried so to see me!\p"
-	.string "That is so delightful. I'll have the Time\n"
-	.string "Board at the reception updated!$"
+	.string "Oh, nanti dulu! Kamu sampai ke sini\n"
+	.string "dengan pantas yang luar biasa?\p"
+	.string "Hebatnya! Tak perlulah tergesa-gesa\n"
+	.string "sangat nak jumpa saya!\p"
+	.string "Seronok sungguh. Saya akan suruh\n"
+	.string "PAPAN MASA di kaunter dikemas kini!$"
 
 TrainerHill_Roof_Text_YouWerentVeryQuick:
-	.string "But, oh…\n"
-	.string "You weren't very quick getting here.$"
+	.string "Tapi, oh… Kamu tak begitu\n"
+	.string "pantas sampai ke sini.$"
 
 TrainerHill_Roof_Text_ArriveZippierNextTime:
-	.string "Perhaps it would please me more if you\n"
-	.string "arrived zippier next time.\p"
-	.string "Then, I should be pleased to form\n"
-	.string "a tag team with you!\p"
-	.string "Until we meet again, amigo!$"
+	.string "Mungkin saya lebih gembira kalau\n"
+	.string "kamu sampai lebih laju lain kali.\p"
+	.string "Barulah saya sudi berganding\n"
+	.string "dengan kamu sebagai pasangan!\p"
+	.string "Sampai jumpa lagi, amigo!$"
 
 @ Unused
 TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner:
-	.string "I had the TRAINER HILL built for but\n"
-	.string "one reason and one only!\p"
-	.string "To find the most suitable partner\n"
-	.string "with whom I may form a tag team!$"
+	.string "Saya bina BUKIT JURULATIH atas\n"
+	.string "satu sebab, dan satu sebab sahaja!\p"
+	.string "Untuk mencari rakan paling sesuai yang\n"
+	.string "boleh berganding dengan saya sebagai\l"
+	.string "pasangan!$"
 
 TrainerHill_Entrance_Text_ChallengeTime:
-	.string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
+	.string "{STR_VAR_1} min.\n"
+	.string "{STR_VAR_2}.{STR_VAR_3} saat.$"
 
 TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
-	.string "Who knows what sort of TRAINERS\n"
-	.string "and POKéMON combos are ahead?\p"
-	.string "All I know is that I'll knock aside\n"
-	.string "anyone that stands in my way!$"
+	.string "Siapa tahu JURULATIH dan kombo\n"
+	.string "POKéMON macam mana yang menanti di\l"
+	.string "depan?\p"
+	.string "Yang saya tahu, saya akan tolak\n"
+	.string "tepi sesiapa yang menghalang saya!$"
 
 TrainerHill_Entrance_Text_CantWaitToTestTheWaters:
-	.string "I heard tough TRAINERS come to this\n"
-	.string "TRAINER HILL from all over.\p"
-	.string "I can't wait to test the waters!\p"
-	.string "I'll knock aside anyone that stands\n"
-	.string "in my way!$"
+	.string "Saya dengar JURULATIH handal dari\n"
+	.string "merata tempat datang ke\l"
+	.string "BUKIT JURULATIH ni.\p"
+	.string "Saya tak sabar nak cuba!\p"
+	.string "Saya akan tolak tepi sesiapa\n"
+	.string "yang menghalang saya!$"
 
 TrainerHill_Entrance_Text_FriendsTryingToReachTimeBoardTop:
-	.string "Do you see the Time Board over there?\p"
-	.string "My friends and I are trying to see who\n"
-	.string "can reach the top in the least time.$"
+	.string "Kamu nampak PAPAN MASA di sana tu?\p"
+	.string "Saya dan kawan-kawan sedang bersaing\n"
+	.string "siapa boleh sampai ke atas paling\l"
+	.string "cepat.$"
 
 TrainerHill_Entrance_Text_DoYouKnowWhenTheyOpen:
-	.string "Do you know when they're opening\n"
-	.string "this place up?\p"
-	.string "I'm waiting here to be the first\n"
-	.string "challenger ever!$"
+	.string "Kamu tahu bila tempat ni nak dibuka?\p"
+	.string "Saya tunggu di sini nak jadi\n"
+	.string "pencabar yang paling pertama!$"
 
 TrainerHill_Elevator_Text_ReturnToReception:
-	.string "Would you like to return to\n"
-	.string "the reception counter?$"
+	.string "Kamu mahu kembali ke\n"
+	.string "kaunter penyambut tetamu?$"

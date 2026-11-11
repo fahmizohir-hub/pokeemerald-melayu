@@ -20,23 +20,23 @@ SootopolisCity_House3_EventScript_Girl::
 	end
 
 SootopolisCity_House3_Text_JuanHasManyFansDoYou:
-	.string "You're a POKéMON TRAINER, aren't you?\p"
-	.string "SOOTOPOLIS's JUAN has many fans.\n"
-	.string "Even more than his student WALLACE!\p"
-	.string "Do you have any?$"
+	.string "Kamu JURULATIH POKéMON, kan?\p"
+	.string "JUAN dari SOOTOPOLIS ada ramai peminat.\n"
+	.string "Lebih ramai daripada muridnya WALLACE!\p"
+	.string "Kamu ada peminat?$"
 
 SootopolisCity_House3_Text_YouMustBePrettyStrong:
-	.string "Oh, then you must be pretty strong.$"
+	.string "Oh, kalau begitu mesti kamu agak kuat.$"
 
 SootopolisCity_House3_Text_LonesomeTryWorkingHarder:
-	.string "Oh, dear…\n"
-	.string "That's a little lonesome.\p"
-	.string "Try working a little harder to get\n"
-	.string "a fan following.$"
+	.string "Alahai…\n"
+	.string "Sunyi sikit, ya.\p"
+	.string "Cubalah berusaha lebih sikit untuk\n"
+	.string "dapat peminat.$"
 
 SootopolisCity_House3_Text_TrainerFanClubWasWild:
-	.string "Dedicated fans come over from even\n"
-	.string "outside of HOENN.\p"
-	.string "It was really wild when I went to the\n"
-	.string "TRAINER FAN CLUB in LILYCOVE.$"
+	.string "Peminat setia datang dari luar HOENN\n"
+	.string "pun.\p"
+	.string "Meriah betul masa saya pergi ke KELAB\n"
+	.string "PEMINAT JURULATIH di LILYCOVE.$"
 

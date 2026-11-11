@@ -1329,430 +1329,445 @@ LilycoveCity_ContestLobby_EventScript_DelayForRSPlayer::
 	return
 
 LilycoveCity_ContestLobby_Text_ReceptionDontHavePokeblockCase:
-	.string "Hello!\p"
-	.string "This is the reception counter for\n"
-	.string "POKéMON CONTESTS.\p"
-	.string "Oh? It appears that you don't have\n"
-	.string "a {POKEBLOCK} CASE yet.\p"
-	.string "In that case, we need to provide you\n"
-	.string "with this!$"
+	.string "Helo!\p"
+	.string "Ini kaunter pendaftaran\n"
+	.string "PERTANDINGAN POKéMON.\p"
+	.string "Oh? Nampaknya kamu belum ada\n"
+	.string "BEKAS {POKEBLOCK}.\p"
+	.string "Kalau begitu, kami perlu berikan kamu\n"
+	.string "ini!$"
 
 LilycoveCity_ContestLobby_Text_NowThatWeveClearedThatUp:
-	.string "Okay, now that we've cleared that\n"
-	.string "up…\p"
-	.string "Hello!\p"
-	.string "This is the reception counter for\n"
-	.string "POKéMON CONTESTS.$"
+	.string "Baiklah, sekarang semuanya dah beres…\p"
+	.string "Helo!\p"
+	.string "Ini kaunter pendaftaran\n"
+	.string "PERTANDINGAN POKéMON.$"
 
 LilycoveCity_ContestLobby_Text_ContestReception:
-	.string "Hello!\p"
-	.string "This is the reception counter for\n"
-	.string "POKéMON CONTESTS.$"
+	.string "Helo!\p"
+	.string "Ini kaunter pendaftaran\n"
+	.string "PERTANDINGAN POKéMON.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_CounterOnlyFor4PlayerContests:
-	.string "Hello!\p"
-	.string "This reception counter is only\n"
-	.string "for 4-player POKéMON CONTESTS.$"
+	.string "Helo!\p"
+	.string "Kaunter pendaftaran ini hanya untuk\n"
+	.string "PERTANDINGAN POKéMON 4 pemain.$"
 
 LilycoveCity_ContestLobby_Text_EnterContest1:
-	.string "Would you like to enter your POKéMON\n"
-	.string "in our CONTESTS?$"
+	.string "Kamu nak masukkan POKéMON kamu dalam\n"
+	.string "PERTANDINGAN kami?$"
 
 LilycoveCity_ContestLobby_Text_WhichTopic1:
-	.string "Which topic would you like?$"
+	.string "Topik mana yang kamu mahu?$"
 
 LilycoveCity_ContestLobby_Text_ExplainContests:
-	.string "A POKéMON CONTEST involves four\n"
-	.string "TRAINERS entering one POKéMON each\l"
-	.string "in competitive judging.\p"
-	.string "A CONTEST has two stages of judging,\n"
-	.string "primary and secondary.\p"
-	.string "Primary judging is a popularity poll\n"
-	.string "involving the audience.\p"
-	.string "Secondary judging features appeals\n"
-	.string "by the POKéMON using their moves.\p"
-	.string "Plan appeals carefully to earn the\n"
-	.string "most attention of the JUDGE and\l"
-	.string "excite the audience.\l"
-	.string "Do your best to stand out.\p"
-	.string "The primary and secondary scores are\n"
-	.string "added at the end.\p"
-	.string "The POKéMON garnering the highest\n"
-	.string "score is declared the winner.$"
+	.string "PERTANDINGAN POKéMON melibatkan\n"
+	.string "empat JURULATIH yang masing-masing\l"
+	.string "menyertakan seekor POKéMON untuk\l"
+	.string "dinilai.\p"
+	.string "PERTANDINGAN ada dua peringkat\n"
+	.string "penilaian, iaitu pertama dan kedua.\p"
+	.string "Penilaian pertama ialah undian\n"
+	.string "populariti oleh penonton.\p"
+	.string "Penilaian kedua ialah pikatan oleh\n"
+	.string "POKéMON menggunakan move mereka.\p"
+	.string "Rancang pikatan dengan teliti untuk\n"
+	.string "menarik perhatian HAKIM dan\l"
+	.string "menghiburkan penonton. Cuba sedaya\l"
+	.string "upaya untuk menonjol.\p"
+	.string "Markah pertama dan kedua akan dicampur\n"
+	.string "pada akhirnya.\p"
+	.string "POKéMON yang meraih markah tertinggi\n"
+	.string "diisytiharkan pemenang.$"
 
 LilycoveCity_ContestLobby_Text_ExplainContestTypes:
-	.string "There are five kinds of CONTESTS.\p"
-	.string "COOL, BEAUTY, CUTE, SMART, and\n"
-	.string "TOUGH are the five categories.\p"
-	.string "Choose the CONTEST that is right for\n"
-	.string "the POKéMON you plan to enter.$"
+	.string "Ada lima jenis PERTANDINGAN.\p"
+	.string "SEGAK, CANTIK, COMEL, BIJAK dan TEGAP\n"
+	.string "ialah lima kategorinya.\p"
+	.string "Pilih PERTANDINGAN yang sesuai dengan\n"
+	.string "POKéMON yang kamu nak sertakan.$"
 
 LilycoveCity_ContestLobby_Text_ExplainContestRanks:
-	.string "There are four ranks of POKéMON\n"
-	.string "CONTESTS.\p"
-	.string "NORMAL, SUPER, HYPER, and MASTER\n"
-	.string "are the four ranks.\p"
-	.string "In the NORMAL Rank, any POKéMON may\n"
-	.string "enter.\p"
-	.string "Any POKéMON that won a NORMAL Rank\n"
-	.string "CONTEST may move up to the SUPER Rank\l"
-	.string "in the same category.\p"
-	.string "In the same way, a SUPER Rank winner\n"
-	.string "can move up to the HYPER Rank, and\l"
-	.string "a HYPER Rank winner can advance to\l"
-	.string "the MASTER Rank in the same category.\p"
-	.string "A POKéMON that won in the MASTER Rank\n"
-	.string "may compete in the MASTER Rank as\l"
-	.string "often as its TRAINER wants.$"
+	.string "Ada empat tahap PERTANDINGAN POKéMON.\p"
+	.string "NORMAL, SUPER, HIPER dan MASTER ialah\n"
+	.string "empat tahapnya.\p"
+	.string "Di TAHAP NORMAL, mana-mana POKéMON\n"
+	.string "boleh masuk.\p"
+	.string "Pemenang TAHAP NORMAL boleh naik ke\n"
+	.string "TAHAP SUPER dalam kategori yang sama.\p"
+	.string "Begitu juga, pemenang TAHAP SUPER\n"
+	.string "boleh naik ke TAHAP HIPER, dan\l"
+	.string "pemenang TAHAP HIPER boleh mara ke\l"
+	.string "TAHAP MASTER dalam kategori yang sama.\p"
+	.string "POKéMON yang menang di TAHAP MASTER\n"
+	.string "boleh bertanding di TAHAP MASTER\l"
+	.string "sekerap mana yang JURULATIHNYA mahu.$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichRank:
-	.string "Which Rank would you like to enter?$"
+	.string "Tahap mana yang kamu nak masuk?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichContest1:
-	.string "Which CONTEST would you like to enter?$"
+	.string "PERTANDINGAN mana yang kamu nak\n"
+	.string "masuk?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichPokemon1:
-	.string "Which POKéMON would you like to enter?$"
+	.string "POKéMON mana yang kamu nak masukkan?$"
 
 LilycoveCity_ContestLobby_Text_MonNotQualifiedForRank:
-	.string "I'm terribly sorry, but your POKéMON\n"
-	.string "is not qualified to compete at this\l"
-	.string "Rank yet…$"
+	.string "Saya betul-betul minta maaf, tapi\n"
+	.string "POKéMON kamu belum layak bertanding di\l"
+	.string "tahap ini…$"
 
 LilycoveCity_ContestLobby_Text_EggCannotTakePart:
-	.string "I'm sorry, but an EGG cannot take part\n"
-	.string "in a POKéMON CONTEST.$"
+	.string "Maaf, TELUR tak boleh menyertai\n"
+	.string "PERTANDINGAN POKéMON.$"
 
 LilycoveCity_ContestLobby_Text_MonInNoConditionForContest:
-	.string "Your POKéMON appears to be in no\n"
-	.string "condition to take part in a CONTEST…$"
+	.string "Nampaknya POKéMON kamu tidak dalam\n"
+	.string "keadaan sesuai untuk menyertai\l"
+	.string "PERTANDINGAN…$"
 
 LilycoveCity_ContestLobby_Text_AlreadyWonEnterAnyway:
-	.string "Oh, but that RIBBON…\p"
-	.string "Your POKéMON has won this CONTEST\n"
-	.string "before, hasn't it?\p"
-	.string "Would you like to enter it in this\n"
-	.string "CONTEST anyway?$"
+	.string "Oh, tapi REBEN itu…\p"
+	.string "POKéMON kamu pernah menang\n"
+	.string "PERTANDINGAN ini, bukan?\p"
+	.string "Kamu masih nak masukkan ia dalam\n"
+	.string "PERTANDINGAN ini?$"
 
 LilycoveCity_ContestLobby_Text_ConfirmContestMon:
-	.string "Is that your CONTEST POKéMON?$"
+	.string "Itukah POKéMON PERTANDINGAN kamu?$"
 
 LilycoveCity_ContestLobby_Text_YourMonIsEntryNum4:
-	.string "Okay, your POKéMON will be entered\n"
-	.string "in this CONTEST.\p"
-	.string "Your POKéMON is Entry No. 4.\n"
-	.string "The CONTEST will begin shortly.$"
+	.string "Baiklah, POKéMON kamu akan disertakan\n"
+	.string "dalam PERTANDINGAN ini.\p"
+	.string "POKéMON kamu ialah Peserta No. 4.\n"
+	.string "PERTANDINGAN akan mula sekejap lagi.$"
 
 LilycoveCity_ContestLobby_Text_ComeThroughHere:
-	.string "Please come in through here.\n"
-	.string "Good luck!$"
+	.string "Sila masuk ikut sini.\n"
+	.string "Semoga berjaya!$"
 
 LilycoveCity_ContestLobby_Text_PokemonWonWeHavePrize:
-	.string "Congratulations! Your POKéMON is the\n"
-	.string "CONTEST winner!\p"
-	.string "We have your prize right here.\n"
-	.string "Please, right this way!$"
+	.string "Tahniah! POKéMON kamu pemenang\n"
+	.string "PERTANDINGAN!\p"
+	.string "Hadiah kamu ada di sini.\n"
+	.string "Sila ikut sini!$"
 
 LilycoveCity_ContestLobby_Text_ComeBackForPrizeLater:
-	.string "Please come back for your prize\n"
-	.string "later on.$"
+	.string "Sila datang balik untuk ambil hadiah\n"
+	.string "kamu nanti.$"
 
 ContestHall_Text_GettingStartedParticipantsAsFollows:
-	.string "MC: Hello! We're just getting started\n"
-	.string "with a {STR_VAR_3} Rank POKéMON\l"
-	.string "{STR_VAR_2}!\p"
-	.string "The participating TRAINERS and their\n"
-	.string "POKéMON are as follows:$"
+	.string "PENGACARA: Helo! Kita baru nak mulakan\n"
+	.string "{STR_VAR_2} POKéMON\l"
+	.string "TAHAP {STR_VAR_3}!\p"
+	.string "JURULATIH yang menyertai dan POKéMON\n"
+	.string "mereka adalah seperti berikut:$"
 
 ContestHall_Text_GettingStartedParticipantsAsFollowsLink:
-	.string "MC: Hello! We're just getting started\n"
-	.string "with a 4-player linked POKéMON\l"
-	.string "{STR_VAR_2}!\p"
-	.string "The participating TRAINERS and their\n"
-	.string "POKéMON are as follows:$"
+	.string "PENGACARA: Helo! Kita baru nak mulakan\n"
+	.string "{STR_VAR_2} POKéMON\l"
+	.string "berangkai 4 pemain!\p"
+	.string "JURULATIH yang menyertai dan POKéMON\n"
+	.string "mereka adalah seperti berikut:$"
 
 ContestHall_Text_EntryXTrainersMon:
-	.string "MC: Entry No. {STR_VAR_2}!\n"
-	.string "{STR_VAR_1}'s {STR_VAR_3}!$"
+	.string "PENGACARA: Peserta No. {STR_VAR_2}!\n"
+	.string "{STR_VAR_3} milik {STR_VAR_1}!$"
 
 ContestHall_Text_SeenContestantsAudienceWillVote:
-	.string "MC: We've just seen the four POKéMON\n"
-	.string "contestants.\p"
-	.string "Now it's time for primary judging!\p"
-	.string "The audience will vote on their\n"
-	.string "favorite POKéMON contestants.\p"
-	.string "Without any further ado, let the\n"
-	.string "voting begin!$"
+	.string "PENGACARA: Kita baru saja lihat\n"
+	.string "keempat-empat peserta POKéMON.\p"
+	.string "Kini tiba masa penilaian pertama!\p"
+	.string "Penonton akan mengundi peserta\n"
+	.string "POKéMON kegemaran mereka.\p"
+	.string "Tanpa berlengah lagi, mari mulakan\n"
+	.string "undian!$"
 
 ContestHall_Text_VotingUnderWay:
-	.string "Voting under way…$"
+	.string "Undian sedang berjalan…$"
 
 ContestHall_Text_VotingCompleteLetsAppeal:
-	.string "Voting is now complete!\p"
-	.string "While the votes are being tallied,\n"
-	.string "let's move on to secondary judging!\p"
-	.string "The second stage of judging is the\n"
-	.string "much anticipated appeal time!\p"
-	.string "May the contestants amaze us with\n"
-	.string "superb appeals of dazzling moves!\p"
-	.string "Let's see a little enthusiasm!\n"
-	.string "Let's appeal!$"
+	.string "Undian kini selesai!\p"
+	.string "Sementara undian dikira, mari kita\n"
+	.string "teruskan ke penilaian kedua!\p"
+	.string "Peringkat kedua penilaian ialah masa\n"
+	.string "pikatan yang dinanti-nantikan!\p"
+	.string "Semoga para peserta memukau kita\n"
+	.string "dengan pikatan move yang\l"
+	.string "mempesonakan!\p"
+	.string "Mari tunjukkan sedikit semangat!\n"
+	.string "Ayuh, memikat!$"
 
 ContestHall_Text_ThatsItForJudging:
-	.string "MC: That's it for judging!$"
+	.string "PENGACARA: Itu saja untuk penilaian!$"
 
 ContestHall_Text_ThankYouForAppeals:
-	.string "Thank you all for a most wonderful\n"
-	.string "display of quality appeals!\p"
-	.string "This concludes all judging!\n"
-	.string "Thank you for your fine efforts!$"
+	.string "Terima kasih semua atas persembahan\n"
+	.string "pikatan yang sungguh hebat!\p"
+	.string "Dengan ini, semua penilaian selesai!\n"
+	.string "Terima kasih atas usaha kamu semua!$"
 
 ContestHall_Text_JudgeLooksReady:
-	.string "Now, all that remains is the pulse-\n"
-	.string "pounding proclamation of the winner.\p"
-	.string "The JUDGE looks ready to make\n"
-	.string "the announcement!$"
+	.string "Kini, yang tinggal hanyalah pengumuman\n"
+	.string "pemenang yang mendebarkan.\p"
+	.string "HAKIM nampaknya sudah bersedia untuk\n"
+	.string "membuat pengumuman!$"
 
 ContestHall_Text_WeWillNowDeclareWinner:
-	.string "JUDGE: We will now declare the winner!$"
+	.string "HAKIM: Kini kami umumkan pemenangnya!$"
 
 ContestHall_Text_CongratsTrainerXandMon:
-	.string "MC: Entry No. {STR_VAR_2}!\p"
-	.string "{STR_VAR_3} and {STR_VAR_1},\n"
-	.string "congratulations!$"
+	.string "PENGACARA: Peserta No. {STR_VAR_2}!\p"
+	.string "{STR_VAR_3} dan {STR_VAR_1},\n"
+	.string "tahniah!$"
 
 ContestHall_Text_CongratsPleaseCompeteAgain:
-	.string "MC: Congratulations!\n"
-	.string "Please do compete again!$"
+	.string "PENGACARA: Tahniah!\n"
+	.string "Sila bertanding lagi!$"
 
 ContestHall_Text_AcceptYourPrize:
-	.string "MC: Here you are!\n"
-	.string "Please accept your prize!$"
+	.string "PENGACARA: Nah!\n"
+	.string "Sila terima hadiah kamu!$"
 
 ContestHall_Text_ConferRibbonAsPrize:
-	.string "We confer on you this RIBBON\n"
-	.string "as your prize!$"
+	.string "Kami anugerahkan REBEN ini sebagai\n"
+	.string "hadiah kamu!$"
 
 ContestHall_Text_ReceivedRibbon:
-	.string "{PLAYER} received a RIBBON.$"
+	.string "{PLAYER} menerima sebuah REBEN.$"
 
 ContestHall_Text_PutRibbonOnMon:
-	.string "{PLAYER} put the RIBBON on\n"
+	.string "{PLAYER} memakaikan REBEN pada\n"
 	.string "{STR_VAR_1}.$"
 
 ContestHall_Text_PickUpPrizeAtCounterLater:
-	.string "Please pick up your prize at\n"
-	.string "the reception counter later.\l"
-	.string "Please do compete again!$"
+	.string "Sila ambil hadiah kamu di kaunter\n"
+	.string "pendaftaran nanti.\l"
+	.string "Sila bertanding lagi!$"
 
 @ Unused
 ContestHall_Text_OnlyRegister4Players:
-	.string "I only register four players for\n"
-	.string "POKéMON CONTESTS.\p"
-	.string "If three other players link up, all\n"
-	.string "four may enter the same CONTEST.\p"
-	.string "Would you like to take part?$"
+	.string "Saya hanya daftarkan empat pemain\n"
+	.string "untuk PERTANDINGAN POKéMON.\p"
+	.string "Kalau tiga pemain lain berhubung,\n"
+	.string "keempat-empatnya boleh masuk\l"
+	.string "PERTANDINGAN yang sama.\p"
+	.string "Kamu nak sertai?$"
 
 LilycoveCity_ContestLobby_Text_ProgressWillBeSaved:
-	.string "Before entering a CONTEST, your\n"
-	.string "progress will be saved.$"
+	.string "Sebelum masuk PERTANDINGAN, kemajuan\n"
+	.string "kamu akan disimpan.$"
 
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime:
-	.string "We hope you will participate another\n"
-	.string "time.$"
+	.string "Kami harap kamu akan menyertainya lain\n"
+	.string "kali.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_EnterContest2:
-	.string "Would you like to enter a CONTEST?$"
+	.string "Kamu nak masuk PERTANDINGAN?$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_Explain4PlayerContest:
-	.string "When four players are ready, connect\n"
-	.string "over a Game Link cable, and register\l"
-	.string "with me, please.\p"
-	.string "Please choose the same CONTEST\n"
-	.string "as your fellow contestants.\p"
-	.string "The CONTEST begins as soon as all\n"
-	.string "players register their entry.\p"
-	.string "After that, the usual CONTEST rules\n"
-	.string "apply.$"
+	.string "Bila empat pemain dah bersedia,\n"
+	.string "sambungkan kabel Game Link, dan sila\l"
+	.string "daftar dengan saya.\p"
+	.string "Sila pilih PERTANDINGAN yang sama\n"
+	.string "dengan rakan peserta kamu.\p"
+	.string "PERTANDINGAN bermula sebaik semua\n"
+	.string "pemain mendaftarkan penyertaan\l"
+	.string "mereka.\p"
+	.string "Selepas itu, peraturan\n"
+	.string "PERTANDINGAN yang biasa digunakan.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_EnterWhichContest2:
-	.string "Which CONTEST would you like to enter?$"
+	.string "PERTANDINGAN mana yang kamu nak\n"
+	.string "masuk?$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_EnterWhichPokemon2:
-	.string "Which POKéMON would you like to enter?$"
+	.string "POKéMON mana yang kamu nak masukkan?$"
 
 LilycoveCity_ContestLobby_Text_Transmitting:
-	.string "Transmitting…$"
+	.string "Menghantar…$"
 
 LilycoveCity_ContestLobby_Text_TransmissionError:
-	.string "Transmission error…$"
+	.string "Ralat penghantaran…$"
 
 LilycoveCity_ContestLobby_Text_PlayersChoseDifferentContest:
-	.string "You may have chosen a different\n"
-	.string "CONTEST than another player.$"
+	.string "Kamu mungkin memilih PERTANDINGAN yang\n"
+	.string "berbeza daripada pemain lain.$"
 
 LilycoveCity_ContestLobby_Text_PlayersMadeDifferentChoice:
-	.string "You may have made a different\n"
-	.string "choice than another player.$"
+	.string "Kamu mungkin membuat pilihan yang\n"
+	.string "berbeza daripada pemain lain.$"
 
 LilycoveCity_ContestLobby_Text_PleaseWaitBButtonCancel:
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Sila tunggu.\n"
+	.string "… … Butang B: Batal$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime2:
-	.string "We hope you will participate another\n"
-	.string "time.$"
+	.string "Kami harap kamu akan menyertainya lain\n"
+	.string "kali.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_TransmissionErrorTryAgain:
-	.string "Transmission error.\n"
-	.string "Please try again.$"
+	.string "Ralat penghantaran.\n"
+	.string "Sila cuba lagi.$"
 
 LilycoveCity_ContestLobby_Text_YourMonIsEntryNumX:
-	.string "Your POKéMON will be entered in\n"
-	.string "the CONTEST.\p"
-	.string "Your POKéMON is Entry No. {STR_VAR_2}.$"
+	.string "POKéMON kamu akan disertakan dalam\n"
+	.string "PERTANDINGAN.\p"
+	.string "POKéMON kamu ialah Peserta No.\n"
+	.string "{STR_VAR_2}.$"
 
 LilycoveCity_ContestLobby_Text_ContestBeginShortly:
-	.string "The CONTEST will begin shortly.$"
+	.string "PERTANDINGAN akan bermula sebentar\n"
+	.string "lagi.$"
 
 LilycoveCity_ContestLobby_Text_LinkContestReception:
-	.string "Welcome! This is the POKéMON CONTEST\n"
-	.string "link reception counter.\p"
-	.string "You may enter CONTESTS together with\n"
-	.string "one or more friends.$"
+	.string "Selamat datang! Ini kaunter\n"
+	.string "pendaftaran PERTANDINGAN POKéMON\l"
+	.string "berangkai.\p"
+	.string "Kamu boleh masuk PERTANDINGAN bersama\n"
+	.string "seorang atau lebih kawan.$"
 
 LilycoveCity_ContestLobby_Text_WhichTopic2:
-	.string "Which topic would you like?$"
+	.string "Topik mana yang kamu mahu?$"
 
 LilycoveCity_ContestLobby_Text_EnterContest3:
-	.string "Would you like to enter a CONTEST?$"
+	.string "Kamu nak masuk PERTANDINGAN?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichContest3:
-	.string "Which CONTEST would you like to enter?$"
+	.string "PERTANDINGAN mana yang kamu nak\n"
+	.string "masuk?$"
 
 LilycoveCity_ContestLobby_Text_MonInNoCondition2:
-	.string "Your POKéMON appears to be in no\n"
-	.string "condition to take part in a CONTEST…$"
+	.string "Nampaknya POKéMON kamu tidak dalam\n"
+	.string "keadaan sesuai untuk menyertai\l"
+	.string "PERTANDINGAN…$"
 
 LilycoveCity_ContestLobby_Text_EggCannotTakePart2:
-	.string "I'm sorry, but an EGG cannot take part\n"
-	.string "in a POKéMON CONTEST.$"
+	.string "Maaf, TELUR tak boleh menyertai\n"
+	.string "PERTANDINGAN POKéMON.$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichPokemon3:
-	.string "Which POKéMON would you like to enter?$"
+	.string "POKéMON mana yang kamu nak masukkan?$"
 
 LilycoveCity_ContestLobby_Text_PleaseDecideLinkLeader:
-	.string "Please decide which of you will\n"
-	.string "become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "Sila tentukan siapa antara kamu yang\n"
+	.string "akan jadi KETUA KUMPULAN.\p"
+	.string "Pemain lain mesti pilih\n"
+	.string "“SERTAI KUMPULAN.”$"
 
 LilycoveCity_ContestLobby_Text_PlayerAt4PCounterUseGMode:
-	.string "At least one player has entered using\n"
-	.string "the 4-player reception counter.\p"
-	.string "There must be four players connected\n"
-	.string "using a GBA Game Link cable.\p"
-	.string "When the four players are ready,\n"
-	.string "select G-MODE (GLOBAL MODE),\l"
-	.string "then register to enter again, please.$"
+	.string "Sekurang-kurangnya seorang pemain\n"
+	.string "telah masuk melalui kaunter\l"
+	.string "pendaftaran 4 pemain.\p"
+	.string "Empat pemain mesti berhubung\n"
+	.string "menggunakan kabel GBA Game Link.\p"
+	.string "Bila empat pemain dah bersedia, pilih\n"
+	.string "MOD-G (MOD GLOBAL), kemudian sila\l"
+	.string "daftar semula.$"
 
 LilycoveCity_ContestLobby_Text_ExplainLinkContest:
-	.string "This is a CONTEST for two to four\n"
-	.string "players linked using a Wireless\l"
-	.string "Adapter or a GBA Game Link cable.\p"
-	.string "Participants are first asked to choose\n"
-	.string "the mode they wish to enter.\p"
-	.string "There are two different modes.\p"
-	.string "E-MODE (EMERALD MODE) is for\n"
-	.string "two to four players, each with a\l"
-	.string "POKéMON Emerald Game Pak.\p"
-	.string "G-MODE (GLOBAL MODE) is only for\n"
-	.string "four players, each with a POKéMON\l"
-	.string "Emerald, Ruby, or Sapphire Game Pak.\p"
-	.string "The players should discuss which mode\n"
-	.string "they want, then choose the same mode.\p"
-	.string "Once all the players have chosen\n"
-	.string "the same CONTEST in the same mode,\l"
-	.string "the entry registration is complete.\p"
-	.string "After that, a CONTEST will start in\n"
-	.string "the usual manner.$"
+	.string "Ini PERTANDINGAN untuk dua hingga\n"
+	.string "empat pemain yang berhubung\l"
+	.string "menggunakan Penyesuai Wayarles\l"
+	.string "atau kabel GBA Game Link.\p"
+	.string "Peserta diminta memilih mod yang mereka\n"
+	.string "mahu masuki dahulu.\p"
+	.string "Ada dua mod yang berbeza.\p"
+	.string "MOD-E (MOD EMERALD) untuk dua hingga\n"
+	.string "empat pemain, masing-masing dengan\l"
+	.string "Game Pak POKéMON Emerald.\p"
+	.string "MOD-G (MOD GLOBAL) hanya untuk empat\n"
+	.string "pemain, masing-masing dengan Game Pak\l"
+	.string "POKéMON Emerald, Ruby atau Sapphire.\p"
+	.string "Pemain patut berbincang mod mana yang\n"
+	.string "mereka mahu, kemudian pilih mod yang\l"
+	.string "sama.\p"
+	.string "Bila semua pemain dah pilih\n"
+	.string "PERTANDINGAN yang sama dalam mod yang\l"
+	.string "sama, pendaftaran penyertaan selesai.\p"
+	.string "Selepas itu, PERTANDINGAN akan bermula\n"
+	.string "seperti biasa.$"
 
 LilycoveCity_ContestLobby_Text_ExplainEMode:
-	.string "In E-MODE (EMERALD MODE),\n"
-	.string "a LINK CONTEST can be held with\l"
-	.string "two to four players. Each player must\l"
-	.string "have a POKéMON Emerald Game Pak.\p"
-	.string "The players must be linked with each\n"
-	.string "other using Wireless Adapters or\l"
-	.string "GBA Game Link cables.\p"
-	.string "If there are fewer than four players,\n"
-	.string "TRAINERS in the hall will join to fill\l"
-	.string "the 4-player CONTEST lineup.\p"
-	.string "Please be aware that E-MODE is not\n"
-	.string "available in POKéMON Ruby or Sapphire.$"
+	.string "Dalam MOD-E (MOD EMERALD),\n"
+	.string "PERTANDINGAN LINK boleh diadakan\l"
+	.string "dengan dua hingga empat pemain.\p"
+	.string "Setiap pemain mesti ada Game Pak\n"
+	.string "POKéMON Emerald.\p"
+	.string "Pemain mesti berhubung antara satu\n"
+	.string "sama lain menggunakan Penyesuai Tanpa\l"
+	.string "Wayar atau kabel GBA Game Link.\p"
+	.string "Kalau kurang daripada empat pemain,\n"
+	.string "JURULATIH di dewan akan menyertai\l"
+	.string "untuk memenuhkan barisan\l"
+	.string "PERTANDINGAN 4 peserta.\p"
+	.string "Sila ambil perhatian, MOD-E tiada dalam\n"
+	.string "POKéMON Ruby atau Sapphire.$"
 
 LilycoveCity_ContestLobby_Text_ExplainGMode:
-	.string "G-MODE (GLOBAL MODE) is specifically\n"
-	.string "for four players who are linked using\l"
-	.string "GBA Game Link cables.\p"
-	.string "Each player must have a POKéMON\n"
-	.string "Emerald, Ruby, or Sapphire Game Pak.\p"
-	.string "The CONTEST starts after all players\n"
-	.string "choose G-MODE (POKéMON Emerald) or\l"
-	.string "enter through the 4-player reception\l"
-	.string "counter (POKéMON Ruby or Sapphire).$"
+	.string "MOD-G (MOD GLOBAL) khas untuk empat\n"
+	.string "pemain yang berhubung menggunakan\l"
+	.string "kabel GBA Game Link.\p"
+	.string "Setiap pemain mesti ada Game Pak\n"
+	.string "POKéMON Emerald, Ruby atau Sapphire.\p"
+	.string "PERTANDINGAN bermula selepas semua\n"
+	.string "pemain memilih MOD-G (POKéMON Emerald)\l"
+	.string "atau masuk melalui kaunter pendaftaran\l"
+	.string "4 pemain (POKéMON Ruby atau Sapphire).$"
 
 LilycoveCity_ContestLobby_Text_NoWirelessAdapterInGMode:
-	.string "I'm terribly sorry.\p"
-	.string "G-MODE does not function\n"
-	.string "with Wireless Adapters.\p"
-	.string "Please select E-MODE or try\n"
-	.string "again using a GBA Game Link cable.$"
+	.string "Saya betul-betul minta maaf.\p"
+	.string "MOD-G tidak berfungsi dengan\n"
+	.string "Penyesuai Wayarles.\p"
+	.string "Sila pilih MOD-E atau cuba lagi\n"
+	.string "menggunakan kabel GBA Game Link.$"
 
 LilycoveCity_ContestLobby_Text_WhichContestMode:
-	.string "Which CONTEST MODE would you like\n"
-	.string "to enter?$"
+	.string "MOD PERTANDINGAN mana yang kamu nak\n"
+	.string "masuk?$"
 
 ContestHall_Text_GettingStartedWireless:
-	.string "MC: Hello! We're just getting started\n"
-	.string "with a 4-player linked POKéMON\l"
-	.string "{STR_VAR_2}!$"
+	.string "PENGACARA: Helo! Kita baru nak mulakan\n"
+	.string "{STR_VAR_2} POKéMON\l"
+	.string "berangkai 4 pemain!$"
 
 ContestHall_Text_ParticipantsAsFollows:
-	.string "The participating TRAINERS and their\n"
-	.string "POKéMON are as follows:$"
+	.string "JURULATIH yang menyertai dan POKéMON\n"
+	.string "mereka adalah seperti berikut:$"
 
 ContestHall_Text_WeveSeenContestants:
-	.string "MC: We've just seen the four POKéMON\n"
-	.string "contestants.\p"
-	.string "Now it's time for primary judging!$"
+	.string "PENGACARA: Kita baru saja lihat\n"
+	.string "keempat-empat peserta POKéMON.\p"
+	.string "Kini tiba masa penilaian pertama!$"
 
 ContestHall_Text_AudienceWillVote:
-	.string "The audience will vote on their\n"
-	.string "favorite POKéMON contestants.$"
+	.string "Penonton akan mengundi peserta\n"
+	.string "POKéMON kegemaran mereka.$"
 
 ContestHall_Text_LetVotingBegin:
-	.string "Without any further ado,\n"
-	.string "let the voting begin!$"
+	.string "Tanpa berlengah lagi,\n"
+	.string "mari mulakan undian!$"
 
 ContestHall_Text_VotingComplete:
-	.string "Voting is now complete!\p"
-	.string "While the votes are being tallied,\n"
-	.string "let's move on to secondary judging!$"
+	.string "Undian kini selesai!\p"
+	.string "Sementara undian dikira, mari kita\n"
+	.string "teruskan ke penilaian kedua!$"
 
 ContestHall_Text_SecondStageOfJudging:
-	.string "The second stage of judging is\n"
-	.string "the much-anticipated appeal time!\p"
-	.string "May the contestants amaze us with\n"
-	.string "superb appeals of dazzling moves!$"
+	.string "Peringkat kedua penilaian ialah masa\n"
+	.string "pikatan yang dinanti-nantikan!\p"
+	.string "Semoga para peserta memukau kita\n"
+	.string "dengan pikatan move yang\l"
+	.string "mempesonakan!$"
 
 ContestHall_Text_LetsAppeal:
-	.string "Let's see a little enthusiasm!\n"
-	.string "Let's appeal!$"
+	.string "Mari tunjukkan sedikit semangat!\n"
+	.string "Ayuh, memikat!$"

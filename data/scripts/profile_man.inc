@@ -92,75 +92,78 @@ ProfileMan_EventScript_Ret::
 	return
 
 ProfileMan_Text_CollectTrainerProfiles:
-	.string "Hello there, TRAINER!\n"
-	.string "You've got a wonderful smile, there.\p"
-	.string "I have a hobby--collecting the profiles\n"
-	.string "of POKéMON TRAINERS.$"
+	.string "Helo, JURULATIH!\n"
+	.string "Senyuman kamu memang menawan.\p"
+	.string "Saya ada hobi--mengumpul profil\n"
+	.string "JURULATIH POKéMON.$"
 
 ProfileMan_Text_MayISeeYourProfile:
-	.string "So, how about it?\n"
-	.string "May I see your profile?$"
+	.string "Jadi, macam mana?\n"
+	.string "Boleh saya tengok profil kamu?$"
 
 ProfileMan_Text_EasyChatExplanation:
-	.string "You make your own profile by putting\n"
-	.string "together four words or phrases.\p"
-	.string "Here, I'll show you an example of a\n"
-	.string "profile using four pieces of text.\p"
-	.string "You can switch those four pieces with\n"
-	.string "other text pieces any which way you\l"
-	.string "like to make your own profile.\p"
-	.string "There are a lot of text pieces that\n"
-	.string "you can use.\p"
-	.string "They are arranged in groups like\n"
-	.string "POKéMON, lifestyles, and hobbies so\l"
-	.string "it is easier to look them up.\p"
-	.string "So, first, choose the group of text\n"
-	.string "pieces to display a list of choices.\p"
-	.string "Then, pick the choice you want.\p"
-	.string "Repeat for the remaining text choices,\n"
-	.string "and you'll have your very own profile.$"
+	.string "Kamu buat profil sendiri dengan\n"
+	.string "menggabungkan empat perkataan atau\l"
+	.string "frasa.\p"
+	.string "Nah, saya tunjukkan contoh profil yang\n"
+	.string "guna empat cebisan teks.\p"
+	.string "Kamu boleh tukar empat cebisan itu\n"
+	.string "dengan cebisan teks lain ikut suka hati\l"
+	.string "untuk buat profil sendiri.\p"
+	.string "Ada banyak cebisan teks yang boleh\n"
+	.string "kamu guna.\p"
+	.string "Semuanya disusun dalam kumpulan\n"
+	.string "seperti POKéMON, gaya hidup dan hobi\l"
+	.string "supaya senang dicari.\p"
+	.string "Jadi, mula-mula, pilih kumpulan cebisan\n"
+	.string "teks untuk paparkan senarai pilihan.\p"
+	.string "Kemudian, pilih yang kamu mahu.\p"
+	.string "Ulang untuk pilihan teks yang\n"
+	.string "selebihnya, dan siaplah profil kamu\l"
+	.string "sendiri.$"
 
 ProfileMan_Text_LetsSeeItThen:
-	.string "Yes! Thank you!\n"
-	.string "So, let's see it, then.$"
+	.string "Ya! Terima kasih!\n"
+	.string "Jadi, mari kita tengok.$"
 
 ProfileMan_Text_ImagineYouWouldHaveWonderfulProfile:
-	.string "Oh, no, really?\p"
-	.string "I imagine someone like you would have\n"
-	.string "a wonderful profile…$"
+	.string "Alamak, betul ke?\p"
+	.string "Saya bayangkan orang macam kamu mesti\n"
+	.string "ada profil yang hebat…$"
 
 ProfileMan_Text_NotIntoItRightNow:
-	.string "Oh? You're not into it right now?\p"
-	.string "Well, anytime is good by me!$"
+	.string "Oh? Kamu tak berminat sekarang?\p"
+	.string "Takpe, bila-bila masa pun saya okey!$"
 
 ProfileMan_Text_YouHaveWonderfulSmile:
-	.string "Hello there, TRAINER!\n"
-	.string "You've got a wonderful smile.$"
+	.string "Helo, JURULATIH!\n"
+	.string "Senyuman kamu memang menawan.$"
 
 ProfileMan_Text_MayISeeYourNewProfile:
-	.string "May I see your new profile?$"
+	.string "Boleh saya tengok profil baru kamu?$"
 
 ProfileMan_Text_EvenBetterThanLastProfile:
-	.string "Yes! Thank you!\p"
-	.string "I hope it's even better than the profile\n"
-	.string "you showed me before.$"
+	.string "Ya! Terima kasih!\p"
+	.string "Saya harap ia lebih baik daripada profil\n"
+	.string "yang kamu tunjuk dulu.$"
 
 ProfileMan_Text_LikeProfileWayItIs:
-	.string "Oh, you like your profile the way it is.\p"
-	.string "I don't blame you--it's a wonderful\n"
-	.string "profile the way it is now.$"
+	.string "Oh, kamu suka profil kamu macam\n"
+	.string "sekarang.\p"
+	.string "Saya tak salahkan kamu--profil kamu\n"
+	.string "sekarang memang hebat.$"
 
 ProfileMan_Text_FantasticProfile:
-	.string "F-fantastic!\p"
-	.string "Your profile, it's wonderful!\n"
-	.string "It really says what you're about.\p"
-	.string "Why, anyone hearing this profile would\n"
-	.string "be captivated by you!\p"
-	.string "Thank you!$"
+	.string "H-hebat!\p"
+	.string "Profil kamu memang menakjubkan!\n"
+	.string "Ia betul-betul menggambarkan kamu.\p"
+	.string "Sesiapa yang dengar profil ini pasti\n"
+	.string "terpikat dengan kamu!\p"
+	.string "Terima kasih!$"
 
 @ Unused
 ProfileMan_Text_YouKnowSecretSaying:
 	.string "Oh?\n"
-	.string "You know the secret saying!\p"
-	.string "That means you're now a fellow member\n"
-	.string "of the MYSTERY EVENT CLUB!$"
+	.string "Kamu tahu ungkapan rahsia itu!\p"
+	.string "Maknanya kamu kini ahli KELAB ACARA\n"
+	.string "MISTERI!$"

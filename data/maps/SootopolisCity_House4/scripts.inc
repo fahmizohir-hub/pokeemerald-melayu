@@ -20,19 +20,19 @@ SootopolisCity_House4_EventScript_Azumarill::
 	end
 
 SootopolisCity_House4_Text_AncientTreasuresWaitingInSea:
-	.string "Listen up, and I'll tell you something\n"
-	.string "good.\p"
-	.string "There's supposed to be an ancient\n"
-	.string "ruin in the sea around here.\p"
-	.string "There could be treasures just waiting\n"
-	.string "to be discovered down there.$"
+	.string "Dengar sini, saya nak beritahu sesuatu\n"
+	.string "yang menarik.\p"
+	.string "Katanya ada runtuhan purba di dalam\n"
+	.string "laut sekitar sini.\p"
+	.string "Mungkin ada harta karun di bawah sana\n"
+	.string "yang menunggu untuk ditemui.$"
 
 SootopolisCity_House4_Text_StrollUnderwaterWithPokemon:
-	.string "Ancient treasures…\p"
-	.string "It would be nice if they existed, but\n"
-	.string "even if they didn't, it would be so\l"
-	.string "beautiful to take an underwater\l"
-	.string "stroll with my POKéMON.$"
+	.string "Harta karun purba…\p"
+	.string "Seronok kalau betul-betul wujud, tapi\n"
+	.string "kalau tak pun, mesti indah dapat\l"
+	.string "bersiar-siar di bawah air bersama\l"
+	.string "POKéMON saya.$"
 
 SootopolisCity_House4_Text_Azumarill:
 	.string "AZUMARILL: Marurii.$"

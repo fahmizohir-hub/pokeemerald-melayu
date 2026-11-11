@@ -23,19 +23,19 @@ MossdeepCity_House1_EventScript_Woman::
 
 MossdeepCity_House1_Text_HmmYourPokemon:
 	.string "Hmm!\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "{STR_VAR_1} kamu…$"
 
 MossdeepCity_House1_Text_ItLikesXPokeblocks:
-	.string "It likes {STR_VAR_1}S,\n"
-	.string "doesn't it?\p"
-	.string "No, I'm positive of it! It definitely\n"
-	.string "likes {STR_VAR_1}S!$"
+	.string "Ia suka {STR_VAR_1},\n"
+	.string "kan?\p"
+	.string "Tak, saya pasti! Memang ia suka\n"
+	.string "{STR_VAR_1}!$"
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
-	.string "It doesn't appear to like or dislike\n"
-	.string "any {POKEBLOCK}S.$"
+	.string "Ia nampaknya tak suka dan tak benci\n"
+	.string "mana-mana {POKEBLOCK}.$"
 
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
-	.string "My husband can tell what kind of\n"
-	.string "{POKEBLOCK}S a POKéMON likes at a glance.$"
+	.string "Suami saya boleh tahu jenis {POKEBLOCK} yang\n"
+	.string "POKéMON suka sekali pandang saja.$"
 

@@ -43,93 +43,98 @@ MtPyre_2F_EventScript_Zander::
 	end
 
 MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "Memories of my darling SKITTY…\n"
-	.string "My eyes overflow thinking about it.$"
+	.string "Kenangan bersama SKITTY kesayangan\n"
+	.string "saya… Berlinang air mata bila teringat.$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
-	.string "Ooch, ouch… There are holes in the\n"
-	.string "ground here and there.\p"
-	.string "I didn't notice and took a tumble from\n"
-	.string "the floor above.$"
+	.string "Aduh, sakitnya… Ada lubang di lantai\n"
+	.string "sana sini.\p"
+	.string "Saya tak perasan, terus jatuh dari\n"
+	.string "tingkat atas.$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hey! Are you searching for POKéMON?\n"
-	.string "You came along after me! You're rude!$"
+	.string "Hoi! Kamu cari POKéMON ke?\n"
+	.string "Kamu ikut saya! Biadabnya!$"
 
 MtPyre_2F_Text_MarkDefeat:
-	.string "Ayieeeeh!\n"
-	.string "I'm sorry, forgive me, please!$"
+	.string "Aiyaaaaa!\n"
+	.string "Maaf, ampunkan saya!$"
 
 MtPyre_2F_Text_MarkPostBattle:
-	.string "People don't come here often, so\n"
-	.string "I thought there'd be rare POKéMON.$"
+	.string "Orang jarang datang ke sini, jadi saya\n"
+	.string "ingat ada POKéMON nadir.$"
 
 MtPyre_2F_Text_LukeIntro:
-	.string "LUKE: We're here on a dare.\p"
-	.string "Heheh, if I show her how cool I am,\n"
-	.string "she'll fall for me. I know it!\p"
-	.string "I know! I'll cream you and show her\n"
-	.string "how cool I am!$"
+	.string "LUKE: Kami datang sini sebab disahut\n"
+	.string "cabaran.\p"
+	.string "Hehe, kalau saya tunjuk betapa\n"
+	.string "hebatnya saya, mesti dia jatuh cinta.\l"
+	.string "Saya tahu!\p"
+	.string "Saya tahu! Saya belasah kamu dan\n"
+	.string "tunjuk pada dia betapa hebatnya saya!$"
 
 MtPyre_2F_Text_LukeDefeat:
-	.string "LUKE: Whoopsie!$"
+	.string "LUKE: Alamak!$"
 
 MtPyre_2F_Text_LukePostBattle:
-	.string "LUKE: Well, we lost but that's okay!\n"
-	.string "I'm right here by your side.\l"
-	.string "We'll make it through this dare!$"
+	.string "LUKE: Kita kalah, tapi tak apa! Saya ada\n"
+	.string "di sisi kamu. Kita akan lepasi cabaran\l"
+	.string "ni!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: If you want to take me on,\n"
-	.string "bring some more POKéMON.\p"
-	.string "If you don't, I won't be able to show\n"
-	.string "off to my girl how cool I am!$"
+	.string "LUKE: Kalau nak lawan saya, bawa lebih\n"
+	.string "banyak POKéMON.\p"
+	.string "Kalau tidak, saya tak dapat tunjuk pada\n"
+	.string "teman wanita saya betapa hebatnya\l"
+	.string "saya!$"
 
 MtPyre_2F_Text_DezIntro:
-	.string "DEZ: I came here on a dare with my\n"
-	.string "boyfriend.\p"
-	.string "It's really scary, but I'm with my\n"
-	.string "boyfriend. It's okay.\p"
-	.string "I know! I'll get my boyfriend to look\n"
-	.string "cool by beating you!$"
+	.string "DEZ: Saya datang sini sebab disahut\n"
+	.string "cabaran dengan teman lelaki saya.\p"
+	.string "Memang seram sangat, tapi saya bersama\n"
+	.string "teman lelaki saya. Tak apa.\p"
+	.string "Saya tahu! Saya akan buat teman lelaki\n"
+	.string "saya nampak hebat dengan kalahkan\l"
+	.string "kamu!$"
 
 MtPyre_2F_Text_DezDefeat:
-	.string "DEZ: Waaaah! I'm scared!$"
+	.string "DEZ: Waaaa! Saya takut!$"
 
 MtPyre_2F_Text_DezPostBattle:
-	.string "DEZ: We're lovey-dovey, so we don't\n"
-	.string "care if we lose!$"
+	.string "DEZ: Kami sedang hangat bercinta, jadi\n"
+	.string "kalah pun tak kisah!$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
-	.string "DEZ: If you want to challenge us, you\n"
-	.string "should bring at least two POKéMON.\p"
-	.string "My boyfriend's strong.\n"
-	.string "Just one POKéMON won't do at all.$"
+	.string "DEZ: Kalau nak cabar kami, kamu patut\n"
+	.string "bawa sekurang-kurangnya dua POKéMON.\p"
+	.string "Teman lelaki saya kuat.\n"
+	.string "Satu POKéMON langsung tak cukup.$"
 
 MtPyre_2F_Text_LeahIntro:
-	.string "You are an unfamiliar sight…\n"
-	.string "Depart before anything befalls you!$"
+	.string "Wajah kamu asing di sini…\n"
+	.string "Pergilah sebelum sesuatu menimpa kamu!$"
 
 MtPyre_2F_Text_LeahDefeat:
 	.string "Hmm…\n"
-	.string "You're durable.$"
+	.string "Kamu memang tahan lasak.$"
 
 MtPyre_2F_Text_LeahPostBattle:
-	.string "Our family has been TRAINERS here\n"
-	.string "since my great-grandmother's time…\p"
-	.string "It is my duty to protect this\n"
-	.string "mountain…$"
+	.string "Keluarga kami dah jadi JURULATIH di sini\n"
+	.string "sejak zaman moyang saya…\p"
+	.string "Menjadi tugas saya untuk melindungi\n"
+	.string "gunung ini…$"
 
 MtPyre_2F_Text_ZanderIntro:
-	.string "Kiyaaaaah!\n"
-	.string "I'm terrified!$"
+	.string "Kyaaaaaa!\n"
+	.string "Saya takut!$"
 
 MtPyre_2F_Text_ZanderDefeat:
-	.string "Nooooooo!\n"
-	.string "I lost my wits!$"
+	.string "Tidaaaaak!\n"
+	.string "Saya hilang akal!$"
 
 MtPyre_2F_Text_ZanderPostBattle:
-	.string "I get freaked out every time I see\n"
-	.string "anything move…\p"
-	.string "I shouldn't have come here to train…$"
+	.string "Saya terkejut setiap kali nampak\n"
+	.string "apa-apa yang bergerak…\p"
+	.string "Patutnya saya tak datang berlatih di\n"
+	.string "sini…$"
 

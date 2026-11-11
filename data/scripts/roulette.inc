@@ -23,44 +23,44 @@ Roulette_EventScript_Play::
 	end
 
 Roulette_Text_PlayMinimumWagerIsX::
-	.string "The minimum wager at this table\n"
-	.string "is {STR_VAR_1}. Do you want to play?$"
+	.string "Taruhan minimum di meja ini ialah\n"
+	.string "{STR_VAR_1}. Kamu nak main?$"
 
 Roulette_Text_NotEnoughCoins::
-	.string "You don't have enough COINS.$"
+	.string "SYILING kamu tak cukup.$"
 
 Roulette_Text_SpecialRateTable::
-	.string "Special rate table right now!$"
+	.string "Meja kadar istimewa sekarang!$"
 
 Roulette_Text_ControlsInstruction::
-	.string "Place your wager with the + Control\n"
-	.string "Pad, then press the A Button.$"
+	.string "Letak taruhan dengan + Pad Kawalan,\n"
+	.string "kemudian tekan Butang A.$"
 
 Roulette_Text_ItsAHit::
-	.string "It's a hit!$"
+	.string "Kena!$"
 
 Roulette_Text_Jackpot::
 	.string "Jackpot!$"
 
 Roulette_Text_NothingDoing::
-	.string "Nothing doing!$"
+	.string "Tak kena!$"
 
 Roulette_Text_YouveWonXCoins::
-	.string "You've won {STR_VAR_1} COINS!$"
+	.string "Kamu menang {STR_VAR_1} SYILING!$"
 
 Roulette_Text_NoCoinsLeft::
-	.string "No COINS left…$"
+	.string "SYILING dah habis…$"
 
 Roulette_Text_KeepPlaying::
-	.string "Keep playing?$"
+	.string "Nak terus main?$"
 
 Roulette_Text_BoardWillBeCleared::
-	.string "The ROULETTE board will be cleared.$"
+	.string "Papan RULET akan dikosongkan.$"
 
 @ Unused
 Roulette_Text_YouDontHaveACoinCase::
-	.string "You don't have a COIN CASE.$"
+	.string "Kamu tak ada BEKAS SYILING.$"
 
 Roulette_Text_CoinCaseIsFull::
-	.string "Your COIN CASE is full!\n"
-	.string "Coins can be exchanged for prizes.$"
+	.string "BEKAS SYILING kamu dah penuh!\n"
+	.string "Syiling boleh ditukar dengan hadiah.$"

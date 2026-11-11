@@ -284,55 +284,54 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 	end
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
-	.string "I'm the DIVING TREASURE HUNTER!\p"
-	.string "I'm the awesome dude who makes\n"
-	.string "deep-sea dives to gather treasures\l"
-	.string "resting at the bottom.$"
+	.string "Sayalah PEMBURU HARTA SELAM!\p"
+	.string "Sayalah lelaki hebat yang menyelam ke\n"
+	.string "laut dalam untuk kumpul harta karun\l"
+	.string "yang terbaring di dasar.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
-	.string "Tell me, have you seen any SHARDS of\n"
-	.string "tools made in ancient times?$"
+	.string "Beritahu saya, kamu ada nampak SERPIH\n"
+	.string "alatan yang dibuat zaman purba?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
-	.string "You haven't got any treasures\n"
-	.string "for me…\p"
-	.string "If you see any SHARDS, like the RED\n"
-	.string "SHARD, you've got to trade it with me!$"
+	.string "Kamu tak ada harta untuk saya…\p"
+	.string "Kalau kamu jumpa SERPIH, macam SERPIH\n"
+	.string "MERAH, kamu mesti tukar dengan saya!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
-	.string "Oh, hey! That…\n"
-	.string "That's a SHARD! I'm looking for those!\p"
-	.string "Oh, man, you've got to trade that\n"
-	.string "with me! I'll give you something good!$"
+	.string "Oh, hei! Itu…\n"
+	.string "Itu SERPIH! Saya memang cari benda tu!\p"
+	.string "Alamak, kamu mesti tukar dengan saya!\n"
+	.string "Saya akan beri sesuatu yang bagus!$"
 
 Route124_DivingTreasureHuntersHouse_Text_WhatDoYouWantToTrade:
-	.string "What do you want to trade?$"
+	.string "Kamu nak tukar apa?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone:
-	.string "You'll trade your {STR_VAR_1} for\n"
-	.string "my {STR_VAR_2}, then?$"
+	.string "Kamu nak tukar {STR_VAR_1} kamu\n"
+	.string "dengan {STR_VAR_2} saya, ya?$"
 
 Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
-	.string "It's a done deal!\n"
-	.string "Use that wisely!$"
+	.string "Setuju!\n"
+	.string "Gunakan dengan bijak!$"
 
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
-	.string "Do you want to trade something else?$"
+	.string "Kamu nak tukar benda lain?$"
 
 Route124_DivingTreasureHuntersHouse_Text_BagFull:
-	.string "Whoops, your BAG's full.\n"
-	.string "Get rid of some items, friend!$"
+	.string "Alamak, BEG kamu dah penuh.\n"
+	.string "Buang sikit barang, kawan!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
-	.string "No? That's a downer.\n"
-	.string "Well, if you change your mind, come back.$"
+	.string "Tak nak? Hampa betul.\n"
+	.string "Kalau kamu ubah fikiran, datang balik.$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
-	.string "{CLEAR_TO 10}Wanted item{CLEAR_TO 124}Trade item\n"
-	.string "{CLEAR_TO 15}RED SHARD{CLEAR_TO 89}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 123}FIRE STONE{CLEAR_TO 200}\p"
-	.string "{CLEAR_TO 10}Wanted item{CLEAR_TO 124}Trade item\n"
-	.string "{CLEAR_TO 6}YELLOW SHARD{CLEAR_TO 89}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 115}THUNDERSTONE{CLEAR_TO 200}\p"
-	.string "{CLEAR_TO 10}Wanted item{CLEAR_TO 124}Trade item\n"
-	.string "{CLEAR_TO 12}BLUE SHARD{CLEAR_TO 89}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 121}WATER STONE{CLEAR_TO 200}\p"
-	.string "{CLEAR_TO 10}Wanted item{CLEAR_TO 124}Trade item\n"
-	.string "{CLEAR_TO 8}GREEN SHARD{CLEAR_TO 89}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 123}LEAF STONE$"
+	.string "{CLEAR_TO 10}Barang dicari{CLEAR_TO 124}Barang tukaran\n"
+	.string "{CLEAR_TO 15}SERPIH MERAH{CLEAR_TO 89}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 123}BATU API{CLEAR_TO 200}\p"
+	.string "{CLEAR_TO 10}Barang dicari{CLEAR_TO 124}Barang tukaran\n"
+	.string "{CLEAR_TO 6}SERPIH KUNING{CLEAR_TO 89}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 115}BATU PETIR{CLEAR_TO 200}\p"
+	.string "{CLEAR_TO 10}Barang dicari{CLEAR_TO 124}Barang tukaran\n"
+	.string "{CLEAR_TO 12}SERPIH BIRU{CLEAR_TO 89}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 121}BATU AIR{CLEAR_TO 200}\p"
+	.string "{CLEAR_TO 10}Barang dicari{CLEAR_TO 124}Barang tukaran\n"
+	.string "{CLEAR_TO 8}SERPIH HIJAU{CLEAR_TO 89}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 123}BATU DAUN$"

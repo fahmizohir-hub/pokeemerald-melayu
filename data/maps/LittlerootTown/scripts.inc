@@ -851,112 +851,111 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
-	.string "MOM: {PLAYER}, we're here, honey!\p"
-	.string "It must be tiring riding with our things\n"
-	.string "in the moving truck.\p"
-	.string "Well, this is LITTLEROOT TOWN.\p"
-	.string "How do you like it?\n"
-	.string "This is our new home!\p"
-	.string "It has a quaint feel, but it seems to be\n"
-	.string "an easy place to live, don't you think?\p"
-	.string "And, you get your own room, {PLAYER}!\n"
-	.string "Let's go inside.$"
+	.string "IBU: {PLAYER}, kita dah sampai, sayang!\p"
+	.string "Mesti penat naik lori pindah rumah\n"
+	.string "dengan barang-barang kita, kan?\p"
+	.string "Inilah dia PEKAN LITTLEROOT.\p"
+	.string "Macam mana, suka tak?\n"
+	.string "Inilah rumah baru kita!\p"
+	.string "Suasananya macam kampung, tapi nampak\n"
+	.string "senang nak tinggal di sini, kan?\p"
+	.string "Lagi satu, kamu dapat bilik sendiri,\n"
+	.string "{PLAYER}! Jom masuk.$"
 
 LittlerootTown_Text_WaitPlayer:
-	.string "MOM: Wait, {PLAYER}!$"
+	.string "IBU: Tunggu, {PLAYER}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes:
-	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKéMON!\n"
-	.string "You got it from PROF. BIRCH. How nice!\p"
-	.string "You're your father's child, all right.\n"
-	.string "You look good together with POKéMON!\p"
-	.string "Here, honey! If you're going out on an\n"
-	.string "adventure, wear these RUNNING SHOES.\p"
-	.string "They'll put a zip in your step!$"
+	.string "IBU: {PLAYER}! {PLAYER}! Kamu dah\n"
+	.string "kenalkan diri pada PROF. BIRCH?\p"
+	.string "Oh! Comelnya POKéMON ni!\n"
+	.string "PROF. BIRCH yang bagi? Baiknya dia!\p"
+	.string "Memang sebiji macam ayah kamu.\n"
+	.string "Kamu nampak sepadan dengan POKéMON!\p"
+	.string "Nah, sayang! Kalau nak keluar\n"
+	.string "mengembara, pakai KASUT LARI ni.\p"
+	.string "Langkah kamu akan jadi lebih laju!$"
 
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "{PLAYER} menukar kasut kepada\n"
+	.string "KASUT LARI.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
-	.string "MOM: {PLAYER}, those shoes came with\n"
-	.string "instructions.\p"
-	.string "“Press the B Button while wearing these\n"
-	.string "RUNNING SHOES to run extra-fast!\p"
-	.string "“Slip on these RUNNING SHOES and race\n"
-	.string "in the great outdoors!”$"
+	.string "IBU: {PLAYER}, kasut tu ada arahan\n"
+	.string "penggunaan.\p"
+	.string "“Tekan Butang B semasa memakai\n"
+	.string "KASUT LARI untuk berlari pantas!\p"
+	.string "“Sarung KASUT LARI ini dan berlumba\n"
+	.string "di alam terbuka!”$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
-	.string "To think that you have your very own\n"
-	.string "POKéMON now…\l"
-	.string "Your father will be overjoyed.\p"
-	.string "…But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "Tak sangka kamu dah ada POKéMON\n"
+	.string "sendiri sekarang…\l"
+	.string "Mesti ayah kamu gembira sangat.\p"
+	.string "…Tapi tolong berhati-hati, ya.\n"
+	.string "Kalau ada apa-apa, baliklah rumah.\p"
+	.string "Pergilah, sayang. Semoga berjaya!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
-	.string "The power of science is staggering!$"
+	.string "Kalau guna PC, kamu boleh simpan\n"
+	.string "barang dan POKéMON.\p"
+	.string "Hebat betul kuasa sains!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
-	.string "PROF. BIRCH spends days in his LAB\n"
-	.string "studying, then he'll suddenly go out in\l"
-	.string "the wild to do more research…\p"
-	.string "When does PROF. BIRCH spend time\n"
-	.string "at home?$"
+	.string "PROF. BIRCH berhari-hari mengkaji di\n"
+	.string "MAKMAL, kemudian tiba-tiba keluar ke\l"
+	.string "alam liar untuk buat kajian lagi…\p"
+	.string "Bila agaknya PROF. BIRCH ada masa\n"
+	.string "di rumah?$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
-	.string "Um, um, um!\p"
-	.string "If you go outside and go in the grass,\n"
-	.string "wild POKéMON will jump out!$"
+	.string "Err, err, err!\p"
+	.string "Kalau kamu keluar dan masuk rumput,\n"
+	.string "POKéMON liar akan melompat keluar!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
-	.string "It's dangerous if you don't have\n"
-	.string "your own POKéMON.$"
+	.string "Bahaya kalau kamu tak ada\n"
+	.string "POKéMON sendiri.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
-	.string "Um, hi!\p"
-	.string "There are scary POKéMON outside!\n"
-	.string "I can hear their cries!\p"
-	.string "I want to go see what's going on,\n"
-	.string "but I don't have any POKéMON…\p"
-	.string "Can you go see what's happening\n"
-	.string "for me?$"
+	.string "Err, hai!\p"
+	.string "Ada POKéMON yang menakutkan di luar!\n"
+	.string "Saya boleh dengar jeritan mereka!\p"
+	.string "Saya nak pergi tengok apa yang jadi,\n"
+	.string "tapi saya tak ada POKéMON…\p"
+	.string "Boleh tak kamu tolong pergi tengok\n"
+	.string "apa yang berlaku?$"
 
 LittlerootTown_Text_YouSavedBirch:
-	.string "You saved PROF. BIRCH!\n"
-	.string "I'm so glad!$"
+	.string "Kamu dah selamatkan PROF. BIRCH!\n"
+	.string "Saya lega sangat!$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
-	.string "Are you going to catch POKéMON?\n"
-	.string "Good luck!$"
+	.string "Kamu nak pergi tangkap POKéMON?\n"
+	.string "Semoga berjaya!$"
 
 LittlerootTown_Text_TownSign:
-	.string "LITTLEROOT TOWN\n"
-	.string "“A town that can't be shaded any hue.”$"
+	.string "PEKAN LITTLEROOT\n"
+	.string "“Pekan yang tak tercemar oleh warna.”$"
 
 LittlerootTown_Text_ProfBirchsLab:
-	.string "PROF. BIRCH'S POKéMON LAB$"
+	.string "MAKMAL POKéMON PROF. BIRCH$"
 
 LittlerootTown_Text_PlayersHouse:
-	.string "{PLAYER}'s HOUSE$"
+	.string "RUMAH {PLAYER}$"
 
 LittlerootTown_Text_ProfBirchsHouse:
-	.string "PROF. BIRCH'S HOUSE$"
+	.string "RUMAH PROF. BIRCH$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab:
-	.string "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\n"
-	.string "That was good work out there!\p"
-	.string "I knew there was something special\n"
-	.string "about you when I first saw you,\l"
-	.string "but I never expected this.\p"
-	.string "Oh, yes. Do you still have the POKéDEX\n"
-	.string "I gave you?\p"
-	.string "I have something to show you.\n"
-	.string "Let's go to my LAB.$"
-
+	.string "PROF. BIRCH: Wah, wah, {PLAYER}{KUN}!\n"
+	.string "Kerja kamu tadi memang bagus!\p"
+	.string "Saya dah rasa kamu istimewa sejak\n"
+	.string "kali pertama saya nampak kamu,\l"
+	.string "tapi tak sangka sampai begini.\p"
+	.string "Oh, ya. Kamu masih simpan POKéDEX\n"
+	.string "yang saya bagi tu?\p"
+	.string "Ada sesuatu saya nak tunjuk.\n"
+	.string "Jom ke MAKMAL saya.$"

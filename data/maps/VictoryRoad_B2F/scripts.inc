@@ -32,77 +32,77 @@ VictoryRoad_B2F_EventScript_Dianne::
 	end
 
 VictoryRoad_B2F_Text_VitoIntro:
-	.string "I trained together with my whole family,\n"
-	.string "every one of us!\l"
-	.string "I'm not losing to anyone!$"
+	.string "Saya berlatih dengan seluruh keluarga\n"
+	.string "saya, setiap seorang!\l"
+	.string "Saya takkan kalah dengan sesiapa!$"
 
 VictoryRoad_B2F_Text_VitoDefeat:
-	.string "Better than my family?!\n"
-	.string "Is that possible?!$"
+	.string "Lebih hebat daripada keluarga saya?!\n"
+	.string "Mungkinkah?!$"
 
 VictoryRoad_B2F_Text_VitoPostBattle:
-	.string "I was better than everyone in my\n"
-	.string "family. I've never lost before…\p"
-	.string "I've lost my confidence…\n"
-	.string "Maybe I'll go home…$"
+	.string "Saya paling hebat dalam keluarga saya.\n"
+	.string "Tak pernah saya kalah…\p"
+	.string "Saya dah hilang keyakinan…\n"
+	.string "Mungkin saya balik saja…$"
 
 VictoryRoad_B2F_Text_OwenIntro:
-	.string "I'd heard that there was a tough\n"
-	.string "little kid around. Do they mean you?$"
+	.string "Saya dengar ada budak kecil yang hebat\n"
+	.string "di sini. Kamu ke orangnya?$"
 
 VictoryRoad_B2F_Text_OwenDefeat:
-	.string "The little shrimp is tough!$"
+	.string "Budak kecil ni memang hebat!$"
 
 VictoryRoad_B2F_Text_OwenPostBattle:
-	.string "The rumors I heard, that tough little\n"
-	.string "kid is from PETALBURG CITY.$"
+	.string "Khabarnya, budak kecil yang hebat tu\n"
+	.string "berasal dari BANDAR PETALBURG.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
-	.string "You must be getting a little tired.$"
+	.string "Mesti kamu dah penat sikit.$"
 
 VictoryRoad_B2F_Text_CarolineDefeat:
-	.string "No signs of tiring at all!$"
+	.string "Langsung tak nampak penat!$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "VICTORY ROAD and the POKéMON LEAGUE\n"
-	.string "are long and grueling challenges.\l"
-	.string "Beware of fatigue!$"
+	.string "JALAN KEMENANGAN dan LIGA POKéMON\n"
+	.string "ialah cabaran yang panjang dan berat.\l"
+	.string "Hati-hati dengan keletihan!$"
 
 VictoryRoad_B2F_Text_JulieIntro:
-	.string "You shouldn't get complacent just\n"
-	.string "because you have a lot of GYM BADGES.\p"
-	.string "There's always going to be someone\n"
-	.string "who's better than you!$"
+	.string "Jangan cepat berpuas hati hanya\n"
+	.string "kerana kamu ada banyak LENCANA GIM.\p"
+	.string "Akan sentiasa ada orang yang lebih\n"
+	.string "hebat daripada kamu!$"
 
 VictoryRoad_B2F_Text_JulieDefeat:
-	.string "You're better than me!$"
+	.string "Kamu lebih hebat daripada saya!$"
 
 VictoryRoad_B2F_Text_JuliePostBattle:
-	.string "Gaze on your collected BADGES and\n"
-	.string "remember the TRAINERS you've faced.$"
+	.string "Tatap LENCANA yang kamu kumpul dan\n"
+	.string "ingat JURULATIH yang kamu dah hadapi.$"
 
 VictoryRoad_B2F_Text_FelixIntro:
-	.string "I've come this far, but the tension's\n"
-	.string "giving me awful stomach pain…$"
+	.string "Saya dah sampai sejauh ini, tapi\n"
+	.string "gemuruh ni buat perut saya sakit…$"
 
 VictoryRoad_B2F_Text_FelixDefeat:
-	.string "Ooh…\n"
-	.string "It hurts…$"
+	.string "Aduh…\n"
+	.string "Sakitnya…$"
 
 VictoryRoad_B2F_Text_FelixPostBattle:
-	.string "I can't help getting all tense knowing\n"
-	.string "that I'm nearing the POKéMON LEAGUE.\p"
-	.string "It's all I can do to feign calm.$"
+	.string "Saya tak boleh elak rasa tegang bila\n"
+	.string "tahu saya makin hampir ke LIGA POKéMON.\p"
+	.string "Saya cuma mampu buat-buat tenang.$"
 
 VictoryRoad_B2F_Text_DianneIntro:
-	.string "The elite among the elite gather in\n"
-	.string "this cave.\p"
-	.string "How are you finding it?$"
+	.string "Golongan elit antara yang elit\n"
+	.string "berkumpul di gua ini.\p"
+	.string "Macam mana kamu rasa?$"
 
 VictoryRoad_B2F_Text_DianneDefeat:
-	.string "Not rattled in the least bit!$"
+	.string "Langsung tak gentar!$"
 
 VictoryRoad_B2F_Text_DiannePostBattle:
-	.string "You do have guts! I like that!\n"
-	.string "Keep it going!$"
+	.string "Kamu memang berani! Saya suka!\n"
+	.string "Teruskan!$"
 

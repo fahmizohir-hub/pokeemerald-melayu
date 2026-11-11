@@ -48,32 +48,32 @@ RustboroCity_House1_EventScript_Hiker::
 	end
 
 RustboroCity_House1_Text_IllTradeIfYouWant:
-	.string "Huh? My POKéMON is cute?\n"
-	.string "Sure, I knew that.\p"
-	.string "But if you really want, I'm willing\n"
-	.string "to trade it to you.\p"
-	.string "I'll trade you my {STR_VAR_2} for\n"
-	.string "a {STR_VAR_1} if you want.$"
+	.string "Hah? POKéMON saya comel? Mestilah,\n"
+	.string "saya tahu.\p"
+	.string "Tapi kalau kamu betul-betul nak, saya\n"
+	.string "sanggup tukar dengan kamu.\p"
+	.string "Saya tukar {STR_VAR_2} saya dengan\n"
+	.string "{STR_VAR_1} kalau kamu nak.$"
 
 RustboroCity_House1_Text_PleaseBeGoodToMyPokemon:
-	.string "Eheheh…\n"
-	.string "Please be good to my POKéMON.$"
+	.string "Ehehe… Tolong jaga POKéMON saya\n"
+	.string "baik-baik.$"
 
 RustboroCity_House1_Text_DoesntLookLikeMonToMe:
-	.string "Huh? That doesn't look anything like\n"
-	.string "a {STR_VAR_1} to me.$"
+	.string "Hah? Itu langsung tak nampak macam\n"
+	.string "{STR_VAR_1} pada saya.$"
 
 RustboroCity_House1_Text_YouDontWantToThatsOkay:
-	.string "Oh, if you don't want to, that's okay.\n"
-	.string "But my POKéMON is cute, you know…$"
+	.string "Oh, kalau kamu tak nak, tak apa. Tapi\n"
+	.string "POKéMON saya comel, tau…$"
 
 RustboroCity_House1_Text_AnyPokemonCanBeCute:
-	.string "Any POKéMON can be cute if you raise\n"
-	.string "it with care and kindness.$"
+	.string "Semua POKéMON boleh jadi comel kalau\n"
+	.string "dibela dengan penuh kasih sayang.$"
 
 RustboroCity_House1_Text_AllSortsOfPlaces:
-	.string "In all sorts of places, there are all\n"
-	.string "sorts of POKéMON and people.\p"
-	.string "I find that fascinating, so I go to all\n"
-	.string "sorts of places.$"
+	.string "Di serata tempat, ada macam-macam\n"
+	.string "POKéMON dan manusia.\p"
+	.string "Saya rasa itu menarik, jadi saya pergi\n"
+	.string "ke serata tempat.$"
 

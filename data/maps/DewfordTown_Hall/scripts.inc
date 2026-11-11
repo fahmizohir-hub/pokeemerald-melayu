@@ -247,186 +247,180 @@ DewfordTown_Hall_EventScript_ReceivedSludgeBomb::
 	end
 
 DewfordTown_Hall_Text_CantImagineLifeWithoutTrend:
-	.string "What's in vogue? Why, it has to be\n"
+	.string "Apa yang tengah popular? Mestilah\n"
 	.string "“{STR_VAR_1}”!\p"
-	.string "I can't imagine what life would be like\n"
-	.string "without “{STR_VAR_1}”!$"
+	.string "Tak dapat saya bayangkan hidup tanpa\n"
+	.string "“{STR_VAR_1}”!$"
 
 DewfordTown_Hall_Text_GettingBoredOfTrend:
-	.string "What's in vogue? Why, it has to be\n"
+	.string "Apa yang tengah popular? Mestilah\n"
 	.string "“{STR_VAR_1}”!\p"
-	.string "But I'm getting kind of bored with it.\p"
-	.string "I should look for the next big thing.$"
+	.string "Tapi saya dah mula bosan dengannya.\p"
+	.string "Saya patut cari benda hangat yang\n"
+	.string "seterusnya.$"
 
 DewfordTown_Hall_Text_TeachingMonAboutTrend:
-	.string "I'm teaching my POKéMON about\n"
+	.string "Saya sedang ajar POKéMON saya tentang\n"
 	.string "“{STR_VAR_1},”\l"
-	.string "but it's not going well.\p"
-	.string "It's a bit too much, I think.$"
+	.string "tapi tak berapa menjadi.\p"
+	.string "Rasanya macam berat sangat untuk dia.$"
 
 DewfordTown_Hall_Text_DeepLinkBetweenXAndY:
-	.string "I'm studying up on the hip and trendy\n"
-	.string "“{STR_VAR_1}” now.\p"
-	.string "Is it true that there's a deep link\n"
-	.string "between “{STR_VAR_1}”\l"
-	.string "and “{STR_VAR_2}”?$"
+	.string "Saya sedang mendalami trend terkini,\n"
+	.string "“{STR_VAR_1}”.\p"
+	.string "Betul ke ada kaitan yang mendalam\n"
+	.string "antara “{STR_VAR_1}”\l"
+	.string "dan “{STR_VAR_2}”?$"
 
 DewfordTown_Hall_Text_MyHunchWasRight:
-	.string "Oh!\n"
-	.string "So, my hunch was right!\p"
-	.string "I'm one step closer to being hip and\n"
-	.string "happening, yowza!$"
+	.string "Oh! Jadi, firasat saya betul!\p"
+	.string "Saya selangkah lagi untuk jadi orang\n"
+	.string "yang hip dan hangat, yahoo!$"
 
 DewfordTown_Hall_Text_NotEasyToKeepUp:
-	.string "What?!\n"
-	.string "Is that so?!\p"
-	.string "It's not easy for an older fellow like\n"
-	.string "me to keep up with trends!$"
+	.string "Apa?! Betul ke?!\p"
+	.string "Bukan senang orang tua macam saya nak\n"
+	.string "ikut trend!$"
 
 DewfordTown_Hall_Text_TVShowAboutTrend:
-	.string "This whole business about\n"
-	.string "“{STR_VAR_1}”…\l"
-	.string "Isn't there a TV show on it?$"
+	.string "Segala hal tentang\n"
+	.string "“{STR_VAR_1}” ni…\l"
+	.string "Ada rancangan TV tentangnya, kan?$"
 
 DewfordTown_Hall_Text_IsTrendMorePopularAcrossSea:
-	.string "Across the sea…\p"
-	.string "Is “{STR_VAR_1}”\n"
-	.string "even more popular?$"
+	.string "Di seberang laut…\p"
+	.string "Adakah “{STR_VAR_1}”\n"
+	.string "lebih popular lagi?$"
 
 DewfordTown_Hall_Text_CollectTrendMerchandise:
-	.string "I collect official\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "licensed merchandise.\p"
-	.string "I have official\n"
-	.string "“{STR_VAR_1}” DOLLS…\p"
-	.string "Official “{STR_VAR_1}”\n"
-	.string "brand clothing…\p"
-	.string "And officially licensed\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "picture books.\p"
-	.string "Heheh, I own!\n"
-	.string "I'm not sharing anything with you!$"
+	.string "Saya kumpul barangan rasmi berlesen\n"
+	.string "“{STR_VAR_1}”.\p"
+	.string "Saya ada PATUNG rasmi\n"
+	.string "“{STR_VAR_1}”…\p"
+	.string "Pakaian jenama rasmi\n"
+	.string "“{STR_VAR_1}”…\p"
+	.string "Dan buku bergambar berlesen rasmi\n"
+	.string "“{STR_VAR_1}”.\p"
+	.string "Hehe, semua saya punya! Saya takkan\n"
+	.string "kongsi dengan kamu!$"
 
 DewfordTown_Hall_Text_BooksAboutTrend:
-	.string "IDENTIFYING GOOD\n"
-	.string "“{STR_VAR_1}” &\l"
-	.string "BAD “{STR_VAR_1}”…\p"
-	.string "THE LINK BETWEEN\n"
-	.string "“{STR_VAR_1}” AND\l"
+	.string "MENGENAL PASTI\n"
+	.string "“{STR_VAR_1}” BAIK &\l"
+	.string "“{STR_VAR_1}” BURUK…\p"
+	.string "KAITAN ANTARA\n"
+	.string "“{STR_VAR_1}” DAN\l"
 	.string "POKéMON…\p"
-	.string "USEFUL\n"
-	.string "“{STR_VAR_1}”…\p"
-	.string "It's neatly jammed with books about\n"
+	.string "“{STR_VAR_1}”\n"
+	.string "YANG BERGUNA…\p"
+	.string "Rak ni penuh dengan buku tentang\n"
 	.string "“{STR_VAR_1}.”$"
 
 DewfordTown_Hall_Text_TrendsScream:
-	.string "“{STR_VAR_1}'S\n"
-	.string "SCREAM” is the title.$"
-
-DewfordTown_Hall_Text_TrendsSmile:
-	.string "“{STR_VAR_1}'S\n"
-	.string "SMILE” is the title.$"
-
-DewfordTown_Hall_Text_LastTrend:
-	.string "It's titled “THE LAST\n"
+	.string "Tajuknya “JERITAN\n"
 	.string "{STR_VAR_1}”.$"
 
+DewfordTown_Hall_Text_TrendsSmile:
+	.string "Tajuknya “SENYUMAN\n"
+	.string "{STR_VAR_1}”.$"
+
+DewfordTown_Hall_Text_LastTrend:
+	.string "Tajuknya “{STR_VAR_1}\n"
+	.string "YANG TERAKHIR”.$"
+
 DewfordTown_Hall_Text_BirthOfTrend:
-	.string "It's titled “THE BIRTH OF\n"
+	.string "Tajuknya “KELAHIRAN\n"
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_SawTrendCoolestThing:
-	.string "I saw “{STR_VAR_1}”!\n"
-	.string "Cool, huh?\p"
-	.string "It's, like, the coolest thing going!\p"
-	.string "It was awesome!\n"
-	.string "It was the real thing, oh yeah!$"
+	.string "Saya nampak “{STR_VAR_1}”!\n"
+	.string "Hebat, kan?\p"
+	.string "Itulah benda paling hebat sekarang!\p"
+	.string "Memang mengagumkan! Yang betul-betul\n"
+	.string "asli, oh yeah!$"
 
 DewfordTown_Hall_Text_AllegedTrendNotAuthentic:
-	.string "Oh, no, no, no.\p"
-	.string "That alleged\n"
+	.string "Oh, tidak, tidak, tidak.\p"
+	.string "Yang kononnya\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "you claim to have seen--it's not.\p"
-	.string "The authentic article is much…\n"
-	.string "How should I say it?\l"
-	.string "Sharper, yet more mellow!\p"
-	.string "Ah, no matter. It's astonishing!$"
+	.string "yang kamu nampak tu… bukan yang asli.\p"
+	.string "Yang asli jauh lebih…\n"
+	.string "Macam mana nak cakap, ya?\l"
+	.string "Lebih tajam, tapi lebih lembut!\p"
+	.string "Ah, tak mengapa. Memang menakjubkan!$"
 
 DewfordTown_Hall_Text_ComposedTrendThemeSong:
-	.string "Hey, listen, I composed a theme song\n"
-	.string "for “{STR_VAR_1}.”\p"
+	.string "Hei, dengar ni, saya cipta lagu tema\n"
+	.string "untuk “{STR_VAR_1}.”\p"
 	.string "“{STR_VAR_1}”\n"
-	.string "is really popular right now.\p"
-	.string "Okay, listen!\n"
+	.string "memang popular sekarang ni.\p"
+	.string "Okey, dengar!\n"
 	.string "… …\p"
 	.string "Oh!\n"
 	.string "{STR_VAR_1}!\p"
-	.string "Wonderful\n"
+	.string "Hebatnya\n"
 	.string "{STR_VAR_1}!$"
 
 DewfordTown_Hall_Text_WorkOnYourSinging:
 	.string "… …\p"
-	.string "I dare say, chap, it would pay for you\n"
-	.string "to work on your singing before you\l"
-	.string "trifle yourself with\l"
+	.string "Maaf cakap, kawan, lebih baik kamu\n"
+	.string "perbaiki nyanyian kamu dulu sebelum\l"
+	.string "main-main dengan\l"
 	.string "“{STR_VAR_1}.”$"
 
 DewfordTown_Hall_Text_OrganizeTrendParty:
-	.string "Anyway, as I was saying earlier, we\n"
-	.string "should get together and organize a\l"
-	.string "“{STR_VAR_1}” party\l"
-	.string "on the island.$"
+	.string "Apa-apa pun, macam saya cakap tadi,\n"
+	.string "kita patut berkumpul dan anjurkan\l"
+	.string "parti “{STR_VAR_1}”\l"
+	.string "di pulau ni.$"
 
 DewfordTown_Hall_Text_BrilliantIndeed:
-	.string "Oh, a smashing good idea!\p"
-	.string "It will settle once and for all\n"
-	.string "who is the best at\l"
+	.string "Oh, idea yang sungguh hebat!\p"
+	.string "Ia akan tentukan sekali untuk\n"
+	.string "selamanya siapa yang terbaik dalam\l"
 	.string "“{STR_VAR_1}.”\l"
-	.string "Brilliant, indeed!\p"
-	.string "Starting today, our lives will revolve\n"
-	.string "around “{STR_VAR_1}”!$"
+	.string "Bijak sungguh!\p"
+	.string "Mulai hari ni, hidup kita akan berkisar\n"
+	.string "tentang “{STR_VAR_1}”!$"
 
 DewfordTown_Hall_Text_TrendHasBecomePartOfLife:
-	.string "I was thinking, though…\p"
-	.string "Wouldn't you agree that\n"
-	.string "“{STR_VAR_1}” has\l"
-	.string "grown from being something trendy to\l"
-	.string "being a part of our daily lives?$"
+	.string "Tapi saya terfikir…\p"
+	.string "Tidakkah kamu setuju yang\n"
+	.string "“{STR_VAR_1}” dah\l"
+	.string "berubah daripada sekadar trend\l"
+	.string "kepada sebahagian hidup harian kita?$"
 
 DewfordTown_Hall_Text_TrendWeighsHeavilyOnMind:
-	.string "Beg pardon?\n"
-	.string "That much, what?\p"
-	.string "However, it's true that\n"
+	.string "Maaf? Sampai macam tu sekali?\p"
+	.string "Tapi memang betul\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "weighs heavily on your mind, whether\l"
-	.string "you're awake or asleep.\p"
-	.string "Absolutely, you're the\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "PROFESSOR, old sport!$"
+	.string "sentiasa bermain di fikiran, sama ada\l"
+	.string "kita berjaga atau tidur.\p"
+	.string "Memang tak syak lagi, kamulah PROFESOR\n"
+	.string "“{STR_VAR_1}”,\l"
+	.string "kawan lamaku!$"
 
 DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible:
-	.string "If you and me team up as a combo,\n"
-	.string "we'll be invincible when it comes to all\l"
-	.string "things “{STR_VAR_1}”!$"
+	.string "Kalau kamu dan saya bergabung,\n"
+	.string "kita takkan dapat dikalahkan dalam\l"
+	.string "semua hal “{STR_VAR_1}”!$"
 
 DewfordTown_Hall_Text_WellBeTrendDuo:
-	.string "Spot on, my friend!\p"
-	.string "We shall be the\n"
-	.string "“{STR_VAR_1}” DUO!\p"
-	.string "Isn't that a ripe image?\n"
-	.string "Hahahah!$"
+	.string "Tepat sekali, kawan!\p"
+	.string "Kita akan jadi DUO\n"
+	.string "“{STR_VAR_1}”!\p"
+	.string "Hebat bunyinya, kan? Hahahah!$"
 
 DewfordTown_Hall_Text_GiveYouSludgeBomb:
-	.string "For me, SLUDGE BOMB is at the peak\n"
-	.string "of popularity. It's the one.\p"
-	.string "Hunh? You're telling me that you don't\n"
-	.string "know about SLUDGE BOMB?\p"
-	.string "That's outright pitiful.\n"
-	.string "I'll give you one.$"
+	.string "Bagi saya, BOM TOKSIK sedang di puncak\n"
+	.string "populariti. Itulah dia.\p"
+	.string "Hah? Kamu kata kamu tak tahu tentang\n"
+	.string "BOM TOKSIK?\p"
+	.string "Kasihan betul. Saya beri kamu satu.$"
 
 DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo:
-	.string "I love SLUDGE BOMB.\p"
-	.string "But POKéMON with the move\n"
+	.string "Saya suka BOM TOKSIK.\p"
+	.string "Tapi POKéMON yang ada move\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "are in, too.$"
+	.string "pun tengah popular juga.$"
 

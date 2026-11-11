@@ -101,34 +101,34 @@ BattleFrontier_RankingHall_EventScript_Boy::
 	end
 
 BattleFrontier_RankingHall_Text_ExplainRankingHall:
-	.string "This is the RANKING HALL.\p"
-	.string "This is where we recognize the immortal\n"
-	.string "TRAINERS who left great records in\l"
-	.string "BATTLE FRONTIER events.$"
+	.string "Inilah DEWAN KEDUDUKAN.\p"
+	.string "Di sinilah kami mengiktiraf JURULATIH\n"
+	.string "agung yang mencipta rekod hebat dalam\l"
+	.string "acara BATTLE FRONTIER.$"
 
 BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
-	.string "BATTLE DOME, BATTLE PIKE,\n"
-	.string "and BATTLE FACTORY Records$"
+	.string "Rekod BATTLE DOME, BATTLE PIKE\n"
+	.string "dan BATTLE FACTORY$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "BATTLE PALACE, BATTLE ARENA,\n"
-	.string "and BATTLE PYRAMID Records$"
+	.string "Rekod BATTLE PALACE,\n"
+	.string "BATTLE ARENA dan BATTLE PYRAMID$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
-	.string "Hi, is your name on this list?$"
+	.string "Hai, nama kamu ada dalam senarai ni?$"
 
 BattleFrontier_RankingHall_Text_WowThatsSuper:
-	.string "Wow, that's super!\n"
-	.string "I'll have to try harder, too!$"
+	.string "Wah, hebatnya! Saya pun\n"
+	.string "kena berusaha lebih gigih!$"
 
 BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName:
-	.string "Oh, is that right?\p"
-	.string "If you saw your friend's name up here,\n"
-	.string "I bet it would make you work harder!$"
+	.string "Oh, ya ke?\p"
+	.string "Kalau kamu nampak nama kawan kamu di\n"
+	.string "atas sana, mesti kamu jadi lebih\l"
+	.string "bersemangat!$"
 
 BattleFrontier_RankingHall_Text_MyNamesNotUpThere:
-	.string "Hmm…\n"
-	.string "My name's not up there…\p"
-	.string "Well, it's only natural since I haven't\n"
-	.string "taken any challenges yet.$"
+	.string "Hmm… Nama saya tak ada di situ…\p"
+	.string "Yalah, memang patut pun sebab saya\n"
+	.string "belum sahut apa-apa cabaran lagi.$"
 

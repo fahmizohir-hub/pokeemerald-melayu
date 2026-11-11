@@ -35,24 +35,24 @@ OldSeaMap_Obtained:
 	end
 
 sText_MysteryGiftOldSeaMapForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Let me confirm--you are {PLAYER}?\p"
-	.string "We received this OLD SEA MAP\n"
-	.string "addressed to you.$"
+	.string "Terima kasih kerana menggunakan Sistem\n"
+	.string "HADIAH MISTERI.\p"
+	.string "Biar saya pastikan--kamu {PLAYER}?\p"
+	.string "Kami terima PETA LAUT TUA ini yang\n"
+	.string "dialamatkan kepada kamu.$"
 
 sText_MysteryGiftOldSeaMapUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Nampaknya peta ini untuk digunakan di\n"
+	.string "pelabuhan BANDAR LILYCOVE.\p"
+	.string "Apa kata kamu cuba dan tengok apa\n"
+	.string "sebenarnya?$"
 
 sText_MysteryGiftOldSeaMapThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Terima kasih kerana menggunakan Sistem\n"
+	.string "HADIAH MISTERI.$"
 
 sText_MysteryGiftOldSeaMapBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Oh, maaf, {PLAYER}.\n"
+	.string "POKET BRG PENTING dalam BEG penuh.\p"
+	.string "Tolong simpan sesuatu dalam PC,\n"
+	.string "kemudian datang balik untuk ambil ini.$"

@@ -3,1549 +3,1550 @@ static const u8 sDummyDesc[] = _(
 
 // Pokeballs
 static const u8 sMasterBallDesc[] = _(
-    "The best BALL that\n"
-    "catches a POKéMON\n"
-    "without fail.");
+    "BALL terbaik yang\n"
+    "pasti menangkap\n"
+    "POKéMON.");
 
 static const u8 sUltraBallDesc[] = _(
-    "A better BALL with\n"
-    "a higher catch rate\n"
-    "than a GREAT BALL.");
+    "BALL dengan kadar\n"
+    "tangkapan melebihi\n"
+    "GREAT BALL.");
 
 static const u8 sGreatBallDesc[] = _(
-    "A good BALL with a\n"
-    "higher catch rate\n"
-    "than a POKé BALL.");
+    "BALL dengan kadar\n"
+    "tangkapan melebihi\n"
+    "POKé BALL.");
 
 static const u8 sPokeBallDesc[] = _(
-    "A tool used for\n"
-    "catching wild\n"
-    "POKéMON.");
+    "Alat untuk\n"
+    "menangkap POKéMON\n"
+    "liar.");
 
 static const u8 sSafariBallDesc[] = _(
-    "A special BALL that\n"
-    "is used only in the\n"
-    "SAFARI ZONE.");
+    "BALL khas yang\n"
+    "hanya diguna di\n"
+    "ZON SAFARI.");
 
 static const u8 sNetBallDesc[] = _(
-    "A BALL that works\n"
-    "well on WATER- and\n"
-    "BUG-type POKéMON.");
+    "BALL yang berkesan\n"
+    "pada POKéMON jenis\n"
+    "AIR dan SERANGGA.");
 
 static const u8 sDiveBallDesc[] = _(
-    "A BALL that works\n"
-    "better on POKéMON\n"
-    "on the ocean floor.");
+    "BALL yang lebih\n"
+    "berkesan pada\n"
+    "POKéMON dasar laut.");
 
 static const u8 sNestBallDesc[] = _(
-    "A BALL that works\n"
-    "better on weaker\n"
-    "POKéMON.");
+    "BALL yang lebih\n"
+    "berkesan pada\n"
+    "POKéMON lemah.");
 
 static const u8 sRepeatBallDesc[] = _(
-    "A BALL that works\n"
-    "better on POKéMON\n"
-    "caught before.");
+    "BALL yang berkesan\n"
+    "pada POKéMON yang\n"
+    "pernah ditangkap.");
 
 static const u8 sTimerBallDesc[] = _(
-    "A BALL that gains\n"
-    "power in battles\n"
-    "taking many turns.");
+    "BALL yang makin\n"
+    "kuat semakin lama\n"
+    "pertarungan.");
 
 static const u8 sLuxuryBallDesc[] = _(
-    "A cozy BALL that\n"
-    "makes POKéMON\n"
-    "more friendly.");
+    "BALL selesa yang\n"
+    "menjadikan POKéMON\n"
+    "lebih mesra.");
 
 static const u8 sPremierBallDesc[] = _(
-    "A rare BALL made\n"
-    "in commemoration\n"
-    "of some event.");
+    "BALL nadir yang\n"
+    "dibuat sempena\n"
+    "suatu acara.");
 
 // Medicine
 static const u8 sPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "20 points.");
+    "Memulihkan HP\n"
+    "POKéMON sebanyak\n"
+    "20 mata.");
 
 static const u8 sAntidoteDesc[] = _(
-    "Heals a poisoned\n"
-    "POKéMON.");
+    "Merawat POKéMON\n"
+    "yang diracun.");
 
 static const u8 sBurnHealDesc[] = _(
-    "Heals POKéMON\n"
-    "of a burn.");
+    "Merawat POKéMON\n"
+    "yang terbakar.");
 
 static const u8 sIceHealDesc[] = _(
-    "Defrosts a frozen\n"
-    "POKéMON.");
+    "Mencairkan\n"
+    "POKéMON yang beku.");
 
 static const u8 sAwakeningDesc[] = _(
-    "Awakens a sleeping\n"
-    "POKéMON.");
+    "Menyedarkan\n"
+    "POKéMON yang tidur.");
 
 static const u8 sParalyzeHealDesc[] = _(
-    "Heals a paralyzed\n"
-    "POKéMON.");
+    "Merawat POKéMON\n"
+    "yang lumpuh.");
 
 static const u8 sFullRestoreDesc[] = _(
-    "Fully restores the\n"
-    "HP and status of a\n"
+    "Memulihkan penuh\n"
+    "HP dan status\n"
     "POKéMON.");
 
 static const u8 sMaxPotionDesc[] = _(
-    "Fully restores the\n"
-    "HP of a POKéMON.");
+    "Memulihkan penuh\n"
+    "HP POKéMON.");
 
 static const u8 sHyperPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "200 points.");
+    "Memulihkan HP\n"
+    "POKéMON sebanyak\n"
+    "200 mata.");
 
 static const u8 sSuperPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "50 points.");
+    "Memulihkan HP\n"
+    "POKéMON sebanyak\n"
+    "50 mata.");
 
 static const u8 sFullHealDesc[] = _(
-    "Heals all the\n"
-    "status problems of\n"
-    "one POKéMON.");
+    "Merawat semua\n"
+    "masalah status\n"
+    "satu POKéMON.");
 
 static const u8 sReviveDesc[] = _(
-    "Revives a fainted\n"
-    "POKéMON with half\n"
-    "its HP.");
+    "Memulihkan POKéMON\n"
+    "pengsan dengan\n"
+    "separuh HP.");
 
 static const u8 sMaxReviveDesc[] = _(
-    "Revives a fainted\n"
-    "POKéMON with all\n"
-    "its HP.");
+    "Memulihkan POKéMON\n"
+    "pengsan dengan\n"
+    "HP penuh.");
 
 static const u8 sFreshWaterDesc[] = _(
-    "A mineral water\n"
-    "that restores HP\n"
-    "by 50 points.");
+    "Air mineral yang\n"
+    "memulihkan HP\n"
+    "sebanyak 50 mata.");
 
 static const u8 sSodaPopDesc[] = _(
-    "A fizzy soda drink\n"
-    "that restores HP\n"
-    "by 60 points.");
+    "Air soda bergas\n"
+    "yang memulihkan HP\n"
+    "sebanyak 60 mata.");
 
 static const u8 sLemonadeDesc[] = _(
-    "A very sweet drink\n"
-    "that restores HP\n"
-    "by 80 points.");
+    "Minuman amat manis\n"
+    "yang memulihkan HP\n"
+    "sebanyak 80 mata.");
 
 static const u8 sMoomooMilkDesc[] = _(
-    "A nutritious milk\n"
-    "that restores HP\n"
-    "by 100 points.");
+    "Susu berkhasiat\n"
+    "yang memulihkan HP\n"
+    "sebanyak 100 mata.");
 
 static const u8 sEnergyPowderDesc[] = _(
-    "A bitter powder\n"
-    "that restores HP\n"
-    "by 50 points.");
+    "Serbuk pahit yang\n"
+    "memulihkan HP\n"
+    "sebanyak 50 mata.");
 
 static const u8 sEnergyRootDesc[] = _(
-    "A bitter root\n"
-    "that restores HP\n"
-    "by 200 points.");
+    "Akar pahit yang\n"
+    "memulihkan HP\n"
+    "sebanyak 200 mata.");
 
 static const u8 sHealPowderDesc[] = _(
-    "A bitter powder\n"
-    "that heals all\n"
-    "status problems.");
+    "Serbuk pahit yang\n"
+    "merawat semua\n"
+    "masalah status.");
 
 static const u8 sRevivalHerbDesc[] = _(
-    "A very bitter herb\n"
-    "that revives a\n"
-    "fainted POKéMON.");
+    "Herba amat pahit\n"
+    "yang memulihkan\n"
+    "POKéMON pengsan.");
 
 static const u8 sEtherDesc[] = _(
-    "Restores the PP\n"
-    "of a selected move\n"
-    "by 10.");
+    "Memulihkan PP\n"
+    "satu move pilihan\n"
+    "sebanyak 10.");
 
 static const u8 sMaxEtherDesc[] = _(
-    "Fully restores the\n"
-    "PP of a selected\n"
-    "move.");
+    "Memulihkan penuh\n"
+    "PP satu move\n"
+    "pilihan.");
 
 static const u8 sElixirDesc[] = _(
-    "Restores the PP\n"
-    "of all moves by 10.");
+    "Memulihkan PP\n"
+    "semua move\n"
+    "sebanyak 10.");
 
 static const u8 sMaxElixirDesc[] = _(
-    "Fully restores the\n"
-    "PP of a POKéMON's\n"
-    "moves.");
+    "Memulihkan penuh\n"
+    "PP semua move\n"
+    "POKéMON.");
 
 static const u8 sLavaCookieDesc[] = _(
-    "A local specialty\n"
-    "that heals all\n"
-    "status problems.");
+    "Makanan khas lokal\n"
+    "yang merawat semua\n"
+    "masalah status.");
 
 static const u8 sBlueFluteDesc[] = _(
-    "A glass flute that\n"
-    "awakens sleeping\n"
-    "POKéMON.");
+    "Suling kaca yang\n"
+    "menyedarkan\n"
+    "POKéMON yang tidur.");
 
 static const u8 sYellowFluteDesc[] = _(
-    "A glass flute that\n"
-    "snaps POKéMON\n"
-    "out of confusion.");
+    "Suling kaca yang\n"
+    "memulihkan POKéMON\n"
+    "daripada keliru.");
 
 static const u8 sRedFluteDesc[] = _(
-    "A glass flute that\n"
-    "snaps POKéMON\n"
-    "out of attraction.");
+    "Suling kaca yang\n"
+    "memulihkan POKéMON\n"
+    "daripada terpikat.");
 
 static const u8 sBlackFluteDesc[] = _(
-    "A glass flute that\n"
-    "keeps away wild\n"
-    "POKéMON.");
+    "Suling kaca yang\n"
+    "menghalau POKéMON\n"
+    "liar.");
 
 static const u8 sWhiteFluteDesc[] = _(
-    "A glass flute that\n"
-    "lures wild POKéMON.");
+    "Suling kaca yang\n"
+    "menarik POKéMON\n"
+    "liar.");
 
 static const u8 sBerryJuiceDesc[] = _(
-    "A 100% pure juice\n"
-    "that restores HP\n"
-    "by 20 points.");
+    "Jus tulen 100%\n"
+    "yang memulihkan HP\n"
+    "sebanyak 20 mata.");
 
 static const u8 sSacredAshDesc[] = _(
-    "Fully revives and\n"
-    "restores all\n"
-    "fainted POKéMON.");
+    "Memulihkan penuh\n"
+    "semua POKéMON\n"
+    "yang pengsan.");
 
 // Collectibles
 static const u8 sShoalSaltDesc[] = _(
-    "Salt obtained from\n"
-    "deep inside the\n"
-    "SHOAL CAVE.");
+    "Garam yang ditemui\n"
+    "jauh di dalam\n"
+    "GUA SHOAL.");
 
 static const u8 sShoalShellDesc[] = _(
-    "A seashell found\n"
-    "deep inside the\n"
-    "SHOAL CAVE.");
+    "Kulit kerang yang\n"
+    "ditemui jauh di\n"
+    "dalam GUA SHOAL.");
 
 static const u8 sRedShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "Serpihan barang\n"
+    "purba. Boleh dijual\n"
+    "pada harga murah.");
 
 static const u8 sBlueShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "Serpihan barang\n"
+    "purba. Boleh dijual\n"
+    "pada harga murah.");
 
 static const u8 sYellowShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "Serpihan barang\n"
+    "purba. Boleh dijual\n"
+    "pada harga murah.");
 
 static const u8 sGreenShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "Serpihan barang\n"
+    "purba. Boleh dijual\n"
+    "pada harga murah.");
 
 // Vitamins
 static const u8 sHPUpDesc[] = _(
-    "Raises the base HP\n"
-    "of one POKéMON.");
+    "Menaikkan HP asas\n"
+    "satu POKéMON.");
 
 static const u8 sProteinDesc[] = _(
-    "Raises the base\n"
-    "ATTACK stat of one\n"
-    "POKéMON.");
+    "Menaikkan stat\n"
+    "SERANGAN asas\n"
+    "satu POKéMON.");
 
 static const u8 sIronDesc[] = _(
-    "Raises the base\n"
-    "DEFENSE stat of\n"
-    "one POKéMON.");
+    "Menaikkan stat\n"
+    "PERTAHANAN asas\n"
+    "satu POKéMON.");
 
 static const u8 sCarbosDesc[] = _(
-    "Raises the base\n"
-    "SPEED stat of one\n"
-    "POKéMON.");
+    "Menaikkan stat\n"
+    "KELAJUAN asas\n"
+    "satu POKéMON.");
 
 static const u8 sCalciumDesc[] = _(
-    "Raises the base\n"
-    "SP. ATK stat of one\n"
-    "POKéMON.");
+    "Menaikkan stat\n"
+    "SERANGAN KHAS\n"
+    "asas satu POKéMON.");
 
 static const u8 sRareCandyDesc[] = _(
-    "Raises the level\n"
-    "of a POKéMON by\n"
-    "one.");
+    "Menaikkan tahap\n"
+    "POKéMON sebanyak\n"
+    "satu.");
 
 static const u8 sPPUpDesc[] = _(
-    "Raises the maximum\n"
-    "PP of a selected\n"
-    "move.");
+    "Menaikkan PP\n"
+    "maksimum satu\n"
+    "move pilihan.");
 
 static const u8 sZincDesc[] = _(
-    "Raises the base\n"
-    "SP. DEF stat of one\n"
-    "POKéMON.");
+    "Menaikkan stat\n"
+    "PERTAHANAN KHAS\n"
+    "asas satu POKéMON.");
 
 static const u8 sPPMaxDesc[] = _(
-    "Raises the PP of a\n"
-    "move to its maximum\n"
-    "points.");
+    "Menaikkan PP satu\n"
+    "move ke tahap\n"
+    "maksimum.");
 
 // Battle items
 static const u8 sGuardSpecDesc[] = _(
-    "Prevents stat\n"
-    "reduction when\n"
-    "used in battle.");
+    "Menghalang stat\n"
+    "diturunkan semasa\n"
+    "pertarungan.");
 
 static const u8 sDireHitDesc[] = _(
-    "Raises the\n"
-    "critical-hit ratio\n"
-    "during one battle.");
+    "Menaikkan kadar\n"
+    "kritikal selama\n"
+    "satu pertarungan.");
 
 static const u8 sXAttackDesc[] = _(
-    "Raises the stat\n"
-    "ATTACK during one\n"
-    "battle.");
+    "Menaikkan stat\n"
+    "SERANGAN selama\n"
+    "satu pertarungan.");
 
 static const u8 sXDefendDesc[] = _(
-    "Raises the stat\n"
-    "DEFENSE during one\n"
-    "battle.");
+    "Menaikkan stat\n"
+    "PERTAHANAN selama\n"
+    "satu pertarungan.");
 
 static const u8 sXSpeedDesc[] = _(
-    "Raises the stat\n"
-    "SPEED during one\n"
-    "battle.");
+    "Menaikkan stat\n"
+    "KELAJUAN selama\n"
+    "satu pertarungan.");
 
 static const u8 sXAccuracyDesc[] = _(
-    "Raises accuracy\n"
-    "of attack moves\n"
-    "during one battle.");
+    "Ketepatan move\n"
+    "serangan naik bagi\n"
+    "satu pertarungan.");
 
 static const u8 sXSpecialDesc[] = _(
-    "Raises the stat\n"
-    "SP. ATK during one\n"
-    "battle.");
+    "Menaikkan stat\n"
+    "SERANGAN KHAS bagi\n"
+    "satu pertarungan.");
 
 static const u8 sPokeDollDesc[] = _(
-    "Use to flee from\n"
-    "any battle with\n"
-    "a wild POKéMON.");
+    "Guna untuk lari\n"
+    "dari pertarungan\n"
+    "POKéMON liar.");
 
 static const u8 sFluffyTailDesc[] = _(
-    "Use to flee from\n"
-    "any battle with\n"
-    "a wild POKéMON.");
+    "Guna untuk lari\n"
+    "dari pertarungan\n"
+    "POKéMON liar.");
 
 // Field items
 static const u8 sSuperRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 200\n"
-    "steps.");
+    "Menghalau POKéMON\n"
+    "liar yang lemah\n"
+    "selama 200 langkah.");
 
 static const u8 sMaxRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 250\n"
-    "steps.");
+    "Menghalau POKéMON\n"
+    "liar yang lemah\n"
+    "selama 250 langkah.");
 
 static const u8 sEscapeRopeDesc[] = _(
-    "Use to escape\n"
-    "instantly from a\n"
-    "cave or a dungeon.");
+    "Guna untuk keluar\n"
+    "serta-merta dari\n"
+    "gua atau labirin.");
 
 static const u8 sRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 100\n"
-    "steps.");
+    "Menghalau POKéMON\n"
+    "liar yang lemah\n"
+    "selama 100 langkah.");
 
 // Evolution stones
 static const u8 sSunStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Membuat spesies\n"
+    "POKéMON tertentu\n"
+    "berevolusi.");
 
 static const u8 sMoonStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Membuat spesies\n"
+    "POKéMON tertentu\n"
+    "berevolusi.");
 
 static const u8 sFireStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Membuat spesies\n"
+    "POKéMON tertentu\n"
+    "berevolusi.");
 
 static const u8 sThunderStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Membuat spesies\n"
+    "POKéMON tertentu\n"
+    "berevolusi.");
 
 static const u8 sWaterStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Membuat spesies\n"
+    "POKéMON tertentu\n"
+    "berevolusi.");
 
 static const u8 sLeafStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Membuat spesies\n"
+    "POKéMON tertentu\n"
+    "berevolusi.");
 
 // Valuable items
 static const u8 sTinyMushroomDesc[] = _(
-    "A plain mushroom\n"
-    "that would sell\n"
-    "at a cheap price.");
+    "Kulat biasa yang\n"
+    "boleh dijual\n"
+    "pada harga murah.");
 
 static const u8 sBigMushroomDesc[] = _(
-    "A rare mushroom\n"
-    "that would sell at a\n"
-    "high price.");
+    "Kulat nadir yang\n"
+    "boleh dijual\n"
+    "pada harga mahal.");
 
 static const u8 sPearlDesc[] = _(
-    "A pretty pearl\n"
-    "that would sell at a\n"
-    "cheap price.");
+    "Mutiara cantik\n"
+    "yang boleh dijual\n"
+    "pada harga murah.");
 
 static const u8 sBigPearlDesc[] = _(
-    "A lovely large pearl\n"
-    "that would sell at a\n"
-    "high price.");
+    "Mutiara besar yang\n"
+    "indah. Boleh dijual\n"
+    "pada harga mahal.");
 
 static const u8 sStardustDesc[] = _(
-    "Beautiful red sand.\n"
-    "Can be sold at a\n"
-    "high price.");
+    "Pasir merah yang\n"
+    "indah. Boleh dijual\n"
+    "pada harga mahal.");
 
 static const u8 sStarPieceDesc[] = _(
-    "A red gem shard.\n"
-    "It would sell for a\n"
-    "very high price.");
+    "Serpihan permata\n"
+    "merah. Boleh dijual\n"
+    "dengan amat mahal.");
 
 static const u8 sNuggetDesc[] = _(
-    "A nugget of pure\n"
-    "gold. Can be sold at\n"
-    "a high price.");
+    "Ketulan emas\n"
+    "tulen. Boleh dijual\n"
+    "pada harga mahal.");
 
 static const u8 sHeartScaleDesc[] = _(
-    "A lovely scale.\n"
-    "It is coveted by\n"
-    "collectors.");
+    "Sisik yang indah.\n"
+    "Diidamkan oleh\n"
+    "para pengumpul.");
 
 // Mail
 static const u8 sOrangeMailDesc[] = _(
-    "A ZIGZAGOON-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SURAT bercorak\n"
+    "ZIGZAGOON untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sHarborMailDesc[] = _(
-    "A WINGULL-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SURAT bercorak\n"
+    "WINGULL untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sGlitterMailDesc[] = _(
-    "A PIKACHU-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SURAT bercorak\n"
+    "PIKACHU untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sMechMailDesc[] = _(
-    "A MAGNEMITE-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SURAT bercorak\n"
+    "MAGNEMITE untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sWoodMailDesc[] = _(
-    "A SLAKOTH-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SURAT bercorak\n"
+    "SLAKOTH untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sWaveMailDesc[] = _(
-    "A WAILMER-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SURAT bercorak\n"
+    "WAILMER untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sBeadMailDesc[] = _(
-    "MAIL featuring a\n"
-    "sketch of the\n"
-    "holding POKéMON.");
+    "SURAT dengan\n"
+    "lakaran POKéMON\n"
+    "yang memegangnya.");
 
 static const u8 sShadowMailDesc[] = _(
-    "A DUSKULL-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SURAT bercorak\n"
+    "DUSKULL untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sTropicMailDesc[] = _(
-    "A BELLOSSOM-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SURAT bercorak\n"
+    "BELLOSSOM untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sDreamMailDesc[] = _(
-    "MAIL featuring a\n"
-    "sketch of the\n"
-    "holding POKéMON.");
+    "SURAT dengan\n"
+    "lakaran POKéMON\n"
+    "yang memegangnya.");
 
 static const u8 sFabMailDesc[] = _(
-    "A gorgeous-print\n"
-    "MAIL to be held\n"
-    "by a POKéMON.");
+    "SURAT bercorak\n"
+    "mewah untuk\n"
+    "dipegang POKéMON.");
 
 static const u8 sRetroMailDesc[] = _(
-    "MAIL featuring the\n"
-    "drawings of three\n"
+    "SURAT dengan\n"
+    "lukisan tiga\n"
     "POKéMON.");
 
 // Berries
 static const u8 sCheriBerryDesc[] = _(
-    "A hold item that\n"
-    "heals paralysis\n"
-    "in battle.");
+    "Bila dipegang,\n"
+    "merawat lumpuh\n"
+    "semasa bertarung.");
 
 static const u8 sChestoBerryDesc[] = _(
-    "A hold item that\n"
-    "awakens POKéMON\n"
-    "in battle.");
+    "Bila dipegang,\n"
+    "merawat tidur\n"
+    "semasa bertarung.");
 
 static const u8 sPechaBerryDesc[] = _(
-    "A hold item that\n"
-    "heals poisoning\n"
-    "in battle.");
+    "Bila dipegang,\n"
+    "merawat racun\n"
+    "semasa bertarung.");
 
 static const u8 sRawstBerryDesc[] = _(
-    "A hold item that\n"
-    "heals a burn in\n"
-    "battle.");
+    "Bila dipegang,\n"
+    "merawat terbakar\n"
+    "semasa bertarung.");
 
 static const u8 sAspearBerryDesc[] = _(
-    "A hold item that\n"
-    "defrosts POKéMON\n"
-    "in battle.");
+    "Bila dipegang,\n"
+    "mencairkan POKéMON\n"
+    "semasa bertarung.");
 
 static const u8 sLeppaBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 10 PP in\n"
-    "battle.");
+    "Bila dipegang,\n"
+    "memulihkan 10 PP\n"
+    "semasa bertarung.");
 
 static const u8 sOranBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 10 HP in\n"
-    "battle.");
+    "Bila dipegang,\n"
+    "memulihkan 10 HP\n"
+    "semasa bertarung.");
 
 static const u8 sPersimBerryDesc[] = _(
-    "A hold item that\n"
-    "heals confusion\n"
-    "in battle.");
+    "Bila dipegang,\n"
+    "merawat keliru\n"
+    "semasa bertarung.");
 
 static const u8 sLumBerryDesc[] = _(
-    "A hold item that\n"
-    "heals any status\n"
-    "problem in battle.");
+    "Bila dipegang,\n"
+    "merawat sebarang\n"
+    "masalah status.");
 
 static const u8 sSitrusBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 30 HP in\n"
-    "battle.");
+    "Bila dipegang,\n"
+    "memulihkan 30 HP\n"
+    "semasa bertarung.");
 
 static const u8 sFigyBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Bila dipegang,\n"
+    "memulihkan HP tapi\n"
+    "boleh mengelirukan.");
 
 static const u8 sWikiBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Bila dipegang,\n"
+    "memulihkan HP tapi\n"
+    "boleh mengelirukan.");
 
 static const u8 sMagoBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Bila dipegang,\n"
+    "memulihkan HP tapi\n"
+    "boleh mengelirukan.");
 
 static const u8 sAguavBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Bila dipegang,\n"
+    "memulihkan HP tapi\n"
+    "boleh mengelirukan.");
 
 static const u8 sIapapaBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Bila dipegang,\n"
+    "memulihkan HP tapi\n"
+    "boleh mengelirukan.");
 
 static const u8 sRazzBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow RAZZ.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok RAZZ.");
 
 static const u8 sBlukBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow BLUK.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok BLUK.");
 
 static const u8 sNanabBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow NANAB.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok NANAB.");
 
 static const u8 sWepearBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow WEPEAR.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok WEPEAR.");
 
 static const u8 sPinapBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow PINAP.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok PINAP.");
 
 static const u8 sPomegBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base HP.");
+    "POKéMON jadi mesra\n"
+    "tetapi HP asas\n"
+    "menurun.");
 
 static const u8 sKelpsyBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base ATTACK.");
+    "POKéMON jadi mesra\n"
+    "tetapi SERANGAN\n"
+    "asas menurun.");
 
 static const u8 sQualotBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base DEFENSE.");
+    "POKéMON jadi mesra\n"
+    "tetapi PERTAHANAN\n"
+    "asas menurun.");
 
 static const u8 sHondewBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base SP. ATK.");
+    "POKéMON jadi mesra\n"
+    "tetapi SERANGAN\n"
+    "KHAS asas menurun.");
 
 static const u8 sGrepaBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base SP. DEF.");
+    "POKéMON jadi mesra\n"
+    "tetapi PERTAHANAN\n"
+    "KHAS asas menurun.");
 
 static const u8 sTamatoBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base SPEED.");
+    "POKéMON jadi mesra\n"
+    "tetapi KELAJUAN\n"
+    "asas menurun.");
 
 static const u8 sCornnBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow CORNN.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok CORNN.");
 
 static const u8 sMagostBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow MAGOST.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok MAGOST.");
 
 static const u8 sRabutaBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow RABUTA.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok RABUTA.");
 
 static const u8 sNomelBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow NOMEL.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok NOMEL.");
 
 static const u8 sSpelonBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow SPELON.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok SPELON.");
 
 static const u8 sPamtreBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow PAMTRE.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok PAMTRE.");
 
 static const u8 sWatmelBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow WATMEL.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok WATMEL.");
 
 static const u8 sDurinBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow DURIN.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok DURIN.");
 
 static const u8 sBelueBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow BELUE.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok BELUE.");
 
 static const u8 sLiechiBerryDesc[] = _(
-    "A hold item that\n"
-    "raises ATTACK in\n"
-    "a pinch.");
+    "Bila dipegang,\n"
+    "SERANGAN naik\n"
+    "ketika terdesak.");
 
 static const u8 sGanlonBerryDesc[] = _(
-    "A hold item that\n"
-    "raises DEFENSE in\n"
-    "a pinch.");
+    "Bila dipegang,\n"
+    "PERTAHANAN naik\n"
+    "ketika terdesak.");
 
 static const u8 sSalacBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SPEED in\n"
-    "a pinch.");
+    "Bila dipegang,\n"
+    "KELAJUAN naik\n"
+    "ketika terdesak.");
 
 static const u8 sPetayaBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SP. ATK in\n"
-    "a pinch.");
+    "Bila dipegang,\n"
+    "SERANGAN KHAS naik\n"
+    "ketika terdesak.");
 
 static const u8 sApicotBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SP. DEF in\n"
-    "a pinch.");
+    "Bila dipegang,\n"
+    "PERTAHANAN KHAS\n"
+    "naik bila terdesak.");
 
 static const u8 sLansatBerryDesc[] = _(
-    "A hold item that\n"
-    "ups the critical-\n"
-    "hit rate in a pinch.");
+    "Bila dipegang,\n"
+    "kadar kritikal naik\n"
+    "ketika terdesak.");
 
 static const u8 sStarfBerryDesc[] = _(
-    "A hold item that\n"
-    "sharply boosts a\n"
-    "stat in a pinch.");
+    "Bila dipegang,\n"
+    "stat naik mendadak\n"
+    "ketika terdesak.");
 
 static const u8 sEnigmaBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow a mystery.");
+    "Bahan {POKEBLOCK}.\n"
+    "Tanam untuk dapat\n"
+    "pokok misteri.");
 
 // Hold items
 static const u8 sBrightPowderDesc[] = _(
-    "A hold item that\n"
-    "casts a glare to\n"
-    "reduce accuracy.");
+    "Bila dipegang,\n"
+    "silau menurunkan\n"
+    "ketepatan musuh.");
 
 static const u8 sWhiteHerbDesc[] = _(
-    "A hold item that\n"
-    "restores any\n"
-    "lowered stat.");
+    "Bila dipegang,\n"
+    "memulihkan stat\n"
+    "yang diturunkan.");
 
 static const u8 sMachoBraceDesc[] = _(
-    "A hold item that\n"
-    "promotes growth,\n"
-    "but reduces SPEED.");
+    "Bila dipegang,\n"
+    "tumbesar laju, tapi\n"
+    "KELAJUAN menurun.");
 
 static const u8 sExpShareDesc[] = _(
-    "A hold item that\n"
-    "gets EXP. points\n"
-    "from battles.");
+    "Bila dipegang,\n"
+    "dapat mata EXP.\n"
+    "dari pertarungan.");
 
 static const u8 sQuickClawDesc[] = _(
-    "A hold item that\n"
-    "occasionally allows\n"
-    "the first strike.");
+    "Bila dipegang,\n"
+    "kadangkala dapat\n"
+    "menyerang dahulu.");
 
 static const u8 sSootheBellDesc[] = _(
-    "A hold item that\n"
-    "calms spirits and\n"
-    "fosters friendship.");
+    "Bila dipegang,\n"
+    "POKéMON tenang dan\n"
+    "lebih mesra.");
 
 static const u8 sMentalHerbDesc[] = _(
-    "A hold item that\n"
-    "snaps POKéMON out\n"
-    "of infatuation.");
+    "Bila dipegang,\n"
+    "memulihkan POKéMON\n"
+    "daripada terpikat.");
 
 static const u8 sChoiceBandDesc[] = _(
-    "Raises a move's\n"
-    "power, but permits\n"
-    "only that move.");
+    "Kuasa move naik,\n"
+    "tetapi hanya move\n"
+    "itu boleh diguna.");
 
 static const u8 sKingsRockDesc[] = _(
-    "A hold item that\n"
-    "may cause flinching\n"
-    "when the foe is hit.");
+    "Bila dipegang,\n"
+    "serangan mungkin\n"
+    "buat musuh gentar.");
 
 static const u8 sSilverPowderDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "BUG-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis SERANGGA.");
 
 static const u8 sAmuletCoinDesc[] = _(
-    "Doubles money in\n"
-    "battle if the\n"
-    "holder takes part.");
+    "Wang digandakan\n"
+    "jika pemegangnya\n"
+    "ikut bertarung.");
 
 static const u8 sCleanseTagDesc[] = _(
-    "A hold item that\n"
-    "helps repel wild\n"
-    "POKéMON.");
+    "Bila dipegang,\n"
+    "bantu menghalau\n"
+    "POKéMON liar.");
 
 static const u8 sSoulDewDesc[] = _(
-    "Hold item: raises\n"
-    "SP. ATK & SP. DEF of\n"
-    "LATIOS & LATIAS.");
+    "Menaikkan SER.KHS\n"
+    "& TAH.KHS LATIOS\n"
+    "dan LATIAS.");
 
 static const u8 sDeepSeaToothDesc[] = _(
-    "A hold item that\n"
-    "raises the SP. ATK\n"
-    "of CLAMPERL.");
+    "Bila dipegang,\n"
+    "SERANGAN KHAS\n"
+    "CLAMPERL naik.");
 
 static const u8 sDeepSeaScaleDesc[] = _(
-    "A hold item that\n"
-    "raises the SP. DEF\n"
-    "of CLAMPERL.");
+    "Bila dipegang,\n"
+    "PERTAHANAN KHAS\n"
+    "CLAMPERL naik.");
 
 static const u8 sSmokeBallDesc[] = _(
-    "A hold item that\n"
-    "assures fleeing\n"
-    "from wild POKéMON.");
+    "Bila dipegang,\n"
+    "pasti dapat lari\n"
+    "dari POKéMON liar.");
 
 static const u8 sEverstoneDesc[] = _(
-    "A wondrous hold\n"
-    "item that prevents\n"
-    "evolution.");
+    "Batu ajaib yang\n"
+    "menghalang evolusi\n"
+    "bila dipegang.");
 
 static const u8 sFocusBandDesc[] = _(
-    "A hold item that\n"
-    "occasionally\n"
-    "prevents fainting.");
+    "Bila dipegang,\n"
+    "kadangkala dapat\n"
+    "mengelak pengsan.");
 
 static const u8 sLuckyEggDesc[] = _(
-    "A hold item that\n"
-    "boosts EXP. points\n"
-    "earned in battle.");
+    "Bila dipegang,\n"
+    "mata EXP. yang\n"
+    "diraih bertambah.");
 
 static const u8 sScopeLensDesc[] = _(
-    "A hold item that\n"
-    "improves the\n"
-    "critical-hit rate.");
+    "Bila dipegang,\n"
+    "menaikkan kadar\n"
+    "serangan kritikal.");
 
 static const u8 sMetalCoatDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "STEEL-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis BESI.");
 
 static const u8 sLeftoversDesc[] = _(
-    "A hold item that\n"
-    "gradually restores\n"
-    "HP in battle.");
+    "Bila dipegang,\n"
+    "HP pulih perlahan\n"
+    "semasa bertarung.");
 
 static const u8 sDragonScaleDesc[] = _(
-    "A strange scale\n"
-    "held by DRAGON-\n"
-    "type POKéMON.");
+    "Sisik aneh yang\n"
+    "dimiliki POKéMON\n"
+    "jenis NAGA.");
 
 static const u8 sLightBallDesc[] = _(
-    "A hold item that\n"
-    "raises the SP. ATK\n"
-    "of PIKACHU.");
+    "Bila dipegang,\n"
+    "SERANGAN KHAS\n"
+    "PIKACHU naik.");
 
 static const u8 sSoftSandDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "GROUND-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis TANAH.");
 
 static const u8 sHardStoneDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "ROCK-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis BATU.");
 
 static const u8 sMiracleSeedDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "GRASS-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis RUMPUT.");
 
 static const u8 sBlackGlassesDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "DARK-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis GELAP.");
 
 static const u8 sBlackBeltDesc[] = _(
-    "A hold item that\n"
-    "boosts FIGHTING-\n"
-    "type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis LAWAN.");
 
 static const u8 sMagnetDesc[] = _(
-    "A hold item that\n"
-    "boosts ELECTRIC-\n"
-    "type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis ELEKTRIK.");
 
 static const u8 sMysticWaterDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "WATER-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis AIR.");
 
 static const u8 sSharpBeakDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "FLYING-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis TERBANG.");
 
 static const u8 sPoisonBarbDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "POISON-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis RACUN.");
 
 static const u8 sNeverMeltIceDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "ICE-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis AIS.");
 
 static const u8 sSpellTagDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "GHOST-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis HANTU.");
 
 static const u8 sTwistedSpoonDesc[] = _(
-    "A hold item that\n"
-    "boosts PSYCHIC-\n"
-    "type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis PSIKIK.");
 
 static const u8 sCharcoalDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "FIRE-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis API.");
 
 static const u8 sDragonFangDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "DRAGON-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis NAGA.");
 
 static const u8 sSilkScarfDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
-    "NORMAL-type moves.");
+    "Bila dipegang,\n"
+    "menguatkan move\n"
+    "jenis NORMAL.");
 
 static const u8 sUpGradeDesc[] = _(
-    "A peculiar box made\n"
-    "by SILPH CO.");
+    "Kotak pelik buatan\n"
+    "SILPH CO.");
 
 static const u8 sShellBellDesc[] = _(
-    "A hold item that\n"
-    "restores HP upon\n"
-    "striking the foe.");
+    "Bila dipegang,\n"
+    "memulihkan HP bila\n"
+    "menyerang musuh.");
 
 static const u8 sSeaIncenseDesc[] = _(
-    "A hold item that\n"
-    "slightly boosts\n"
-    "WATER-type moves.");
+    "Bila dipegang,\n"
+    "sedikit menguatkan\n"
+    "move jenis AIR.");
 
 static const u8 sLaxIncenseDesc[] = _(
-    "A hold item that\n"
-    "slightly lowers the\n"
-    "foe's accuracy.");
+    "Bila dipegang,\n"
+    "ketepatan musuh\n"
+    "menurun sedikit.");
 
 static const u8 sLuckyPunchDesc[] = _(
-    "A hold item that\n"
-    "raises CHANSEY's\n"
-    "critical-hit rate.");
+    "Bila dipegang,\n"
+    "kadar kritikal\n"
+    "CHANSEY naik.");
 
 static const u8 sMetalPowderDesc[] = _(
-    "A hold item that\n"
-    "raises DITTO's\n"
-    "DEFENSE.");
+    "Bila dipegang,\n"
+    "PERTAHANAN DITTO\n"
+    "naik.");
 
 static const u8 sThickClubDesc[] = _(
-    "A hold item that \n"
-    "raises CUBONE or\n"
-    "MAROWAK's ATTACK.");
+    "Bila dipegang,\n"
+    "SERANGAN CUBONE\n"
+    "atau MAROWAK naik.");
 
 static const u8 sStickDesc[] = _(
-    "A hold item that\n"
-    "raises FARFETCH'D's\n"
-    "critical-hit ratio.");
+    "Bila dipegang,\n"
+    "kadar kritikal\n"
+    "FARFETCH'D naik.");
 
 static const u8 sRedScarfDesc[] = _(
-    "A hold item that\n"
-    "raises COOL in\n"
-    "CONTESTS.");
+    "Bila dipegang,\n"
+    "menaikkan SEGAK\n"
+    "dalam CONTEST.");
 
 static const u8 sBlueScarfDesc[] = _(
-    "A hold item that\n"
-    "raises BEAUTY in\n"
-    "CONTESTS.");
+    "Bila dipegang,\n"
+    "menaikkan CANTIK\n"
+    "dalam CONTEST.");
 
 static const u8 sPinkScarfDesc[] = _(
-    "A hold item that\n"
-    "raises CUTE in\n"
-    "CONTESTS.");
+    "Bila dipegang,\n"
+    "menaikkan COMEL\n"
+    "dalam CONTEST.");
 
 static const u8 sGreenScarfDesc[] = _(
-    "A hold item that\n"
-    "raises SMART in\n"
-    "CONTESTS.");
+    "Bila dipegang,\n"
+    "menaikkan BIJAK\n"
+    "dalam CONTEST.");
 
 static const u8 sYellowScarfDesc[] = _(
-    "A hold item that\n"
-    "raises TOUGH in\n"
-    "CONTESTS.");
+    "Bila dipegang,\n"
+    "menaikkan TEGAP\n"
+    "dalam CONTEST.");
 
 // Key items
 static const u8 sMachBikeDesc[] = _(
-    "A folding bicycle\n"
-    "that doubles your\n"
-    "speed or better.");
+    "Basikal lipat yang\n"
+    "menggandakan laju\n"
+    "atau lebih.");
 
 static const u8 sCoinCaseDesc[] = _(
-    "A case that holds\n"
-    "up to 9,999 COINS.");
+    "Bekas untuk simpan\n"
+    "sehingga 9,999\n"
+    "SYILING.");
 
 static const u8 sItemfinderDesc[] = _(
-    "A device that\n"
-    "signals an invisible\n"
-    "item by sound.");
+    "Alat yang berbunyi\n"
+    "untuk mengesan\n"
+    "barang tersorok.");
 
 static const u8 sOldRodDesc[] = _(
-    "Use by any body of\n"
-    "water to fish for\n"
-    "wild POKéMON.");
+    "Guna di tepi air\n"
+    "untuk memancing\n"
+    "POKéMON liar.");
 
 static const u8 sGoodRodDesc[] = _(
-    "A decent fishing\n"
-    "rod for catching\n"
-    "wild POKéMON.");
+    "Joran yang agak\n"
+    "baik untuk tangkap\n"
+    "POKéMON liar.");
 
 static const u8 sSuperRodDesc[] = _(
-    "The best fishing\n"
-    "rod for catching\n"
-    "wild POKéMON.");
+    "Joran terbaik\n"
+    "untuk menangkap\n"
+    "POKéMON liar.");
 
 static const u8 sSSTicketDesc[] = _(
-    "The ticket required\n"
-    "for sailing on a\n"
-    "ferry.");
+    "Tiket yang perlu\n"
+    "untuk menaiki\n"
+    "feri.");
 
 static const u8 sContestPassDesc[] = _(
-    "The pass required\n"
-    "for entering\n"
-    "POKéMON CONTESTS.");
+    "Pas yang perlu\n"
+    "untuk menyertai\n"
+    "CONTEST POKéMON.");
 
 static const u8 sWailmerPailDesc[] = _(
-    "A tool used for\n"
-    "watering BERRIES\n"
-    "and plants.");
+    "Alat untuk\n"
+    "menyiram BERRY\n"
+    "dan tumbuhan.");
 
 static const u8 sDevonGoodsDesc[] = _(
-    "A package that\n"
-    "contains DEVON's\n"
-    "machine parts.");
+    "Bungkusan berisi\n"
+    "alat ganti mesin\n"
+    "DEVON.");
 
 static const u8 sSootSackDesc[] = _(
-    "A sack used to\n"
-    "gather and hold\n"
-    "volcanic ash.");
+    "Karung untuk\n"
+    "mengumpul abu\n"
+    "gunung berapi.");
 
 static const u8 sBasementKeyDesc[] = _(
-    "The key for NEW\n"
-    "MAUVILLE beneath\n"
-    "MAUVILLE CITY.");
+    "Kunci ke NEW\n"
+    "MAUVILLE di bawah\n"
+    "BANDAR MAUVILLE.");
 
 static const u8 sAcroBikeDesc[] = _(
-    "A folding bicycle\n"
-    "capable of jumps\n"
-    "and wheelies.");
+    "Basikal lipat yang\n"
+    "mampu melompat dan\n"
+    "buat aksi wheelie.");
 
 static const u8 sPokeblockCaseDesc[] = _(
-    "A case for holding\n"
-    "{POKEBLOCK}S made with\n"
-    "a BERRY BLENDER.");
+    "Bekas untuk simpan\n"
+    "{POKEBLOCK} buatan\n"
+    "PENGISAR BERRY.");
 
 static const u8 sLetterDesc[] = _(
-    "A letter to STEVEN\n"
-    "from the PRESIDENT\n"
-    "of the DEVON CORP.");
+    "Surat untuk STEVEN\n"
+    "daripada PRESIDEN\n"
+    "DEVON CORP.");
 
 static const u8 sEonTicketDesc[] = _(
-    "The ticket for a\n"
-    "ferry to a distant\n"
-    "southern island.");
+    "Tiket feri ke\n"
+    "sebuah pulau jauh\n"
+    "di selatan.");
 
 static const u8 sRedOrbDesc[] = _(
-    "A red, glowing orb\n"
-    "said to contain an\n"
-    "ancient power.");
+    "Mestika merah yang\n"
+    "bercahaya. Konon\n"
+    "ada kuasa purba.");
 
 static const u8 sBlueOrbDesc[] = _(
-    "A blue, glowing orb\n"
-    "said to contain an\n"
-    "ancient power.");
+    "Mestika biru yang\n"
+    "bercahaya. Konon\n"
+    "ada kuasa purba.");
 
 static const u8 sScannerDesc[] = _(
-    "A device found\n"
-    "inside the\n"
-    "ABANDONED SHIP.");
+    "Alat yang ditemui\n"
+    "di dalam\n"
+    "KAPAL TERBIAR.");
 
 static const u8 sGoGogglesDesc[] = _(
-    "Nifty goggles that\n"
-    "protect eyes from\n"
-    "desert sandstorms.");
+    "Gogal hebat yang\n"
+    "lindungi mata dari\n"
+    "ribut pasir gurun.");
 
 static const u8 sMeteoriteDesc[] = _(
-    "A meteorite found\n"
-    "at METEOR FALLS.");
+    "Meteorit yang\n"
+    "ditemui di\n"
+    "LATA METEOR.");
 
 static const u8 sRoom1KeyDesc[] = _(
-    "A key that opens a\n"
-    "door inside the\n"
-    "ABANDONED SHIP.");
+    "Kunci yang membuka\n"
+    "pintu di dalam\n"
+    "KAPAL TERBIAR.");
 
 static const u8 sRoom2KeyDesc[] = _(
-    "A key that opens a\n"
-    "door inside the\n"
-    "ABANDONED SHIP.");
+    "Kunci yang membuka\n"
+    "pintu di dalam\n"
+    "KAPAL TERBIAR.");
 
 static const u8 sRoom4KeyDesc[] = _(
-    "A key that opens a\n"
-    "door inside the\n"
-    "ABANDONED SHIP.");
+    "Kunci yang membuka\n"
+    "pintu di dalam\n"
+    "KAPAL TERBIAR.");
 
 static const u8 sRoom6KeyDesc[] = _(
-    "A key that opens a\n"
-    "door inside the\n"
-    "ABANDONED SHIP.");
+    "Kunci yang membuka\n"
+    "pintu di dalam\n"
+    "KAPAL TERBIAR.");
 
 static const u8 sStorageKeyDesc[] = _(
-    "The key to the\n"
-    "storage inside the\n"
-    "ABANDONED SHIP.");
+    "Kunci untuk stor\n"
+    "di dalam\n"
+    "KAPAL TERBIAR.");
 
 static const u8 sRootFossilDesc[] = _(
-    "A fossil of an\n"
-    "ancient, seafloor-\n"
-    "dwelling POKéMON.");
+    "Fosil POKéMON\n"
+    "purba yang hidup\n"
+    "di dasar laut.");
 
 static const u8 sClawFossilDesc[] = _(
-    "A fossil of an\n"
-    "ancient, seafloor-\n"
-    "dwelling POKéMON.");
+    "Fosil POKéMON\n"
+    "purba yang hidup\n"
+    "di dasar laut.");
 
 static const u8 sDevonScopeDesc[] = _(
-    "A device by DEVON\n"
-    "that signals any\n"
-    "unseeable POKéMON.");
+    "Alat DEVON yang\n"
+    "mengesan POKéMON\n"
+    "yang tak kelihatan.");
 
 // TMs/HMs
 static const u8 sTM01Desc[] = _(
-    "Powerful, but makes\n"
-    "the user flinch if\n"
-    "hit by the foe.");
+    "Kuat, tetapi\n"
+    "pengguna gentar\n"
+    "jika diserang.");
 
 static const u8 sTM02Desc[] = _(
-    "Hooks and slashes\n"
-    "the foe with long,\n"
-    "sharp claws.");
+    "Mencakar musuh\n"
+    "dengan kuku yang\n"
+    "panjang dan tajam.");
 
 static const u8 sTM03Desc[] = _(
-    "Generates an\n"
-    "ultrasonic wave\n"
-    "that may confuse.");
+    "Menghasilkan ombak\n"
+    "ultrasonik yang\n"
+    "boleh mengelirukan.");
 
 static const u8 sTM04Desc[] = _(
-    "Raises SP. ATK and\n"
-    "SP. DEF by focusing\n"
-    "the mind.");
+    "Menumpukan minda\n"
+    "untuk menaikkan\n"
+    "SER.KHS & TAH.KHS.");
 
 static const u8 sTM05Desc[] = _(
-    "A savage roar that\n"
-    "makes the foe flee \n"
-    "to end the battle.");
+    "Auman ganas yang\n"
+    "menghalau musuh\n"
+    "dari pertarungan.");
 
 static const u8 sTM06Desc[] = _(
-    "Poisons the foe\n"
-    "with a toxin that\n"
-    "gradually worsens.");
+    "Meracun musuh\n"
+    "dengan toksin yang\n"
+    "makin teruk.");
 
 static const u8 sTM07Desc[] = _(
-    "Creates a hailstorm\n"
-    "that damages all\n"
-    "types except ICE.");
+    "Hujan batu yang\n"
+    "melukakan semua\n"
+    "jenis kecuali AIS.");
 
 static const u8 sTM08Desc[] = _(
-    "Bulks up the body\n"
-    "to boost both\n"
-    "ATTACK & DEFENSE.");
+    "Membina otot,\n"
+    "SERANGAN dan\n"
+    "PERTAHANAN naik.");
 
 static const u8 sTM09Desc[] = _(
-    "Shoots 2 to 5 seeds\n"
-    "in a row to strike\n"
-    "the foe.");
+    "Menembak 2-5 benih\n"
+    "berturut-turut\n"
+    "ke arah musuh.");
 
 static const u8 sTM10Desc[] = _(
-    "The attack power\n"
-    "varies among\n"
-    "different POKéMON.");
+    "Kuasa serangannya\n"
+    "berbeza mengikut\n"
+    "POKéMON.");
 
 static const u8 sTM11Desc[] = _(
-    "Raises the power of\n"
-    "FIRE-type moves\n"
-    "for 5 turns.");
+    "Menguatkan move\n"
+    "jenis API selama\n"
+    "5 giliran.");
 
 static const u8 sTM12Desc[] = _(
-    "Enrages the foe so\n"
-    "it can only use\n"
-    "attack moves.");
+    "Memarahkan musuh\n"
+    "supaya hanya guna\n"
+    "move serangan.");
 
 static const u8 sTM13Desc[] = _(
-    "Fires an icy cold\n"
-    "beam that may\n"
-    "freeze the foe.");
+    "Sinar sejuk beku\n"
+    "yang boleh\n"
+    "membekukan musuh.");
 
 static const u8 sTM14Desc[] = _(
-    "A brutal snow-and-\n"
-    "wind attack that\n"
-    "may freeze the foe.");
+    "Serangan salji dan\n"
+    "angin ganas yang\n"
+    "boleh membekukan.");
 
 static const u8 sTM15Desc[] = _(
-    "Powerful, but needs\n"
-    "recharging the\n"
-    "next turn.");
+    "Kuat, tetapi perlu\n"
+    "berehat pada\n"
+    "giliran berikutnya.");
 
 static const u8 sTM16Desc[] = _(
-    "Creates a wall of\n"
-    "light that lowers\n"
-    "SP. ATK damage.");
+    "Mencipta dinding\n"
+    "cahaya, kurangkan\n"
+    "kerosakan SER.KHS.");
 
 static const u8 sTM17Desc[] = _(
-    "Negates all damage,\n"
-    "but may fail if used\n"
-    "in succession.");
+    "Menghalang semua\n"
+    "kerosakan. Mungkin\n"
+    "gagal jika diulang.");
 
 static const u8 sTM18Desc[] = _(
-    "Raises the power of\n"
-    "WATER-type moves\n"
-    "for 5 turns.");
+    "Menguatkan move\n"
+    "jenis AIR selama\n"
+    "5 giliran.");
 
 static const u8 sTM19Desc[] = _(
-    "Recovers half the\n"
-    "HP of the damage \n"
-    "this move inflicts.");
+    "Memulihkan HP\n"
+    "sebanyak separuh\n"
+    "kerosakan move ini.");
 
 static const u8 sTM20Desc[] = _(
-    "Prevents status\n"
-    "abnormality with a\n"
-    "mystical power.");
+    "Kuasa mistik yang\n"
+    "menghalang masalah\n"
+    "status.");
 
 static const u8 sTM21Desc[] = _(
-    "The less the user\n"
-    "likes you, the more\n"
-    "powerful this move.");
+    "Makin kurang mesra\n"
+    "dengan kamu, makin\n"
+    "kuat move ini.");
 
 static const u8 sTM22Desc[] = _(
-    "Absorbs sunlight in\n"
-    "the 1st turn, then\n"
-    "attacks next turn.");
+    "Menyerap cahaya\n"
+    "pada giliran 1,\n"
+    "lalu menyerang.");
 
 static const u8 sTM23Desc[] = _(
-    "Slams the foe with\n"
-    "a hard tail. It may\n"
-    "lower DEFENSE.");
+    "Hempasan ekor\n"
+    "keras. PERTAHANAN\n"
+    "mungkin turun.");
 
 static const u8 sTM24Desc[] = _(
-    "A powerful electric\n"
-    "attack that may\n"
-    "cause paralysis.");
+    "Serangan elektrik\n"
+    "kuat yang boleh\n"
+    "melumpuhkan musuh.");
 
 static const u8 sTM25Desc[] = _(
-    "Strikes the foe\n"
-    "with a thunderbolt.\n"
-    "It may paralyze.");
+    "Memanah musuh\n"
+    "dengan petir. Boleh\n"
+    "melumpuhkan.");
 
 static const u8 sTM26Desc[] = _(
-    "Causes a quake\n"
-    "that has no effect\n"
-    "on flying foes.");
+    "Gempa yang tiada\n"
+    "kesan pada musuh\n"
+    "yang terbang.");
 
 static const u8 sTM27Desc[] = _(
-    "The more the user\n"
-    "likes you, the more\n"
-    "powerful this move.");
+    "Makin mesra dengan\n"
+    "kamu, makin kuat\n"
+    "move ini.");
 
 static const u8 sTM28Desc[] = _(
-    "Digs underground\n"
-    "the 1st turn, then\n"
-    "strikes next turn.");
+    "Menggali ke bawah\n"
+    "pada giliran 1,\n"
+    "lalu menyerang.");
 
 static const u8 sTM29Desc[] = _(
-    "A powerful psychic\n"
-    "attack that may\n"
-    "lower SP. DEF.");
+    "Serangan psikik\n"
+    "kuat. PERTAHANAN\n"
+    "KHAS mungkin turun.");
 
 static const u8 sTM30Desc[] = _(
-    "Hurls a dark lump\n"
-    "at the foe. It may\n"
-    "lower SP. DEF.");
+    "Membaling gumpalan\n"
+    "gelap. PERTAHANAN\n"
+    "KHAS mungkin turun.");
 
 static const u8 sTM31Desc[] = _(
-    "Destroys barriers\n"
-    "like LIGHT SCREEN\n"
-    "and causes damage.");
+    "Memecah halangan\n"
+    "macam SKRIN CAHAYA\n"
+    "dan menyerang.");
 
 static const u8 sTM32Desc[] = _(
-    "Creates illusory\n"
-    "copies to enhance\n"
-    "elusiveness.");
+    "Mencipta bayangan\n"
+    "palsu untuk\n"
+    "menaikkan elakan.");
 
 static const u8 sTM33Desc[] = _(
-    "Creates a wall of\n"
-    "light that weakens\n"
-    "physical attacks.");
+    "Mencipta dinding\n"
+    "cahaya, lemahkan\n"
+    "serangan fizikal.");
 
 static const u8 sTM34Desc[] = _(
-    "Zaps the foe with a\n"
-    "jolt of electricity\n"
-    "that never misses.");
+    "Mengejutkan musuh\n"
+    "dengan elektrik\n"
+    "yang pasti kena.");
 
 static const u8 sTM35Desc[] = _(
-    "Looses a stream of\n"
-    "fire that may burn\n"
-    "the foe.");
+    "Menyembur api\n"
+    "yang boleh\n"
+    "membakar musuh.");
 
 static const u8 sTM36Desc[] = _(
-    "Hurls sludge at the\n"
-    "foe. It may poison\n"
-    "the foe.");
+    "Membaling sisa\n"
+    "toksik ke musuh.\n"
+    "Mungkin meracun.");
 
 static const u8 sTM37Desc[] = _(
-    "Causes a sandstorm\n"
-    "that hits the foe\n"
-    "over several turns.");
+    "Ribut pasir yang\n"
+    "melukakan musuh\n"
+    "beberapa giliran.");
 
 static const u8 sTM38Desc[] = _(
-    "A powerful fire\n"
-    "attack that may\n"
-    "burn the foe.");
+    "Serangan api kuat\n"
+    "yang boleh\n"
+    "membakar musuh.");
 
 static const u8 sTM39Desc[] = _(
-    "Stops the foe from\n"
-    "moving with rocks.\n"
-    "May lower SPEED.");
+    "Menghalang musuh\n"
+    "dengan batu. Boleh\n"
+    "turunkan KELAJUAN.");
 
 static const u8 sTM40Desc[] = _(
-    "An extremely fast\n"
-    "attack that can't\n"
-    "be avoided.");
+    "Serangan amat\n"
+    "pantas yang tidak\n"
+    "boleh dielak.");
 
 static const u8 sTM41Desc[] = _(
-    "Prevents the foe\n"
-    "from using the same\n"
-    "move in a row.");
+    "Menghalang musuh\n"
+    "mengulangi move\n"
+    "yang sama.");
 
 static const u8 sTM42Desc[] = _(
-    "Raises ATTACK when\n"
-    "poisoned, burned,\n"
-    "or paralyzed.");
+    "SERANGAN naik bila\n"
+    "diracun, terbakar\n"
+    "atau lumpuh.");
 
 static const u8 sTM43Desc[] = _(
-    "Adds an effect to\n"
-    "attack depending\n"
-    "on the location.");
+    "Menambah kesan\n"
+    "kepada serangan\n"
+    "ikut lokasi.");
 
 static const u8 sTM44Desc[] = _(
-    "The user sleeps for\n"
-    "2 turns to restore\n"
-    "health and status.");
+    "Pengguna tidur 2\n"
+    "giliran untuk pulih\n"
+    "HP dan status.");
 
 static const u8 sTM45Desc[] = _(
-    "Makes it tough to\n"
-    "attack a foe of the\n"
-    "opposite gender.");
+    "Musuh berlainan\n"
+    "jantina sukar\n"
+    "untuk menyerang.");
 
 static const u8 sTM46Desc[] = _(
-    "While attacking,\n"
-    "it may steal the\n"
-    "foe's held item.");
+    "Semasa menyerang,\n"
+    "mungkin mencuri\n"
+    "barang musuh.");
 
 static const u8 sTM47Desc[] = _(
-    "Spreads hard-\n"
-    "edged wings and\n"
-    "slams into the foe.");
+    "Mengembang sayap\n"
+    "tajam lalu\n"
+    "merempuh musuh.");
 
 static const u8 sTM48Desc[] = _(
-    "Switches abilities\n"
-    "with the foe on the\n"
-    "turn this is used.");
+    "Bertukar kebolehan\n"
+    "dengan musuh pada\n"
+    "giliran ini.");
 
 static const u8 sTM49Desc[] = _(
-    "Steals the effects\n"
-    "of the move the foe\n"
-    "is trying to use.");
+    "Mencuri kesan move\n"
+    "yang musuh cuba\n"
+    "gunakan.");
 
 static const u8 sTM50Desc[] = _(
-    "Enables full-power\n"
-    "attack, but sharply\n"
-    "lowers SP. ATK.");
+    "Serangan kuasa\n"
+    "penuh, tetapi\n"
+    "SER.KHS merosot.");
 
 
 static const u8 sHM01Desc[] = _(
-    "Attacks the foe\n"
-    "with sharp blades\n"
-    "or claws.");
+    "Menyerang musuh\n"
+    "dengan bilah atau\n"
+    "kuku tajam.");
 
 static const u8 sHM02Desc[] = _(
-    "Flies up on the\n"
-    "first turn, then\n"
-    "attacks next turn.");
+    "Terbang ke atas\n"
+    "pada giliran 1,\n"
+    "lalu menyerang.");
 
 static const u8 sHM03Desc[] = _(
-    "Creates a huge\n"
-    "wave, then crashes\n"
-    "it down on the foe.");
+    "Mencipta ombak\n"
+    "besar lalu\n"
+    "menghempas musuh.");
 
 static const u8 sHM04Desc[] = _(
-    "Builds enormous\n"
-    "power, then slams\n"
-    "the foe.");
+    "Mengumpul kuasa\n"
+    "besar, lalu\n"
+    "menghempas musuh.");
 
 static const u8 sHM05Desc[] = _(
-    "Looses a powerful\n"
-    "blast of light that\n"
-    "reduces accuracy.");
+    "Cahaya terang yang\n"
+    "mengurangkan\n"
+    "ketepatan.");
 
 static const u8 sHM06Desc[] = _(
-    "A rock-crushingly\n"
-    "tough attack that\n"
-    "may lower DEFENSE.");
+    "Serangan pemecah\n"
+    "batu. PERTAHANAN\n"
+    "mungkin turun.");
 
 static const u8 sHM07Desc[] = _(
-    "Attacks the foe\n"
-    "with enough power\n"
-    "to climb waterfalls.");
+    "Menyerang musuh\n"
+    "dengan kuasa untuk\n"
+    "mendaki air terjun.");
 
 static const u8 sHM08Desc[] = _(
-    "Dives underwater\n"
-    "the 1st turn, then\n"
-    "attacks next turn.");
+    "Menyelam ke bawah\n"
+    "pada giliran 1,\n"
+    "lalu menyerang.");
 
 // FireRed/LeafGreen key items
 static const u8 sOaksParcelDesc[] = _(
-    "A parcel for PROF.\n"
-    "OAK from a POKéMON\n"
-    "MART's clerk.");
+    "Bungkusan untuk\n"
+    "PROF. OAK daripada\n"
+    "kerani POKé MART.");
 
 static const u8 sPokeFluteDesc[] = _(
-    "A sweet-sounding\n"
-    "flute that awakens\n"
+    "Suling merdu yang\n"
+    "menyedarkan\n"
     "POKéMON.");
 
 static const u8 sSecretKeyDesc[] = _(
-    "The key to the\n"
-    "CINNABAR ISLAND\n"
-    "GYM's entrance.");
+    "Kunci ke pintu\n"
+    "masuk GIM PULAU\n"
+    "CINNABAR.");
 
 static const u8 sBikeVoucherDesc[] = _(
-    "A voucher for\n"
-    "obtaining a bicycle\n"
-    "from the BIKE SHOP.");
+    "Kupon untuk dapat\n"
+    "basikal dari\n"
+    "KEDAI BASIKAL.");
 
 static const u8 sGoldTeethDesc[] = _(
-    "Gold dentures lost\n"
-    "by the SAFARI\n"
-    "ZONE's WARDEN.");
+    "Gigi emas palsu\n"
+    "milik PENJAGA ZON\n"
+    "SAFARI yang hilang.");
 
 static const u8 sOldAmberDesc[] = _(
-    "A stone containing\n"
-    "the genes of an\n"
-    "ancient POKéMON.");
+    "Batu yang berisi\n"
+    "gen POKéMON purba.");
 
 static const u8 sCardKeyDesc[] = _(
-    "A card-type door\n"
-    "key used in SILPH\n"
-    "CO's office.");
+    "Kunci pintu jenis\n"
+    "kad yang diguna di\n"
+    "pejabat SILPH CO.");
 
 static const u8 sLiftKeyDesc[] = _(
-    "An elevator key\n"
-    "used in TEAM\n"
-    "ROCKET's HIDEOUT.");
+    "Kunci lif yang\n"
+    "diguna di MARKAS\n"
+    "TEAM ROCKET.");
 
 static const u8 sHelixFossilDesc[] = _(
-    "A piece of an\n"
-    "ancient marine\n"
-    "POKéMON's seashell.");
+    "Cebisan cengkerang\n"
+    "POKéMON laut purba.");
 
 static const u8 sDomeFossilDesc[] = _(
-    "A piece of an\n"
-    "ancient marine\n"
-    "POKéMON's shell.");
+    "Cebisan kulit\n"
+    "POKéMON laut purba.");
 
 static const u8 sSilphScopeDesc[] = _(
-    "SILPH CO's scope\n"
-    "makes unseeable\n"
-    "POKéMON visible.");
+    "Skop SILPH CO yang\n"
+    "menampakkan\n"
+    "POKéMON halimunan.");
 
 static const u8 sBicycleDesc[] = _(
-    "A folding bicycle\n"
-    "that is faster than\n"
-    "the RUNNING SHOES.");
+    "Basikal lipat yang\n"
+    "lebih laju daripada\n"
+    "KASUT LARI.");
 
 static const u8 sTownMapDesc[] = _(
-    "Can be viewed\n"
-    "anytime. Shows your\n"
-    "present location.");
+    "Tunjuk lokasi\n"
+    "semasa. Boleh\n"
+    "dilihat bila-bila.");
 
 static const u8 sVSSeekerDesc[] = _(
-    "A rechargeable unit\n"
-    "that flags battle-\n"
-    "ready TRAINERS.");
+    "Alat boleh dicas\n"
+    "yang mengesan\n"
+    "JURULATIH sedia.");
 
 static const u8 sFameCheckerDesc[] = _(
-    "Stores information\n"
-    "on famous people\n"
-    "for instant recall.");
+    "Menyimpan maklumat\n"
+    "orang terkenal\n"
+    "untuk rujukan.");
 
 static const u8 sTMCaseDesc[] = _(
-    "A convenient case \n"
-    "that holds TMs and\n"
-    "HMs.");
+    "Bekas yang mudah\n"
+    "untuk menyimpan\n"
+    "TM dan HM.");
 
 static const u8 sBerryPouchDesc[] = _(
-    "A convenient\n"
-    "container that\n"
-    "holds BERRIES.");
+    "Uncang yang mudah\n"
+    "untuk menyimpan\n"
+    "BERRY.");
 
 static const u8 sTeachyTVDesc[] = _(
-    "A TV set tuned to\n"
-    "an advice program\n"
-    "for TRAINERS.");
+    "Set TV dengan\n"
+    "rancangan nasihat\n"
+    "untuk JURULATIH.");
 
 static const u8 sTriPassDesc[] = _(
-    "A pass for ferries\n"
-    "between ONE, TWO,\n"
-    "and THREE ISLAND.");
+    "Pas feri antara\n"
+    "PULAU ONE, TWO\n"
+    "dan THREE.");
 
 static const u8 sRainbowPassDesc[] = _(
-    "For ferries serving\n"
-    "VERMILION and the\n"
-    "SEVII ISLANDS.");
+    "Untuk feri ke\n"
+    "VERMILION dan\n"
+    "KEPULAUAN SEVII.");
 
 static const u8 sTeaDesc[] = _(
-    "A thirst-quenching\n"
-    "tea prepared by an\n"
-    "old lady.");
+    "Teh pelepas dahaga\n"
+    "yang dibuat oleh\n"
+    "seorang nenek.");
 
 static const u8 sMysticTicketDesc[] = _(
-    "A ticket required\n"
-    "to board the ship\n"
-    "to NAVEL ROCK.");
+    "Tiket yang perlu\n"
+    "untuk naik kapal\n"
+    "ke NAVEL ROCK.");
 
 static const u8 sAuroraTicketDesc[] = _(
-    "A ticket required\n"
-    "to board the ship\n"
-    "to BIRTH ISLAND.");
+    "Tiket yang perlu\n"
+    "untuk naik kapal\n"
+    "ke PULAU BIRTH.");
 
 static const u8 sPowderJarDesc[] = _(
-    "Stores BERRY\n"
-    "POWDER made using\n"
-    "a BERRY CRUSHER.");
+    "Menyimpan SERBUK\n"
+    "BERRY buatan\n"
+    "PENGHANCUR BERRY.");
 
 static const u8 sRubyDesc[] = _(
-    "An exquisite, red-\n"
-    "glowing gem that\n"
-    "symbolizes passion.");
+    "Permata merah\n"
+    "bercahaya indah,\n"
+    "lambang semangat.");
 
 static const u8 sSapphireDesc[] = _(
-    "A brilliant blue gem\n"
-    "that symbolizes\n"
-    "honesty.");
+    "Permata biru\n"
+    "berkilau yang\n"
+    "lambang kejujuran.");
 
 // Emerald-specific key items
 static const u8 sMagmaEmblemDesc[] = _(
-    "A medal-like item in\n"
-    "the same shape as\n"
-    "TEAM MAGMA's mark.");
+    "Barang mirip pingat\n"
+    "sama bentuk dengan\n"
+    "tanda TEAM MAGMA.");
 
 static const u8 sOldSeaMapDesc[] = _(
-    "A faded sea chart\n"
-    "that shows the way\n"
-    "to a certain island.");
+    "Peta laut lusuh\n"
+    "yang tunjuk jalan\n"
+    "ke sebuah pulau.");

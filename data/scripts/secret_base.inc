@@ -1,26 +1,26 @@
 SecretBase_Text_TreeCanBeClimbed:
-	.string "If some vines drop down, this tree can\n"
-	.string "be climbed.$"
+	.string "Kalau ada akar gantung yang jatuh,\n"
+	.string "pokok ini boleh dipanjat.$"
 
 SecretBase_Text_TreeUseSecretPower:
-	.string "If some vines drop down, this tree can\n"
-	.string "be climbed.\p"
-	.string "Use the SECRET POWER?$"
+	.string "Kalau ada akar gantung yang jatuh,\n"
+	.string "pokok ini boleh dipanjat.\p"
+	.string "Guna KUASA RAHSIA?$"
 
 SecretBase_Text_VineDroppedDown:
-	.string "A thick vine dropped down!$"
+	.string "Seutas akar gantung yang tebal jatuh!$"
 
 SecretBase_Text_ClumpOfGrass:
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.$"
+	.string "Kalau rumpun rumput ini boleh dialihkan,\n"
+	.string "mungkin kita boleh masuk ke dalam.$"
 
 SecretBase_Text_ClumpUseSecretPower:
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.\p"
-	.string "Use the SECRET POWER?$"
+	.string "Kalau rumpun rumput ini boleh dialihkan,\n"
+	.string "mungkin kita boleh masuk ke dalam.\p"
+	.string "Guna KUASA RAHSIA?$"
 
 SecretBase_Text_DiscoveredSmallEntrance:
-	.string "Discovered a small entrance!$"
+	.string "Terjumpa pintu masuk kecil!$"
 
 	.include "data/text/secret_base_trainers.inc"
 
@@ -669,66 +669,69 @@ SecretBase_EventScript_CushionInteract::
 	end
 
 SecretBase_Text_AllDecorationsWillBeReturned:
-	.string "All decorations and furniture in your\n"
-	.string "SECRET BASE will be returned to your PC.\p"
-	.string "Is that okay?$"
+	.string "Semua hiasan dan perabot dalam\n"
+	.string "PANGKALAN RAHSIA kamu akan dihantar\l"
+	.string "balik ke PC.\p"
+	.string "Okey?$"
 
 SecretBase_Text_WantToRegisterSecretBase:
-	.string "Do you want to register\n"
-	.string "{STR_VAR_1}'s SECRET BASE?$"
+	.string "Kamu nak daftar PANGKALAN RAHSIA\n"
+	.string "{STR_VAR_1}?$"
 
 SecretBase_Text_AlreadyRegisteredDelete:
-	.string "This data is already registered.\n"
-	.string "Would you like to delete it?$"
+	.string "Data ini sudah didaftarkan.\n"
+	.string "Kamu nak padamkannya?$"
 
 SecretBase_Text_TooManyBasesDeleteSome:
-	.string "Up to 10 locations can be registered.\p"
-	.string "Delete a location if you want to\n"
-	.string "register another location.$"
+	.string "Sehingga 10 lokasi boleh didaftarkan.\p"
+	.string "Padam satu lokasi kalau kamu nak\n"
+	.string "daftar lokasi lain.$"
 
 SecretBase_Text_RegistrationCompleted:
-	.string "Registration completed.$"
+	.string "Pendaftaran selesai.$"
 
 SecretBase_Text_DataUnregistered:
-	.string "Data has been unregistered.$"
+	.string "Data telah dibatalkan pendaftarannya.$"
 
 SecretBase_Text_BootUpPC:
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} menghidupkan PC.$"
 
 SecretBase_Text_WhatWouldYouLikeToDo:
-	.string "What would you like to do?$"
+	.string "Apa yang kamu nak buat?$"
 
 SecretBase_Text_RegistryInfo:
-	.string "Once registered, a SECRET BASE will not\n"
-	.string "disappear unless the other TRAINER\l"
-	.string "moves it to a different location.\p"
-	.string "If a SECRET BASE is deleted from the\n"
-	.string "registered list, another one may take\l"
-	.string "its place.\p"
-	.string "Up to ten SECRET BASE locations\n"
-	.string "may be registered.$"
+	.string "Bila dah didaftarkan, PANGKALAN RAHSIA\n"
+	.string "tidak akan hilang kecuali JURULATIH\l"
+	.string "lain itu memindahkannya ke lokasi lain.\p"
+	.string "Kalau PANGKALAN RAHSIA dipadam\n"
+	.string "daripada senarai berdaftar, pangkalan\l"
+	.string "lain boleh mengambil tempatnya.\p"
+	.string "Sehingga sepuluh lokasi\n"
+	.string "PANGKALAN RAHSIA boleh didaftarkan.$"
 
 SecretBase_Text_BattleTowerShield:
-	.string "A shield of {STR_VAR_2} that marks winning\n"
-	.string "{STR_VAR_1} times in a row at the BATTLE TOWER.$"
+	.string "PERISAI {STR_VAR_2} tanda menang\n"
+	.string "{STR_VAR_1} kali berturut-turut di\l"
+	.string "BATTLE TOWER.$"
 
 SecretBase_Text_ToyTV:
-	.string "A realistic toy TV. It could be easily\n"
-	.string "mistaken for the real thing.$"
+	.string "TV mainan yang nampak macam betul.\n"
+	.string "Mudah disangka TV sebenar.$"
 
 SecretBase_Text_SeedotTV:
-	.string "A toy TV shaped like a SEEDOT.\n"
-	.string "It looks ready to roll away on its own…$"
+	.string "TV mainan berbentuk SEEDOT.\n"
+	.string "Macam nak bergolek pergi sendiri…$"
 
 SecretBase_Text_SkittyTV:
-	.string "A toy TV shaped like a SKITTY.\n"
-	.string "It looks ready to stroll away…$"
+	.string "TV mainan berbentuk SKITTY.\n"
+	.string "Macam nak berjalan pergi sendiri…$"
 
 SecretBase_Text_WouldYouLikeToMoveBases:
-	.string "You may only make one SECRET BASE.\p"
-	.string "Would you like to move from the SECRET\n"
-	.string "BASE near {STR_VAR_1}?$"
+	.string "Kamu hanya boleh buat satu\n"
+	.string "PANGKALAN RAHSIA.\p"
+	.string "Kamu nak pindah dari PANGKALAN RAHSIA\n"
+	.string "berhampiran {STR_VAR_1}?$"
 
 SecretBase_Text_MovingCompletedUseSecretPower:
-	.string "Moving completed.\p"
-	.string "Would you like to use the SECRET POWER?$"
+	.string "Pemindahan selesai.\p"
+	.string "Kamu nak guna KUASA RAHSIA?$"

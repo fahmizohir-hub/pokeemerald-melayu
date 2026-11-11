@@ -1,286 +1,286 @@
 SecretBase_Text_Trainer0Intro:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Since you're already here, how would\n"
-	.string "you like to battle?$"
+	.string "Kamu dah buat PANGKALAN RAHSIA?\p"
+	.string "Saya dah pergi merata-rata tempat\n"
+	.string "sebelum pilih tempat ni.\p"
+	.string "Alang-alang kamu dah ada di sini,\n"
+	.string "jom kita bertarung?$"
 
 SecretBase_Text_Trainer0AcceptBattle:
-	.string "Okay!\n"
-	.string "Here we come!$"
+	.string "Okey!\n"
+	.string "Kami datang!$"
 
 SecretBase_Text_Trainer0DeclineBattle:
-	.string "Hunh?\n"
-	.string "Oh, you can't now…$"
+	.string "Hah?\n"
+	.string "Oh, kamu tak boleh sekarang…$"
 
 SecretBase_Text_Trainer0Defeated::
-	.string "Waaargh! You're too strong!\n"
-	.string "About me losing… Please keep it secret!$"
+	.string "Waaargh! Kamu terlalu kuat!\n"
+	.string "Pasal saya kalah… Tolong rahsiakan!$"
 
 SecretBase_Text_Trainer0PostBattle:
-	.string "What do you think of my SECRET BASE?\n"
-	.string "Come visit me again tomorrow.$"
+	.string "Apa pendapat kamu tentang PANGKALAN\n"
+	.string "RAHSIA saya? Datanglah lagi esok.$"
 
 SecretBase_Text_Trainer0PreChampion:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Feel free to hang out!$"
+	.string "Kamu dah buat PANGKALAN RAHSIA?\p"
+	.string "Saya dah pergi merata-rata tempat\n"
+	.string "sebelum pilih tempat ni.\p"
+	.string "Lepaklah di sini!$"
 
 SecretBase_Text_Trainer5Intro:
-	.string "There're a lot of places where\n"
-	.string "you can make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?\p"
-	.string "Oh, would you like to have a battle?$"
+	.string "Ada banyak tempat yang kamu boleh\n"
+	.string "buat PANGKALAN RAHSIA.\p"
+	.string "Tapi saya paling suka tempat ni.\n"
+	.string "Cantik, kan?\p"
+	.string "Oh, kamu nak bertarung?$"
 
 SecretBase_Text_Trainer5AcceptBattle:
-	.string "Okay, here goes!$"
+	.string "Okey, mari mula!$"
 
 SecretBase_Text_Trainer5DeclineBattle:
 	.string "Oh…\n"
-	.string "You can't now, okay.$"
+	.string "Kamu tak boleh sekarang, okey.$"
 
 SecretBase_Text_Trainer5Defeated::
-	.string "Hmmm… It's our loss…\n"
-	.string "But don't tell anyone!\l"
-	.string "It's a confidential secret!$"
+	.string "Hmmm… Kami kalah…\n"
+	.string "Tapi jangan beritahu sesiapa!\l"
+	.string "Ini rahsia sulit!$"
 
 SecretBase_Text_Trainer5PostBattle:
-	.string "If you're in this area again,\n"
-	.string "I hope you'll visit me.$"
+	.string "Kalau kamu lalu kawasan ni lagi,\n"
+	.string "singgahlah jumpa saya.$"
 
 SecretBase_Text_Trainer5PreChampion:
-	.string "There're a lot of places where you can\n"
-	.string "make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?$"
+	.string "Ada banyak tempat yang kamu boleh\n"
+	.string "buat PANGKALAN RAHSIA.\p"
+	.string "Tapi saya paling suka tempat ni.\n"
+	.string "Cantik, kan?$"
 
 SecretBase_Text_Trainer1Intro:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "Oh! Were you thinking about\n"
-	.string "taking this spot, too?\p"
-	.string "I'll tell you what, you can have this\n"
-	.string "spot if you can beat me.$"
+	.string "Tempat ni popular.\n"
+	.string "Selalu ada orang ambil.\p"
+	.string "Oh! Kamu pun terfikir nak\n"
+	.string "ambil tempat ni juga?\p"
+	.string "Macam nilah, tempat ni jadi milik\n"
+	.string "kamu kalau kamu boleh kalahkan saya.$"
 
 SecretBase_Text_Trainer1AcceptBattle:
-	.string "Okay!\n"
-	.string "I'm going to defend my SECRET BASE!$"
+	.string "Okey!\n"
+	.string "Saya akan pertahankan PANGKALAN saya!$"
 
 SecretBase_Text_Trainer1DeclineBattle:
-	.string "Hunh? Is that right?\n"
-	.string "You're not interested in this spot?$"
+	.string "Hah? Betul ke?\n"
+	.string "Kamu tak berminat dengan tempat ni?$"
 
 SecretBase_Text_Trainer1Defeated::
-	.string "I can't keep going!\n"
-	.string "I surrender!$"
+	.string "Saya tak larat lagi!\n"
+	.string "Saya menyerah!$"
 
 SecretBase_Text_Trainer1PostBattle:
-	.string "Okay, when I move one day,\n"
-	.string "this place will be yours!$"
+	.string "Okey, bila saya pindah nanti,\n"
+	.string "tempat ni jadi milik kamu!$"
 
 SecretBase_Text_Trainer1PreChampion:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "I waited a long time for it to open.\n"
-	.string "I finally got to use it!$"
+	.string "Tempat ni popular.\n"
+	.string "Selalu ada orang ambil.\p"
+	.string "Lama saya tunggu tempat ni kosong.\n"
+	.string "Akhirnya dapat juga saya guna!$"
 
 SecretBase_Text_Trainer6Intro:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.\p"
-	.string "Would you like to see how strong I am?$"
+	.string "Selamat datang ke MAKMAL POKéMON saya.\p"
+	.string "Saya buat kajian tentang pertarungan\n"
+	.string "secara rahsia.\p"
+	.string "Nak tengok sekuat mana saya?$"
 
 SecretBase_Text_Trainer6AcceptBattle:
-	.string "I'm going to go all out!$"
+	.string "Saya akan habis-habisan!$"
 
 SecretBase_Text_Trainer6DeclineBattle:
 	.string "Oh.\n"
-	.string "Some other time, then!$"
+	.string "Lain kali sajalah!$"
 
 SecretBase_Text_Trainer6Defeated::
-	.string "Hmm… I've still got lots to learn.\n"
-	.string "I have to study some more.$"
+	.string "Hmm… Banyak lagi saya perlu belajar.\n"
+	.string "Saya kena belajar lagi.$"
 
 SecretBase_Text_Trainer6PostBattle:
-	.string "Thanks for battling with me.\n"
-	.string "Please come back again tomorrow.$"
+	.string "Terima kasih sudi bertarung.\n"
+	.string "Datanglah lagi esok.$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.$"
+	.string "Selamat datang ke MAKMAL POKéMON saya.\p"
+	.string "Saya buat kajian tentang pertarungan\n"
+	.string "secara rahsia.$"
 
 SecretBase_Text_Trainer2Intro:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.\p"
-	.string "So, how would you like a battle?$"
+	.string "Rumah agam besar memang bagus, tapi\n"
+	.string "saya lebih suka tempat macam ni.\p"
+	.string "Saya suka sebab macam-macam orang\n"
+	.string "datang melawat saya.\p"
+	.string "Jadi, jom kita bertarung?$"
 
 SecretBase_Text_Trainer2AcceptBattle:
-	.string "That's the way!$"
+	.string "Macam tulah!$"
 
 SecretBase_Text_Trainer2DeclineBattle:
-	.string "When you're ready, give me a shout!$"
+	.string "Bila dah sedia, panggil saya!$"
 
 SecretBase_Text_Trainer2Defeated::
-	.string "Aww! Done in!\n"
-	.string "But it's still fun to battle!$"
+	.string "Alamak! Kalah!\n"
+	.string "Tapi bertarung tetap seronok!$"
 
 SecretBase_Text_Trainer2PostBattle:
-	.string "Well, anyway, I should go buy some\n"
-	.string "decorations and furniture.\p"
-	.string "I want my SECRET BASE to be a place\n"
-	.string "other people can enjoy.$"
+	.string "Apa-apa pun, saya patut pergi beli\n"
+	.string "hiasan dan perabot.\p"
+	.string "Saya nak PANGKALAN RAHSIA saya jadi\n"
+	.string "tempat yang orang lain boleh nikmati.$"
 
 SecretBase_Text_Trainer2PreChampion:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.$"
+	.string "Rumah agam besar memang bagus, tapi\n"
+	.string "saya lebih suka tempat macam ni.\p"
+	.string "Saya suka sebab macam-macam orang\n"
+	.string "datang melawat saya.$"
 
 SecretBase_Text_Trainer7Intro:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.\p"
-	.string "If you would be so kind, will you battle\n"
-	.string "with my POKéMON?$"
+	.string "Saya sangat suka membeli hiasan\n"
+	.string "dan perabot.\p"
+	.string "Saya juga sama suka membela\n"
+	.string "POKéMON.\p"
+	.string "Jika sudi, mahukah kamu bertarung\n"
+	.string "dengan POKéMON saya?$"
 
 SecretBase_Text_Trainer7AcceptBattle:
-	.string "Thank you.\n"
-	.string "Shall we begin?$"
+	.string "Terima kasih.\n"
+	.string "Boleh kita mulakan?$"
 
 SecretBase_Text_Trainer7DeclineBattle:
 	.string "Oh.\n"
-	.string "How disappointing…$"
+	.string "Sungguh mengecewakan…$"
 
 SecretBase_Text_Trainer7Defeated::
-	.string "I concede…$"
+	.string "Saya mengaku kalah…$"
 
 SecretBase_Text_Trainer7PostBattle:
-	.string "That was all in good fun!\n"
-	.string "I should go enjoy shopping now.$"
+	.string "Seronok sungguh tadi!\n"
+	.string "Saya patut pergi membeli-belah pula.$"
 
 SecretBase_Text_Trainer7PreChampion:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.$"
+	.string "Saya sangat suka membeli hiasan\n"
+	.string "dan perabot.\p"
+	.string "Saya juga sama suka membela\n"
+	.string "POKéMON.$"
 
 SecretBase_Text_Trainer3Intro:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?\p"
-	.string "But since you found me, how about we\n"
-	.string "have a battle?$"
+	.string "Ada orang buat PANGKALAN RAHSIA di\n"
+	.string "tempat yang susah dicari.\l"
+	.string "Mereka nak menyorok ke?\p"
+	.string "Tapi alang-alang kamu dah jumpa saya,\n"
+	.string "jom kita bertarung?$"
 
 SecretBase_Text_Trainer3AcceptBattle:
-	.string "I'm not going down easily!$"
+	.string "Saya takkan kalah dengan mudah!$"
 
 SecretBase_Text_Trainer3DeclineBattle:
-	.string "Oh… Are you maybe tired from searching\n"
-	.string "for this place?$"
+	.string "Oh… Kamu penat ke, cari\n"
+	.string "tempat ni?$"
 
 SecretBase_Text_Trainer3Defeated::
-	.string "I went down…$"
+	.string "Saya tumpas…$"
 
 SecretBase_Text_Trainer3PostBattle:
-	.string "Where's your SECRET BASE?\n"
-	.string "I should go visit you there.$"
+	.string "Mana PANGKALAN RAHSIA kamu?\n"
+	.string "Saya patut pergi melawat kamu.$"
 
 SecretBase_Text_Trainer3PreChampion:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?$"
+	.string "Ada orang buat PANGKALAN RAHSIA di\n"
+	.string "tempat yang susah dicari.\l"
+	.string "Mereka nak menyorok ke?$"
 
 SecretBase_Text_Trainer8Intro:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!\p"
-	.string "In the meantime, want to battle?$"
+	.string "Orang kata hiasan boleh didapati\n"
+	.string "dengan pelbagai cara.\p"
+	.string "Jom kita berlumba siapa dapat hiasan\n"
+	.string "dan perabot yang lebih cantik!\p"
+	.string "Sementara itu, nak bertarung?$"
 
 SecretBase_Text_Trainer8AcceptBattle:
-	.string "This is my SECRET BASE.\n"
-	.string "I can't lose!$"
+	.string "Ini PANGKALAN RAHSIA saya.\n"
+	.string "Saya tak boleh kalah!$"
 
 SecretBase_Text_Trainer8DeclineBattle:
-	.string "I'll battle with you anytime.$"
+	.string "Saya sedia bertarung bila-bila masa.$"
 
 SecretBase_Text_Trainer8Defeated::
-	.string "Huh?\n"
-	.string "Did I just lose?$"
+	.string "Hah?\n"
+	.string "Saya kalah ke?$"
 
 SecretBase_Text_Trainer8PostBattle:
-	.string "I won't lose at collecting decorations.\n"
-	.string "Come visit again!$"
+	.string "Saya takkan kalah dalam kumpul hiasan.\n"
+	.string "Datanglah lagi!$"
 
 SecretBase_Text_Trainer8PreChampion:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!$"
+	.string "Orang kata hiasan boleh didapati\n"
+	.string "dengan pelbagai cara.\p"
+	.string "Jom kita berlumba siapa dapat hiasan\n"
+	.string "dan perabot yang lebih cantik!$"
 
 SecretBase_Text_Trainer4Intro:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "That's what I do.\n"
-	.string "Want to battle with me?$"
+	.string "Saya jumpa tempat yang saya suka,\n"
+	.string "dan hias dengan hiasan kegemaran.\p"
+	.string "Saya bela POKéMON kegemaran saya\n"
+	.string "dan jadi kuat bersamanya.\p"
+	.string "Itulah yang saya buat.\n"
+	.string "Nak bertarung dengan saya?$"
 
 SecretBase_Text_Trainer4AcceptBattle:
-	.string "Show me what you're made of!$"
+	.string "Tunjukkan kehebatan kamu!$"
 
 SecretBase_Text_Trainer4DeclineBattle:
-	.string "I guess there are times when you're not\n"
-	.string "into it.$"
+	.string "Kadang-kadang memang kita tak\n"
+	.string "ada mood.$"
 
 SecretBase_Text_Trainer4Defeated::
-	.string "I know exactly what you're made of now.$"
+	.string "Sekarang saya tahu kehebatan kamu.$"
 
 SecretBase_Text_Trainer4PostBattle:
-	.string "We can both become stronger.\n"
-	.string "Let's keep at it!$"
+	.string "Kita berdua boleh jadi lebih kuat.\n"
+	.string "Teruskan usaha!$"
 
 SecretBase_Text_Trainer4PreChampion:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "Every day is a great day.$"
+	.string "Saya jumpa tempat yang saya suka,\n"
+	.string "dan hias dengan hiasan kegemaran.\p"
+	.string "Saya bela POKéMON kegemaran saya\n"
+	.string "dan jadi kuat bersamanya.\p"
+	.string "Setiap hari ialah hari yang hebat.$"
 
 SecretBase_Text_Trainer9Intro:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?\p"
-	.string "Want to see my taste in battling?$"
+	.string "Kita boleh kenal citarasa seseorang\n"
+	.string "melalui jenis hiasan\l"
+	.string "yang mereka ada, dan cara mereka\l"
+	.string "mempamerkannya.\p"
+	.string "Apa pendapat kamu tentang citarasa\n"
+	.string "saya? Terkedu?\p"
+	.string "Nak tengok citarasa saya bertarung?$"
 
 SecretBase_Text_Trainer9AcceptBattle:
-	.string "There's no holding back!$"
+	.string "Tiada lagi berlembut!$"
 
 SecretBase_Text_Trainer9DeclineBattle:
-	.string "I'll be happy to demonstrate my style\n"
-	.string "anytime.$"
+	.string "Saya sedia tunjukkan gaya saya\n"
+	.string "bila-bila masa.$"
 
 SecretBase_Text_Trainer9Defeated::
-	.string "You're supremely talented!\n"
-	.string "Your power seems to be limitless…$"
+	.string "Kamu sangat berbakat!\n"
+	.string "Kuasa kamu macam tiada batasnya…$"
 
 SecretBase_Text_Trainer9PostBattle:
-	.string "What did you think of my style?\n"
-	.string "I'll keep on polishing it!$"
+	.string "Apa pendapat kamu tentang gaya saya?\n"
+	.string "Saya akan terus memperhalusinya!$"
 
 SecretBase_Text_Trainer9PreChampion:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?$"
+	.string "Kita boleh kenal citarasa seseorang\n"
+	.string "melalui jenis hiasan\l"
+	.string "yang mereka ada, dan cara mereka\l"
+	.string "mempamerkannya.\p"
+	.string "Apa pendapat kamu tentang citarasa\n"
+	.string "saya? Terkedu?$"

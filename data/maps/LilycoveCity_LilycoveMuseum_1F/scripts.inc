@@ -154,133 +154,130 @@ LilycoveCity_LilycoveMuseum_1F_EventScript_FatMan::
 	end
 
 LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum:
-	.string "Welcome to LILYCOVE MUSEUM.\p"
-	.string "Please take the time to enjoy our\n"
-	.string "collection of fantastic artwork\l"
-	.string "featuring POKéMON.$"
+	.string "Selamat datang ke MUZIUM LILYCOVE.\p"
+	.string "Luangkanlah masa untuk menikmati\n"
+	.string "koleksi karya seni hebat kami yang\l"
+	.string "menampilkan POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
-	.string "I'm the CURATOR of this MUSEUM of\n"
-	.string "fine arts.\p"
-	.string "It's heartening to see someone so\n"
-	.string "young as you in our MUSEUM.\p"
-	.string "Have you viewed our collection of\n"
-	.string "paintings already?$"
+	.string "Saya KURATOR MUZIUM seni halus ini.\p"
+	.string "Gembira hati saya melihat orang semuda\n"
+	.string "kamu datang ke MUZIUM kami.\p"
+	.string "Kamu dah tengok koleksi lukisan kami?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime:
-	.string "Ah, then let me not disturb you.\n"
-	.string "Please, do take your time.$"
+	.string "Ah, kalau begitu saya tak mahu ganggu.\n"
+	.string "Silakan, ambil masa kamu.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings:
-	.string "Oh? I do believe that you seem to\n"
-	.string "be a POKéMON TRAINER.\p"
-	.string "Have you an interest in paintings,\n"
-	.string "too?$"
+	.string "Oh? Saya rasa kamu ni seorang\n"
+	.string "JURULATIH POKéMON.\p"
+	.string "Kamu juga berminat dengan lukisan?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HonoredYoudVisitInSpiteOfThat:
-	.string "I see…\p"
-	.string "I'm honored that you would visit\n"
-	.string "us in spite of that.$"
+	.string "Begitu…\p"
+	.string "Saya berbesar hati kamu tetap sudi\n"
+	.string "melawat kami.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ExcellentCanYouComeWithMe:
-	.string "Ah, excellent!\n"
-	.string "You do like paintings!\p"
-	.string "Then, may I ask you to come with me?$"
+	.string "Ah, bagus sekali!\n"
+	.string "Kamu memang suka lukisan!\p"
+	.string "Kalau begitu, boleh kamu ikut saya?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_VeryOldPainting:
-	.string "It's a very old painting.\n"
-	.string "The paint is peeling here and there.$"
+	.string "Ini lukisan yang sangat lama.\n"
+	.string "Catnya mengelupas di sana sini.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery:
-	.string "It's an odd landscape with bizarre\n"
-	.string "and fantastic scenery.$"
+	.string "Ini lukisan landskap pelik dengan\n"
+	.string "pemandangan yang ganjil dan fantastik.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman:
-	.string "It's a painting of a beautiful, smiling\n"
-	.string "woman with a POKéMON on her lap.$"
+	.string "Ini lukisan seorang wanita cantik yang\n"
+	.string "tersenyum dengan POKéMON di ribanya.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
-	.string "It's a painting of a legendary POKéMON\n"
-	.string "from long ago.\p"
-	.string "The artist painted this from\n"
-	.string "imagination.$"
+	.string "Ini lukisan POKéMON legenda dari zaman\n"
+	.string "dahulu.\p"
+	.string "Pelukisnya melukis ini berdasarkan\n"
+	.string "imaginasi.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "It's a painting of GRASS POKéMON\n"
-	.string "swaying in a breeze.\p"
-	.string "They appear to be enjoying the wind's\n"
-	.string "gentle caress.$"
+	.string "Ini lukisan POKéMON RUMPUT yang\n"
+	.string "meliuk-liuk ditiup angin.\p"
+	.string "Mereka nampak seronok dibelai angin\n"
+	.string "yang lembut.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "It's a delicious-looking painting\n"
-	.string "of BERRIES.\p"
-	.string "This painting could make you hungry!$"
+	.string "Ini lukisan BERRY yang nampak sedap.\p"
+	.string "Lukisan ni boleh buat kamu lapar!$"
 
 LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
-	.string "It's a replica of a famous sculpture.\p"
-	.string "It depicts an ancient BIRD POKéMON.$"
+	.string "Ini replika sebuah arca terkenal.\p"
+	.string "Ia menggambarkan POKéMON BURUNG\n"
+	.string "purba.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "It's a big POKé BALL carved from\n"
-	.string "a black stone.\p"
-	.string "It was apparently used in festivals\n"
-	.string "in the olden days.$"
+	.string "Ini POKé BALL besar yang diukir\n"
+	.string "daripada batu hitam.\p"
+	.string "Nampaknya ia digunakan dalam perayaan\n"
+	.string "pada zaman dahulu.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:
-	.string "It's a huge stone tablet inscribed\n"
-	.string "with POKéMON and dense text in the\l"
-	.string "small characters of an ancient,\l"
-	.string "unreadable language.$"
+	.string "Ini prasasti batu besar yang terukir\n"
+	.string "gambar POKéMON dan tulisan halus yang\l"
+	.string "padat dalam bahasa purba yang tak\l"
+	.string "dapat dibaca.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence:
 	.string "Hmmm…\n"
-	.string "What works of great magnificence…$"
+	.string "Sungguh agung karya-karya ini…$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts:
-	.string "Battling with POKéMON is fun,\n"
-	.string "I'll grant you that.\p"
-	.string "But one mustn't forget our love for\n"
-	.string "the fine arts.$"
+	.string "Bertarung dengan POKéMON memang\n"
+	.string "seronok, saya akui.\p"
+	.string "Tapi kita tak boleh lupa cinta kita pada\n"
+	.string "seni halus.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration:
-	.string "This ART MUSEUM… Well, you could\n"
-	.string "see many fantastic paintings.\p"
-	.string "And the CURATOR is a wonderful person.\p"
-	.string "Among artists like myself, this MUSEUM\n"
-	.string "is an inspiration.$"
+	.string "MUZIUM SENI ni… Kamu boleh tengok\n"
+	.string "banyak lukisan hebat.\p"
+	.string "Dan KURATORnya seorang yang luar\n"
+	.string "biasa.\p"
+	.string "Bagi pelukis macam saya, MUZIUM ni\n"
+	.string "sumber inspirasi.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty:
-	.string "This lady is pretty!\n"
-	.string "She's like Mommy!$"
+	.string "Cantiknya kakak ni!\n"
+	.string "Macam Ibu!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable:
-	.string "This POKéMON is adorable!\n"
-	.string "Just like our little boy!$"
+	.string "Comelnya POKéMON ni!\n"
+	.string "Sama macam anak lelaki kita!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings:
-	.string "I'd heard that this ART MUSEUM got\n"
-	.string "in some new paintings.\p"
-	.string "So, naturally I hurried over.\p"
-	.string "Are the new paintings up on\n"
-	.string "the second floor?$"
+	.string "Saya dengar MUZIUM SENI ni dapat\n"
+	.string "beberapa lukisan baru.\p"
+	.string "Jadi, tentulah saya bergegas datang.\p"
+	.string "Lukisan baru tu ada di tingkat dua ke?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful:
-	.string "Lately, the CURATOR has been\n"
-	.string "unusually cheerful.\p"
-	.string "I bet something good happened for him.\n"
-	.string "Definitely.$"
+	.string "Kebelakangan ni, KURATOR nampak ceria\n"
+	.string "luar biasa.\p"
+	.string "Mesti ada sesuatu yang baik berlaku\n"
+	.string "pada dia. Pasti.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
-	.string "I aim to see many great paintings\n"
-	.string "here and learn from them.\p"
-	.string "I have this dream of one day having\n"
-	.string "my artwork exhibited here.$"
+	.string "Saya nak tengok banyak lukisan hebat\n"
+	.string "di sini dan belajar daripadanya.\p"
+	.string "Saya bermimpi satu hari nanti karya\n"
+	.string "saya dipamerkan di sini.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
-	.string "The ART MUSEUM has become a favorite\n"
-	.string "tourist destination.\p"
-	.string "It's great for LILYCOVE…\n"
-	.string "No, great for the HOENN region!\p"
-	.string "This is what I've heard--a lone TRAINER\n"
-	.string "procured all the paintings upstairs.$"
+	.string "MUZIUM SENI ni dah jadi destinasi\n"
+	.string "pelancong kegemaran.\p"
+	.string "Bagus untuk LILYCOVE…\n"
+	.string "Bukan, bagus untuk wilayah HOENN!\p"
+	.string "Saya dengar, seorang JURULATIH yang\n"
+	.string "dapatkan semua lukisan di tingkat atas.$"
 

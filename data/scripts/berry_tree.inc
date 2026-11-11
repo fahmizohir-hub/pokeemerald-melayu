@@ -181,69 +181,69 @@ BerryTree_EventScript_PlantBerry::
 	return
 
 BerryTree_Text_ItsSoftLoamySoil:
-	.string "It's soft, loamy soil.$"
+	.string "Tanah ini lembut dan gembur.$"
 
 BerryTree_Text_WantToPlant:
-	.string "It's soft, loamy soil.\n"
-	.string "Want to plant a BERRY?$"
+	.string "Tanah ini lembut dan gembur.\n"
+	.string "Nak tanam BERRY?$"
 
 BerryTree_Text_PlantedOneBerry:
-	.string "{PLAYER} planted one {STR_VAR_1} in\n"
-	.string "the soft, loamy soil.$"
+	.string "{PLAYER} menanam sebiji {STR_VAR_1}\n"
+	.string "dalam tanah yang lembut dan gembur.$"
 
 BerryTree_Text_BerryGrowthStage1:
-	.string "One {STR_VAR_1} was planted here.$"
+	.string "Sebiji {STR_VAR_1} ditanam di sini.$"
 
 BerryTree_Text_BerryGrowthStage2:
-	.string "{STR_VAR_1} has sprouted.$"
+	.string "{STR_VAR_1} dah bertunas.$"
 
 BerryTree_Text_BerryGrowthStage3:
-	.string "This {STR_VAR_1} plant is growing taller.$"
+	.string "Pokok {STR_VAR_1} ini makin tinggi.$"
 
 BerryTree_Text_BerryGrowthStage4:
-	.string "These {STR_VAR_1} flowers are blooming\n"
+	.string "Bunga {STR_VAR_1} ini sedang mekar\n"
 	.string "{STR_VAR_2}.$"
 
 BerryTree_Text_CareAdverbGreat:
-	.string "very beautifully$"
+	.string "dengan sangat indah$"
 
 BerryTree_Text_CareAdverbPoor:
-	.string "cutely$"
+	.string "dengan comel$"
 
 BerryTree_Text_CareAdverbGood:
-	.string "prettily$"
+	.string "dengan cantik$"
 
 BerryTree_Text_WantToPick:
-	.string "You found {STR_VAR_2} {STR_VAR_1}!\p"
-	.string "Do you want to pick the\n"
-	.string "{STR_VAR_1}?$"
+	.string "Kamu jumpa {STR_VAR_2} biji {STR_VAR_1}!\p"
+	.string "Kamu nak petik\n"
+	.string "{STR_VAR_1} itu?$"
 
 BerryTree_Text_PickedTheBerry:
-	.string "{PLAYER} picked the {STR_VAR_2} {STR_VAR_1}.$"
+	.string "{PLAYER} memetik {STR_VAR_2} biji\n"
+	.string "{STR_VAR_1}.$"
 
 BerryTree_Text_PutAwayBerry:
-	.string "{PLAYER} put away the {STR_VAR_1}\n"
-	.string "in the BAG's BERRIES POCKET.\p"
-	.string "The soil returned to its soft and\n"
-	.string "loamy state.$"
+	.string "{PLAYER} menyimpan {STR_VAR_1}\n"
+	.string "dalam POKET BERRY di BEG.\p"
+	.string "Tanah itu kembali lembut dan gembur.$"
 
 BerryTree_Text_BerryPocketFull:
-	.string "The BAG's BERRIES POCKET is full.\p"
-	.string "The {STR_VAR_1} couldn't be taken.$"
+	.string "POKET BERRY dalam BEG dah penuh.\p"
+	.string "{STR_VAR_1} itu tak dapat diambil.$"
 
 BerryTree_Text_BerryLeftUnpicked:
-	.string "{PLAYER} left the {STR_VAR_1}\n"
-	.string "unpicked.$"
+	.string "{PLAYER} membiarkan {STR_VAR_1}\n"
+	.string "tidak dipetik.$"
 
 BerryTree_Text_WantToWater:
-	.string "Want to water the {STR_VAR_1} with the\n"
-	.string "WAILMER PAIL?$"
+	.string "Nak siram {STR_VAR_1} dengan\n"
+	.string "BALDI WAILMER?$"
 
 BerryTree_Text_WateredTheBerry:
-	.string "{PLAYER} watered the {STR_VAR_1}.$"
+	.string "{PLAYER} menyiram {STR_VAR_1}.$"
 
 BerryTree_Text_PlantIsDelighted:
-	.string "The plant seems to be delighted.$"
+	.string "Pokok itu nampak gembira.$"
 
 BerryTree_Text_ExclamationPoint:
 	.string "!$"

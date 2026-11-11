@@ -141,19 +141,21 @@ LilycoveCity_DepartmentStore_5F_EventScript_LittleGirl::
 	end
 
 LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls:
-	.string "This place is full of cute DOLLS.\p"
-	.string "I should buy some for me, instead of\n"
-	.string "just for my children.$"
+	.string "Tempat ni penuh dengan PATUNG yang\n"
+	.string "comel.\p"
+	.string "Saya patut beli untuk diri sendiri juga,\n"
+	.string "bukan untuk anak-anak saja.$"
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
-	.string "I'm not big enough to raise POKéMON,\n"
-	.string "so I'm getting a cute DOLL instead.$"
+	.string "Saya belum cukup besar nak bela\n"
+	.string "POKéMON, jadi saya beli PATUNG comel\l"
+	.string "saja.$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
-	.string "They sell many cute MATS here.\p"
-	.string "I wonder which one I should get?\n"
-	.string "Maybe I'll buy them all…$"
+	.string "Mereka jual banyak TIKAR comel di sini.\p"
+	.string "Mana satu agaknya patut saya beli?\n"
+	.string "Mungkin saya beli semua…$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
-	.string "I think they closed the rooftop\n"
-	.string "because the weather is wild today.$"
+	.string "Saya rasa mereka tutup bumbung sebab\n"
+	.string "cuaca hari ni teruk sangat.$"

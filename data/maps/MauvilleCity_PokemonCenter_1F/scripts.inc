@@ -34,21 +34,22 @@ MauvilleCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings:
-	.string "That man over there, he says weird\n"
-	.string "things!\p"
-	.string "He's funny in a weird way.\n"
-	.string "I doubt I'll forget about him!$"
+	.string "Lelaki di sana tu, dia cakap benda\n"
+	.string "pelik-pelik!\p"
+	.string "Dia kelakar, tapi pelik. Saya rasa saya\n"
+	.string "takkan lupakan dia!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner:
-	.string "When I accessed the RECORD CORNER,\n"
-	.string "the data for what's hot in DEWFORD\l"
-	.string "got updated.\p"
-	.string "Now that bit of data is the same\n"
-	.string "as my friend's!$"
+	.string "Bila saya guna SUDUT REKOD, data\n"
+	.string "tentang apa yang popular di DEWFORD\l"
+	.string "dikemas kini.\p"
+	.string "Sekarang data tu sama dengan data\n"
+	.string "kawan saya!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun:
-	.string "A RECORD CORNER opened upstairs in\n"
-	.string "the POKéMON CENTER.\p"
-	.string "I don't know what it's about, but it\n"
-	.string "sounds fun. I'll go check it out!$"
+	.string "SUDUT REKOD dah dibuka di tingkat atas\n"
+	.string "PUSAT POKéMON.\p"
+	.string "Saya tak tahu apa bendanya, tapi\n"
+	.string "bunyinya seronok. Saya nak pergi\l"
+	.string "tengok!$"
 

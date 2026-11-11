@@ -427,249 +427,249 @@ BattleFrontier_BattleDomeLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeSingleBattle:
-	.string "Where the strategies of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE DOME!\p"
-	.string "I am your guide to the SINGLE BATTLE\n"
-	.string "Tournament.$"
+	.string "Di sinilah strategi para JURULATIH\n"
+	.string "diuji!\p"
+	.string "Selamat datang ke BATTLE DOME!\p"
+	.string "Saya pemandu Kejohanan\n"
+	.string "TARUNG TUNGGAL.$"
 
 BattleFrontier_BattleDomeLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to challenge\n"
-	.string "the SINGLE BATTLE Tournament?$"
+	.string "Kamu mahu menyahut cabaran\n"
+	.string "Kejohanan TARUNG TUNGGAL?$"
 
 BattleFrontier_BattleDomeLobby_Text_HopeToSeeYouAgain:
-	.string "We hope to see you again.$"
+	.string "Kami harap dapat jumpa kamu lagi.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge:
-	.string "The SINGLE BATTLE Tournament\n"
-	.string "is exactly as the name suggests--\l"
-	.string "a tournament of SINGLE BATTLES.\p"
-	.string "All participating TRAINERS must\n"
-	.string "enter three POKéMON each.\p"
-	.string "In each battle, one of the three\n"
-	.string "POKéMON must be held in reserve.\p"
-	.string "The other two POKéMON can battle\n"
-	.string "one at a time.\p"
-	.string "Choose the two battling POKéMON after\n"
-	.string "examining the opponent's trio.\p"
-	.string "You win the tournament by defeating\n"
-	.string "four TRAINERS.\p"
-	.string "Battle Points are awarded to\n"
-	.string "the tournament winner.\p"
-	.string "If you want to interrupt your\n"
-	.string "tournament, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Kejohanan TARUNG TUNGGAL adalah\n"
+	.string "seperti namanya--\l"
+	.string "kejohanan TARUNG TUNGGAL.\p"
+	.string "Setiap JURULATIH yang menyertai\n"
+	.string "mesti mendaftar tiga POKéMON.\p"
+	.string "Dalam setiap pertarungan, seekor\n"
+	.string "daripada tiga POKéMON jadi simpanan.\p"
+	.string "Dua POKéMON lagi boleh bertarung\n"
+	.string "seekor demi seekor.\p"
+	.string "Pilih dua POKéMON untuk bertarung\n"
+	.string "selepas meneliti trio lawan.\p"
+	.string "Kamu menang kejohanan dengan\n"
+	.string "menewaskan empat JURULATIH.\p"
+	.string "Mata Tarung diberikan kepada\n"
+	.string "pemenang kejohanan.\p"
+	.string "Jika mahu berhenti di tengah\n"
+	.string "kejohanan, sila simpan permainan.\p"
+	.string "Jika tak simpan sebelum berhenti,\n"
+	.string "penyertaan kamu akan dibatalkan.$"
 
 BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before I show you to the BATTLE DOME,\n"
-	.string "I must save the data. Is that okay?$"
+	.string "Sebelum ke BATTLE DOME, saya perlu\n"
+	.string "simpan data. Boleh?$"
 
 BattleFrontier_BattleDomeLobby_Text_WhichLevelMode:
-	.string "The tournament offers two levels\n"
-	.string "of challenge, Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "Kejohanan ini ada dua tahap cabaran,\n"
+	.string "LV. 50 dan LV. TERBUKA.\l"
+	.string "Yang mana pilihan kamu?$"
 
 BattleFrontier_BattleDomeLobby_Text_SelectThreeMons:
-	.string "Now select the three POKéMON that\n"
-	.string "you wish to enter, please.$"
+	.string "Sekarang, sila pilih tiga POKéMON\n"
+	.string "yang kamu mahu daftarkan.$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "Also, the POKéMON must be holding\n"
-	.string "different kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Maafkan saya!\p"
+	.string "Kamu tiada tiga POKéMON yang layak.\p"
+	.string "Lagi satu, POKéMON mesti memegang\n"
+	.string "barang yang berlainan.\p"
+	.string "TELUR{STR_VAR_1}tidak layak.\p"
+	.string "Datanglah jumpa saya bila dah sedia.$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLv50:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "You must have three different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Maafkan saya!\p"
+	.string "Kamu tiada tiga POKéMON yang layak.\p"
+	.string "Kamu perlu tiga POKéMON berlainan\n"
+	.string "pada Tahap 50 atau kurang.\p"
+	.string "Mereka juga mesti memegang barang\n"
+	.string "yang berlainan.\p"
+	.string "TELUR{STR_VAR_1}tidak layak.\p"
+	.string "Datanglah jumpa saya bila dah sedia.$"
 
 BattleFrontier_BattleDomeLobby_Text_ShowYouToBattleDome:
-	.string "I will now show you to\n"
-	.string "the BATTLE DOME.$"
+	.string "Saya akan bawa kamu ke\n"
+	.string "BATTLE DOME sekarang.$"
 
 BattleFrontier_BattleDomeLobby_Text_DidntSaveBeforeQuitting:
-	.string "Excuse me!\p"
-	.string "You didn't save before you quit your\n"
-	.string "challenge last time.\p"
-	.string "Because of that, your challenge so far\n"
-	.string "has been disqualified. Sorry!$"
+	.string "Maafkan saya!\p"
+	.string "Kamu tidak simpan sebelum berhenti\n"
+	.string "cabaran pada kali lepas.\p"
+	.string "Oleh itu, cabaran kamu setakat ini\n"
+	.string "telah dibatalkan. Maaf!$"
 
 BattleFrontier_BattleDomeLobby_Text_CongratsForWinningTourney:
-	.string "Congratulations for winning\n"
-	.string "your Battle Tournament!$"
+	.string "Tahniah kerana memenangi\n"
+	.string "Kejohanan Pertarungan!$"
 
 @ Unused
 BattleFrontier_BattleDomeLobby_Text_HereIsYourPrize:
-	.string "Here is your prize for your Battle\n"
-	.string "Tournament victory.$"
+	.string "Ini hadiah atas kemenangan kamu\n"
+	.string "dalam Kejohanan Pertarungan.$"
 
 @ Used by Verdanturf Tent
 BattleFrontier_BattleDomeLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} menerima hadiah\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattleDomeLobby_Text_BagFullMakeRoom:
-	.string "Oh, your BAG appears to be full.\p"
-	.string "Please make room in your BAG, then come\n"
-	.string "see me.$"
+	.string "Oh, BEG kamu nampaknya penuh.\p"
+	.string "Sila kosongkan ruang dalam BEG,\n"
+	.string "kemudian jumpa saya.$"
 
 BattleFrontier_BattleDomeLobby_Text_ThankYouForPlaying:
-	.string "Thank you for playing!$"
+	.string "Terima kasih kerana bermain!$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordWillBeSaved:
-	.string "Your record will be saved.\n"
-	.string "Please wait.$"
+	.string "Rekod kamu akan disimpan.\n"
+	.string "Sila tunggu.$"
 
 BattleFrontier_BattleDomeLobby_Text_WeveBeenWaitingForYou:
-	.string "We've been waiting for you!$"
+	.string "Kami memang menanti kamu!$"
 
 BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge2:
-	.string "Before I show you to the BATTLE DOME,\n"
-	.string "I must save the data. Is that okay?$"
+	.string "Sebelum ke BATTLE DOME, saya perlu\n"
+	.string "simpan data. Boleh?$"
 
 BattleFrontier_BattleDomeLobby_Text_WelcomeDoubleBattle:
-	.string "Where the strategies of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE DOME!\p"
-	.string "I am your guide to the DOUBLE BATTLE\n"
-	.string "Tournament.$"
+	.string "Di sinilah strategi para JURULATIH\n"
+	.string "diuji!\p"
+	.string "Selamat datang ke BATTLE DOME!\p"
+	.string "Saya pemandu Kejohanan\n"
+	.string "TARUNG GANDA.$"
 
 BattleFrontier_BattleDomeLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to challenge\n"
-	.string "the DOUBLE BATTLE Tournament?$"
+	.string "Kamu mahu menyahut cabaran\n"
+	.string "Kejohanan TARUNG GANDA?$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge:
-	.string "The DOUBLE BATTLE Tournament\n"
-	.string "is exactly as the name suggests--\l"
-	.string "a tournament of DOUBLE BATTLES.\p"
-	.string "All participating TRAINERS must\n"
-	.string "enter three POKéMON each.\p"
-	.string "In each battle, one of the three\n"
-	.string "POKéMON must be held in reserve.\p"
-	.string "The remaining two POKéMON must take\n"
-	.string "part in a DOUBLE BATTLE.\p"
-	.string "Choose the two battling POKéMON after\n"
-	.string "examining the opponent's trio.\p"
-	.string "You win the tournament by defeating\n"
-	.string "four TRAINERS.\p"
-	.string "Battle Points are awarded to\n"
-	.string "the tournament winner.\p"
-	.string "If you want to interrupt your\n"
-	.string "tournament, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Kejohanan TARUNG GANDA adalah\n"
+	.string "seperti namanya--\l"
+	.string "kejohanan TARUNG GANDA.\p"
+	.string "Setiap JURULATIH yang menyertai\n"
+	.string "mesti mendaftar tiga POKéMON.\p"
+	.string "Dalam setiap pertarungan, seekor\n"
+	.string "daripada tiga POKéMON jadi simpanan.\p"
+	.string "Dua POKéMON lagi mesti bertarung\n"
+	.string "dalam TARUNG GANDA.\p"
+	.string "Pilih dua POKéMON untuk bertarung\n"
+	.string "selepas meneliti trio lawan.\p"
+	.string "Kamu menang kejohanan dengan\n"
+	.string "menewaskan empat JURULATIH.\p"
+	.string "Mata Tarung diberikan kepada\n"
+	.string "pemenang kejohanan.\p"
+	.string "Jika mahu berhenti di tengah\n"
+	.string "kejohanan, sila simpan permainan.\p"
+	.string "Jika tak simpan sebelum berhenti,\n"
+	.string "penyertaan kamu akan dibatalkan.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLv50:
-	.string "They're the results of the last\n"
-	.string "Level 50 SINGLE BATTLE Tournament.$"
+	.string "Ini keputusan Kejohanan TARUNG\n"
+	.string "TUNGGAL LV. 50 yang lepas.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLv50:
-	.string "They're the results of the last\n"
-	.string "Level 50 DOUBLE BATTLE Tournament.$"
+	.string "Ini keputusan Kejohanan TARUNG\n"
+	.string "GANDA LV. 50 yang lepas.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLvOpen:
-	.string "They're the results of the last\n"
-	.string "Open Level SINGLE BATTLE Tournament.$"
+	.string "Ini keputusan Kejohanan TARUNG\n"
+	.string "TUNGGAL LV. TERBUKA yang lepas.$"
 
 BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLvOpen:
-	.string "They're the results of the last\n"
-	.string "Open Level DOUBLE BATTLE Tournament.$"
+	.string "Ini keputusan Kejohanan TARUNG\n"
+	.string "GANDA LV. TERBUKA yang lepas.$"
 
 BattleFrontier_BattleDomeLobby_Text_LastWinnerWasTough:
-	.string "Did you see it?\n"
-	.string "The last Battle Tournament?\p"
-	.string "The winner, {STR_VAR_1}, was seriously\n"
-	.string "tough.\p"
-	.string "You should check out the results\n"
-	.string "on the monitor beside the PC.$"
+	.string "Kamu tengok tak?\n"
+	.string "Kejohanan Pertarungan yang lepas?\p"
+	.string "Pemenangnya, {STR_VAR_1}, memang\n"
+	.string "hebat gila.\p"
+	.string "Cuba tengok keputusannya\n"
+	.string "pada monitor di sebelah PC.$"
 
 BattleFrontier_OutsideWest_Text_LongDreamedAboutBattleFrontier:
-	.string "The BATTLE FRONTIER…\n"
-	.string "I've long dreamed about a place like it.$"
+	.string "BATTLE FRONTIER…\n"
+	.string "Dah lama saya impikan tempat begini.$"
 
 @ Functionally unused
 BattleFrontier_OutsideWest_Text_BattleDomeSign2:
-	.string "The BATTLE DOME\n"
-	.string "Become the Unbeatable Superstar!$"
+	.string "BATTLE DOME\n"
+	.string "Jadilah Bintang Tak Terkalahkan!$"
 
 @ Functionally unused
 BattleFrontier_OutsideWest_Text_QuestionMarkUnderConstruction:
-	.string "The ??????\n"
-	.string "Under Construction!$"
+	.string "??????\n"
+	.string "Dalam Pembinaan!$"
 
 BattleFrontier_BattleDomeLobby_Text_WinnersGainReputation:
-	.string "When a TRAINER chains tournament\n"
-	.string "wins at the BATTLE DOME, he or she\l"
-	.string "gains a reputation as a star.\p"
-	.string "Tough TRAINERS are drawn by that\n"
-	.string "reputation to the BATTLE DOME.\p"
-	.string "A true superstar is a TRAINER who\n"
-	.string "can keep winning tournaments.$"
+	.string "Bila JURULATIH menang kejohanan\n"
+	.string "berturut-turut di BATTLE DOME,\l"
+	.string "dia akan terkenal sebagai bintang.\p"
+	.string "JURULATIH yang hebat tertarik dengan\n"
+	.string "nama itu dan datang ke BATTLE DOME.\p"
+	.string "Bintang sejati ialah JURULATIH yang\n"
+	.string "terus memenangi kejohanan.$"
 
 BattleFrontier_BattleDomeLobby_Text_TrashedInFirstRound:
-	.string "I ran into one of the tournament\n"
-	.string "favorites in the very first round.\p"
-	.string "Of course I got trashed…$"
+	.string "Saya terserempak dengan calon juara\n"
+	.string "dalam pusingan pertama lagi.\p"
+	.string "Tentulah saya kalah teruk…$"
 
 BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully:
-	.string "I would've won if I'd kept this POKéMON\n"
-	.string "held in reserve.\p"
-	.string "You need to check your opponent's\n"
-	.string "POKéMON carefully before choosing\l"
-	.string "your battling POKéMON.$"
+	.string "Saya mesti menang kalau saya simpan\n"
+	.string "POKéMON ini sebagai simpanan.\p"
+	.string "Kamu perlu teliti POKéMON lawan\n"
+	.string "dengan cermat sebelum memilih\l"
+	.string "POKéMON untuk bertarung.$"
 
 BattleFrontier_BattleDomeLobby_Text_CongratsDefeatedTucker:
-	.string "Congratulations!\p"
-	.string "You defeated the DOME ACE and won\n"
-	.string "the Battle Tournament!$"
+	.string "Tahniah!\p"
+	.string "Kamu menewaskan DOME ACE dan menang\n"
+	.string "Kejohanan Pertarungan!$"
 
 BattleFrontier_BattleDomeLobby_Text_AwardTheseBattlePoints:
-	.string "In recognition of your strategy--\n"
-	.string "a thing of beauty it was, too--\l"
-	.string "we award you these Battle Point(s)!$"
+	.string "Sebagai penghargaan atas strategi\n"
+	.string "kamu--yang sungguh indah--\l"
+	.string "kami berikan Mata Tarung ini!$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordLastMatch:
-	.string "Would you like to record your\n"
-	.string "last BATTLE DOME match on your\l"
-	.string "FRONTIER PASS?$"
+	.string "Mahu rakam perlawanan terakhir\n"
+	.string "BATTLE DOME kamu dalam\l"
+	.string "PAS FRONTIER?$"
 
 BattleFrontier_BattleDomeLobby_Text_RulesAreListed:
-	.string "The Battle Tournament rules\n"
-	.string "are listed.$"
+	.string "Peraturan Kejohanan Pertarungan\n"
+	.string "tertera di sini.$"
 
 BattleFrontier_BattleDomeLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Tajuk mana yang kamu mahu baca?$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules:
-	.string "The tournament matchups are drawn up\n"
-	.string "based on the toughness of POKéMON\l"
-	.string "held by TRAINERS.\p"
-	.string "The matchups avoid having tough\n"
-	.string "TRAINERS face each other right away.$"
+	.string "Padanan kejohanan disusun\n"
+	.string "berdasarkan kekuatan POKéMON\l"
+	.string "milik setiap JURULATIH.\p"
+	.string "Padanan ini mengelakkan JURULATIH\n"
+	.string "yang kuat bertemu terlalu awal.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree:
-	.string "The tournament chart, or as we call it,\n"
-	.string "the “Tree,” is available for viewing\l"
-	.string "in the Waiting Room from any guide.\p"
-	.string "The Tournament Tree will provide\n"
-	.string "several kinds of data.\p"
-	.string "The data on view includes the previous\n"
-	.string "tournament's results, the POKéMON held\l"
-	.string "by TRAINERS, and the battle styles of\l"
-	.string "TRAINERS.$"
+	.string "Carta kejohanan, atau kami panggil\n"
+	.string "“Carta,” boleh dilihat di Bilik\l"
+	.string "Menunggu melalui mana-mana pemandu.\p"
+	.string "Carta Kejohanan memberikan\n"
+	.string "beberapa jenis data.\p"
+	.string "Data itu termasuk keputusan kejohanan\n"
+	.string "lepas, POKéMON milik JURULATIH,\l"
+	.string "dan gaya bertarung setiap\l"
+	.string "JURULATIH.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoubleKORules:
-	.string "If battling POKéMON faint at the same\n"
-	.string "time--a double KO--in a tournament\l"
-	.string "match, the REFEREES will review\l"
-	.string "the match and declare the winner.$"
+	.string "Jika POKéMON yang bertarung pengsan\n"
+	.string "serentak--KO berganda--dalam\l"
+	.string "perlawanan kejohanan, PENGADIL akan\l"
+	.string "meneliti perlawanan dan umum pemenang.$"

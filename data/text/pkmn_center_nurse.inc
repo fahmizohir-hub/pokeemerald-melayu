@@ -1,51 +1,51 @@
 gText_WouldYouLikeToRestYourPkmn::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to rest your POKéMON?$"
+	.string "Helo, selamat datang ke\n"
+	.string "PUSAT POKéMON.\p"
+	.string "Kami memulihkan POKéMON anda yang\n"
+	.string "letih sehingga sihat sepenuhnya.\p"
+	.string "Mahu rehatkan POKéMON anda?$"
 
 gText_IllTakeYourPkmn::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "Baiklah, saya ambil POKéMON anda\n"
+	.string "sebentar, ya.$"
 
 gText_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\p"
-	.string "We've restored your POKéMON\n"
-	.string "to full health.$"
+	.string "Terima kasih kerana menunggu.\p"
+	.string "POKéMON anda telah dipulihkan\n"
+	.string "sepenuhnya.$"
 
 gText_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "Kami harap dapat jumpa anda lagi!$"
 
 gText_WelcomeCutShort::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to…$"
+	.string "Helo, selamat datang ke\n"
+	.string "PUSAT POKéMON.\p"
+	.string "Kami memulihkan POKéMON anda yang\n"
+	.string "letih sehingga sihat sepenuhnya.\p"
+	.string "Mahu rehatkan…$"
 
 gText_NoticesGoldCard::
-	.string "Th-that card…\n"
-	.string "Could it be… The GOLD CARD?!\p"
-	.string "Oh, the gold color is brilliant!\n"
-	.string "The four stars seem to sparkle!\p"
-	.string "I've seen several TRAINERS with\n"
-	.string "a SILVER CARD before, but, {PLAYER},\l"
-	.string "you're the first TRAINER I've ever\l"
-	.string "seen with a GOLD CARD!\p"
-	.string "Okay, {PLAYER}, please allow me\n"
-	.string "the honor of resting your POKéMON!$"
+	.string "K-kad itu…\n"
+	.string "Mungkinkah… KAD EMAS?!\p"
+	.string "Oh, warna emasnya begitu berkilau!\n"
+	.string "Empat bintangnya seperti bergemerlap!\p"
+	.string "Saya pernah lihat beberapa JURULATIH\n"
+	.string "dengan KAD PERAK, tapi {PLAYER},\l"
+	.string "anda JURULATIH pertama yang saya\l"
+	.string "lihat memiliki KAD EMAS!\p"
+	.string "Baiklah, {PLAYER}, izinkan saya\n"
+	.string "dengan bangga merawat POKéMON anda!$"
 
 gText_YouWantTheUsual::
-	.string "I'm delighted to see you, {PLAYER}!\n"
-	.string "You want the usual, am I right?$"
+	.string "Gembira berjumpa anda, {PLAYER}!\n"
+	.string "Macam biasa, bukan?$"
 
 gText_IllTakeYourPkmn2::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "Baiklah, saya ambil POKéMON anda\n"
+	.string "sebentar, ya.$"
 
 gText_ThankYouForWaiting::
-	.string "Thank you for waiting.$"
+	.string "Terima kasih kerana menunggu.$"
 
 gText_WeHopeToSeeYouAgain2::
-	.string "We hope to see you again!$"
+	.string "Kami harap dapat jumpa anda lagi!$"

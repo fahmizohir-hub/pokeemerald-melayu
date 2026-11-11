@@ -1,573 +1,577 @@
 const u8 DecorDesc_SMALL_DESK[] = _(
-    "A small desk built\n"
-        "for one.");
+    "Meja kecil untuk\n"
+        "seorang.");
 
 const u8 DecorDesc_POKEMON_DESK[] = _(
-    "A small desk built in\n"
-        "the shape of a POKé\n"
-        "BALL.");
+    "Meja kecil yang\n"
+        "berbentuk\n"
+        "POKé BALL.");
 
 const u8 DecorDesc_HEAVY_DESK[] = _(
-    "A large desk made\n"
-        "of steel. Put some\n"
-        "decorations on it.");
+    "Meja besar daripada\n"
+        "besi. Letak hiasan\n"
+        "di atasnya.");
 
 const u8 DecorDesc_RAGGED_DESK[] = _(
-    "A large desk made\n"
-        "of wood. Put some\n"
-        "decorations on it.");
+    "Meja besar daripada\n"
+        "kayu. Letak hiasan\n"
+        "di atasnya.");
 
 const u8 DecorDesc_COMFORT_DESK[] = _(
-    "A large desk made\n"
-        "of leaves. Put some\n"
-        "decorations on it.");
+    "Meja besar daripada\n"
+        "daun. Letak hiasan\n"
+        "di atasnya.");
 
 const u8 DecorDesc_PRETTY_DESK[] = _(
-    "A huge desk made\n"
-        "of glass. Holds lots\n"
-        "of decorations.");
+    "Meja sangat besar\n"
+        "daripada kaca. Muat\n"
+        "banyak hiasan.");
 
 const u8 DecorDesc_BRICK_DESK[] = _(
-    "A huge desk made\n"
-        "of brick. Holds lots\n"
-        "of decorations.");
+    "Meja sangat besar\n"
+        "daripada bata. Muat\n"
+        "banyak hiasan.");
 
 const u8 DecorDesc_CAMP_DESK[] = _(
-    "A huge desk made\n"
-        "of logs. Put lots of\n"
-        "decorations on it.");
+    "Meja sangat besar\n"
+        "daripada balak.\n"
+        "Muat banyak hiasan.");
 
 const u8 DecorDesc_HARD_DESK[] = _(
-    "A huge desk made\n"
-        "of rocks. Holds\n"
-        "many decorations.");
+    "Meja sangat besar\n"
+        "daripada batu. Muat\n"
+        "banyak hiasan.");
 
 const u8 DecorDesc_SMALL_CHAIR[] = _(
-    "A small chair made\n"
-        "for one.");
+    "Kerusi kecil untuk\n"
+        "seorang.");
 
 const u8 DecorDesc_POKEMON_CHAIR[] = _(
-    "A small chair built\n"
-        "in the shape of a\n"
+    "Kerusi kecil yang\n"
+        "berbentuk\n"
         "POKé BALL.");
 
 const u8 DecorDesc_HEAVY_CHAIR[] = _(
-    "A small chair made\n"
-        "of steel.");
+    "Kerusi kecil\n"
+        "daripada besi.");
 
 const u8 DecorDesc_PRETTY_CHAIR[] = _(
-    "A small chair made\n"
-        "of glass.");
+    "Kerusi kecil\n"
+        "daripada kaca.");
 
 const u8 DecorDesc_COMFORT_CHAIR[] = _(
-    "A small chair made\n"
-        "of leaves.");
+    "Kerusi kecil\n"
+        "daripada daun.");
 
 const u8 DecorDesc_RAGGED_CHAIR[] = _(
-    "A small chair made\n"
-        "of wood.");
+    "Kerusi kecil\n"
+        "daripada kayu.");
 
 const u8 DecorDesc_BRICK_CHAIR[] = _(
-    "A small chair made\n"
-        "of brick.");
+    "Kerusi kecil\n"
+        "daripada bata.");
 
 const u8 DecorDesc_CAMP_CHAIR[] = _(
-    "A small chair made\n"
-        "of logs.");
+    "Kerusi kecil\n"
+        "daripada balak.");
 
 const u8 DecorDesc_HARD_CHAIR[] = _(
-    "A small chair made\n"
-        "of rock.");
+    "Kerusi kecil\n"
+        "daripada batu.");
 
 const u8 DecorDesc_RED_PLANT[] = _(
-    "A vivid red potted\n"
-        "plant.");
+    "Pokok dalam pasu\n"
+        "berwarna merah\n"
+        "terang.");
 
 const u8 DecorDesc_TROPICAL_PLANT[] = _(
-    "A flowering tropical\n"
-        "plant in a pot.");
+    "Pokok tropika yang\n"
+        "berbunga dalam\n"
+        "pasu.");
 
 const u8 DecorDesc_PRETTY_FLOWERS[] = _(
-    "A pot of cute\n"
-        "flowers.");
+    "Sepasu bunga yang\n"
+        "comel.");
 
 const u8 DecorDesc_COLORFUL_PLANT[] = _(
-    "A large pot with\n"
-        "many colorful\n"
-        "flowers.");
+    "Pasu besar dengan\n"
+        "banyak bunga\n"
+        "berwarna-warni.");
 
 const u8 DecorDesc_BIG_PLANT[] = _(
-    "A large, umbrella-\n"
-        "shaped plant in a\n"
-        "big pot.");
+    "Pokok berbentuk\n"
+        "payung dalam pasu\n"
+        "yang besar.");
 
 const u8 DecorDesc_GORGEOUS_PLANT[] = _(
-    "A large, impressive\n"
-        "plant in a big pot.");
+    "Pokok yang megah\n"
+        "dalam pasu besar.");
 
 const u8 DecorDesc_RED_BRICK[] = _(
-    "A red-colored brick.\n"
-        "Decorations can be\n"
-        "placed on top.");
+    "Bata warna merah.\n"
+        "Hiasan boleh\n"
+        "diletak di atasnya.");
 
 const u8 DecorDesc_YELLOW_BRICK[] = _(
-    "A yellow-colored\n"
-        "brick. Put some\n"
-        "decorations on top.");
+    "Bata warna kuning.\n"
+        "Hiasan boleh\n"
+        "diletak di atasnya.");
 
 const u8 DecorDesc_BLUE_BRICK[] = _(
-    "A blue-colored\n"
-        "brick. Put some\n"
-        "decorations on top.");
+    "Bata warna biru.\n"
+        "Hiasan boleh\n"
+        "diletak di atasnya.");
 
 const u8 DecorDesc_RED_BALLOON[] = _(
-    "A red balloon filled\n"
-        "with water. Bursts\n"
-        "if stepped on.");
+    "Belon merah berisi\n"
+        "air. Pecah jika\n"
+        "dipijak.");
 
 const u8 DecorDesc_BLUE_BALLOON[] = _(
-    "A blue balloon filled\n"
-        "with water. Bursts\n"
-        "if stepped on.");
+    "Belon biru berisi\n"
+        "air. Pecah jika\n"
+        "dipijak.");
 
 const u8 DecorDesc_YELLOW_BALLOON[] = _(
-    "A yellow balloon\n"
-        "filled with water.\n"
-        "Pops if stepped on.");
+    "Belon kuning berisi\n"
+        "air. Meletup jika\n"
+        "dipijak.");
 
 const u8 DecorDesc_RED_TENT[] = _(
-    "A large red tent.\n"
-        "You can hide inside\n"
-        "it.");
+    "Khemah merah besar.\n"
+        "Boleh menyorok\n"
+        "di dalamnya.");
 
 const u8 DecorDesc_BLUE_TENT[] = _(
-    "A large blue tent.\n"
-        "You can hide inside\n"
-        "it.");
+    "Khemah biru besar.\n"
+        "Boleh menyorok\n"
+        "di dalamnya.");
 
 const u8 DecorDesc_SOLID_BOARD[] = _(
-    "Place over a hole to\n"
-        "cross to the other\n"
-        "side.");
+    "Letak atas lubang\n"
+        "untuk menyeberang\n"
+        "ke sebelah sana.");
 
 const u8 DecorDesc_SLIDE[] = _(
-    "Use to slide down\n"
-        "from the platform.");
+    "Untuk meluncur\n"
+        "turun dari pelantar.");
 
 const u8 DecorDesc_FENCE_LENGTH[] = _(
-    "A small fence that\n"
-        "blocks passage.");
+    "Pagar kecil yang\n"
+        "menghalang laluan.");
 
 const u8 DecorDesc_FENCE_WIDTH[] = _(
-    "A small fence that\n"
-        "blocks passage.");
+    "Pagar kecil yang\n"
+        "menghalang laluan.");
 
 const u8 DecorDesc_TIRE[] = _(
-    "An old large tire.\n"
-        "Decorations can be\n"
-        "placed on top.");
+    "Tayar lama yang\n"
+        "besar. Hiasan boleh\n"
+        "diletak di atasnya.");
 
 const u8 DecorDesc_STAND[] = _(
-    "A large pedestal\n"
-        "with steps.");
+    "Pentas besar yang\n"
+        "bertangga.");
 
 const u8 DecorDesc_MUD_BALL[] = _(
-    "A large ball of mud.\n"
-        "Crumbles if stepped\n"
-        "on.");
+    "Bola lumpur besar.\n"
+        "Hancur jika\n"
+        "dipijak.");
 
 const u8 DecorDesc_BREAKABLE_DOOR[] = _(
-    "A weird door that\n"
-        "people can walk\n"
-        "right through.");
+    "Pintu pelik yang\n"
+        "boleh ditembusi\n"
+        "orang begitu saja.");
 
 const u8 DecorDesc_SAND_ORNAMENT[] = _(
-    "An ornament made\n"
-        "of sand. Crumbles if\n"
-        "touched.");
+    "Hiasan daripada\n"
+        "pasir. Hancur jika\n"
+        "disentuh.");
 
 const u8 DecorDesc_SILVER_SHIELD[] = _(
-    "Awarded for 50\n"
-        "straight wins at\n"
-        "the BATTLE TOWER.");
+    "Hadiah 50 kali\n"
+        "menang berturut di\n"
+        "BATTLE TOWER.");
 
 const u8 DecorDesc_GOLD_SHIELD[] = _(
-    "Awarded for 100\n"
-        "straight wins at\n"
-        "the BATTLE TOWER.");
+    "Hadiah 100 kali\n"
+        "menang berturut di\n"
+        "BATTLE TOWER.");
 
 const u8 DecorDesc_GLASS_ORNAMENT[] = _(
-    "A glass replica of\n"
-        "a famous sculpture\n"
-        "at the ART MUSEUM.");
+    "Replika kaca arca\n"
+        "terkenal di\n"
+        "MUZIUM SENI.");
 
 const u8 DecorDesc_TV[] = _(
-    "A small, gray-\n"
-        "colored toy TV.");
+    "TV mainan kecil\n"
+        "berwarna kelabu.");
 
 const u8 DecorDesc_ROUND_TV[] = _(
-    "A toy TV modeled\n"
-        "in the image of a\n"
+    "TV mainan yang\n"
+        "dibentuk seperti\n"
         "SEEDOT.");
 
 const u8 DecorDesc_CUTE_TV[] = _(
-    "A toy TV modeled\n"
-        "in the image of a\n"
+    "TV mainan yang\n"
+        "dibentuk seperti\n"
         "SKITTY.");
 
 const u8 DecorDesc_GLITTER_MAT[] = _(
-    "An odd mat that\n"
-        "glitters if stepped\n"
-        "on.");
+    "Tikar pelik yang\n"
+        "berkilau bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_JUMP_MAT[] = _(
-    "A trick mat that\n"
-        "jumps when it is\n"
-        "stepped on.");
+    "Tikar helah yang\n"
+        "melompat bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_SPIN_MAT[] = _(
-    "A trick mat that\n"
-        "spins around when\n"
-        "stepped on.");
+    "Tikar helah yang\n"
+        "berpusing bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_C_LOW_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a low C note when\n"
-        "stepped on.");
+    "Tikar yang berbunyi\n"
+        "not C rendah bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_D_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a D note when\n"
-        "stepped on.");
+    "Tikar yang berbunyi\n"
+        "not D bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_E_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "an E note when\n"
-        "stepped on.");
+    "Tikar yang berbunyi\n"
+        "not E bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_F_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "an F note when\n"
-        "stepped on.");
+    "Tikar yang berbunyi\n"
+        "not F bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_G_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a G note when\n"
-        "stepped on.");
+    "Tikar yang berbunyi\n"
+        "not G bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_A_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "an A note when\n"
-        "stepped on.");
+    "Tikar yang berbunyi\n"
+        "not A bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_B_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a B note when\n"
-        "stepped on.");
+    "Tikar yang berbunyi\n"
+        "not B bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_C_HIGH_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a high C note when\n"
-        "stepped on.");
+    "Tikar yang berbunyi\n"
+        "not C tinggi bila\n"
+        "dipijak.");
 
 const u8 DecorDesc_SURF_MAT[] = _(
-    "A mat designed with\n"
-        "a SURF image.\n"
-        "Put items on top.");
+    "Tikar bergambar\n"
+        "LUNCUR OMBAK.\n"
+        "Boleh letak barang.");
 
 const u8 DecorDesc_THUNDER_MAT[] = _(
-    "A mat designed with\n"
-        "a THUNDER image.\n"
-        "Put items on top.");
+    "Tikar bergambar\n"
+        "PETIR.\n"
+        "Boleh letak barang.");
 
 const u8 DecorDesc_FIRE_BLAST_MAT[] = _(
-    "A mat designed with\n"
-        "a FIRE BLAST image.\n"
-        "Put items on top.");
+    "Tikar bergambar\n"
+        "LEDAKAN API.\n"
+        "Boleh letak barang.");
 
 const u8 DecorDesc_POWDER_SNOW_MAT[] = _(
-    "A mat with a POWDER\n"
-        "SNOW image design.\n"
-        "Put items on top.");
+    "Tikar bergambar\n"
+        "SERBUK SALJI.\n"
+        "Boleh letak barang.");
 
 const u8 DecorDesc_ATTRACT_MAT[] = _(
-    "A mat designed with\n"
-        "an ATTRACT image.\n"
-        "Put items on top.");
+    "Tikar bergambar\n"
+        "PIKAT.\n"
+        "Boleh letak barang.");
 
 const u8 DecorDesc_FISSURE_MAT[] = _(
-    "A mat designed with\n"
-        "a FISSURE image.\n"
-        "Put items on top.");
+    "Tikar bergambar\n"
+        "REKAHAN.\n"
+        "Boleh letak barang.");
 
 const u8 DecorDesc_SPIKES_MAT[] = _(
-    "A mat designed with\n"
-        "a SPIKES image.\n"
-        "Put items on top.");
+    "Tikar bergambar\n"
+        "DURI.\n"
+        "Boleh letak barang.");
 
 const u8 DecorDesc_BALL_POSTER[] = _(
-    "A small poster\n"
-        "printed with POKé\n"
-        "BALLS.");
+    "Poster kecil\n"
+        "bercetak\n"
+        "POKé BALL.");
 
 const u8 DecorDesc_GREEN_POSTER[] = _(
-    "A small poster with\n"
-        "a TREECKO print.");
+    "Poster kecil\n"
+        "bergambar TREECKO.");
 
 const u8 DecorDesc_RED_POSTER[] = _(
-    "A small poster with\n"
-        "a TORCHIC print.");
+    "Poster kecil\n"
+        "bergambar TORCHIC.");
 
 const u8 DecorDesc_BLUE_POSTER[] = _(
-    "A small poster with\n"
-        "a MUDKIP print.");
+    "Poster kecil\n"
+        "bergambar MUDKIP.");
 
 const u8 DecorDesc_CUTE_POSTER[] = _(
-    "A small poster with\n"
-        "an AZURILL print.");
+    "Poster kecil\n"
+        "bergambar AZURILL.");
 
 const u8 DecorDesc_PIKA_POSTER[] = _(
-    "A large poster with\n"
-        "a PIKACHU and\n"
-        "PICHU print.");
+    "Poster besar\n"
+        "bergambar PIKACHU\n"
+        "dan PICHU.");
 
 const u8 DecorDesc_LONG_POSTER[] = _(
-    "A large poster with\n"
-        "a SEVIPER print.");
+    "Poster besar\n"
+        "bergambar SEVIPER.");
 
 const u8 DecorDesc_SEA_POSTER[] = _(
-    "A large poster with\n"
-        "a RELICANTH print.");
+    "Poster besar\n"
+        "bergambar\n"
+        "RELICANTH.");
 
 const u8 DecorDesc_SKY_POSTER[] = _(
-    "A large poster with\n"
-        "a WINGULL print.");
+    "Poster besar\n"
+        "bergambar WINGULL.");
 
 const u8 DecorDesc_KISS_POSTER[] = _(
-    "A large poster with\n"
-        "a SMOOCHUM print.");
+    "Poster besar\n"
+        "bergambar\n"
+        "SMOOCHUM.");
 
 const u8 DecorDesc_PICHU_DOLL[] = _(
-    "A PICHU doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung PICHU.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_PIKACHU_DOLL[] = _(
-    "A PIKACHU doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung PIKACHU.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_MARILL_DOLL[] = _(
-    "A MARILL doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung MARILL.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_TOGEPI_DOLL[] = _(
-    "A TOGEPI doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung TOGEPI.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_CYNDAQUIL_DOLL[] = _(
-    "A CYNDAQUIL doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung CYNDAQUIL.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_CHIKORITA_DOLL[] = _(
-    "A CHIKORITA doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung CHIKORITA.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_TOTODILE_DOLL[] = _(
-    "A TOTODILE doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung TOTODILE.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_JIGGLYPUFF_DOLL[] = _(
-    "A JIGGLYPUFF doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung JIGGLYPUFF.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_MEOWTH_DOLL[] = _(
-    "A MEOWTH doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung MEOWTH.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_CLEFAIRY_DOLL[] = _(
-    "A CLEFAIRY doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung CLEFAIRY.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_DITTO_DOLL[] = _(
-    "A DITTO doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung DITTO.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_SMOOCHUM_DOLL[] = _(
-    "A SMOOCHUM doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung SMOOCHUM.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_TREECKO_DOLL[] = _(
-    "A TREECKO doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung TREECKO.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_TORCHIC_DOLL[] = _(
-    "A TORCHIC doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung TORCHIC.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_MUDKIP_DOLL[] = _(
-    "A MUDKIP doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung MUDKIP.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_DUSKULL_DOLL[] = _(
-    "A DUSKULL doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung DUSKULL.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_WYNAUT_DOLL[] = _(
-    "A WYNAUT doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung WYNAUT.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_BALTOY_DOLL[] = _(
-    "A BALTOY doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung BALTOY.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_KECLEON_DOLL[] = _(
-    "A KECLEON doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung KECLEON.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_AZURILL_DOLL[] = _(
-    "An AZURILL doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung AZURILL.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_SKITTY_DOLL[] = _(
-    "A SKITTY doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung SKITTY.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_SWABLU_DOLL[] = _(
-    "A SWABLU doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung SWABLU.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_GULPIN_DOLL[] = _(
-    "A GULPIN doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung GULPIN.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_LOTAD_DOLL[] = _(
-    "A LOTAD doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung LOTAD.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_SEEDOT_DOLL[] = _(
-    "A SEEDOT doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung SEEDOT.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_PIKA_CUSHION[] = _(
-    "A PIKACHU cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Kusyen PIKACHU.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_ROUND_CUSHION[] = _(
-    "A MARILL cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Kusyen MARILL.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_KISS_CUSHION[] = _(
-    "A SMOOCHUM\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "Kusyen SMOOCHUM.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_ZIGZAG_CUSHION[] = _(
-    "A ZIGZAGOON\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "Kusyen ZIGZAGOON.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_SPIN_CUSHION[] = _(
-    "A SPINDA cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Kusyen SPINDA.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_DIAMOND_CUSHION[] = _(
-    "A SABLEYE cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Kusyen SABLEYE.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_BALL_CUSHION[] = _(
-    "A BALL cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Kusyen POKé BALL.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_GRASS_CUSHION[] = _(
-    "A grass-mark\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "Kusyen bertanda\n"
+        "rumput. Letak atas\n"
+        "TIKAR atau MEJA.");
 
 const u8 DecorDesc_FIRE_CUSHION[] = _(
-    "A fire-mark\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "Kusyen bertanda\n"
+        "api. Letak atas\n"
+        "TIKAR atau MEJA.");
 
 const u8 DecorDesc_WATER_CUSHION[] = _(
-    "A water-mark\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "Kusyen bertanda\n"
+        "air. Letak atas\n"
+        "TIKAR atau MEJA.");
 
 const u8 DecorDesc_SNORLAX_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_RHYDON_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_LAPRAS_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_VENUSAUR_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_CHARIZARD_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_BLASTOISE_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_WAILMER_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_REGIROCK_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_REGICE_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");
 
 const u8 DecorDesc_REGISTEEL_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Patung besar.\n"
+        "Letak atas TIKAR\n"
+        "atau MEJA.");

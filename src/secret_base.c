@@ -727,9 +727,11 @@ void IsCurSecretBaseOwnedByAnotherPlayer(void)
 
 static u8 *GetSecretBaseName(u8 *dest, u8 secretBaseIdx)
 {
-    *StringCopyN(dest, gSaveBlock1Ptr->secretBases[secretBaseIdx].trainerName, GetNameLength(gSaveBlock1Ptr->secretBases[secretBaseIdx].trainerName)) = EOS;
-    ConvertInternationalString(dest, gSaveBlock1Ptr->secretBases[secretBaseIdx].language);
-    return StringAppend(dest, gText_ApostropheSBase);
+    // Susunan Melayu: awalan "PKLN. " dahulu, kemudian nama jurulatih.
+    u8 *name = StringCopy(dest, gText_ApostropheSBase);
+    *StringCopyN(name, gSaveBlock1Ptr->secretBases[secretBaseIdx].trainerName, GetNameLength(gSaveBlock1Ptr->secretBases[secretBaseIdx].trainerName)) = EOS;
+    ConvertInternationalString(name, gSaveBlock1Ptr->secretBases[secretBaseIdx].language);
+    return name + StringLength(name);
 }
 
 u8 *GetSecretBaseMapName(u8 *dest)

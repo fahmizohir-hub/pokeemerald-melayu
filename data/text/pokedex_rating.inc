@@ -1,115 +1,115 @@
 gBirchDexRatingText_AreYouCurious::
 	.string "PROF. BIRCH: Ah, {PLAYER}{KUN}!\p"
-	.string "Are you curious about how your\n"
-	.string "POKéDEX is coming along?$"
+	.string "Kamu nak tahu tak perkembangan\n"
+	.string "POKéDEX kamu?$"
 
 gBirchDexRatingText_Cancel::
-	.string "Hm? Oh, you haven't caught enough\n"
-	.string "POKéMON to make it worthwhile.$"
+	.string "Hm? Oh, kamu belum tangkap cukup\n"
+	.string "POKéMON untuk dinilai.$"
 
 gBirchDexRatingText_SoYouveSeenAndCaught::
 	.string "Hmhm…\p"
-	.string "So, you've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON…$"
+	.string "Jadi, kamu nampak {STR_VAR_1} POKéMON,\n"
+	.string "dan tangkap {STR_VAR_2} POKéMON…$"
 
 gBirchDexRatingText_LessThan10::
-	.string "Go into grassy areas more and look\n"
-	.string "for POKéMON more carefully.$"
+	.string "Masuklah ke kawasan berumput lagi\n"
+	.string "dan cari POKéMON dengan lebih teliti.$"
 
 gBirchDexRatingText_LessThan20::
-	.string "I guess you're getting the hang\n"
-	.string "of it. But, it gets harder from here.$"
+	.string "Nampaknya kamu dah mula biasa.\n"
+	.string "Tapi, lepas ni lebih susah.$"
 
 gBirchDexRatingText_LessThan30::
-	.string "Some POKéMON only appear in\n"
-	.string "certain areas.\l"
-	.string "You must be persistent.$"
+	.string "Ada POKéMON yang muncul hanya di\n"
+	.string "kawasan tertentu.\l"
+	.string "Kamu kena gigih.$"
 
 gBirchDexRatingText_LessThan40::
-	.string "Well, it could use more quantity,\n"
-	.string "but this is looking more like\l"
-	.string "a POKéDEX now.$"
+	.string "Hmm, jumlahnya boleh ditambah lagi,\n"
+	.string "tapi ini dah mula nampak macam\l"
+	.string "sebuah POKéDEX.$"
 
 gBirchDexRatingText_LessThan50::
-	.string "This is coming along pretty good.\n"
-	.string "Keep up the effort.$"
+	.string "Perkembangannya agak bagus.\n"
+	.string "Teruskan usaha.$"
 
 gBirchDexRatingText_LessThan60::
-	.string "Are you using any RODS?\n"
-	.string "There are many POKéMON in the sea.$"
+	.string "Kamu ada guna JORAN?\n"
+	.string "Ada banyak POKéMON di laut.$"
 
 gBirchDexRatingText_LessThan70::
-	.string "Instead of just catching POKéMON,\n"
-	.string "how about making them evolve, too?$"
+	.string "Selain tangkap POKéMON, apa kata\n"
+	.string "kamu evolusikan mereka juga?$"
 
 gBirchDexRatingText_LessThan80::
-	.string "This is going to be a fantastic\n"
-	.string "POKéDEX.\l"
-	.string "That's the feeling I'm getting.$"
+	.string "POKéDEX ini akan jadi sangat\n"
+	.string "hebat.\l"
+	.string "Itulah yang saya rasa.$"
 
 gBirchDexRatingText_LessThan90::
-	.string "You've collected this many…\n"
-	.string "Your talent is remarkable!$"
+	.string "Banyaknya kamu dah kumpul…\n"
+	.string "Bakat kamu memang luar biasa!$"
 
 gBirchDexRatingText_LessThan100::
-	.string "Have you visited the SAFARI ZONE?\p"
-	.string "I hear there are some POKéMON that\n"
-	.string "can only be caught there.$"
+	.string "Kamu dah pergi ke ZON SAFARI?\p"
+	.string "Saya dengar ada POKéMON yang\n"
+	.string "hanya boleh ditangkap di sana.$"
 
 gBirchDexRatingText_LessThan110::
-	.string "You've finally reached\n"
-	.string "the 100-kind mark.\p"
-	.string "This is an impressive POKéDEX!$"
+	.string "Akhirnya kamu capai\n"
+	.string "tanda 100 jenis.\p"
+	.string "POKéDEX ini sungguh mengagumkan!$"
 
 gBirchDexRatingText_LessThan120::
-	.string "There might be POKéMON that can be\n"
-	.string "found using ROCK SMASH.$"
+	.string "Mungkin ada POKéMON yang boleh\n"
+	.string "dijumpai dengan HANCUR BATU.$"
 
 gBirchDexRatingText_LessThan130::
-	.string "You should get some more POKéMON\n"
-	.string "by trading with others.$"
+	.string "Kamu patut dapatkan lagi POKéMON\n"
+	.string "dengan bertukar dengan orang lain.$"
 
 gBirchDexRatingText_LessThan140::
-	.string "I've heard of POKéMON that evolve\n"
-	.string "when they come to fully love their\l"
-	.string "TRAINERS.$"
+	.string "Saya pernah dengar ada POKéMON yang\n"
+	.string "berevolusi bila ia betul-betul sayang\l"
+	.string "JURULATIHnya.$"
 
 gBirchDexRatingText_LessThan150::
-	.string "I had no idea that there were so\n"
-	.string "many POKéMON species in the HOENN\l"
-	.string "region.$"
+	.string "Saya tak sangka ada begitu banyak\n"
+	.string "spesies POKéMON di wilayah\l"
+	.string "HOENN.$"
 
 gBirchDexRatingText_LessThan160::
-	.string "On occasion, some POKéMON appear\n"
-	.string "in large numbers like outbreaks.\p"
-	.string "Don't miss opportunities like\n"
-	.string "those.$"
+	.string "Sekali-sekala, ada POKéMON muncul\n"
+	.string "dalam jumlah besar seperti wabak.\p"
+	.string "Jangan lepaskan peluang seperti\n"
+	.string "itu.$"
 
 gBirchDexRatingText_LessThan170::
-	.string "One can get a very good idea about\n"
-	.string "the POKéMON of the HOENN region\l"
-	.string "by looking through your POKéDEX.$"
+	.string "Kita boleh faham POKéMON di wilayah\n"
+	.string "HOENN dengan sangat baik\l"
+	.string "dengan melihat POKéDEX kamu.$"
 
 gBirchDexRatingText_LessThan180::
-	.string "I would say you already qualify as\n"
-	.string "a POKéMON PROFESSOR, and a good\l"
-	.string "one, too!$"
+	.string "Boleh saya katakan kamu dah layak\n"
+	.string "jadi PROFESOR POKéMON, malah yang\l"
+	.string "hebat lagi!$"
 
 gBirchDexRatingText_LessThan190::
-	.string "With a POKéDEX this complete,\n"
-	.string "you're a real professional at this!$"
+	.string "Dengan POKéDEX selengkap ini,\n"
+	.string "kamu memang profesional sejati!$"
 
 gBirchDexRatingText_LessThan200::
-	.string "You're very close to completing\n"
-	.string "this POKéDEX.\l"
-	.string "I can feel it in my bones!$"
+	.string "Kamu dah sangat hampir melengkapkan\n"
+	.string "POKéDEX ini.\l"
+	.string "Saya dapat rasakannya!$"
 
 gBirchDexRatingText_DexCompleted::
-	.string "Congratulations!\n"
-	.string "Your POKéDEX is complete!$"
+	.string "Tahniah!\n"
+	.string "POKéDEX kamu dah lengkap!$"
 
 gBirchDexRatingText_OnANationwideBasis::
 	.string "Hmhm…\n"
-	.string "On a nationwide basis…\p"
-	.string "You've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON…$"
+	.string "Pada peringkat nasional…\p"
+	.string "Kamu dah nampak {STR_VAR_1} POKéMON,\n"
+	.string "dan tangkap {STR_VAR_2} POKéMON…$"

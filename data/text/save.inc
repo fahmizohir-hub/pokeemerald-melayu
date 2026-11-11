@@ -1,33 +1,33 @@
 	.align 2
 gText_ConfirmSave::
-	.string "Would you like to save the game?$"
+	.string "Mahu simpan permainan?$"
 
 gText_AlreadySavedFile::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "Sudah ada fail yang disimpan.\n"
+	.string "Boleh tulis ganti fail itu?$"
 
 gText_SavingDontTurnOff::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "MENYIMPAN…\n"
+	.string "JANGAN MATIKAN KUASA.$"
 
 gText_PlayerSavedGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} telah menyimpan permainan.$"
 
 gText_DifferentSaveFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "AMARAN!\p"
+	.string "Ada fail permainan lain yang\n"
+	.string "sudah disimpan.\p"
+	.string "Jika simpan sekarang, pengembaraan\n"
+	.string "fail lain itu, termasuk barang dan\l"
+	.string "POKéMON, akan hilang sepenuhnya.\p"
+	.string "Pasti mahu simpan sekarang dan\n"
+	.string "tulis ganti fail simpanan lain itu?$"
 
 gText_SaveError::
-	.string "Save error.\p"
-	.string "Please exchange the\n"
-	.string "backup memory.$"
+	.string "Ralat simpanan.\p"
+	.string "Sila tukar\n"
+	.string "memori sandaran.$"
 
 gText_SavingDontTurnOffPower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "MENYIMPAN…\n"
+	.string "JANGAN MATIKAN KUASA.$"

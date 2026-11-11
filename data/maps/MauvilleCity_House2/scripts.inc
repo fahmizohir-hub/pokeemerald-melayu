@@ -39,25 +39,26 @@ MauvilleCity_House2_EventScript_DeclineTrade::
 	end
 
 MauvilleCity_House2_Text_BuyHarborMailAtSlateport:
-	.string "If I had a BIKE, it'd be easy to cycle to\n"
-	.string "SLATEPORT for some shopping.\p"
-	.string "I'd be able to buy HARBOR MAIL at the\n"
-	.string "POKéMON MART in SLATEPORT…$"
+	.string "Kalau saya ada BASIKAL, senang nak\n"
+	.string "berbasikal ke SLATEPORT untuk\l"
+	.string "membeli-belah.\p"
+	.string "Saya boleh beli SURAT DERMAGA di\n"
+	.string "POKé MART SLATEPORT…$"
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase:
-	.string "Oh! You have HARBOR MAIL?\n"
-	.string "Will you trade it for a COIN CASE?$"
+	.string "Oh! Kamu ada SURAT DERMAGA?\n"
+	.string "Nak tukar dengan BEKAS SYILING?$"
 
 MauvilleCity_House2_Text_IllTradeYouCoinCase:
-	.string "Oh, I'm so happy!\n"
-	.string "Okay, I'll trade you a COIN CASE!$"
+	.string "Oh, gembiranya saya!\n"
+	.string "Baiklah, saya bagi BEKAS SYILING!$"
 
 MauvilleCity_House2_Text_UseCoinCaseAtGameCorner:
-	.string "That COIN CASE can be used\n"
-	.string "at the GAME CORNER.$"
+	.string "BEKAS SYILING tu boleh diguna di\n"
+	.string "SUDUT PERMAINAN.$"
 
 MauvilleCity_House2_Text_ThatsDisappointing:
-	.string "Oh, that's disappointing.\p"
-	.string "A COIN CASE is needed for the\n"
-	.string "GAME CORNER.$"
+	.string "Oh, kecewanya.\p"
+	.string "BEKAS SYILING diperlukan untuk\n"
+	.string "SUDUT PERMAINAN.$"
 

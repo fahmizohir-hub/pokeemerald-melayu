@@ -52,44 +52,44 @@ FallarborTown_EventScript_MoveTutorSign::
 	end
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
-	.string "Something's happening,\n"
-	.string "and I don't like it!\p"
-	.string "I've seen shady characters wandering\n"
-	.string "in and out of PROF. COZMO's home…$"
+	.string "Ada sesuatu yang tak kena,\n"
+	.string "dan saya tak suka!\p"
+	.string "Saya nampak orang mencurigakan keluar\n"
+	.string "masuk rumah PROF. COZMO…$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "This region's been known for meteors\n"
-	.string "since the olden days.\p"
-	.string "They say METEOR FALLS was gouged out\n"
-	.string "by a falling meteorite long ago.$"
+	.string "Kawasan ni terkenal dengan meteor\n"
+	.string "sejak zaman dahulu lagi.\p"
+	.string "Kata orang, LATA METEOR terbentuk\n"
+	.string "akibat meteorit jatuh dulu-dulu.$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "See! Take a look!\n"
-	.string "This is my precious AZURILL!\p"
-	.string "It's slick and smooth and plushy, too!$"
+	.string "Tengok! Tengok ni!\n"
+	.string "Inilah AZURILL kesayangan saya!\p"
+	.string "Licin, halus dan gebu pula tu!$"
 
 FallarborTown_Text_Azurill:
 	.string "AZURILL: Rooreelooo.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
-	.string "the LEADER of LAVARIDGE GYM?\p"
-	.string "The girl's grandfather was famous.\n"
-	.string "He was one of the ELITE FOUR in the\l"
-	.string "POKéMON LEAGUE at one point.\p"
-	.string "It wouldn't surprise me to see FLANNERY\n"
-	.string "become a great TRAINER in her own\l"
-	.string "right.$"
+	.string "Kamu dah cabar FLANNERY, KETUA\n"
+	.string "GIM LAVARIDGE?\p"
+	.string "Datuk budak tu memang terkenal.\n"
+	.string "Dia pernah jadi salah seorang ELIT\l"
+	.string "EMPAT dalam LIGA POKéMON dulu.\p"
+	.string "Saya tak terkejut kalau FLANNERY\n"
+	.string "jadi JURULATIH yang hebat dengan\l"
+	.string "usahanya sendiri.$"
 
 FallarborTown_Text_BattleTentSign:
-	.string "BATTLE TENT FALLARBOR SITE\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "KHEMAH BATTLE FALLARBOR\n"
+	.string "“Tempat Pasukan Terhebat Berhimpun!”$"
 
 FallarborTown_Text_TownSign:
-	.string "FALLARBOR TOWN\n"
-	.string "“A farm community with small gardens.”$"
+	.string "PEKAN FALLARBOR\n"
+	.string "“Komuniti tani dengan taman kecil.”$"
 
 FallarborTown_Text_MoveTutorSign:
-	.string "MOVE TUTOR'S HOUSE\n"
-	.string "“New moves taught to POKéMON.”$"
+	.string "RUMAH GURU MOVE\n"
+	.string "“Move baru diajar kepada POKéMON.”$"
 

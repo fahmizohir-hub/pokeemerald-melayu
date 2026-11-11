@@ -44,32 +44,28 @@ BattleFrontier_Lounge6_EventScript_TradeCompleted::
 	end
 
 BattleFrontier_Lounge6_Text_WouldYouLikeToTrade:
-	.string "My POKéMON is a {STR_VAR_2}.\n"
-	.string "Do you know it?\l"
-	.string "It's quite cute and rather nice.\p"
-	.string "This little one, I could trade with\n"
-	.string "pride!\p"
-	.string "Would you like to trade me a {STR_VAR_1}\n"
-	.string "for my {STR_VAR_2}?$"
+	.string "POKéMON saya ialah {STR_VAR_2}. Kamu\n"
+	.string "kenal? Ia agak comel dan baik sangat.\p"
+	.string "Yang kecil ni, saya\n"
+	.string "bangga nak tukarkan!\p"
+	.string "Kamu sudi tukar {STR_VAR_1}\n"
+	.string "dengan {STR_VAR_2} saya?$"
 
 BattleFrontier_Lounge6_Text_PromiseIllBeGoodToIt:
-	.string "Oh, it's adorable!\n"
-	.string "Thank you!\l"
-	.string "I promise I'll be good to it!\p"
-	.string "Oh! I hope you'll be good to\n"
-	.string "my {STR_VAR_2}, too!$"
+	.string "Oh, comelnya! Terima kasih! Saya\n"
+	.string "janji akan jaga ia baik-baik!\p"
+	.string "Oh! Saya harap kamu pun jaga\n"
+	.string "{STR_VAR_2} saya baik-baik!$"
 
 BattleFrontier_Lounge6_Text_DontTradeForAnythingButMon:
-	.string "Oh, I'm sorry!\n"
-	.string "I don't intend to trade for anything\l"
-	.string "but a {STR_VAR_1}.$"
+	.string "Oh, maaf! Saya tak mahu tukar\n"
+	.string "dengan apa-apa selain {STR_VAR_1}.$"
 
 BattleFrontier_Lounge6_Text_WellThatsFineToo:
-	.string "Oh, you won't?\n"
-	.string "Well, that's fine, too.\l"
-	.string "Please come visit us again.$"
+	.string "Oh, tak mahu? Tak apalah.\n"
+	.string "Datanglah melawat kami lagi.$"
 
 BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined:
-	.string "Giggle!\n"
-	.string "A SKITTY is so much cuter than I had\l"
-	.string "imagined. I'm delighted!$"
+	.string "Hihi! SKITTY ni jauh lebih comel\n"
+	.string "daripada yang saya bayangkan. Saya\l"
+	.string "gembira sangat!$"

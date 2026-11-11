@@ -38,25 +38,24 @@ OldaleTown_PokemonCenter_1F_EventScript_WirelessClubAvailable::
 	end
 
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
-	.string "That PC in the corner there is\n"
-	.string "for any POKéMON TRAINER to use.\p"
-	.string "Naturally, that means you're welcome\n"
-	.string "to use it, too.$"
+	.string "PC di sudut sana tu boleh diguna\n"
+	.string "oleh mana-mana JURULATIH POKéMON.\p"
+	.string "Maknanya, kamu pun boleh guna juga.$"
 
 OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
-	.string "POKéMON CENTERS are great!\p"
-	.string "You can use their services as much\n"
-	.string "as you like, and it's all for free.\l"
-	.string "You never have to worry!$"
+	.string "PUSAT POKéMON memang hebat!\p"
+	.string "Kamu boleh guna perkhidmatan mereka\n"
+	.string "sebanyak mana pun, dan semuanya\l"
+	.string "percuma. Tak perlu risau!$"
 
 OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable:
-	.string "The POKéMON WIRELESS CLUB on\n"
-	.string "the second floor was built recently.\p"
-	.string "But they say they're still making\n"
-	.string "adjustments.$"
+	.string "KELAB WAYARLES POKéMON di\n"
+	.string "tingkat dua baru saja dibina.\p"
+	.string "Tapi kata mereka, ia masih\n"
+	.string "dalam proses penyelarasan.$"
 
 OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub:
-	.string "The POKéMON WIRELESS CLUB on\n"
-	.string "the second floor was built recently.\p"
-	.string "I traded POKéMON right away.$"
+	.string "KELAB WAYARLES POKéMON di\n"
+	.string "tingkat dua baru saja dibina.\p"
+	.string "Saya terus bertukar POKéMON di sana.$"
 

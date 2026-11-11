@@ -99,36 +99,37 @@ Route112_EventScript_Shayla::
 	end
 
 Route112_Text_LeaderGoingToAwakenThing:
-	.string "Hey, man, is our leader really going\n"
-	.string "to awaken that thing?$"
+	.string "Hei, bro, betul ke ketua kita nak\n"
+	.string "bangkitkan benda tu?$"
 
 Route112_Text_YeahWeNeedMeteorite:
-	.string "Sounds like it, yeah. But I heard\n"
-	.string "we need a METEORITE to do it.$"
+	.string "Macam tu lah bunyinya. Tapi aku dengar\n"
+	.string "kita perlukan METEORIT untuk buat\l"
+	.string "begitu.$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
-	.string "Oh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.string "Oh, baru aku faham. Sebab tu yang lain\n"
+	.string "pergi ke FALLARBOR.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
-	.string "You got it. And until they come back,\n"
-	.string "we're not to let anyone pass, right.$"
+	.string "Betul tu. Dan selagi mereka belum balik,\n"
+	.string "kita tak boleh biar sesiapa lalu, faham.$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Eh, I'd like to get to MAUVILLE, but if\n"
-	.string "I went down these ledges, it'd be no\l"
-	.string "easy matter to get back to LAVARIDGE.$"
+	.string "Eh, saya nak ke MAUVILLE, tapi kalau\n"
+	.string "saya turun tebing ni, susah nak balik\l"
+	.string "semula ke LAVARIDGE.$"
 
 Route112_Text_MtChimneyCableCarSign:
-	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
+	.string "KERETA KABEL GUNUNG CHIMNEY\n"
+	.string "“Jalan sikit saja ke {UP_ARROW}!”$"
 
 Route112_Text_MtChimneySign:
-	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
+	.string "GUNUNG CHIMNEY\p"
+	.string "“Ke PEKAN LAVARIDGE atau puncak, sila\n"
+	.string "naik KERETA KABEL.”$"
 
 Route112_Text_RouteSignLavaridge:
-	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} LAVARIDGE TOWN$"
+	.string "LALUAN 112\n"
+	.string "{LEFT_ARROW} PEKAN LAVARIDGE$"
 

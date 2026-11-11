@@ -179,28 +179,28 @@ Route117_EventScript_Aisha::
 	end
 
 Route117_Text_DayCarePokemonHadNewMove:
-	.string "I left my POKéMON at the DAY CARE.\p"
-	.string "When I got it back, it had a new move\n"
-	.string "that I didn't teach it.\l"
-	.string "I was really, really surprised.$"
+	.string "Saya tinggalkan POKéMON saya di TASKA.\p"
+	.string "Bila saya ambil semula, ia tahu move\n"
+	.string "baru yang saya tak pernah ajar.\l"
+	.string "Saya betul-betul terkejut.$"
 
 Route117_Text_ArentTheseFlowersPretty:
-	.string "What do you think?\n"
-	.string "Aren't these flowers pretty?\p"
-	.string "I planted them all!$"
+	.string "Apa pendapat kamu?\n"
+	.string "Cantik tak bunga-bunga ni?\p"
+	.string "Saya yang tanam semuanya!$"
 
 Route117_Text_AirIsTastyHere:
-	.string "The air is tasty here!$"
+	.string "Udara di sini sedap!$"
 
 Route117_Text_RouteSignVerdanturf:
-	.string "ROUTE 117\n"
-	.string "{LEFT_ARROW} VERDANTURF TOWN$"
+	.string "LALUAN 117\n"
+	.string "{LEFT_ARROW} PEKAN VERDANTURF$"
 
 Route117_Text_RouteSignMauville:
-	.string "ROUTE 117\n"
-	.string "{RIGHT_ARROW} MAUVILLE CITY$"
+	.string "LALUAN 117\n"
+	.string "{RIGHT_ARROW} BANDAR MAUVILLE$"
 
 Route117_Text_DayCareSign:
-	.string "POKéMON DAY CARE\n"
-	.string "“Let us raise your POKéMON.”$"
+	.string "TASKA POKéMON\n"
+	.string "“Biar kami jaga POKéMON anda.”$"
 

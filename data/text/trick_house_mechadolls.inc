@@ -53,13 +53,13 @@ gTrickHouse_Mechadoll_Carvanha::
 	.string "CARVANHA$"
 
 gTrickHouse_Mechadoll_BurnHeal::
-	.string "BURN HEAL$"
+	.string "UBAT LECUR$"
 
 gTrickHouse_Mechadoll_HarborMail::
-	.string "HARBOR MAIL$"
+	.string "SURAT DERMAGA$"
 
 gTrickHouse_Mechadoll_SamePrice::
-	.string "Same price$"
+	.string "Harga sama$"
 
 gTrickHouse_Mechadoll_60Yen::
 	.string "¥60$"
@@ -68,37 +68,37 @@ gTrickHouse_Mechadoll_55Yen::
 	.string "¥55$"
 
 gTrickHouse_Mechadoll_Nothing::
-	.string "Nothing$"
+	.string "Tiada$"
 
 gTrickHouse_Mechadoll_CostMore::
-	.string "They will cost more.$"
+	.string "Lebih mahal.$"
 
 gTrickHouse_Mechadoll_CostLess::
-	.string "They will cost less.$"
+	.string "Lebih murah.$"
 
 gTrickHouse_Mechadoll_SamePrice2::
-	.string "Same price$"
+	.string "Harga sama$"
 
 gTrickHouse_Mechadoll_Male::
-	.string "Male$"
+	.string "Lelaki$"
 
 gTrickHouse_Mechadoll_Female::
-	.string "Female$"
+	.string "Perempuan$"
 
 gTrickHouse_Mechadoll_Neither::
-	.string "Neither$"
+	.string "Sama ramai$"
 
 gTrickHouse_Mechadoll_ElderlyMen::
-	.string "Elderly men$"
+	.string "Atuk$"
 
 gTrickHouse_Mechadoll_ElderlyLadies::
-	.string "Elderly ladies$"
+	.string "Nenek$"
 
 gTrickHouse_Mechadoll_SameNumber::
-	.string "Same number$"
+	.string "Sama ramai$"
 
 gTrickHouse_Mechadoll_None::
-	.string "None$"
+	.string "Tiada$"
 
 gTrickHouse_Mechadoll_One::
 	.string "1$"

@@ -28,27 +28,27 @@ PacifidlogTown_EventScript_TownSign::
 	end
 
 PacifidlogTown_Text_FastRunningCurrent:
-	.string "The sea between PACIFIDLOG and\n"
-	.string "SLATEPORT has a fast-running tide.\p"
-	.string "If you decide to SURF, you could end\n"
-	.string "up swept away somewhere else.$"
+	.string "Laut antara PACIFIDLOG dan SLATEPORT\n"
+	.string "ada arus yang sangat deras.\p"
+	.string "Kalau kamu guna LUNCUR OMBAK, kamu\n"
+	.string "mungkin dihanyutkan ke tempat lain.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:
-	.string "See, isn't it neat?\n"
-	.string "These houses are on water!\p"
-	.string "I was born here!$"
+	.string "Tengok, menarik, kan?\n"
+	.string "Rumah-rumah ni atas air!\p"
+	.string "Saya lahir di sini!$"
 
 PacifidlogTown_Text_SkyPillarTooScary:
-	.string "The SKY PILLAR?\p"
-	.string "…Oh, you must mean that tall, tall\n"
-	.string "tower a little further out.\p"
-	.string "If you asked me, I wouldn't climb it.\n"
-	.string "It's too scary to get up that high.\p"
-	.string "Life at sea level in PACIFIDLOG,\n"
-	.string "that suits me fine.$"
+	.string "TIANG LANGIT?\p"
+	.string "…Oh, maksud kamu menara tinggi\n"
+	.string "menjulang di sebelah sana tu.\p"
+	.string "Kalau saya, saya tak nak panjat.\n"
+	.string "Seram sangat naik tinggi macam tu.\p"
+	.string "Hidup di paras laut di PACIFIDLOG ni dah\n"
+	.string "cukup bagi saya.$"
 
 PacifidlogTown_Text_TownSign:
-	.string "PACIFIDLOG TOWN\p"
-	.string "“Where the morning sun smiles upon\n"
-	.string "the waters.”$"
+	.string "PEKAN PACIFIDLOG\p"
+	.string "“Tempat mentari pagi tersenyum\n"
+	.string "ke atas air.”$"
 

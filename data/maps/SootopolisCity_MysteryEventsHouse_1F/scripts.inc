@@ -160,65 +160,66 @@ SootopolisCity_MysteryEventsHouse_1F_Movement_OldManMoveAsideRight:
 	step_end
 
 SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles:
-	.string "When I was young, I traveled the world\n"
-	.string "as a POKéMON TRAINER.\p"
-	.string "Now that I've become an old buzzard,\n"
-	.string "my only amusement is watching young\l"
-	.string "TRAINERS battle.$"
+	.string "Masa muda dulu, saya jelajah dunia\n"
+	.string "sebagai JURULATIH POKéMON.\p"
+	.string "Sekarang saya dah tua bangka, satu-\n"
+	.string "satunya hiburan saya ialah menonton\l"
+	.string "JURULATIH muda bertarung.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
-	.string "The door appears to be locked.$"
+	.string "Pintu ini nampaknya berkunci.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
-	.string "A TRAINER named {STR_VAR_1}\n"
-	.string "is visiting my home.\p"
-	.string "Would you like to challenge\n"
+	.string "Seorang JURULATIH bernama {STR_VAR_1}\n"
+	.string "sedang melawat rumah saya.\p"
+	.string "Kamu nak cabar\n"
 	.string "{STR_VAR_1}?$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle:
-	.string "You won't battle? I'm disappointed\n"
-	.string "that I can't see you battle…$"
+	.string "Kamu tak nak bertarung? Hampa saya\n"
+	.string "tak dapat tengok kamu bertarung…$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3:
-	.string "Oh, good, good!\p"
-	.string "But my house isn't all that sturdy.\p"
-	.string "Could I ask you to keep it down to\n"
-	.string "a 3-on-3 match?$"
+	.string "Oh, bagus, bagus!\p"
+	.string "Tapi rumah saya ni tak berapa kukuh.\p"
+	.string "Boleh tak kamu hadkan kepada\n"
+	.string "pertarungan 3 lawan 3?$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle:
-	.string "Before you two battle, you should\n"
-	.string "save your progress.$"
+	.string "Sebelum kamu berdua bertarung, simpan\n"
+	.string "dulu kemajuan kamu.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_HopeToSeeGoodMatch:
-	.string "I hope to see a good match!$"
+	.string "Saya harap dapat tengok pertarungan\n"
+	.string "yang hebat!$"
 
 @ Unused
 SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Tie:
 	.string "{STR_VAR_1}$"
 
 SootopolisCity_MysteryEventsHouse_B1F_Text_MatchEndedUpDraw:
-	.string "The match ended up a draw.$"
+	.string "Pertarungan berakhir seri.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_BrilliantStandoff:
-	.string "So, it became a standoff.\p"
-	.string "It was a brilliant match in which\n"
-	.string "neither side conceded a step!$"
+	.string "Jadi, ia berakhir seri.\p"
+	.string "Pertarungan yang hebat, kedua-dua\n"
+	.string "pihak tak mengalah walau selangkah!$"
 
 @ Unused
 SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Won:
 	.string "{STR_VAR_1}$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_ThatWasSuperlative:
-	.string "That was superlative!\p"
-	.string "Why, it was like seeing myself in\n"
-	.string "my youth again!$"
+	.string "Hebat sekali!\p"
+	.string "Rasa macam tengok diri saya masa muda\n"
+	.string "dulu!$"
 
 @ Unused
 SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Lost:
 	.string "{STR_VAR_1}$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_TooBadForYou:
-	.string "Ah, too bad for you!\p"
-	.string "But it was a good match.\n"
-	.string "I hope you can win next time.$"
+	.string "Ah, sayang sekali!\p"
+	.string "Tapi pertarungan tadi bagus.\n"
+	.string "Saya harap kamu menang lain kali.$"
 

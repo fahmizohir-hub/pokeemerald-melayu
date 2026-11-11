@@ -65,23 +65,23 @@ EverGrandeCity_SidneysRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_SidneysRoom_Text_IntroSpeech:
-	.string "Welcome, challenger!\n"
-	.string "I'm SIDNEY of the ELITE FOUR.\p"
-	.string "I like that look you're giving me.\n"
-	.string "I guess you'll give me a good match.\l"
-	.string "That's good! Looking real good!\p"
-	.string "All right! You and me, let's enjoy\n"
-	.string "a battle that can only be staged\l"
-	.string "here in the POKéMON LEAGUE!$"
+	.string "Selamat datang, pencabar!\n"
+	.string "Saya SIDNEY dari ELIT EMPAT.\p"
+	.string "Saya suka cara kamu pandang saya.\n"
+	.string "Mesti kamu lawan yang hebat.\l"
+	.string "Bagus! Nampak sangat bagus!\p"
+	.string "Baiklah! Kamu dan saya, mari nikmati\n"
+	.string "pertarungan yang hanya boleh\l"
+	.string "berlaku di LIGA POKéMON ini!$"
 
 EverGrandeCity_SidneysRoom_Text_Defeat:
-	.string "Well, how do you like that? I lost!\n"
-	.string "Eh, it was fun, so it doesn't matter.$"
+	.string "Hah, macam mana tu? Saya kalah!\n"
+	.string "Eh, seronok juga, jadi tak kisahlah.$"
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
-	.string "Well, listen to what this loser has\n"
-	.string "to say.\p"
-	.string "You've got what it takes to go far.\n"
-	.string "Now, go on to the next room and enjoy\l"
-	.string "your next battle!$"
+	.string "Dengar apa orang yang kalah ni nak\n"
+	.string "cakap.\p"
+	.string "Kamu ada apa yang perlu untuk pergi\n"
+	.string "jauh. Sekarang, pergi ke bilik\l"
+	.string "seterusnya dan nikmati pertarungan!$"
 

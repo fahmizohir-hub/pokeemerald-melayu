@@ -39,49 +39,49 @@ RS_MysteryEventsHouse_EventScript_Door::
 	end
 
 RS_MysteryEventsHouse_Text_OldManGreeting:
-	.string "When I was young, I traveled the world\n"
-	.string "as a POKéMON TRAINER.\p"
-	.string "Now that I've become an old buzzard,\n"
-	.string "my only amusement is watching young\l"
-	.string "TRAINERS battle.$"
+	.string "Masa muda dulu, saya mengembara ke\n"
+	.string "seluruh dunia sebagai JURULATIH\l"
+	.string "POKéMON.\p"
+	.string "Sekarang saya dah tua, satu-satunya\n"
+	.string "hiburan saya ialah tengok JURULATIH\l"
+	.string "muda bertarung.$"
 
 RS_MysteryEventsHouse_Text_DoorIsLocked:
-	.string "The door appears to be locked.$"
+	.string "Pintu ni nampaknya berkunci.$"
 
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
-	.string "A TRAINER named {STR_VAR_1} is\n"
-	.string "visiting my home.\p"
-	.string "Would you like to challenge\n"
-	.string "{STR_VAR_1}?$"
+	.string "Seorang JURULATIH bernama {STR_VAR_1}\n"
+	.string "sedang melawat rumah saya.\p"
+	.string "Kamu nak cabar {STR_VAR_1}?$"
 
 RS_MysteryEventsHouse_Text_YouWontBattle:
-	.string "You won't battle? I'm disappointed\n"
-	.string "that I can't see you battle…$"
+	.string "Kamu tak nak bertarung? Kecewa saya\n"
+	.string "tak dapat tengok kamu bertarung…$"
 
 RS_MysteryEventsHouse_Text_KeepItToA3On3:
-	.string "Oh, good, good!\p"
-	.string "But my house isn't all that sturdy.\p"
-	.string "Could I ask you to keep it down to\n"
-	.string "a 3-on-3 match?$"
+	.string "Oh, bagus, bagus!\p"
+	.string "Tapi rumah saya ni tak berapa kukuh.\p"
+	.string "Boleh saya minta kamu hadkan kepada\n"
+	.string "perlawanan 3 lawan 3?$"
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
-	.string "Before you two battle, you should\n"
-	.string "save your progress.$"
+	.string "Sebelum kamu berdua bertarung, kamu\n"
+	.string "patut simpan kemajuan kamu.$"
 
 RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch:
-	.string "I hope to see a good match!$"
+	.string "Saya harap dapat tengok perlawanan\n"
+	.string "yang bagus!$"
 
 RS_MysteryEventsHouse_Text_BattleTie:
-	.string "So, it became a standoff.\p"
-	.string "It was a brilliant match in which\n"
-	.string "neither side conceded a step!$"
+	.string "Jadi, keputusannya seri.\p"
+	.string "Perlawanan yang hebat, kedua-dua pihak\n"
+	.string "tak berganjak walau selangkah!$"
 
 RS_MysteryEventsHouse_Text_BattleWon:
-	.string "That was superlative!\p"
-	.string "Why, it was like seeing myself in\n"
-	.string "my youth again!$"
+	.string "Itu sungguh luar biasa!\p"
+	.string "Macam tengok diri saya masa muda dulu!$"
 
 RS_MysteryEventsHouse_Text_BattleLost:
-	.string "Ah, too bad for you!\p"
-	.string "But it was a good match.\n"
-	.string "I hope you can win next time.$"
+	.string "Ah, sayang sekali!\p"
+	.string "Tapi perlawanan tadi bagus.\n"
+	.string "Saya harap kamu menang lain kali.$"

@@ -69,65 +69,65 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	end
 
 Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-	.string "The BOSS got interested in\n"
-	.string "the research they have going here,\l"
-	.string "so he sent us out.\p"
-	.string "You quit meddling!$"
+	.string "BOS berminat dengan kajian yang\n"
+	.string "dibuat di sini, jadi dia hantar\l"
+	.string "kami ke sini.\p"
+	.string "Jangan masuk campur!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
-	.string "Blast it…\n"
-	.string "Blasted by a kid…$"
+	.string "Celaka…\n"
+	.string "Dikalahkan oleh budak…$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
-	.string "Our BOSS knows everything.\p"
-	.string "But I'm just a GRUNT. What would I know\n"
-	.string "about what he's thinking?$"
+	.string "BOS kami tahu segala-galanya.\p"
+	.string "Tapi aku cuma ANAK BUAH. Mana aku tahu\n"
+	.string "apa yang dia fikirkan?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:
-	.string "Huh?\n"
-	.string "What's a kid doing here?$"
+	.string "Hah?\n"
+	.string "Apa budak buat di sini?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
-	.string "Huh?\n"
-	.string "I lost?!$"
+	.string "Hah?\n"
+	.string "Aku kalah?!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4PostBattle:
-	.string "Oh, no…\n"
-	.string "I'll catch an earful for losing to a kid…\p"
-	.string "I should just take a nap in the bed…$"
+	.string "Oh, tidak…\n"
+	.string "Teruk aku kena marah sebab kalah…\p"
+	.string "Baik aku tidur saja atas katil tu…$"
 
 Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
-	.string "While I was sleeping, everyone went\n"
-	.string "upstairs!$"
+	.string "Masa saya tidur, semua orang naik\n"
+	.string "ke tingkat atas!$"
 
 Route119_WeatherInstitute_1F_Text_WowYoureStrong:
-	.string "Wow, you're really strong!\p"
-	.string "I wish I could be a POKéMON TRAINER\n"
-	.string "like you!$"
+	.string "Wah, kamu memang kuat!\p"
+	.string "Saya pun nak jadi JURULATIH POKéMON\n"
+	.string "macam kamu!$"
 
 Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
-	.string "The PROFESSOR loves rain.\n"
-	.string "That's a fact.\p"
-	.string "But if it keeps raining, people will be in\n"
-	.string "trouble. That's another fact.\p"
-	.string "And thus, the PROFESSOR is studying\n"
-	.string "if the rain can be put to good use.$"
+	.string "PROFESOR suka hujan.\n"
+	.string "Itu fakta.\p"
+	.string "Tapi kalau hujan tak henti, orang\n"
+	.string "akan susah. Itu pun fakta.\p"
+	.string "Jadi, PROFESOR sedang mengkaji cara\n"
+	.string "hujan boleh dimanfaatkan.$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "On the 2nd floor of the INSTITUTE,\n"
-	.string "we study the weather patterns over\l"
-	.string "the HOENN region.\p"
-	.string "We've been noticing temporary and\n"
-	.string "isolated cases of droughts and\l"
-	.string "heavy rain lately…$"
+	.string "Di tingkat 2 INSTITUT ni, kami kaji\n"
+	.string "corak cuaca di seluruh rantau\l"
+	.string "HOENN.\p"
+	.string "Baru-baru ni kami perasan ada kes\n"
+	.string "kemarau dan hujan lebat yang\l"
+	.string "sementara dan terpencil…$"
 
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
-	.string "Hello!\n"
-	.string "We've been saved by your actions!\p"
-	.string "What I don't understand is what on\n"
-	.string "earth the AQUAS were up to.$"
+	.string "Helo!\n"
+	.string "Kami terselamat berkat tindakan kamu!\p"
+	.string "Yang saya tak faham, apa sebenarnya\n"
+	.string "yang orang AQUA tu nak buat.$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "Ada katil…\n"
+	.string "Jom berehat.$"
 

@@ -120,30 +120,30 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "People and POKéMON, they are but\n"
-	.string "the same…\p"
-	.string "Their individual nature makes them\n"
-	.string "good at certain things, and not good\l"
-	.string "at others.$"
+	.string "Manusia dan POKéMON, mereka\n"
+	.string "sebenarnya sama…\p"
+	.string "Sifat masing-masing membuatkan mereka\n"
+	.string "pandai dalam sesetengah perkara, dan\l"
+	.string "lemah dalam perkara lain.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Rather than trying to make a POKéMON\n"
-	.string "do what it dislikes, try to let it do\l"
-	.string "what it likes and is good at doing.\p"
-	.string "Put yourself in the POKéMON's position\n"
-	.string "and consider what moves it would like.$"
+	.string "Daripada paksa POKéMON buat perkara\n"
+	.string "yang ia tak suka, biarkan ia buat\l"
+	.string "apa yang ia suka dan pandai buat.\p"
+	.string "Letakkan diri kamu di tempat POKéMON\n"
+	.string "dan fikirkan move yang ia suka.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "A POKéMON's nature is a remarkable\n"
-	.string "thing…\p"
-	.string "Some POKéMON behave in a completely\n"
-	.string "different way when they are cornered.$"
+	.string "Sifat POKéMON memang sesuatu yang\n"
+	.string "menakjubkan…\p"
+	.string "Ada POKéMON yang berkelakuan sangat\n"
+	.string "berbeza bila mereka terdesak.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-	.string "Are you beginning to understand how\n"
-	.string "a POKéMON's nature makes it behave?$"
+	.string "Kamu mula faham bagaimana sifat\n"
+	.string "POKéMON mempengaruhi kelakuannya?$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-	.string "Ah… I see a strong, heartfelt bond\n"
-	.string "between you and your POKéMON…$"
+	.string "Ah… Saya nampak ikatan hati yang kuat\n"
+	.string "antara kamu dan POKéMON kamu…$"
 

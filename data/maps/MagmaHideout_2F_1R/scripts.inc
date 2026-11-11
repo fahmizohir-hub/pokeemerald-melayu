@@ -22,54 +22,54 @@ MagmaHideout_2F_1R_EventScript_Grunt5::
 	end
 
 MagmaHideout_2F_1R_Text_Grunt14Intro:
-	.string "What, what, what?\p"
-	.string "Only TEAM MAGMA members are supposed\n"
-	.string "to be in here!\p"
-	.string "But you're not dressed in TEAM MAGMA's\n"
-	.string "uniform…\p"
-	.string "You rouse my suspicion!\n"
-	.string "Battle with me!$"
+	.string "Apa, apa, apa?\p"
+	.string "Hanya ahli TEAM MAGMA dibenarkan\n"
+	.string "berada di sini!\p"
+	.string "Tapi kau tak pakai pakaian seragam\n"
+	.string "TEAM MAGMA…\p"
+	.string "Kau memang mencurigakan!\n"
+	.string "Lawan aku!$"
 
 MagmaHideout_2F_1R_Text_Grunt14Defeat:
 	.string "Aiyiyi…\n"
-	.string "My pride as a TEAM MAGMA member…$"
+	.string "Maruah aku sebagai ahli TEAM MAGMA…$"
 
 MagmaHideout_2F_1R_Text_Grunt14PostBattle:
-	.string "If you suffer from chills, you should\n"
-	.string "join TEAM MAGMA.$"
+	.string "Kalau kau selalu rasa sejuk, baik kau\n"
+	.string "sertai TEAM MAGMA.$"
 
 MagmaHideout_2F_1R_Text_Grunt3Intro:
-	.string "Hold it right there!\p"
-	.string "You don't really expect me to keep\n"
-	.string "my trap shut and let you waltz by me?$"
+	.string "Berhenti di situ!\p"
+	.string "Kau ingat aku nak diam saja dan\n"
+	.string "biar kau lalu dengan senang?$"
 
 MagmaHideout_2F_1R_Text_Grunt3Defeat:
-	.string "Ooh wow!\n"
-	.string "I concede!$"
+	.string "Ooh wah!\n"
+	.string "Aku mengaku kalah!$"
 
 MagmaHideout_2F_1R_Text_Grunt3PostBattle:
-	.string "Maybe it would've been better if I did\n"
-	.string "just let you go unchallenged…$"
+	.string "Mungkin lebih baik kalau aku biar\n"
+	.string "saja kau lalu tanpa dicabar…$"
 
 MagmaHideout_2F_1R_Text_Grunt4Intro:
 	.string "Ahah!\n"
-	.string "An intruder!$"
+	.string "Penceroboh!$"
 
 MagmaHideout_2F_1R_Text_Grunt4Defeat:
 	.string "Graaah!$"
 
 MagmaHideout_2F_1R_Text_Grunt4PostBattle:
-	.string "I've already lost.\p"
-	.string "Do I really need to keep running\n"
-	.string "around in a circle?$"
+	.string "Aku dah kalah.\p"
+	.string "Perlu ke aku terus berlari\n"
+	.string "berpusing-pusing?$"
 
 MagmaHideout_2F_1R_Text_Grunt5Intro:
 	.string "Oh, oh!\n"
-	.string "An intruder!$"
+	.string "Penceroboh!$"
 
 MagmaHideout_2F_1R_Text_Grunt5Defeat:
-	.string "Mutter…$"
+	.string "Rungut…$"
 
 MagmaHideout_2F_1R_Text_Grunt5PostBattle:
-	.string "Actually, I'm no expert at battling…$"
+	.string "Sebenarnya aku bukan pakar bertarung…$"
 

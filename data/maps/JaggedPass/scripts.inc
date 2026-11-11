@@ -142,119 +142,119 @@ JaggedPass_EventScript_Autumn::
 	end
 
 JaggedPass_Text_EricIntro:
-	.string "MT. CHIMNEY's JAGGED PASS…\p"
-	.string "Now this is what I've always wanted\n"
-	.string "in a mountain.\p"
-	.string "This jagged bumpiness…\n"
-	.string "It rocks my soul!$"
+	.string "DENAI BERGERIGI GUNUNG CHIMNEY…\p"
+	.string "Inilah yang saya selalu idamkan\n"
+	.string "pada sebuah gunung.\p"
+	.string "Permukaan yang bergerigi ni…\n"
+	.string "Menggegarkan jiwa saya!$"
 
 JaggedPass_Text_EricDefeat:
-	.string "Losing left me bitter!$"
+	.string "Kalah buat saya rasa pahit!$"
 
 JaggedPass_Text_EricPostBattle:
-	.string "Yes, I did lose at POKéMON…\p"
-	.string "But, when it comes to the love of\n"
-	.string "the mountains, I have you beat!$"
+	.string "Ya, saya kalah dalam POKéMON…\p"
+	.string "Tapi kalau bab cintakan gunung,\n"
+	.string "saya menang!$"
 
 JaggedPass_Text_DianaIntro:
-	.string "This place isn't your casual hike.\n"
-	.string "It's not suited for a picnic.$"
+	.string "Tempat ni bukan untuk jalan santai.\n"
+	.string "Tak sesuai untuk berkelah.$"
 
 JaggedPass_Text_DianaDefeat:
-	.string "Ohhh, no!\n"
-	.string "The ground is too bumpy…$"
+	.string "Ohhh, tidak!\n"
+	.string "Tanah ni terlalu berbonggol…$"
 
 JaggedPass_Text_DianaPostBattle:
-	.string "Did you know?\p"
-	.string "Some people cleverly ride their\n"
-	.string "bicycles up this horribly bumpy pass.$"
+	.string "Kamu tahu tak?\p"
+	.string "Ada orang yang pandai naik basikal\n"
+	.string "mendaki denai yang teruk ni.$"
 
 JaggedPass_Text_DianaRegister:
-	.string "Will you ever be back in this area?\n"
-	.string "If you do return, I'd like a rematch.$"
+	.string "Kamu akan datang ke sini lagi?\n"
+	.string "Kalau datang, saya nak lawan lagi.$"
 
 JaggedPass_Text_DianaRematchIntro:
-	.string "Picnics are fun wherever you go.\n"
-	.string "Just like POKéMON!$"
+	.string "Berkelah memang seronok di mana saja.\n"
+	.string "Macam POKéMON juga!$"
 
 JaggedPass_Text_DianaRematchDefeat:
-	.string "I only lost because the ground is\n"
-	.string "too bumpy!$"
+	.string "Saya kalah pun sebab tanah ni\n"
+	.string "terlalu berbonggol!$"
 
 JaggedPass_Text_DianaPostRematch:
-	.string "I'll forget about losing and just\n"
-	.string "enjoy this bumpy hike.$"
+	.string "Saya nak lupakan kekalahan ni dan\n"
+	.string "nikmati pendakian berbonggol ni.$"
 
 JaggedPass_Text_EthanIntro:
-	.string "JAGGED PASS is hard to walk on.\n"
-	.string "It's a good place for training.$"
+	.string "DENAI BERGERIGI susah nak dilalui.\n"
+	.string "Tempat yang bagus untuk berlatih.$"
 
 JaggedPass_Text_EthanDefeat:
-	.string "It was all over while we were still\n"
-	.string "trying to find a good footing…$"
+	.string "Semuanya dah tamat masa kami masih\n"
+	.string "cuba cari tempat berpijak…$"
 
 JaggedPass_Text_EthanPostBattle:
-	.string "If I had an ACRO BIKE, I'd be able to\n"
-	.string "jump ledges.$"
+	.string "Kalau saya ada BASIKAL ACRO, saya\n"
+	.string "boleh lompat tebing.$"
 
 JaggedPass_Text_EthanRegister:
-	.string "When I get more used to this bumpiness,\n"
-	.string "I'll be sure to win!\p"
-	.string "Can you register me in your POKéNAV?$"
+	.string "Bila dah biasa dengan bonggol ni,\n"
+	.string "saya pasti menang!\p"
+	.string "Boleh daftar saya dalam POKéNAV kamu?$"
 
 JaggedPass_Text_EthanRematchIntro:
-	.string "I got used to this bumpiness.\n"
-	.string "I sing while I climb now.$"
+	.string "Saya dah biasa dengan bonggol ni.\n"
+	.string "Sekarang saya menyanyi sambil daki.$"
 
 JaggedPass_Text_EthanRematchDefeat:
-	.string "It's still not easy to battle on this\n"
-	.string "bumpy ground…$"
+	.string "Masih tak mudah bertarung di atas\n"
+	.string "tanah berbonggol ni…$"
 
 JaggedPass_Text_EthanPostRematch:
-	.string "I should get an ACRO BIKE from RYDEL\n"
-	.string "in MAUVILLE CITY…$"
+	.string "Saya patut dapatkan BASIKAL ACRO\n"
+	.string "daripada RYDEL di BANDAR MAUVILLE…$"
 
 JaggedPass_Text_GruntIntro:
 	.string "Wah!\n"
-	.string "What are you doing here?\p"
-	.string "What am I doing in a place like this?\p"
-	.string "What business is it of yours?$"
+	.string "Apa kau buat di sini?\p"
+	.string "Apa aku buat di tempat macam ni?\p"
+	.string "Apa kena-mengena dengan kau?$"
 
 JaggedPass_Text_GruntDefeat:
 	.string "Urrrgh…\p"
-	.string "I should've ducked into our HIDEOUT\n"
-	.string "right away…$"
+	.string "Patutnya aku terus menyorok dalam\n"
+	.string "MARKAS kami tadi…$"
 
 JaggedPass_Text_GoWhereverYouWant:
-	.string "Okay, oh-kay!\n"
-	.string "I admit it--you're strong!\p"
-	.string "Don't worry about me.\n"
-	.string "Go wherever you want!$"
+	.string "Okey, o-key!\n"
+	.string "Aku mengaku--kau memang kuat!\p"
+	.string "Jangan risau pasal aku.\n"
+	.string "Pergilah ke mana kau suka!$"
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem:
-	.string "Oh! This boulder is shaking in response\n"
-	.string "to the MAGMA EMBLEM!$"
+	.string "Oh! Batu besar ni bergegar sebagai\n"
+	.string "tindak balas pada LAMBANG MAGMA!$"
 
 JaggedPass_Text_JulioIntro:
-	.string "Aiyeeh! It's awfully scary to shoot\n"
-	.string "down the mountain in one go!$"
+	.string "Aiyeeh! Seram betul meluncur turun\n"
+	.string "gunung sekali harung!$"
 
 JaggedPass_Text_JulioDefeat:
-	.string "I feel like I'm falling apart…$"
+	.string "Rasa macam badan saya nak bercerai…$"
 
 JaggedPass_Text_JulioPostBattle:
-	.string "My bicycle bounced around so much,\n"
-	.string "my rear end's sore…$"
+	.string "Basikal saya terlantun-lantun teruk,\n"
+	.string "sakit punggung saya…$"
 
 JaggedPass_Text_AutumnIntro:
-	.string "I climb this hill every day.\n"
-	.string "I have confidence in my strength!$"
+	.string "Saya daki bukit ni setiap hari.\n"
+	.string "Saya yakin dengan kekuatan saya!$"
 
 JaggedPass_Text_AutumnDefeat:
 	.string "Hmm…\n"
-	.string "What went wrong?$"
+	.string "Apa yang tak kena?$"
 
 JaggedPass_Text_AutumnPostBattle:
-	.string "What is that odd rock protrusion\n"
-	.string "a little up the hill from here?$"
+	.string "Apa agaknya batu pelik yang tersembul\n"
+	.string "di atas bukit sikit dari sini?$"
 

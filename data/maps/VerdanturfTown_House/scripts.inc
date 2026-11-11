@@ -10,16 +10,17 @@ VerdanturfTown_House_EventScript_Woman2::
 	end
 
 VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
-	.string "Far away, deep in EVER GRANDE CITY,\n"
-	.string "is the POKéMON LEAGUE.\p"
-	.string "The TRAINERS who gather there are\n"
-	.string "all frighteningly well skilled.$"
+	.string "Jauh di sana, di dalam BANDAR EVER\n"
+	.string "GRANDE, terletak LIGA POKéMON.\p"
+	.string "JURULATIH yang berkumpul di sana\n"
+	.string "semuanya sangat mahir sampai\l"
+	.string "menakutkan.$"
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow:
-	.string "In the POKéMON LEAGUE, I think the\n"
-	.string "rules say that you have to battle the\l"
-	.string "ELITE FOUR all in a row.\p"
-	.string "If you lose to any of them, you have\n"
-	.string "to begin your challenge again from the\l"
-	.string "first one.$"
+	.string "Di LIGA POKéMON, rasanya peraturan\n"
+	.string "kata kamu kena lawan ELIT EMPAT\l"
+	.string "berturut-turut.\p"
+	.string "Kalau kamu kalah dengan salah seorang,\n"
+	.string "kamu kena mula cabaran semula dari yang\l"
+	.string "pertama.$"
 

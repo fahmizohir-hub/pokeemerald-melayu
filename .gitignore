@@ -45,3 +45,7 @@ prefabs.json
 /pokeemerald-*.png
 /pokeemerald_modern-*.png
 .porydaw/
+
+# Terjemahan Melayu: fail kerja
+tools/__pycache__/
+tools/kumpulan/gaya_dapatan.csv

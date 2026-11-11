@@ -107,54 +107,55 @@ AquaHideout_B1F_EventScript_Grunt7::
 	end
 
 AquaHideout_B1F_Text_Grunt2Intro:
-	.string "If you want to know the secret about\n"
-	.string "our HIDEOUT, you have me to beat!$"
+	.string "Kalau nak tahu rahsia MARKAS kami, kau\n"
+	.string "kena kalahkan aku dulu!$"
 
 AquaHideout_B1F_Text_Grunt2Defeat:
-	.string "I can't win at all…$"
+	.string "Aku langsung tak boleh menang…$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle:
-	.string "Our HIDEOUT's secret?\p"
-	.string "Well, let's just say…\n"
-	.string "There's a submarine at the far end!\p"
-	.string "But, by now…\n"
+	.string "Rahsia MARKAS kami?\p"
+	.string "Hmm, biar aku cakap macam ni…\n"
+	.string "Ada kapal selam di hujung sana!\p"
+	.string "Tapi, sekarang ni…\n"
 	.string "Kekekeke…$"
 
 AquaHideout_B1F_Text_Grunt3Intro:
-	.string "Fuel supply loaded A-OK!\n"
-	.string "In-cruise snacks loaded A-OK!\p"
-	.string "Nothing left to do but KO a pesky\n"
-	.string "meddler!$"
+	.string "Bekalan minyak dah dimuat, beres!\n"
+	.string "Snek pelayaran dah dimuat, beres!\p"
+	.string "Tinggal satu kerja je, KO budak\n"
+	.string "penyibuk ni!$"
 
 AquaHideout_B1F_Text_Grunt3Defeat:
-	.string "I took a serious licking!$"
+	.string "Teruk betul aku kena belasah!$"
 
 AquaHideout_B1F_Text_Grunt3PostBattle:
-	.string "Humph!\n"
-	.string "This was supposed to happen!\p"
-	.string "My mission was to just hold you up!$"
+	.string "Huh!\n"
+	.string "Memang patut jadi macam ni pun!\p"
+	.string "Misi aku cuma nak lengahkan kau!$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
-	.string "Yawn… Keeping watch over the\n"
-	.string "HIDEOUT bores me. I'll take you on.$"
+	.string "Uaap… Jaga MARKAS ni bosan betul. Mari\n"
+	.string "aku lawan kau.$"
 
 AquaHideout_B1F_Text_Grunt5Defeat:
-	.string "Yawn…\n"
-	.string "Oh, I lost…$"
+	.string "Uaap…\n"
+	.string "Oh, aku kalah…$"
 
 AquaHideout_B1F_Text_Grunt5PostBattle:
-	.string "If you scurry too much, other TEAM\n"
-	.string "AQUA members might get you.$"
+	.string "Kalau kau merayau sangat, ahli\n"
+	.string "TEAM AQUA yang lain mungkin tangkap\l"
+	.string "kau.$"
 
 AquaHideout_B1F_Text_Grunt7Intro:
-	.string "Hey!\n"
-	.string "You there!\p"
-	.string "Which do you think is cooler?\n"
-	.string "TEAM AQUA's uniform or TEAM MAGMA's?$"
+	.string "Hoi!\n"
+	.string "Kau yang kat sana!\p"
+	.string "Mana lebih segak pada kau? Seragam\n"
+	.string "TEAM AQUA atau TEAM MAGMA?$"
 
 AquaHideout_B1F_Text_Grunt7Defeat:
-	.string "I lost in a cool way…$"
+	.string "Aku kalah dengan penuh gaya…$"
 
 AquaHideout_B1F_Text_Grunt7PostBattle:
-	.string "If you have a cool uniform, you look\n"
-	.string "good even in a loss, don't you think?$"
+	.string "Kalau seragam kau segak, kalah pun\n"
+	.string "tetap nampak hebat, kan?$"

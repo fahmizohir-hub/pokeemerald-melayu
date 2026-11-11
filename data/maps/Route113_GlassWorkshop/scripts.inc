@@ -291,89 +291,89 @@ Route113_GlassWorkshop_EventScript_NinjaBoy::
 	end
 
 Route113_GlassWorkshop_Text_GoCollectAshWithThis:
-	.string "This area is covered in volcanic ash,\n"
-	.string "huff-puff!\p"
-	.string "I'm specially gifted, huff-puff.\p"
-	.string "I make glass out of volcanic ash\n"
-	.string "and make items, huff-puff.\p"
-	.string "Go collect ashes with this, huff-puff.$"
+	.string "Kawasan ni diliputi abu gunung berapi,\n"
+	.string "fuh-fuh!\p"
+	.string "Saya ada bakat istimewa, fuh-fuh.\p"
+	.string "Saya buat kaca daripada abu gunung\n"
+	.string "berapi dan hasilkan barang, fuh-fuh.\p"
+	.string "Pergi kumpul abu dengan ni, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_ExplainSootSack:
-	.string "Just take that SOOT SACK and walk\n"
-	.string "through piles of ash, huff-puff.\p"
-	.string "And it will fill up with the volcanic ash,\n"
-	.string "huff-puff.\p"
-	.string "Once you think you've collected a good\n"
-	.string "amount, come see me, huff-puff.$"
+	.string "Bawa saja KARUNG JELAGA tu dan jalan\n"
+	.string "melalui timbunan abu, fuh-fuh.\p"
+	.string "Nanti ia akan dipenuhi abu gunung\n"
+	.string "berapi, fuh-fuh.\p"
+	.string "Bila rasa dah cukup banyak abu\n"
+	.string "dikumpul, datang jumpa saya, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_LetsSeeCollectedAshes:
-	.string "Have you collected ashes, huff-puff?\n"
-	.string "Let me see, huff-puff.$"
+	.string "Kamu dah kumpul abu, fuh-fuh?\n"
+	.string "Cuba saya tengok, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_NotEnoughAshNeedX:
 	.string "Hmmm…\n"
-	.string "There's not enough ash here, huff-puff.\l"
-	.string "I can't make glass with this, huff-puff.\p"
-	.string "Let's see… {STR_VAR_1} is the number of steps\n"
-	.string "you'll need to walk for me to make you\l"
-	.string "a BLUE FLUTE, huff-puff.$"
+	.string "Abu ni tak cukup, fuh-fuh.\l"
+	.string "Saya tak boleh buat kaca, fuh-fuh.\p"
+	.string "Biar saya kira… Kamu perlu berjalan\n"
+	.string "{STR_VAR_1} langkah lagi untuk saya\l"
+	.string "buatkan SULING BIRU, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_WhichGlassItemWoudYouLike:
 	.string "Oh!\n"
-	.string "You've got a lot of ashes, huff-puff!\p"
-	.string "I'll make you a glass item, huff-puff!\n"
-	.string "Which one would you like, huff-puff?$"
+	.string "Banyaknya abu kamu, fuh-fuh!\p"
+	.string "Saya buatkan barang kaca, fuh-fuh!\n"
+	.string "Kamu nak yang mana, fuh-fuh?$"
 
 Route113_GlassWorkshop_Text_IsThatTheItemForYou:
-	.string "A {STR_VAR_1}, huff-puff?\n"
-	.string "Is that the one for you, huff-puff?$"
+	.string "{STR_VAR_1}, fuh-fuh?\n"
+	.string "Itu ke yang kamu mahu, fuh-fuh?$"
 
 Route113_GlassWorkshop_Text_WhichWouldYouLike:
-	.string "Which one would you like, huff-puff?$"
+	.string "Kamu nak yang mana, fuh-fuh?$"
 
 Route113_GlassWorkshop_Text_IllMakeItemForYou:
-	.string "A {STR_VAR_1} it is, then, huff-puff!\p"
-	.string "Okay! I'll make it for you, huff-puff.\n"
-	.string "Just wait a little while, huff-puff.$"
+	.string "{STR_VAR_1}, baiklah, fuh-fuh!\p"
+	.string "Okey! Saya buatkan untuk kamu,\n"
+	.string "fuh-fuh. Tunggu sekejap, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_NotEnoughAshToMakeItem:
-	.string "A {STR_VAR_1}, huff-puff?\p"
-	.string "There's not enough ash here to make\n"
-	.string "that, though, huff-puff.\p"
-	.string "Let's see… {STR_VAR_2} is the number of steps\n"
-	.string "you'll need to walk through volcanic ash\l"
-	.string "for me to make that item, huff-puff.\p"
-	.string "Which item would you rather have me\n"
-	.string "make instead, huff-puff?$"
+	.string "{STR_VAR_1}, fuh-fuh?\p"
+	.string "Tapi abu ni tak cukup untuk buat\n"
+	.string "barang tu, fuh-fuh.\p"
+	.string "Biar saya kira… Kamu perlu berjalan\n"
+	.string "{STR_VAR_2} langkah lagi atas abu\l"
+	.string "untuk saya buat barang tu, fuh-fuh.\p"
+	.string "Barang mana yang kamu nak saya\n"
+	.string "buat sebagai ganti, fuh-fuh?$"
 
 Route113_GlassWorkshop_Text_AllThatAshButDontWantAnything:
-	.string "You've collected all that ash, but you\n"
-	.string "don't want anything, huff-puff?$"
+	.string "Dah kumpul abu sebanyak tu, tapi\n"
+	.string "kamu tak nak apa-apa, fuh-fuh?$"
 
 Route113_GlassWorkshop_Text_IveFinishedGlassItem:
-	.string "Ah, I've finished your {STR_VAR_1}.\n"
-	.string "Take it, huff-puff.$"
+	.string "Ah, {STR_VAR_1} kamu dah siap.\n"
+	.string "Ambillah, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_NoRoomInBag:
 	.string "Oh?\n"
-	.string "You've no room in your BAG, huff-puff.\p"
-	.string "I'll hold on to it, so come back later,\n"
-	.string "huff-puff.$"
+	.string "BEG kamu dah penuh, fuh-fuh.\p"
+	.string "Saya simpankan dulu, datang balik\n"
+	.string "nanti, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_NoRoomInPC:
 	.string "Oh?\n"
-	.string "You've no room in your PC, huff-puff?\p"
-	.string "I'll hold on to it, so come back later,\n"
-	.string "huff-puff.$"
+	.string "PC kamu dah penuh, fuh-fuh?\p"
+	.string "Saya simpankan dulu, datang balik\n"
+	.string "nanti, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_HaventGotYourSootSack:
-	.string "Hah? You haven't got your SOOT SACK\n"
-	.string "with you, huff-puff.\p"
-	.string "You have to keep it with you to collect\n"
-	.string "volcanic ash, huff-puff.$"
+	.string "Hah? Kamu tak bawa KARUNG JELAGA\n"
+	.string "kamu, fuh-fuh.\p"
+	.string "Kamu kena bawa untuk kumpul abu\n"
+	.string "gunung berapi, fuh-fuh.$"
 
 Route113_GlassWorkshop_Text_FunToBlowGlassFlute:
-	.string "It's fun to blow a glass flute while\n"
-	.string "my boss is talking.\p"
-	.string "Huff-huff! Puff-puff!$"
+	.string "Seronok tiup suling kaca masa\n"
+	.string "bos saya sedang bercakap.\p"
+	.string "Fuh-fuh! Puh-puh!$"
 

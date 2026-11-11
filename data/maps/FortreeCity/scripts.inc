@@ -86,69 +86,69 @@ FortreeCity_Movement_KecleonFlee:
 	step_end
 
 FortreeCity_Text_SawGiganticPokemonInSky:
-	.string "No one believes me, but I saw this\n"
-	.string "gigantic POKéMON in the sky.\p"
-	.string "It seemed to squirm as it flew toward\n"
-	.string "ROUTE 131.\p"
-	.string "By the way… Sniff…\n"
-	.string "Um… You, uh…smell singed.\p"
-	.string "Were you at a volcano or something?$"
+	.string "Tak ada siapa percaya, tapi saya\n"
+	.string "nampak POKéMON gergasi di langit.\p"
+	.string "Ia macam menggeliat sambil terbang\n"
+	.string "ke arah LALUAN 131.\p"
+	.string "Oh ya… Sniff…\n"
+	.string "Err… Kamu, err… bau macam hangus.\p"
+	.string "Kamu baru balik dari gunung berapi ke?$"
 
 FortreeCity_Text_SomethingBlockingGym:
-	.string "I want to go to the POKéMON GYM,\n"
-	.string "but something's blocking the way.\p"
-	.string "After all the bother I went through\n"
-	.string "training on ROUTE 120…$"
+	.string "Saya nak pergi ke GIM POKéMON,\n"
+	.string "tapi ada sesuatu yang menghalang.\p"
+	.string "Penat-penat saya berlatih di\n"
+	.string "LALUAN 120…$"
 
 FortreeCity_Text_ThisTimeIllBeatWinona:
-	.string "I've got my pride-and-joy POKéMON\n"
-	.string "with me. This time, I'll beat WINONA.$"
+	.string "Saya bawa POKéMON kebanggaan saya.\n"
+	.string "Kali ni, saya akan kalahkan WINONA.$"
 
 FortreeCity_Text_TreesGrowByDrinkingRainwater:
-	.string "The ground absorbs rainwater, and\n"
-	.string "trees grow by drinking that water…\p"
-	.string "Our FORTREE CITY exists because\n"
-	.string "there's both water and soil.$"
+	.string "Tanah menyerap air hujan, dan pokok\n"
+	.string "membesar dengan meminum air itu…\p"
+	.string "BANDAR FORTREE wujud kerana ada\n"
+	.string "air dan tanah.$"
 
 FortreeCity_Text_EveryoneHealthyAndLively:
-	.string "The CITY consists of homes built on\n"
-	.string "trees.\p"
-	.string "Perhaps because of that lifestyle,\n"
-	.string "everyone is healthy and lively.\p"
-	.string "Why, even myself--I feel as if I've\n"
-	.string "grown thirty years younger.$"
+	.string "BANDAR ni terdiri daripada rumah yang\n"
+	.string "dibina di atas pokok.\p"
+	.string "Mungkin sebab cara hidup begitu,\n"
+	.string "semua orang sihat dan cergas.\p"
+	.string "Saya sendiri pun--rasa macam dah\n"
+	.string "muda tiga puluh tahun.$"
 
 FortreeCity_Text_BugPokemonComeThroughWindow:
-	.string "Living on top of trees is okay.\p"
-	.string "But sometimes BUG POKéMON come in\n"
-	.string "through windows.\l"
-	.string "It can be really startling.$"
+	.string "Tinggal di atas pokok memang okey.\p"
+	.string "Tapi kadang-kadang POKéMON SERANGGA\n"
+	.string "masuk ikut tingkap.\l"
+	.string "Memang mengejutkan.$"
 
 FortreeCity_Text_PokemonThatEvolveWhenTraded:
-	.string "There are POKéMON that evolve when\n"
-	.string "you trade them! That's what I heard.$"
+	.string "Ada POKéMON yang berevolusi bila\n"
+	.string "ditukar! Itu yang saya dengar.$"
 
 FortreeCity_Text_SomethingUnseeable:
-	.string "Something unseeable is in the way.$"
+	.string "Ada sesuatu yang halimunan menghalang.$"
 
 FortreeCity_Text_UnseeableUseDevonScope:
-	.string "Something unseeable is in the way.\p"
-	.string "Want to use the DEVON SCOPE?$"
+	.string "Ada sesuatu yang halimunan menghalang.\p"
+	.string "Nak guna SKOP DEVON?$"
 
 FortreeCity_Text_UsedDevonScopePokemonFled:
-	.string "{PLAYER} used the DEVON SCOPE.\p"
-	.string "An invisible POKéMON became completely\n"
-	.string "visible!\p"
-	.string "The startled POKéMON fled!$"
+	.string "{PLAYER} menggunakan SKOP DEVON.\p"
+	.string "POKéMON yang halimunan kini kelihatan\n"
+	.string "sepenuhnya!\p"
+	.string "POKéMON yang terkejut itu lari!$"
 
 FortreeCity_Text_CitySign:
-	.string "FORTREE CITY\n"
-	.string "“The treetop city that frolics with\l"
-	.string "nature.”$"
+	.string "BANDAR FORTREE\n"
+	.string "“Bandar puncak pokok yang bermain\l"
+	.string "riang bersama alam.”$"
 
 FortreeCity_Text_GymSign:
-	.string "FORTREE CITY POKéMON GYM\n"
-	.string "LEADER: WINONA\p"
-	.string "“The bird user taking flight into\n"
-	.string "the world.”$"
+	.string "GIM POKéMON BANDAR FORTREE\n"
+	.string "KETUA: WINONA\p"
+	.string "“Pengguna burung yang terbang\n"
+	.string "menjelajah dunia.”$"
 

@@ -18,22 +18,21 @@ GraniteCave_1F_EventScript_ReceivedFlash::
 	end
 
 GraniteCave_1F_Text_GetsDarkAheadHereYouGo:
-	.string "Hey, you.\n"
-	.string "It gets awfully dark ahead.\l"
-	.string "It'll be tough trying to explore.\p"
-	.string "That guy who came by earlier…\n"
-	.string "STEVEN, I think it was.\p"
-	.string "He knew how to use FLASH, so he ought\n"
-	.string "to be all right, but…\p"
-	.string "Well, for us HIKERS, helping out those\n"
-	.string "that we meet is our motto.\p"
-	.string "Here you go, I'll pass this on to you.$"
+	.string "Hei, kamu. Depan sana gelap gelita.\n"
+	.string "Susah nak menjelajah.\p"
+	.string "Lelaki yang lalu tadi… STEVEN, rasanya\n"
+	.string "namanya.\p"
+	.string "Dia tahu guna KILAT, jadi dia patutnya\n"
+	.string "tak apa-apa, tapi…\p"
+	.string "Bagi kami PENDAKI, menolong orang yang\n"
+	.string "kami jumpa ialah moto kami.\p"
+	.string "Nah, saya berikan ini kepada kamu.$"
 
 GraniteCave_1F_Text_ExplainFlash:
-	.string "Teach that hidden move FLASH to\n"
-	.string "a POKéMON and use it.\p"
-	.string "It lights up even the inky darkness\n"
-	.string "of caves.\p"
-	.string "But, to use it, you need the GYM BADGE\n"
-	.string "from DEWFORD's POKéMON GYM.$"
+	.string "Ajar move tersembunyi KILAT kepada\n"
+	.string "POKéMON dan gunakannya.\p"
+	.string "Ia boleh menerangi kegelapan gua yang\n"
+	.string "paling pekat.\p"
+	.string "Tapi untuk menggunakannya, kamu perlu\n"
+	.string "LENCANA GIM dari GIM POKéMON DEWFORD.$"
 

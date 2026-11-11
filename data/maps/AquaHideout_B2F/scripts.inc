@@ -83,72 +83,70 @@ AquaHideout_B2F_EventScript_Grunt8::
 
 AquaHideout_B2F_Text_MattIntro:
 	.string "Hehehe…\p"
-	.string "Got here already, did you?\n"
-	.string "We underestimated you!\p"
-	.string "But this is it!\p"
-	.string "I'm a cut above the GRUNTS you've seen\n"
-	.string "so far.\p"
-	.string "I'm not stalling for time.\n"
-	.string "I'm going to pulverize you!$"
+	.string "Dah sampai sini, ya?\n"
+	.string "Kami pandang rendah pada kau!\p"
+	.string "Tapi setakat ini sajalah!\p"
+	.string "Aku jauh lebih hebat daripada ANAK BUAH\n"
+	.string "yang kau jumpa tadi.\p"
+	.string "Aku bukan nak lengahkan masa.\n"
+	.string "Aku nak hancurkan kau!$"
 
 AquaHideout_B2F_Text_MattDefeat:
 	.string "Hehehe…\n"
-	.string "So, I lost, too…$"
+	.string "Jadi, aku pun kalah juga…$"
 
 AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
 	.string "Hehehe!\p"
-	.string "While I was toying with you, our BOSS\n"
-	.string "got through his preparations!$"
+	.string "Masa aku main-main dengan kau tadi, BOS\n"
+	.string "kami dah siap semua persediaan!$"
 
 AquaHideout_B2F_Text_MattPostBattle:
 	.string "Hehehe!\p"
-	.string "Our BOSS has already gone on his way to\n"
-	.string "some cave under the sea!\p"
-	.string "If you're going to give chase, you'd\n"
-	.string "better search the big, wide sea beyond\l"
-	.string "LILYCOVE.\p"
-	.string "But will you find it then?\n"
+	.string "BOS kami dah pun bertolak ke sebuah gua\n"
+	.string "di dasar laut!\p"
+	.string "Kalau kau nak kejar, baik kau cari di\n"
+	.string "laut luas di seberang LILYCOVE.\p"
+	.string "Tapi boleh ke kau jumpa?\n"
 	.string "Hehehe!$"
 
 AquaHideout_B2F_Text_Grunt4Intro:
-	.string "Wahahah, I grew weary of waiting!\n"
-	.string "You owe me a battle, too!$"
+	.string "Wahahah, dah naik jemu aku menunggu!\n"
+	.string "Kau kena lawan aku juga!$"
 
 AquaHideout_B2F_Text_Grunt4Defeat:
-	.string "Tired of waiting…\n"
-	.string "Lost and dazed…$"
+	.string "Penat menunggu…\n"
+	.string "Kalah pula, pening…$"
 
 AquaHideout_B2F_Text_Grunt4PostBattle:
-	.string "BOSS…\n"
-	.string "Is this good enough?$"
+	.string "BOS…\n"
+	.string "Cukup bagus ke ni?$"
 
 AquaHideout_B2F_Text_Grunt6Intro:
-	.string "Warp panels, the HIDEOUT's pride\n"
-	.string "and joy!\p"
-	.string "You're clueless about where you are,\n"
-	.string "aren't you?\p"
-	.string "Fluster and tire out the enemy, then\n"
-	.string "lower the boom! That's our plan!$"
+	.string "Panel teleport, kebanggaan\n"
+	.string "MARKAS kami!\p"
+	.string "Kau langsung tak tahu kau di mana\n"
+	.string "sekarang, kan?\p"
+	.string "Buat musuh keliru dan penat, lepas tu\n"
+	.string "baru hentam! Itu rancangan kami!$"
 
 AquaHideout_B2F_Text_Grunt6Defeat:
-	.string "What's wrong with you?\n"
-	.string "You're not tired at all!$"
+	.string "Kau ni kenapa?\n"
+	.string "Kau langsung tak penat!$"
 
 AquaHideout_B2F_Text_Grunt6PostBattle:
-	.string "That reminds me… I can't remember\n"
-	.string "where I put the MASTER BALL.\p"
-	.string "If I fail to guard it, our BOSS will\n"
-	.string "chew me out…$"
+	.string "Baru teringat… Aku tak ingat mana aku\n"
+	.string "letak MASTER BALL tu.\p"
+	.string "Kalau aku gagal jaga, BOS kami mesti\n"
+	.string "marah aku teruk…$"
 
 AquaHideout_B2F_Text_Grunt8Intro:
-	.string "When I joined TEAM AQUA, the first\n"
-	.string "thing I had to learn was how these\l"
-	.string "warp panels connected.$"
+	.string "Masa aku mula masuk TEAM AQUA, benda\n"
+	.string "pertama aku kena belajar ialah cara\l"
+	.string "panel teleport ni bersambung.$"
 
 AquaHideout_B2F_Text_Grunt8Defeat:
-	.string "I was too occupied thinking about\n"
-	.string "the warp panels…$"
+	.string "Aku asyik fikir pasal panel teleport…$"
 
 AquaHideout_B2F_Text_Grunt8PostBattle:
-	.string "I'll have to learn about how I can\n"
-	.string "battle more effectively…$"
+	.string "Aku kena belajar cara bertarung dengan\n"
+	.string "lebih berkesan…$"

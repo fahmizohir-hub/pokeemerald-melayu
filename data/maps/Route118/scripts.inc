@@ -237,57 +237,57 @@ Route118_EventScript_Deandre::
 	end
 
 Route118_Text_StevenQuestions:
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
-	.string "It's me, STEVEN!\n"
-	.string "We met in the cave near DEWFORD.\p"
-	.string "Have you met many kinds of POKéMON\n"
-	.string "since I last saw you?\p"
-	.string "There are many, many kinds of POKéMON\n"
-	.string "in this wide world of ours.\p"
-	.string "If you wanted to raise only your\n"
-	.string "favorites, that's fine.\p"
-	.string "Perhaps you find it more fun to raise\n"
-	.string "all sorts of POKéMON.\p"
-	.string "As a TRAINER of POKéMON,\n"
-	.string "what do you think?\p"
-	.string "Of course, it's not any of my business.\p"
-	.string "It would be nice if we were to meet\n"
-	.string "again somewhere.$"
+	.string "STEVEN: Hai, {PLAYER}{KUN}!\p"
+	.string "Ini saya, STEVEN!\n"
+	.string "Kita jumpa dalam gua dekat DEWFORD.\p"
+	.string "Kamu dah jumpa banyak jenis POKéMON\n"
+	.string "sejak kali terakhir kita berjumpa?\p"
+	.string "Ada banyak sangat jenis POKéMON\n"
+	.string "di dunia kita yang luas ni.\p"
+	.string "Kalau kamu nak latih POKéMON\n"
+	.string "kegemaran kamu saja, tak apa.\p"
+	.string "Mungkin kamu rasa lebih seronok\n"
+	.string "melatih pelbagai jenis POKéMON.\p"
+	.string "Sebagai JURULATIH POKéMON,\n"
+	.string "apa pendapat kamu?\p"
+	.string "Sudah tentu, itu bukan urusan saya.\p"
+	.string "Alangkah baiknya kalau kita dapat\n"
+	.string "berjumpa lagi di mana-mana.$"
 
 Route118_Text_YouAgreeGoodRodIsGood:
 	.string "Hmm!\n"
-	.string "A GOOD ROD is really good!\p"
-	.string "Wouldn't you agree?$"
+	.string "JORAN BAGUS memang bagus!\p"
+	.string "Kamu setuju, kan?$"
 
 Route118_Text_IdenticalMindsTakeThis:
 	.string "Hmm!\n"
-	.string "We're of identical minds!\p"
+	.string "Kita sependapat!\p"
 	.string "Hmm!\n"
-	.string "Take this GOOD ROD!$"
+	.string "Ambil JORAN BAGUS ni!$"
 
 Route118_Text_TryYourLuckFishing:
-	.string "Wherever there's water, try your luck\n"
-	.string "at fishing.$"
+	.string "Di mana saja ada air, cubalah nasib\n"
+	.string "kamu memancing.$"
 
 Route118_Text_DontYouLikeToFish:
-	.string "Don't you like to fish?$"
+	.string "Kamu tak suka memancing?$"
 
 Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Try catching all sorts of POKéMON\n"
-	.string "with your GOOD ROD.$"
+	.string "Cubalah tangkap pelbagai POKéMON\n"
+	.string "dengan JORAN BAGUS kamu.$"
 
 Route118_Text_CanCrossRiversWithSurf:
-	.string "Even if there isn't a boat, you can\n"
-	.string "cross rivers and the sea if you have\l"
-	.string "a POKéMON that knows SURF.\p"
-	.string "POKéMON can be counted on to do so\n"
-	.string "much!$"
+	.string "Walaupun tak ada bot, kamu boleh\n"
+	.string "seberang sungai dan laut kalau ada\l"
+	.string "POKéMON yang tahu LUNCUR OMBAK.\p"
+	.string "Memang banyak yang POKéMON boleh\n"
+	.string "bantu kita!$"
 
 Route118_Text_RouteSignMauville:
-	.string "ROUTE 118\n"
-	.string "{LEFT_ARROW} MAUVILLE CITY$"
+	.string "LALUAN 118\n"
+	.string "{LEFT_ARROW} BANDAR MAUVILLE$"
 
 Route118_Text_RouteSign119:
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
+	.string "LALUAN 118\n"
+	.string "{UP_ARROW} LALUAN 119$"
 

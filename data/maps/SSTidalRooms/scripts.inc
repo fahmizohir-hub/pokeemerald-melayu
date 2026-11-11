@@ -63,113 +63,114 @@ SSTidalRooms_EventScript_Naomi::
 	end
 
 SSTidalRooms_Text_TakeRestOnBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "Ada katil…\n"
+	.string "Jom berehat.$"
 
 SSTidalRooms_Text_ColtonIntro:
-	.string "I often sail to LILYCOVE CITY.\p"
-	.string "I enjoy attending CONTESTS,\n"
-	.string "you see.$"
+	.string "Saya selalu belayar ke BANDAR\n"
+	.string "LILYCOVE.\p"
+	.string "Saya suka menyertai PERTANDINGAN,\n"
+	.string "tahu tak.$"
 
 SSTidalRooms_Text_ColtonDefeat:
-	.string "That was an enjoyable match!$"
+	.string "Seronok betul pertarungan tadi!$"
 
 SSTidalRooms_Text_ColtonPostBattle:
-	.string "I get so excited imagining what kinds\n"
-	.string "of POKéMON I'll get to see in the next\l"
-	.string "CONTEST. The anticipation of it thrills!$"
+	.string "Saya teruja sangat bayangkan POKéMON\n"
+	.string "apa yang akan saya tengok dalam\l"
+	.string "PERTANDINGAN akan datang. Tak sabar!$"
 
 SSTidalRooms_Text_MicahIntro:
-	.string "Are your friends strong?$"
+	.string "Kawan-kawan kamu kuat tak?$"
 
 SSTidalRooms_Text_MicahDefeat:
-	.string "Your friends are, indeed, strong.$"
+	.string "Kawan-kawan kamu memang kuat.$"
 
 SSTidalRooms_Text_MicahPostBattle:
-	.string "Friends need not be human.\n"
-	.string "For me, POKéMON are treasured friends!$"
+	.string "Kawan tak semestinya manusia.\n"
+	.string "Bagi saya, POKéMON sahabat berharga!$"
 
 SSTidalRooms_Text_ThomasIntro:
-	.string "Child…\n"
-	.string "Did you knock on the door?$"
+	.string "Nak…\n"
+	.string "Kamu ada ketuk pintu tadi?$"
 
 SSTidalRooms_Text_ThomasDefeat:
-	.string "A loss is to be accepted without haste\n"
-	.string "or panic.$"
+	.string "Kekalahan harus diterima tanpa gopoh\n"
+	.string "atau panik.$"
 
 SSTidalRooms_Text_ThomasPostBattle:
-	.string "To be never ruffled in any situation is\n"
-	.string "the GENTLEMAN's code of conduct.$"
+	.string "Tak pernah gelabah dalam apa jua\n"
+	.string "keadaan, itulah adab lelaki budiman.$"
 
 SSTidalRooms_Text_JedIntro:
-	.string "JED: I feel a little shy about this, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.string "JED: Malu juga saya, tapi…\n"
+	.string "Kami tunjukkan kuasa cinta kami!$"
 
 SSTidalRooms_Text_JedDefeat:
-	.string "JED: Sigh…$"
+	.string "JED: Haih…$"
 
 SSTidalRooms_Text_JedPostBattle:
-	.string "JED: It's the first time that our lovey-\n"
-	.string "dovey power couldn't prevail!\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "JED: Pertama kali kuasa cinta kami\n"
+	.string "tak berjaya!\l"
+	.string "Mesti kamu JURULATIH yang hebat!$"
 
 SSTidalRooms_Text_JedNotEnoughMons:
-	.string "JED: You only have one POKéMON?\n"
-	.string "Isn't that just too lonesome?$"
+	.string "JED: Kamu cuma ada satu POKéMON?\n"
+	.string "Tak sunyi ke?$"
 
 SSTidalRooms_Text_LeaIntro:
-	.string "LEA: I feel a little silly, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.string "LEA: Rasa macam mengada pula, tapi…\n"
+	.string "Kami tunjukkan kuasa cinta kami!$"
 
 SSTidalRooms_Text_LeaDefeat:
-	.string "LEA: Oh, boo!$"
+	.string "LEA: Alaa!$"
 
 SSTidalRooms_Text_LeaPostBattle:
-	.string "LEA: I can't believe it!\n"
-	.string "Our lovey-dovey power failed…\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "LEA: Tak sangka!\n"
+	.string "Kuasa cinta kami gagal…\l"
+	.string "Mesti kamu JURULATIH yang hebat!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "LEA: I wanted to battle…\n"
-	.string "But you don't even have two POKéMON…$"
+	.string "LEA: Saya nak bertarung…\n"
+	.string "Tapi kamu tak ada dua POKéMON pun…$"
 
 SSTidalRooms_Text_GarretIntro:
-	.string "Ah, you've come just in time.\p"
-	.string "I'm bored, you see.\n"
-	.string "You may entertain me.$"
+	.string "Ah, kamu datang tepat pada masanya.\p"
+	.string "Saya bosan, tahu tak.\n"
+	.string "Kamu boleh hiburkan saya.$"
 
 SSTidalRooms_Text_GarretDefeat:
-	.string "…That will do.$"
+	.string "…Cukuplah tu.$"
 
 SSTidalRooms_Text_GarretPostBattle:
-	.string "Perhaps I shall get Father to acquire\n"
-	.string "a yacht for me.\l"
-	.string "A yacht for me and POKéMON!$"
+	.string "Mungkin saya patut minta Ayahanda\n"
+	.string "belikan kapal layar mewah untuk saya.\l"
+	.string "Untuk saya dan POKéMON!$"
 
 SSTidalRooms_Text_NaomiIntro:
-	.string "Oh, you're such an adorable TRAINER.\n"
-	.string "Would you like to have tea?\l"
-	.string "Or would you rather battle?$"
+	.string "Oh, comelnya JURULATIH ni.\n"
+	.string "Nak minum teh?\l"
+	.string "Atau kamu lebih suka bertarung?$"
 
 SSTidalRooms_Text_NaomiDefeat:
-	.string "I see.\n"
-	.string "You're the active sort.$"
+	.string "Begitu.\n"
+	.string "Kamu jenis yang aktif.$"
 
 SSTidalRooms_Text_NaomiPostBattle:
-	.string "A world cruise on a luxury liner has its\n"
-	.string "charms, I must say…\p"
-	.string "But, I will admit there is an appealing\n"
-	.string "side to touring HOENN by ferry.$"
+	.string "Pelayaran dunia dengan kapal mewah\n"
+	.string "memang ada daya tarikannya…\p"
+	.string "Tapi saya akui, melancong di HOENN\n"
+	.string "dengan feri pun ada keseronokannya.$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
-	.string "Uh… Hi! I… I'm not acting suspicious!\n"
-	.string "Uh… You can have this! For free!\p"
-	.string "It… Honestly, I didn't SNATCH it from\n"
-	.string "someone! I'd never do such a thing!\l"
-	.string "It's clean! You can use it!$"
+	.string "Err… Hai! Sa… Saya tak buat benda pelik!\n"
+	.string "Err… Ambillah ni! Percuma!\p"
+	.string "Ini… Sumpah, saya tak RAMPAS benda\n"
+	.string "ni dari orang! Saya takkan buat\l"
+	.string "begitu! Ia bersih! Gunalah!$"
 
 SSTidalRooms_Text_ExplainSnatch:
-	.string "SNATCH steals the beneficial effects\n"
-	.string "of certain moves before they can be\l"
-	.string "used by a foe or ally.$"
+	.string "RAMPAS mencuri kesan baik move\n"
+	.string "tertentu sebelum ia dapat diguna\l"
+	.string "oleh musuh atau rakan.$"
 

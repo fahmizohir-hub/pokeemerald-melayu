@@ -247,87 +247,86 @@ SSTidalCorridor_Movement_SailorReturn:
 	step_end
 
 SSTidalCorridor_Text_ScottBattleFrontierInvite:
-	.string "SCOTT: Well, hi, hi!\n"
+	.string "SCOTT: Hai, hai!\n"
 	.string "{PLAYER}{KUN}, {PLAYER}{KUN}!\p"
-	.string "Something's come up, so I have to\n"
-	.string "disembark, but am I glad to see you!\p"
-	.string "Congratulations, LEAGUE CHAMPION!\p"
-	.string "There's a place I'd like to invite\n"
-	.string "someone like you.\p"
-	.string "It's the…\n"
+	.string "Ada hal, jadi saya kena turun kapal,\n"
+	.string "tapi gembiranya dapat jumpa kamu!\p"
+	.string "Tahniah, JUARA LIGA!\p"
+	.string "Ada satu tempat yang saya nak jemput\n"
+	.string "orang macam kamu.\p"
+	.string "Namanya…\n"
 	.string "BATTLE FRONTIER!\p"
-	.string "What's the place like?\n"
-	.string "You'll understand when you see it!\p"
-	.string "I've spoken with the ship's CAPTAIN\n"
-	.string "about this.\p"
-	.string "The next time you take a ferry,\n"
-	.string "you should be able to sail to\l"
-	.string "the BATTLE FRONTIER.\p"
-	.string "Okay, {PLAYER}{KUN}, I'll be waiting for you\n"
-	.string "at the BATTLE FRONTIER!$"
+	.string "Macam mana tempatnya?\n"
+	.string "Kamu akan faham bila tengok sendiri!\p"
+	.string "Saya dah berbincang dengan KAPTEN\n"
+	.string "kapal tentang hal ini.\p"
+	.string "Lain kali kamu naik feri, kamu boleh\n"
+	.string "belayar ke BATTLE FRONTIER.\p"
+	.string "Okey, {PLAYER}{KUN}, saya tunggu kamu\n"
+	.string "di BATTLE FRONTIER!$"
 
 SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage:
-	.string "This ferry is built to plow through\n"
-	.string "fast-running currents.\p"
-	.string "We hope you enjoy your voyage with us.\n"
-	.string "Feel free to explore the ship.$"
+	.string "Feri ini dibina untuk merentasi arus\n"
+	.string "yang deras.\p"
+	.string "Kami harap anda seronok belayar\n"
+	.string "bersama kami. Silakan teroka kapal ini.$"
 
 SSTidal_Text_HopeYouEnjoyVoyage:
-	.string "We hope you enjoy your voyage on\n"
-	.string "our ferry.$"
+	.string "Kami harap anda seronok belayar dengan\n"
+	.string "feri kami.$"
 
 SSTidal_Text_MadeLandInSlateport:
-	.string "We have made land in SLATEPORT CITY.\n"
-	.string "Thank you for sailing with us.$"
+	.string "Kita dah tiba di BANDAR SLATEPORT.\n"
+	.string "Terima kasih belayar bersama kami.$"
 
 SSTidal_Text_MadeLandInLilycove:
-	.string "We have made land in LILYCOVE CITY.\n"
-	.string "Thank you for sailing with us.$"
+	.string "Kita dah tiba di BANDAR LILYCOVE.\n"
+	.string "Terima kasih belayar bersama kami.$"
 
 SSTidalCorridor_Text_CanRestInCabin2:
-	.string "It'll be some time before we make land,\n"
-	.string "I reckon.\p"
-	.string "You can rest up in your cabin if you'd\n"
-	.string "like. Your cabin's No. 2.\p"
-	.string "The bed in there is soft and plushy.\n"
-	.string "I can attest to how comfy it is!$"
+	.string "Rasanya lambat lagi kita nak sampai.\p"
+	.string "Kamu boleh berehat di kabin kamu kalau\n"
+	.string "mahu. Kabin kamu No. 2.\p"
+	.string "Katil di sana lembut dan empuk.\n"
+	.string "Saya jamin memang selesa!$"
 
 SSTidalCorridor_Text_WeveArrived:
-	.string "We've arrived!$"
+	.string "Kita dah sampai!$"
 
 SSTidalCorridor_Text_VisitOtherCabins:
-	.string "Go visit other cabins.\n"
-	.string "TRAINERS bored of the boat trip will\l"
-	.string "be itching to battle.$"
+	.string "Pergilah melawat kabin lain.\n"
+	.string "JURULATIH yang bosan naik kapal mesti\l"
+	.string "gatal nak bertarung.$"
 
 SSTidalCorridor_Text_EnjoyYourCruise:
-	.string "Enjoy your cruise!$"
+	.string "Selamat belayar!$"
 
 SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole:
-	.string "The horizon spreads beyond\n"
-	.string "the porthole.$"
+	.string "Ufuk terbentang di luar\n"
+	.string "tingkap kapal.$"
 
 SSTidalCorridor_Text_BrineyWelcomeAboard:
-	.string "MR. BRINEY: Welcome aboard, {PLAYER}{KUN}!\p"
-	.string "They made me honorary captain of\n"
-	.string "the S.S. TIDAL!\p"
-	.string "You can call me CAPTAIN BRINEY now!\p"
-	.string "You know, I retired once before,\n"
-	.string "but when I saw this majestic ship…\p"
-	.string "Let me just say, it stirred my sleeping\n"
-	.string "soul as a sailor!$"
+	.string "ENCIK BRINEY: Selamat datang, {PLAYER}{KUN}!\p"
+	.string "Mereka lantik saya jadi kapten\n"
+	.string "kehormat S.S. TIDAL!\p"
+	.string "Sekarang kamu boleh panggil saya\n"
+	.string "KAPTEN BRINEY!\p"
+	.string "Saya pernah bersara dulu, tapi bila saya\n"
+	.string "nampak kapal yang megah ni…\p"
+	.string "Terus bangkit semula jiwa kelasi saya\n"
+	.string "yang dah lama tidur!$"
 
 SSTidalCorridor_Text_Peeko:
 	.string "PEEKO: Pihyo pihyohyo…$"
 
 SSTidalCorridor_Text_Cabin1:
-	.string "Cabin 1$"
+	.string "Kabin 1$"
 
 SSTidalCorridor_Text_Cabin2:
-	.string "Cabin 2$"
+	.string "Kabin 2$"
 
 SSTidalCorridor_Text_Cabin3:
-	.string "Cabin 3$"
+	.string "Kabin 3$"
 
 SSTidalCorridor_Text_Cabin4:
-	.string "Cabin 4$"
+	.string "Kabin 4$"

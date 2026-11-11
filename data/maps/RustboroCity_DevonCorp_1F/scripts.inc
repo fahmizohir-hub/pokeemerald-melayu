@@ -79,66 +79,68 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	end
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Hello and welcome to the DEVON\n"
+	.string "Helo dan selamat datang ke DEVON\n"
 	.string "CORPORATION.\p"
-	.string "We're proud producers of items and\n"
-	.string "medicine that enhance your life.$"
+	.string "Kami pengeluar barang dan ubat-ubatan\n"
+	.string "yang menceriakan hidup anda.$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
-	.string "One of our research staff stupidly\n"
-	.string "got robbed of an important parcel.$"
+	.string "Salah seorang staf penyelidik kami dah\n"
+	.string "bodoh-bodoh kena rompak bungkusan\l"
+	.string "penting.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, those RUNNING SHOES!\n"
-	.string "They're one of our products!\p"
-	.string "It makes me happy when I see someone\n"
-	.string "using something we made.$"
+	.string "Eh, KASUT LARI tu! Itu salah satu\n"
+	.string "produk kami!\p"
+	.string "Saya gembira bila nampak orang guna\n"
+	.string "barang yang kami buat.$"
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
-	.string "That stolen parcel…\p"
-	.string "Well, sure it's important, but it's not\n"
-	.string "anything that anyone can use.\p"
-	.string "In my estimation, that robber must not\n"
-	.string "have been very bright.$"
+	.string "Bungkusan yang dicuri tu…\p"
+	.string "Memanglah ia penting, tapi bukannya\n"
+	.string "benda yang sesiapa boleh guna.\p"
+	.string "Pada pendapat saya, perompak tu mesti\n"
+	.string "tak berapa cerdik.$"
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
-	.string "It sounds like they've recovered\n"
-	.string "the ripped-off DEVON GOODS.$"
+	.string "Nampaknya BARANG DEVON yang dicuri tu\n"
+	.string "dah dapat balik.$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
-	.string "I'm sorry, only authorized people\n"
-	.string "are allowed to enter here.$"
+	.string "Maaf, hanya orang yang dibenarkan\n"
+	.string "boleh masuk ke sini.$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
-	.string "It's beyond stupid.\n"
-	.string "How could we get robbed?$"
+	.string "Bodoh betul. Macam mana kita boleh kena\n"
+	.string "rompak?$"
 
 RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
-	.string "Hi, there!\n"
-	.string "You're always welcome here!$"
+	.string "Hai! Kamu sentiasa dialu-alukan di sini!$"
 
 RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
-	.string "Samples of rocks and metal are\n"
-	.string "displayed in the glass case.\p"
-	.string "There's a panel with some writing\n"
-	.string "on it…\p"
-	.string "“DEVON CORPORATION got its start as\n"
-	.string "a producer of stones from quarries.\p"
-	.string "“The company also produced iron from\n"
-	.string "filings in the sand.\p"
-	.string "“From that humble start as a producer\n"
-	.string "of raw materials, DEVON developed.\p"
-	.string "“DEVON is now a manufacturer of a wide\n"
-	.string "range of industrial products.”$"
+	.string "Sampel batu dan logam dipamerkan dalam\n"
+	.string "bekas kaca.\p"
+	.string "Ada papan dengan tulisan…\p"
+	.string "“DEVON CORPORATION bermula sebagai\n"
+	.string "pengeluar batu dari kuari.\p"
+	.string "“Syarikat ini juga menghasilkan besi\n"
+	.string "daripada serbuk besi dalam pasir.\p"
+	.string "“Dari permulaan sederhana sebagai\n"
+	.string "pengeluar bahan mentah, DEVON terus\l"
+	.string "berkembang.\p"
+	.string "“DEVON kini pengilang pelbagai jenis\n"
+	.string "produk perindustrian.”$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
-	.string "Prototypes and test products fill\n"
-	.string "the glass display case.\p"
-	.string "There's a panel with a description…\p"
-	.string "“In addition to industrial products,\n"
-	.string "DEVON now markets sundries and\l"
-	.string "pharmaceuticals for better lifestyles.\p"
-	.string "“Recently, DEVON has begun marketing\n"
-	.string "tools for POKéMON TRAINERS, including\l"
-	.string "POKé BALLS and POKéNAV systems.”$"
+	.string "Prototaip dan produk ujian memenuhi\n"
+	.string "bekas pameran kaca.\p"
+	.string "Ada papan dengan penerangan…\p"
+	.string "“Selain produk perindustrian, DEVON\n"
+	.string "kini memasarkan barang runcit dan\l"
+	.string "farmaseutikal untuk gaya hidup lebih\l"
+	.string "baik.\p"
+	.string "“Baru-baru ini, DEVON mula memasarkan\n"
+	.string "alatan untuk JURULATIH POKéMON,\l"
+	.string "termasuk POKé BALL dan sistem\l"
+	.string "POKéNAV.”$"
 

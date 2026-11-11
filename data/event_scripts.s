@@ -834,122 +834,125 @@ Common_EventScript_PlayerHandedOverTheItem::
 
 @ The below and surf.inc could be split into some text/notices.inc
 gText_PokemartSign::
-	.string "“Selected items for your convenience!”\n"
-	.string "POKéMON MART$"
+	.string "“Barang pilihan untuk kemudahan anda!”\n"
+	.string "POKé MART$"
 
 gText_PokemonCenterSign::
-	.string "“Rejuvenate your tired partners!”\n"
-	.string "POKéMON CENTER$"
+	.string "“Pulihkan rakan anda yang keletihan!”\n"
+	.string "PUSAT POKéMON$"
 
 gText_MomOrDadMightLikeThisProgram::
-	.string "{STR_VAR_1} might like this program.\n"
+	.string "{STR_VAR_1} mungkin suka rancangan ni.\n"
 	.string "… … … … … … … … … … … … … … … …\p"
-	.string "Better get going!$"
+	.string "Baik aku gerak sekarang!$"
 
 gText_WhichFloorWouldYouLike::
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
-	.string "Which floor would you like?$"
+	.string "Selamat datang ke PASAR RAYA LILYCOVE.\p"
+	.string "Anda mahu ke tingkat mana?$"
 
 gText_SandstormIsVicious::
-	.string "The sandstorm is vicious.\n"
-	.string "It's impossible to keep going.$"
+	.string "Ribut pasir ini sangat ganas.\n"
+	.string "Mustahil untuk terus mara.$"
 
 gText_SelectWithoutRegisteredItem::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "Barang dalam BEG boleh didaftarkan\n"
+	.string "pada SELECT supaya mudah diguna.$"
 
 gText_PokemonTrainerSchoolEmail::
-	.string "There's an e-mail from POKéMON TRAINER\n"
-	.string "SCHOOL.\p"
+	.string "Ada e-mel daripada SEKOLAH\n"
+	.string "JURULATIH POKéMON.\p"
 	.string "… … … … … …\p"
-	.string "A POKéMON may learn up to four moves.\p"
-	.string "A TRAINER's expertise is tested on the\n"
-	.string "move sets chosen for POKéMON.\p"
+	.string "POKéMON boleh belajar sehingga\n"
+	.string "empat move.\p"
+	.string "Kepakaran JURULATIH diuji melalui\n"
+	.string "set move yang dipilih untuk POKéMON.\p"
 	.string "… … … … … …$"
 
 gText_PlayerHouseBootPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} menghidupkan PC.$"
 
 gText_PokeblockLinkCanceled::
-	.string "The link was canceled.$"
+	.string "Link telah dibatalkan.$"
 
 gText_UnusedNicknameReceivedPokemon::
-	.string "Want to give a nickname to\n"
-	.string "the {STR_VAR_2} you received?$"
+	.string "Nak beri nama timangan kepada\n"
+	.string "{STR_VAR_2} yang kamu terima?$"
 
 gText_PlayerWhitedOut::
-	.string "{PLAYER} is out of usable\n"
-	.string "POKéMON!\p{PLAYER} whited out!$"
+	.string "{PLAYER} dah kehabisan POKéMON\n"
+	.string "yang boleh bertarung!\p"
+	.string "{PLAYER} pitam!$"
 
 gText_RegisteredTrainerinPokeNav::
-	.string "Registered {STR_VAR_1} {STR_VAR_2}\n"
-	.string "in the POKéNAV.$"
+	.string "{STR_VAR_1} {STR_VAR_2}\n"
+	.string "didaftarkan dalam POKéNAV.$"
 
 gText_ComeBackWithSecretPower::
-	.string "Do you know the TM SECRET POWER?\p"
-	.string "Our group, we love the TM SECRET\n"
-	.string "POWER.\p"
-	.string "One of our members will give it to you.\n"
-	.string "Come back and show me if you get it.\p"
-	.string "We'll accept you as a member and sell\n"
-	.string "you good stuff in secrecy.$"
+	.string "Kamu tahu TM KUASA RAHSIA?\p"
+	.string "Kumpulan kami sangat suka\n"
+	.string "TM KUASA RAHSIA.\p"
+	.string "Salah seorang ahli kami akan\n"
+	.string "berikannya kepada kamu.\l"
+	.string "Datang balik dan tunjuk kalau dapat.\p"
+	.string "Kami akan terima kamu sebagai ahli\n"
+	.string "dan jual barang bagus secara rahsia.$"
 
 gText_PokerusExplanation::
-	.string "Your POKéMON may be infected with\n"
+	.string "POKéMON kamu mungkin dijangkiti\n"
 	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
-	.string "except that they are microscopic life-\l"
-	.string "forms that attach to POKéMON.\p"
-	.string "While infected, POKéMON are said to\n"
-	.string "grow exceptionally well.$"
+	.string "Tak banyak yang diketahui tentang\n"
+	.string "POKéRUS, kecuali ia hidupan mikro\l"
+	.string "yang melekat pada POKéMON.\p"
+	.string "Semasa dijangkiti, POKéMON dikatakan\n"
+	.string "membesar dengan sangat baik.$"
 
 	.include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway::
-	.string "It sounded as if a door opened\n"
-	.string "somewhere far away.$"
+	.string "Kedengaran seperti ada pintu\n"
+	.string "terbuka di tempat yang jauh.$"
 
 gText_BigHoleInTheWall::
-	.string "There is a big hole in the wall.$"
+	.string "Ada lubang besar di dinding.$"
 
 gText_SorryWirelessClubAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "Saya mohon maaf.\n"
+	.string "KELAB WAYARLES POKéMON sedang\l"
+	.string "dalam penyelenggaraan.$"
 
 gText_UndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "Nampaknya ia sedang dalam\n"
+	.string "penyelenggaraan…$"
 
 @ Unused
 gText_SorryTradeCenterInspections::
-	.string "I'm terribly sorry. The TRADE CENTER\n"
-	.string "is undergoing inspections.$"
+	.string "Saya mohon maaf. PUSAT TUKARAN\n"
+	.string "sedang diperiksa.$"
 
 @ Unused
 gText_SorryRecordCornerPreparation::
-	.string "I'm terribly sorry. The RECORD CORNER\n"
-	.string "is under preparation.$"
+	.string "Saya mohon maaf. SUDUT REKOD\n"
+	.string "sedang disediakan.$"
 
 gText_PlayerHandedOverTheItem::
-	.string "{PLAYER} handed over the\n"
+	.string "{PLAYER} menyerahkan\n"
 	.string "{STR_VAR_1}.$"
 
 gText_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+	.string "Terima kasih kerana menggunakan\n"
+	.string "Sistem HADIAH MISTERI.$"
 
 gText_PlayerFoundOneTMHM::
-	.string "{PLAYER} found one {STR_VAR_1}\n"
+	.string "{PLAYER} menjumpai satu {STR_VAR_1}\n"
 	.string "{STR_VAR_2}!$"
 
 gText_Sudowoodo_Attacked::
-	.string "The weird tree doesn't like the\n"
-	.string "WAILMER PAIL!\p"
-	.string "The weird tree attacked!$"
+	.string "Pokok pelik ini tak suka\n"
+	.string "BALDI WAILMER!\p"
+	.string "Pokok pelik itu menyerang!$"
 
 gText_LegendaryFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "{STR_VAR_1} itu terbang pergi!$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/questionnaire.inc"

@@ -305,78 +305,79 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
+	.string "{PLAYER} menulis kod rahsia pada pintu.\p"
+	.string "“PAKAR HELAH memang comel dipeluk.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Kunci terbuka dengan bunyi klik!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The TRICK MASTER always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.string "PAKAR HELAH selalu lesap macam asap.\n"
+	.string "Macam mana dia buat?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.string "Aiyeeeh! Kamu kuat sangat!\n"
+	.string "Macam mana kamu buat?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.string "Saya pun teringin nak muncul dan hilang\n"
+	.string "macam asap.$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.string "Berpusing di tempat yang sama…\n"
+	.string "Ia membawa nasib malang…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.string "Kalah!\n"
+	.string "Ini petanda buruk…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.string "Saya dah pusing tempat yang sama lebih\n"
+	.string "sepuluh kali… Nasib malang…$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.string "Sesiapa yang menang akan lepas dulu.\n"
+	.string "Itulah firasat saya.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
 	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.string "Kalau begitu, silakan!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "You're solving all the puzzles in the\n"
-	.string "TRICK HOUSE. That's the feeling I get.$"
+	.string "Kamu sedang selesaikan semua\n"
+	.string "teka-teki RUMAH HELAH. Itulah firasat\l"
+	.string "saya.$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.string "Nufufufu, akhirnya sampai!\n"
+	.string "Jom terus mula!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "Selamba saja kamu menang!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.string "Hmph! Saya tak marah!\n"
+	.string "Tak langsung!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "Saya perhatikan kamu datang dengan\n"
+	.string "teliti sekali!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "Kesudahan ni tak saya jangka…$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.string "Apa-apa pun, kita berdua pilih tempat\n"
+	.string "pelik untuk berkenalan.\p"
+	.string "Sesama orang pelik, jom buat yang\n"
+	.string "terbaik!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "Sempit betul di sini…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "Oh, ya, kuat kamu ni.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.string "Saya harap dapat bertukar tempat\n"
+	.string "dengan kamu kalau saya menang, tapi…$"
 

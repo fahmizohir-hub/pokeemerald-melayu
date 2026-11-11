@@ -1,487 +1,487 @@
 CableClub_Text_WelcomeWhichCableClubService:
-	.string "Welcome to the POKéMON CABLE\n"
-	.string "CLUB.\p"
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "Selamat datang ke KELAB KABEL\n"
+	.string "POKéMON.\p"
+	.string "Perkhidmatan mana yang anda mahu\n"
+	.string "gunakan?$"
 
 CableClub_Text_WhichService:
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "Perkhidmatan mana yang anda mahu\n"
+	.string "gunakan?$"
 
 CableClub_Text_TradeUsingLinkCable::
-	.string "Trade POKéMON with another player\n"
-	.string "using a GBA Game Link cable.$"
+	.string "Tukar POKéMON dengan pemain lain\n"
+	.string "guna Kabel Game Link GBA.$"
 
 CableClub_Text_BattleUsingLinkCable::
-	.string "You may battle another TRAINER\n"
-	.string "using a GBA Game Link cable.$"
+	.string "Bertarung dengan JURULATIH lain\n"
+	.string "guna Kabel Game Link GBA.$"
 
 CableClub_Text_RecordCornerUsingLinkCable::
-	.string "You can use the RECORD CORNER with\n"
-	.string "others using a GBA Game Link cable.$"
+	.string "Guna SUDUT REKOD bersama orang\n"
+	.string "lain dengan Kabel Game Link GBA.$"
 
 @ Unused
 CableClub_Text_CloseThisMenu:
-	.string "Close this menu.$"
+	.string "Tutup menu ini.$"
 
 CableClub_Text_NeedTwoMonsForDoubleBattle:
-	.string "For a DOUBLE BATTLE, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "Untuk TARUNG GANDA, anda mesti\n"
+	.string "ada sekurang-kurangnya dua POKéMON.$"
 
 CableClub_Text_NeedTwoMonsToTrade:
-	.string "For trading, you must have at\n"
-	.string "least two POKéMON with you.$"
+	.string "Untuk bertukar, anda mesti bawa\n"
+	.string "sekurang-kurangnya dua POKéMON.$"
 
 CableClub_Text_CantTradeEnigmaBerry:
-	.string "A POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY can't be traded.$"
+	.string "POKéMON yang memegang {STR_VAR_1}\n"
+	.string "BERRY tidak boleh ditukar.$"
 
 gText_PleaseWaitForLink::
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Sila tunggu.\n"
+	.string "… … Butang B: Batal$"
 
 gText_ConfirmLinkWhenPlayersReady::
-	.string "When all players are ready…\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "Bila semua pemain sudah sedia…\n"
+	.string "Butang A: Sahkan\l"
+	.string "Butang B: Batal$"
 
 gText_ConfirmStartLinkWithXPlayers::
-	.string "Start link with {STR_VAR_1} players.\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "Mula link dengan {STR_VAR_1} pemain.\n"
+	.string "Butang A: Sahkan\l"
+	.string "Butang B: Batal$"
 
 gText_AwaitingLinkup::
-	.string "Awaiting linkup…\n"
-	.string "… … B Button: Cancel$"
+	.string "Menunggu link…\n"
+	.string "… … Butang B: Batal$"
 
 @ Unused
 CableClub_Text_OkayToSaveProgress::
-	.string "Your progress must be saved before\n"
-	.string "linking. Is it okay to save?$"
+	.string "Kemajuan anda mesti disimpan sebelum\n"
+	.string "link. Boleh simpan sekarang?$"
 
 CableClub_Text_PleaseEnter:
-	.string "Please enter.$"
+	.string "Sila masuk.$"
 
 CableClub_Text_DirectYouToYourRoom:
-	.string "I'll direct you to your room now.$"
+	.string "Saya akan bawa anda ke bilik anda.$"
 
 Text_SomeoneIsNotReadyToLink:
-	.string "Someone is not ready to link.\p"
-	.string "Please come back after everyone\n"
-	.string "has made preparations.$"
+	.string "Ada orang yang belum sedia untuk link.\p"
+	.string "Sila datang semula selepas semua\n"
+	.string "orang sudah bersedia.$"
 
 Text_LinkErrorPleaseReset:
-	.string "Sorry, we have a link error…\n"
-	.string "Please reset and try again.$"
+	.string "Maaf, berlaku ralat link…\n"
+	.string "Sila tetapkan semula dan cuba lagi.$"
 
 Text_PlayersMadeDifferentSelections:
-	.string "The link partners appear to have\n"
-	.string "made different selections.$"
+	.string "Rakan link nampaknya telah\n"
+	.string "membuat pilihan yang berbeza.$"
 
 CableClub_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "Sila datang lagi.$"
 
 CableClub_Text_IncorrectNumberOfParticipants:
-	.string "The number of participants is\n"
-	.string "incorrect.$"
+	.string "Bilangan peserta tidak\n"
+	.string "betul.$"
 
 CableClub_Text_CantSingleBattleWithXPlayers:
-	.string "The SINGLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "Mod TARUNG TUNGGAL tidak boleh\n"
+	.string "dimainkan oleh {STR_VAR_1} pemain.$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers:
-	.string "The DOUBLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "Mod TARUNG GANDA tidak boleh\n"
+	.string "dimainkan oleh {STR_VAR_1} pemain.$"
 
 CableClub_Text_NeedFourPlayers:
-	.string "There must be four players to play\n"
-	.string "this Battle Mode.$"
+	.string "Mod Tarung ini memerlukan\n"
+	.string "empat pemain.$"
 
 CableClub_Text_PleaseConfirmNumberAndRestart:
-	.string "Please confirm the number of\n"
-	.string "players and start again.$"
+	.string "Sila sahkan bilangan pemain\n"
+	.string "dan mula semula.$"
 
 Text_TerminateLinkConfirmation:
-	.string "The link will be terminated if you\n"
-	.string "leave the room. Is that okay?$"
+	.string "Link akan ditamatkan jika anda\n"
+	.string "keluar dari bilik. Boleh?$"
 
 Text_TerminateLinkPleaseWait:
-	.string "Terminating link…\n"
-	.string "You will be escorted out of\l"
-	.string "the room. Please wait.$"
+	.string "Menamatkan link…\n"
+	.string "Anda akan diiringi keluar dari\l"
+	.string "bilik. Sila tunggu.$"
 
 CableClub_Text_TooBusyToNotice:
-	.string "This TRAINER is too busy to\n"
-	.string "notice…$"
+	.string "JURULATIH ini terlalu sibuk untuk\n"
+	.string "perasan…$"
 
 CableClub_Text_GotToLookAtTrainerCard:
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!$"
+	.string "Berjaya! Dapat tengok KAD JURULATIH\n"
+	.string "{STR_VAR_1}!$"
 
 CableClub_Text_GotToLookAtColoredTrainerCard:
-	.string "Score! Got to look at {STR_VAR_1}'s\n"
-	.string "TRAINER CARD!\p"
-	.string "It's a {STR_VAR_2} card!$"
+	.string "Berjaya! Dapat tengok KAD JURULATIH\n"
+	.string "{STR_VAR_1}!\p"
+	.string "Ia kad {STR_VAR_2}!$"
 
 BattleColosseum_2P_Text_TakePlaceStartBattle:
-	.string "Please take your place and start\n"
-	.string "your battle.$"
+	.string "Sila ambil tempat anda dan mulakan\n"
+	.string "pertarungan.$"
 
 TradeCenter_Text_TakeSeatStartTrade:
-	.string "Please take your seat and start\n"
-	.string "your trade.$"
+	.string "Sila ambil tempat duduk anda dan\n"
+	.string "mulakan pertukaran.$"
 
 RecordCorner_Text_ThanksForComing:
-	.string "Thanks for coming.$"
+	.string "Terima kasih kerana datang.$"
 
 CableClub_Text_TrainerCardDataOverwritten:
-	.string "The TRAINER CARD data will\n"
-	.string "be overwritten.$"
+	.string "Data KAD JURULATIH akan\n"
+	.string "ditulis ganti.$"
 
 CableClub_Text_HopeToSeeYouAgain:
-	.string "I hope to see you again!$"
+	.string "Saya harap dapat jumpa anda lagi!$"
 
 CableClub_Text_NotSetUpForFarAwayRegion:
-	.string "I'm awfully sorry.\p"
-	.string "We're not set up to conduct trades\n"
-	.string "with TRAINERS far away in another\l"
-	.string "region yet…$"
+	.string "Saya minta maaf sangat.\p"
+	.string "Kami belum bersedia untuk pertukaran\n"
+	.string "dengan JURULATIH yang jauh di\l"
+	.string "wilayah lain…$"
 
 CableClub_Text_OtherTrainerNotReady:
-	.string "The other TRAINER is not ready.$"
+	.string "JURULATIH yang satu lagi belum sedia.$"
 
 CableClub_Text_YouHaveAMonThatCantBeTaken:
-	.string "You have at least one POKéMON\n"
-	.string "that can't be taken.$"
+	.string "Anda ada sekurang-kurangnya satu\n"
+	.string "POKéMON yang tidak boleh dibawa.$"
 
 RecordCorner_Text_TakeSeatAndWait:
-	.string "Please take your seat and wait.$"
+	.string "Sila ambil tempat duduk dan tunggu.$"
 
 RecordCorner_Text_PlayerSentOverOneX:
-	.string "{STR_VAR_1} sent over one\n"
+	.string "{STR_VAR_1} menghantar satu\n"
 	.string "{STR_VAR_2}.$"
 
 CableClub_Text_CantMixWithJapaneseGame:
-	.string "Sorry, there is a transmission error.\p"
-	.string "You may not mix records with  \n"
-	.string "Japanese Ruby or Sapphire games.\p"
-	.string "Also, you can't mix records with\n"
-	.string "Japanese Emerald and overseas Ruby\l"
-	.string "or Sapphire games at the same time.$"
+	.string "Maaf, berlaku ralat penghantaran.\p"
+	.string "Anda tidak boleh campur rekod dengan  \n"
+	.string "permainan Ruby atau Sapphire Jepun.\p"
+	.string "Anda juga tidak boleh campur rekod\n"
+	.string "dengan Emerald Jepun dan Ruby atau\l"
+	.string "Sapphire luar negara serentak.$"
 
 CableClub_Text_AdapterNotConnected:
-	.string "The Wireless Adapter is not\n"
-	.string "connected properly.$"
+	.string "Penyesuai Wayarles tidak\n"
+	.string "disambung dengan betul.$"
 
 CableClub_Text_ParticipantsStepUpToCounter:
-	.string "Participants are asked to step up\n"
-	.string "to the reception counter.$"
+	.string "Para peserta diminta untuk ke\n"
+	.string "kaunter penerimaan.$"
 
 @ Unused
 CableClub_Text_Hello:
-	.string "Hello!$"
+	.string "Helo!$"
 
 @ Unused
 CableClub_Text_PleaseWait:
-	.string "Please wait.$"
+	.string "Sila tunggu.$"
 
 CableClub_Text_YouMayTradeHere::
-	.string "You may trade your POKéMON here\n"
-	.string "with another TRAINER.$"
+	.string "Anda boleh tukar POKéMON di sini\n"
+	.string "dengan JURULATIH lain.$"
 
 CableClub_Text_YouMayBattleHere::
-	.string "You may battle with your friends\n"
-	.string "here.$"
+	.string "Anda boleh bertarung dengan kawan\n"
+	.string "di sini.$"
 
 CableClub_Text_CanMakeBerryPowder::
-	.string "Two to five TRAINERS can make\n"
-	.string "BERRY POWDER together.$"
+	.string "Dua hingga lima JURULATIH boleh buat\n"
+	.string "SERBUK BERRY bersama-sama.$"
 
 CableClub_Text_CanMixRecords::
-	.string "The records of two to four players\n"
-	.string "can be mixed together.$"
+	.string "Rekod dua hingga empat pemain\n"
+	.string "boleh dicampurkan bersama.$"
 
 @ Unused
 CableClub_Text_GuideToVariousServices:
-	.string "A guide to the WIRELESS CLUB's\n"
-	.string "various services.$"
+	.string "Panduan pelbagai perkhidmatan\n"
+	.string "KELAB WAYARLES.$"
 
 CableClub_Text_CancelSelectedItem::
-	.string "Cancels the selected MENU item.$"
+	.string "Batalkan pilihan MENU ini.$"
 
 @ Unused
 CableClub_Text_WhichBattleMode:
-	.string "Which battle mode would you like?$"
+	.string "Mod tarung mana yang anda mahu?$"
 
 @ Unused
 CableClub_Text_ReturnsToPreviousStep:
-	.string "Returns to the previous step.$"
+	.string "Kembali ke langkah sebelumnya.$"
 
 CableClub_Text_NeedBerryForBerryCrush:
-	.string "To use the BERRY CRUSH service,\n"
-	.string "you must have at least one BERRY.$"
+	.string "Untuk guna HANCUR BERRY, anda\n"
+	.string "mesti ada sekurang-kurangnya 1 BERRY.$"
 
 CableClub_Text_NeedTwoMonsForUnionRoom:
-	.string "To enter the UNION ROOM, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "Untuk masuk UNION ROOM, anda mesti\n"
+	.string "ada sekurang-kurangnya dua POKéMON.$"
 
 CableClub_Text_NoEnigmaBerryInUnionRoom:
-	.string "No POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY may enter the UNION ROOM.$"
+	.string "POKéMON yang memegang {STR_VAR_1}\n"
+	.string "BERRY tidak boleh masuk UNION ROOM.$"
 
 CableClub_Text_UnionRoomAdapterNotConnected:
-	.string "This is the POKéMON WIRELESS CLUB\n"
-	.string "UNION ROOM.\p"
-	.string "Unfortunately, your Wireless\n"
-	.string "Adapter is not connected properly.\p"
-	.string "Please do come again.$"
+	.string "Inilah UNION ROOM KELAB\n"
+	.string "WAYARLES POKéMON.\p"
+	.string "Malangnya, Penyesuai Wayarles anda\n"
+	.string "tidak disambung dengan betul.\p"
+	.string "Sila datang lagi.$"
 
 @ Unused
 CableClub_Text_OhExcuseMe:
 	.string "Oh…\n"
-	.string "Excuse me!$"
+	.string "Maafkan saya!$"
 
 CableClub_Text_PlayerIsWaiting:
-	.string "It appears as if {STR_VAR_1} is playing\n"
-	.string "right now.\l"
-	.string "Go for it!$"
+	.string "Nampaknya {STR_VAR_1} sedang bermain\n"
+	.string "sekarang.\l"
+	.string "Teruskan!$"
 
 MossdeepCity_GameCorner_1F_Text_DescribeWhichGame:
-	.string "I can explain game rules to you,\n"
-	.string "if you'd like.\p"
-	.string "Which game should I describe?$"
+	.string "Saya boleh terangkan peraturan\n"
+	.string "permainan, kalau kamu mahu.\p"
+	.string "Permainan mana yang nak diterangkan?$"
 
 MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo:
-	.string "“POKéMON JUMP”\p"
-	.string "Make your POKéMON skip the VINE WHIP\n"
-	.string "rope with the A Button.\p"
-	.string "Only mini POKéMON around 28 inches\n"
-	.string "or less may participate.\p"
-	.string "POKéMON that only swim, burrow,\n"
-	.string "or fly are not good at jumping.\p"
-	.string "As a result, those POKéMON may not\n"
-	.string "participate.\p"
-	.string "Good things happen if everyone\n"
-	.string "jumps in time.$"
+	.string "“LOMPAT POKéMON”\p"
+	.string "Buat POKéMON kamu lompat tali SEBAT\n"
+	.string "SULUR dengan Butang A.\p"
+	.string "Hanya POKéMON kecil sekitar 28 inci\n"
+	.string "atau kurang boleh menyertai.\p"
+	.string "POKéMON yang hanya berenang, mengorek\n"
+	.string "atau terbang tidak pandai melompat.\p"
+	.string "Oleh itu, POKéMON tersebut tidak\n"
+	.string "boleh menyertai.\p"
+	.string "Perkara baik berlaku jika semua\n"
+	.string "melompat serentak.$"
 
 MossdeepCity_GameCorner_1F_Text_DodrioBerryPickingInfo:
-	.string "“DODRIO BERRY-PICKING”\p"
-	.string "Command DODRIO's three heads to\n"
-	.string "catch falling BERRIES.\p"
-	.string "Press right, up, or left on the\n"
-	.string "{PLUS} Control Pad to move the heads.\p"
-	.string "To play this game, you must have\n"
-	.string "a DODRIO.$"
+	.string "“PETIK BERRY DODRIO”\p"
+	.string "Arahkan tiga kepala DODRIO untuk\n"
+	.string "menangkap BERRY yang jatuh.\p"
+	.string "Tekan kanan, atas atau kiri pada\n"
+	.string "Pad Kawalan {PLUS} untuk gerakkan kepala.\p"
+	.string "Untuk main permainan ini, kamu mesti\n"
+	.string "ada DODRIO.$"
 
 MossdeepCity_GameCorner_1F_Text_TalkToOldManToPlay:
-	.string "If you want to play a game,\n"
-	.string "please tell the old man beside me.$"
+	.string "Kalau kamu nak main, sila beritahu\n"
+	.string "pak cik di sebelah saya.$"
 
 MossdeepCity_GameCorner_1F_Text_WelcomeCanYouWait:
-	.string "Hi, welcome!\n"
-	.string "Are you here to play games using\l"
-	.string "Wireless Communication?\p"
-	.string "Can you wait just a little bit?$"
+	.string "Hai, selamat datang!\n"
+	.string "Kamu datang untuk main permainan\l"
+	.string "guna Komunikasi Wayarles?\p"
+	.string "Boleh tunggu sekejap?$"
 
 MossdeepCity_GameCorner_1F_Text_ComeAgain:
-	.string "All right, come again!$"
+	.string "Baiklah, datang lagi!$"
 
 MossdeepCity_GameCorner_1F_Text_AdapterNotConnected:
-	.string "The Wireless Adapter isn't connected.\n"
-	.string "Come back when it's hooked up!$"
+	.string "Penyesuai Wayarles tidak disambung.\n"
+	.string "Datang semula bila dah disambung!$"
 
 MossdeepCity_GameCorner_1F_Text_PlayWhichGame:
-	.string "All right, which game did you want\n"
-	.string "to play?$"
+	.string "Baiklah, permainan mana yang kamu\n"
+	.string "nak main?$"
 
 MossdeepCity_GameCorner_1F_Text_EnterWhichPokemon:
-	.string "Which POKéMON would you like to\n"
-	.string "enter?$"
+	.string "POKéMON mana yang kamu nak\n"
+	.string "masukkan?$"
 
 MossdeepCity_GameCorner_1F_Text_AllGoodToGo:
-	.string "Okay, you're all good to go.\n"
-	.string "Don't let the others beat you!$"
+	.string "Okey, semuanya dah sedia.\n"
+	.string "Jangan biar orang lain kalahkan kamu!$"
 
 @ Unused
 MossdeepCity_GameCorner_1F_Text_LeavingDoComeAgain:
-	.string "Are you leaving now?\n"
-	.string "Do come again!$"
+	.string "Kamu nak pergi sekarang?\n"
+	.string "Datanglah lagi!$"
 
 MossdeepCity_GameCorner_1F_Text_ExplainRequiredMon:
-	.string "It doesn't look like you have any\n"
-	.string "POKéMON that you can enter…\p"
-	.string "Would you like me to explain what\n"
-	.string "kinds of POKéMON can enter?$"
+	.string "Nampaknya kamu tiada POKéMON\n"
+	.string "yang boleh dimasukkan…\p"
+	.string "Nak saya terangkan jenis POKéMON\n"
+	.string "yang boleh masuk?$"
 
 MossdeepCity_GameCorner_1F_Text_ShortJumpingPokemonAllowed:
-	.string "“POKéMON JUMP” is open to POKéMON\n"
-	.string "around 28 inches or less.\p"
-	.string "What you can't enter are those\n"
-	.string "POKéMON that can't jump.\p"
-	.string "You know, like POKéMON that only\n"
-	.string "swim, burrow, or fly.\p"
-	.string "That's all you need to know.$"
+	.string "“LOMPAT POKéMON” terbuka untuk\n"
+	.string "POKéMON sekitar 28 inci atau kurang.\p"
+	.string "Yang tak boleh masuk ialah POKéMON\n"
+	.string "yang tak boleh melompat.\p"
+	.string "Macam POKéMON yang hanya berenang,\n"
+	.string "mengorek atau terbang.\p"
+	.string "Itu sahaja yang kamu perlu tahu.$"
 
 MossdeepCity_GameCorner_1F_Text_OnlyDodrioAllowed:
-	.string "DODRIO BERRY-PICKING is a game that \n"
-	.string "only DODRIO may enter.$"
+	.string "PETIK BERRY DODRIO ialah permainan\n"
+	.string "yang hanya DODRIO boleh sertai.$"
 
 @ Unused
 MossdeepCity_GameCorner_1F_Text_RetryPlease:
-	.string "Could you retry this from the start\n"
-	.string "again, please?$"
+	.string "Boleh kamu cuba semula dari\n"
+	.string "awal?$"
 
 CableClub_Text_WelcomeWhichDirectCornerRoom:
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB DIRECT CORNER.\p"
-	.string "You may interact directly with\n"
-	.string "your friends here.\p"
-	.string "Which room would you like to\n"
-	.string "enter?$"
+	.string "Selamat datang ke SUDUT TERUS\n"
+	.string "KELAB WAYARLES POKéMON.\p"
+	.string "Anda boleh berinteraksi terus\n"
+	.string "dengan kawan-kawan di sini.\p"
+	.string "Bilik mana yang anda mahu\n"
+	.string "masuk?$"
 
 CableClub_Text_TradePokemon:
-	.string "Would you like to trade POKéMON?$"
+	.string "Anda mahu tukar POKéMON?$"
 
 CableClub_Text_PlayWhichBattleMode:
-	.string "Which Battle Mode would you like\n"
-	.string "to play?$"
+	.string "Mod Tarung mana yang anda mahu\n"
+	.string "main?$"
 
 CableClub_Text_AccessRecordCorner:
-	.string "Would you like to access\n"
-	.string "the RECORD CORNER?$"
+	.string "Anda mahu guna\n"
+	.string "SUDUT REKOD?$"
 
 CableClub_Text_UseBerryCrush:
-	.string "Would you like to use the\n"
-	.string "BERRY CRUSH System?$"
+	.string "Anda mahu guna Sistem\n"
+	.string "HANCUR BERRY?$"
 
 CableClub_Text_ExplainBattleModes:
-	.string "There are three Battle Modes.\p"
-	.string "SINGLE BATTLE is for two TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.\p"
-	.string "DOUBLE BATTLE is for two TRAINERS\n"
-	.string "with two or more POKéMON each.\p"
-	.string "Each TRAINER will send out two\n"
-	.string "POKéMON in battle at a time.\p"
-	.string "MULTI BATTLE is for four TRAINERS\n"
-	.string "with one or more POKéMON each.\p"
-	.string "Each TRAINER can have one POKéMON\n"
-	.string "in battle at a time.$"
+	.string "Ada tiga Mod Tarung.\p"
+	.string "TARUNG TUNGGAL untuk dua JURULATIH\n"
+	.string "dengan satu atau lebih POKéMON.\p"
+	.string "Setiap JURULATIH hanya boleh hantar\n"
+	.string "satu POKéMON pada satu masa.\p"
+	.string "TARUNG GANDA untuk dua JURULATIH\n"
+	.string "dengan dua atau lebih POKéMON.\p"
+	.string "Setiap JURULATIH akan hantar dua\n"
+	.string "POKéMON untuk bertarung serentak.\p"
+	.string "TARUNG MULTI untuk empat JURULATIH\n"
+	.string "dengan satu atau lebih POKéMON.\p"
+	.string "Setiap JURULATIH hanya boleh hantar\n"
+	.string "satu POKéMON pada satu masa.$"
 
 CableClub_Text_ChooseGroupLeaderOfTwo:
-	.string "Please decide which of you two\n"
-	.string "will become the LEADER.\p"
-	.string "The other player must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "Sila tentukan siapa antara anda berdua\n"
+	.string "yang akan jadi KETUA.\p"
+	.string "Pemain yang satu lagi perlu pilih\n"
+	.string "“SERTAI KUMPULAN.”$"
 
 CableClub_Text_ChooseGroupLeaderOfFour:
-	.string "Please decide which of you four\n"
-	.string "will become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "Sila tentukan siapa antara anda\n"
+	.string "berempat yang jadi KETUA KUMPULAN.\p"
+	.string "Pemain-pemain lain perlu pilih\n"
+	.string "“SERTAI KUMPULAN.”$"
 
 CableClub_Text_ChooseGroupLeader:
-	.string "Please decide which of you will\n"
-	.string "become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "Sila tentukan siapa antara anda\n"
+	.string "yang akan jadi KETUA KUMPULAN.\p"
+	.string "Pemain-pemain lain perlu pilih\n"
+	.string "“SERTAI KUMPULAN.”$"
 
 CableClub_Text_WelcomeUnionRoomEnter:
-	.string "Welcome to the POKéMON WIRELESS\n"
-	.string "CLUB UNION ROOM.\p"
-	.string "You may interact directly with\n"
-	.string "other TRAINERS here, some of\l"
-	.string "whom you may not even know.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "Selamat datang ke UNION ROOM\n"
+	.string "KELAB WAYARLES POKéMON.\p"
+	.string "Anda boleh berinteraksi terus dengan\n"
+	.string "JURULATIH lain di sini, termasuk\l"
+	.string "yang anda tidak kenal.\p"
+	.string "Anda mahu masuk ke BILIK ini?$"
 
 CableClub_Text_UnionRoomInfo:
-	.string "The TRAINERS in the UNION ROOM\n"
-	.string "will be those players around you\l"
-	.string "who have also entered the ROOM.\p"
-	.string "You may do all sorts of things\n"
-	.string "here, such as exchanging greetings.\p"
-	.string "You may enter two POKéMON up to\n"
-	.string "Lv. 30 for a one-on-one battle.\p"
-	.string "You may take part in a chat with\n"
-	.string "two to five people.\p"
-	.string "Or, you may register a POKéMON for\n"
-	.string "trade.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "JURULATIH dalam UNION ROOM ialah\n"
+	.string "pemain di sekeliling anda\l"
+	.string "yang turut masuk ke BILIK ini.\p"
+	.string "Anda boleh buat macam-macam di\n"
+	.string "sini, seperti bertukar salam.\p"
+	.string "Anda boleh masukkan 2 POKéMON hingga\n"
+	.string "Lv. 30 untuk tarung satu lawan satu.\p"
+	.string "Anda boleh sertai sembang dengan\n"
+	.string "dua hingga lima orang.\p"
+	.string "Atau, anda boleh daftar POKéMON\n"
+	.string "untuk ditukar.\p"
+	.string "Anda mahu masuk ke BILIK ini?$"
 
 CableClub_Text_EnjoyUnionRoom:
-	.string "I hope you enjoy your time in\n"
-	.string "the UNION ROOM.$"
+	.string "Semoga anda seronok di\n"
+	.string "UNION ROOM.$"
 
 CableClub_Text_FirstTimeRightThisWay:
-	.string "Hello!\n"
-	.string "My name is TEALA.\p"
-	.string "This must be your first time\n"
-	.string "up here.\p"
-	.string "I'll show you how the Wireless\n"
-	.string "Communication System works.\p"
-	.string "First, I need to show you this\n"
-	.string "floor of our POKéMON CENTER.\p"
-	.string "Right this way, please.$"
+	.string "Helo!\n"
+	.string "Nama saya TEALA.\p"
+	.string "Ini mesti kali pertama anda\n"
+	.string "naik ke sini.\p"
+	.string "Saya akan tunjukkan cara Sistem\n"
+	.string "Komunikasi Wayarles berfungsi.\p"
+	.string "Pertama, saya perlu tunjukkan tingkat\n"
+	.string "ini di PUSAT POKéMON kami.\p"
+	.string "Sila ikut sini.$"
 
 CableClub_Text_ExplainWirelessClubFirstTime:
-	.string "On the top floor, there are two\n"
-	.string "rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+	.string "Di tingkat atas, ada dua\n"
+	.string "bilik.\p"
+	.string "Pertama, bilik di sebelah kiri.\n"
+	.string "Itulah UNION ROOM.\p"
+	.string "Anda boleh link dengan JURULATIH\n"
+	.string "di sekeliling anda yang turut masuk\l"
+	.string "ke UNION ROOM.\p"
+	.string "Bersama mereka, anda boleh buat\n"
+	.string "sembang, bertarung dan bertukar.\p"
+	.string "Kedua, bilik di sebelah kanan ialah\n"
+	.string "SUDUT TERUS.\p"
+	.string "Anda boleh tukar atau bertarung\n"
+	.string "dengan kawan di bilik ini.\p"
+	.string "Jika Penyesuai Wayarles tidak\n"
+	.string "disambung, anda masih boleh link\l"
+	.string "guna Kabel Game Link GBA.\p"
+	.string "Jika begitu, anda mesti pergi\n"
+	.string "ke SUDUT TERUS.\p"
+	.string "Semoga anda seronok dengan Sistem \n"
+	.string "Komunikasi Wayarles.$"
 
 CableClub_Text_AskAboutLinking:
-	.string "Hello, {PLAYER}!\p"
-	.string "It's me, TEALA, the POKéMON\n"
-	.string "CENTER 2F attendant.\p"
-	.string "Is there something you needed to\n"
-	.string "ask me about linking?$"
+	.string "Helo, {PLAYER}!\p"
+	.string "Saya TEALA, petugas PUSAT\n"
+	.string "POKéMON tingkat 2.\p"
+	.string "Ada apa-apa yang anda mahu\n"
+	.string "tanya tentang link?$"
 
 CableClub_Text_ExplainWirelessClub:
-	.string "Let me explain how the POKéMON\n"
-	.string "WIRELESS CLUB works.\p"
-	.string "On this, the top floor, there are\n"
-	.string "two rooms.\p"
-	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
-	.string "You may link up with TRAINERS\n"
-	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
-	.string "With them, you may do things like\n"
-	.string "chat, battle, and trade.\p"
-	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
-	.string "You may trade or battle POKéMON\n"
-	.string "with your friends in this room.\p"
-	.string "Sometimes, you may not be able to\n"
-	.string "find your friends in the UNION ROOM\l"
-	.string "or the DIRECT CORNER.\p"
-	.string "In that case, please move closer\n"
-	.string "to your friends.\p"
-	.string "If the Wireless Adapter isn't\n"
-	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
-	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
-	.string "I hope you enjoy the Wireless \n"
-	.string "Communication System.$"
+	.string "Biar saya terangkan cara KELAB\n"
+	.string "WAYARLES POKéMON berfungsi.\p"
+	.string "Di tingkat atas ini, ada\n"
+	.string "dua bilik.\p"
+	.string "Pertama, bilik di sebelah kiri.\n"
+	.string "Itulah UNION ROOM.\p"
+	.string "Anda boleh link dengan JURULATIH\n"
+	.string "di sekeliling anda yang turut masuk\l"
+	.string "ke UNION ROOM.\p"
+	.string "Bersama mereka, anda boleh buat\n"
+	.string "sembang, bertarung dan bertukar.\p"
+	.string "Kedua, bilik di sebelah kanan ialah\n"
+	.string "SUDUT TERUS.\p"
+	.string "Anda boleh tukar atau bertarung\n"
+	.string "dengan kawan di bilik ini.\p"
+	.string "Kadang-kadang, anda mungkin tidak\n"
+	.string "dapat cari kawan di UNION ROOM\l"
+	.string "atau SUDUT TERUS.\p"
+	.string "Jika begitu, sila dekatkan diri\n"
+	.string "dengan kawan anda.\p"
+	.string "Jika Penyesuai Wayarles tidak\n"
+	.string "disambung, anda masih boleh link\l"
+	.string "guna Kabel Game Link GBA.\p"
+	.string "Jika begitu, anda mesti pergi\n"
+	.string "ke SUDUT TERUS.\p"
+	.string "Semoga anda seronok dengan Sistem \n"
+	.string "Komunikasi Wayarles.$"
 
 CableClub_Text_HopeYouEnjoyWirelessSystem:
-	.string "I hope you enjoy the Wireless\n"
-	.string "Communication System.$"
+	.string "Semoga anda seronok dengan Sistem\n"
+	.string "Komunikasi Wayarles.$"

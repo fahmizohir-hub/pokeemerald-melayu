@@ -831,127 +831,127 @@ Route110_TrickHousePuzzle5_Movement_MechadollShake:
 	step_end
 
 Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is a genius.”\n"
+	.string "{PLAYER} menulis kod rahsia pada pintu.\p"
+	.string "“PAKAR HELAH seorang genius.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Kunci terbuka dengan bunyi klik!$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 1 AM I!\p"
-	.string "IF YOU ANSWER QUIZZES CORRECTLY,\n"
-	.string "THEN YOU WILL GO TO MECHADOLL 5.\l"
-	.string "THEN YOU CAN OBTAIN THE SECRET CODE.$"
+	.string "KLIK-KLAK…\n"
+	.string "MECHADOLL 1 SAYA!\p"
+	.string "JIKA KAMU JAWAB KUIZ DENGAN BETUL,\n"
+	.string "KAMU AKAN PERGI KE MECHADOLL 5.\l"
+	.string "KEMUDIAN KAMU DAPAT KOD RAHSIA.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not found\n"
-	.string "on ROUTE 110. Which one is it?$"
+	.string "KUIZ MECHADOLL 1.\p"
+	.string "Salah satu POKéMON ni tiada di\n"
+	.string "LALUAN 110. Yang mana satu?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not of the\n"
-	.string "WATER type. Which one is it?$"
+	.string "KUIZ MECHADOLL 1.\p"
+	.string "Salah satu POKéMON ni bukan jenis AIR.\n"
+	.string "Yang mana satu?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON does not use\n"
-	.string "LEECH LIFE. Which one is it?$"
+	.string "KUIZ MECHADOLL 1.\p"
+	.string "Salah satu POKéMON ni tak guna HISAP\n"
+	.string "DARAH. Yang mana satu?$"
 
 Route110_TrickHousePuzzle5_Text_CorrectGoThrough:
-	.string "CONGRATULATIONS. CORRECT YOU ARE.\n"
-	.string "GO THROUGH. PLEASE.$"
+	.string "TAHNIAH. BETUL JAWAPAN KAMU.\n"
+	.string "SILA LALU. SILAKAN.$"
 
 Route110_TrickHousePuzzle5_Text_DisappointmentError:
-	.string "BZZZT. DISAPPOINTMENT.\n"
-	.string "ERROR.$"
+	.string "BZZZT. KECEWA.\n"
+	.string "RALAT.$"
 
 Route110_TrickHousePuzzle5_Text_Wahahahaha:
 	.string "WAHAHAHAHA! WAHAHAHAHA!\n"
-	.string "CLICKETY-CLACK!$"
+	.string "KLIK-KLAK!$"
 
 Route110_TrickHousePuzzle5_Text_WaitForNextChallenge:
-	.string "YOUR NEXT CHALLENGE WE WAIT FOR.$"
+	.string "CABARAN KAMU SETERUSNYA KAMI TUNGGU.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 2 AM I!\p"
-	.string "MECHADOLL 1'S QUIZ DIFFICULTY LEVEL\n"
-	.string "IS SET TOO LOW.$"
+	.string "KLIK-KLAK…\n"
+	.string "MECHADOLL 2 SAYA!\p"
+	.string "TAHAP KESUKARAN KUIZ MECHADOLL 1\n"
+	.string "TERLALU RENDAH.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON did WALLY\n"
-	.string "borrow from your father?$"
+	.string "KUIZ MECHADOLL 2.\p"
+	.string "POKéMON mana yang WALLY pinjam\n"
+	.string "daripada ayah kamu?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON was chasing\n"
+	.string "KUIZ MECHADOLL 2.\p"
+	.string "POKéMON mana yang mengejar\n"
 	.string "PROF. BIRCH?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON did TEAM AQUA\n"
-	.string "use in PETALBURG FOREST?$"
+	.string "KUIZ MECHADOLL 2.\p"
+	.string "POKéMON mana yang TEAM AQUA guna di\n"
+	.string "HUTAN PETALBURG?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 3 AM I!\p"
-	.string "MATTERS OF MONEY ARE MY SOLE FOCUS.$"
+	.string "KLIK-KLAK…\n"
+	.string "MECHADOLL 3 SAYA!\p"
+	.string "HAL WANG SAHAJA TUMPUAN SAYA.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Which costs more?\n"
-	.string "Three HARBOR MAILS or one BURN HEAL?$"
+	.string "KUIZ MECHADOLL 3.\p"
+	.string "Mana lebih mahal?\n"
+	.string "Tiga SURAT DERMAGA atau satu\l"
+	.string "UBAT LECUR?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Sell one GREAT BALL and buy\n"
-	.string "one POTION. How much money remains?$"
+	.string "KUIZ MECHADOLL 3.\p"
+	.string "Jual satu GREAT BALL dan beli satu\n"
+	.string "UBAT. Berapa baki wang?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Do one REPEL and SODA POP cost\n"
-	.string "more than one SUPER POTION?$"
+	.string "KUIZ MECHADOLL 3.\p"
+	.string "Adakah satu PENGHALAU dan AIR SODA\n"
+	.string "lebih mahal daripada satu UBAT SUPER?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 4 THAT IS ME!\p"
-	.string "MY QUIZ IS AN OBJECT OF BEAUTY.$"
+	.string "KLIK-KLAK…\n"
+	.string "MECHADOLL 4 INILAH SAYA!\p"
+	.string "KUIZ SAYA ADALAH OBJEK KEINDAHAN.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In SEASHORE HOUSE, were there more men\n"
-	.string "or women?$"
+	.string "KUIZ MECHADOLL 4.\p"
+	.string "Di RUMAH TEPI PANTAI, lelaki atau\n"
+	.string "perempuan yang lebih ramai?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In LAVARIDGE TOWN, were there more\n"
-	.string "elderly men or elderly women?$"
+	.string "KUIZ MECHADOLL 4.\p"
+	.string "Di PEKAN LAVARIDGE, atuk atau nenek\n"
+	.string "yang lebih ramai?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In the TRAINER'S SCHOOL, how many\n"
-	.string "girl students were there?$"
+	.string "KUIZ MECHADOLL 4.\p"
+	.string "Di SEKOLAH JURULATIH, berapa ramai\n"
+	.string "pelajar perempuan?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 5 AM I!\p"
-	.string "THE MASTER'S BEST AND PROUDEST\n"
-	.string "ACHIEVEMENT AM I.$"
+	.string "KLIK-KLAK…\n"
+	.string "MECHADOLL 5 SAYA!\p"
+	.string "PENCAPAIAN TERBAIK DAN PALING\n"
+	.string "DIBANGGAKAN TUAN, SAYALAH.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In SLATEPORT's POKéMON FAN CLUB,\n"
-	.string "how many POKéMON were there?$"
+	.string "KUIZ MECHADOLL 5.\p"
+	.string "Di KELAB PEMINAT POKéMON SLATEPORT,\n"
+	.string "berapa ekor POKéMON yang ada?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In FORTREE CITY, how many\n"
-	.string "tree houses were there?$"
+	.string "KUIZ MECHADOLL 5.\p"
+	.string "Di BANDAR FORTREE, berapa buah rumah\n"
+	.string "pokok yang ada?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "On the CYCLING ROAD, how many\n"
-	.string "TRIATHLETES were there?$"
+	.string "KUIZ MECHADOLL 5.\p"
+	.string "Di JALAN BASIKAL, berapa ramai ATLET\n"
+	.string "TRIATLON yang ada?$"

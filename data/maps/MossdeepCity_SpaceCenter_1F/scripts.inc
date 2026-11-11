@@ -265,149 +265,155 @@ MossdeepCity_SpaceCenter_1F_Movement_MoveGruntFromStairs:
 	step_end
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent:
-	.string "The rocket's launch is imminent!$"
+	.string "Pelancaran roket akan berlaku sebentar\n"
+	.string "lagi!$"
 
 MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber:
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "Roket dilancarkan dengan selamat!\n"
+	.string "Ini pelancaran berjaya ke-{STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket's launch is imminent!$"
+	.string "Saya tahu keadaan agak kucar-kacir\n"
+	.string "sekarang, tapi…\p"
+	.string "Pelancaran roket akan berlaku sebentar\n"
+	.string "lagi!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "Saya tahu keadaan agak kucar-kacir\n"
+	.string "sekarang, tapi…\p"
+	.string "Roket dilancarkan dengan selamat!\n"
+	.string "Ini pelancaran berjaya ke-{STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection:
-	.string "A rocket launch demands perfection.\n"
-	.string "Not even a 1% margin of error is allowed.\p"
-	.string "Even if it's 99% okay, the whole thing\n"
-	.string "is useless if 1% happens to be no good.\p"
-	.string "Despite that, we never stop trying.\n"
-	.string "Why? It's a dream that never ends.$"
+	.string "Pelancaran roket menuntut\n"
+	.string "kesempurnaan. Ralat 1% pun tak\l"
+	.string "dibenarkan.\p"
+	.string "Walaupun 99% okey, semuanya sia-sia\n"
+	.string "kalau 1% tak menjadi.\p"
+	.string "Walau begitu, kami tak pernah berhenti\n"
+	.string "mencuba. Kenapa? Sebab ia impian yang\l"
+	.string "tak berpenghujung.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter:
-	.string "Those MAGMA thugs have their sights\n"
-	.string "set on our SPACE CENTER.\p"
-	.string "But we can't allow anything that minor\n"
-	.string "to interfere with our rocket launch!$"
+	.string "Samseng MAGMA tu dah sasarkan\n"
+	.string "PUSAT ANGKASA kami.\p"
+	.string "Tapi kami tak boleh biar perkara kecil\n"
+	.string "macam tu ganggu pelancaran roket kami!$"
 
 MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt:
-	.string "I was taking a stroll down the beach\n"
-	.string "when I found this.\p"
-	.string "It's not anything I need, so you can\n"
-	.string "have it.$"
+	.string "Saya tengah bersiar-siar di pantai bila\n"
+	.string "saya jumpa benda ni.\p"
+	.string "Saya tak perlukannya, jadi kamu boleh\n"
+	.string "ambil.$"
 
 MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers:
-	.string "The HOENN region has been famous for \n"
-	.string "its meteor showers for a long time.$"
+	.string "Wilayah HOENN dah lama terkenal dengan\n"
+	.string "hujan meteornya.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis:
-	.string "TEAM MAGMA can't be allowed to steal\n"
-	.string "the rocket fuel.\p"
-	.string "Oh, by the way, you can have this stone\n"
-	.string "I found on the beach.$"
+	.string "TEAM MAGMA tak boleh dibiarkan curi\n"
+	.string "bahan api roket.\p"
+	.string "Oh, lagi satu, kamu boleh ambil batu\n"
+	.string "yang saya jumpa di pantai ni.$"
 
 MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma:
-	.string "With TEAM MAGMA around, I guess\n"
-	.string "strolls on the beach aren't safe.$"
+	.string "Dengan TEAM MAGMA di sekitar, rasanya\n"
+	.string "bersiar-siar di pantai pun tak selamat.$"
 
 MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace:
-	.string "Some people claim that POKéMON came\n"
-	.string "from space. Could it be true?$"
+	.string "Ada orang kata POKéMON datang dari\n"
+	.string "angkasa. Betul ke agaknya?$"
 
 MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma:
-	.string "TEAM AQUA should take care of\n"
-	.string "TEAM MAGMA!\p"
-	.string "But if they did that, TEAM AQUA will\n"
-	.string "become bold and brazen, won't they?$"
+	.string "TEAM AQUA patut uruskan TEAM MAGMA!\p"
+	.string "Tapi kalau mereka buat begitu,\n"
+	.string "TEAM AQUA pula akan jadi besar kepala,\l"
+	.string "kan?$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "It boggles my mind!$"
+	.string "Seketul logam gergasi menembusi langit\n"
+	.string "dan terbang ke angkasa…\p"
+	.string "Tak terfikir dek akal saya!$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "But TEAM MAGMA wants to spoil\n"
-	.string "that dream of mine!\p"
-	.string "I'm not having any of that!$"
+	.string "Seketul logam gergasi menembusi langit\n"
+	.string "dan terbang ke angkasa…\p"
+	.string "Tapi TEAM MAGMA nak musnahkan impian\n"
+	.string "saya tu!\p"
+	.string "Saya takkan biarkan!$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
-	.string "STEVEN: {PLAYER}{KUN}, have you read that\n"
-	.string "proclamation already?\p"
-	.string "TEAM MAGMA is coming after the rocket\n"
-	.string "fuel on this island.\p"
-	.string "I don't know what they'd need it for,\n"
-	.string "but they can't be allowed to take it.\p"
-	.string "I'll keep an eye on things for\n"
-	.string "a while longer.\p"
-	.string "In the meantime, why don't you go\n"
-	.string "check out the town?$"
+	.string "STEVEN: {PLAYER}{KUN}, kamu dah baca\n"
+	.string "pengumuman tu?\p"
+	.string "TEAM MAGMA nak rampas bahan api roket\n"
+	.string "di pulau ni.\p"
+	.string "Saya tak tahu untuk apa mereka\n"
+	.string "perlukannya, tapi mereka tak boleh\l"
+	.string "dibiarkan mengambilnya.\p"
+	.string "Saya akan perhatikan keadaan di sini\n"
+	.string "sekejap lagi.\p"
+	.string "Sementara itu, apa kata kamu pergi\n"
+	.string "tengok-tengok bandar ni?$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro:
-	.string "As promised, we've come for\n"
-	.string "the rocket fuel!$"
+	.string "Macam yang dijanjikan, kami datang nak\n"
+	.string "ambil bahan api roket!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat:
-	.string "Ran out of fuel…$"
+	.string "Kehabisan minyak…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3PostBattle:
-	.string "Don't think you're on a roll just\n"
-	.string "because you've beaten me!$"
+	.string "Jangan ingat kau hebat sangat hanya\n"
+	.string "sebab dah kalahkan aku!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro:
-	.string "We gave you fair warning!\n"
-	.string "There's nothing sneaky about us!$"
+	.string "Kami dah beri amaran awal!\n"
+	.string "Kami bukan jenis main belakang!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat:
 	.string "Grrr…\n"
-	.string "We should've used sneaky treachery…$"
+	.string "Patutnya kami main tipu saja…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
-	.string "Okay, I get it already! The next time,\n"
-	.string "we'll come unannounced.$"
+	.string "Okey, aku faham dah! Lain kali, kami\n"
+	.string "datang tanpa beritahu.$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
-	.string "The rocket fuel the SPACE CENTER has\n"
-	.string "in storage--that's what we're after.\p"
-	.string "We mean to take every last bit of it!$"
+	.string "Bahan api roket yang PUSAT ANGKASA\n"
+	.string "simpan, itulah yang kami mahu.\p"
+	.string "Kami nak ambil setiap titisnya!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:
-	.string "Please, can you spare some fuel?\n"
-	.string "Even a chintzy cup will do!$"
+	.string "Tolonglah, boleh bagi sikit bahan api?\n"
+	.string "Secawan kecil pun jadilah!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle:
-	.string "What are we going to do with\n"
-	.string "the rocket fuel?\p"
-	.string "How would I know?\n"
-	.string "Ask our leader upstairs!$"
+	.string "Kami nak buat apa dengan bahan api\n"
+	.string "roket?\p"
+	.string "Mana aku tahu?\n"
+	.string "Tanya ketua kami di tingkat atas!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro:
-	.string "Our leader said no one, but no one,\n"
-	.string "gets past me!$"
+	.string "Ketua kami kata tak ada sesiapa,\n"
+	.string "langsung tak ada sesiapa, boleh lepasi\l"
+	.string "aku!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat:
-	.string "Ack! Ack! Aaack!$"
+	.string "Ak! Ak! Aaak!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle:
-	.string "Please, tell our leader that\n"
-	.string "I never abandoned my post.\l"
-	.string "That I stayed to the bitter end…$"
+	.string "Tolong beritahu ketua kami yang aku\n"
+	.string "tak pernah tinggalkan pos aku. Aku\l"
+	.string "bertahan sampai ke akhir…$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
-	.string "This is…\n"
-	.string "An intent-to-steal notice?\p"
-	.string "“To the staff of the SPACE CENTER:\n"
-	.string "How are you? We are doing fine.\p"
-	.string "“We will soon visit you to take your\n"
-	.string "rocket fuel.\p"
-	.string "“Please don't try to stop us.\n"
-	.string "We will take the fuel no matter what.\p"
-	.string "“Let there be more land!\n"
+	.string "Ini…\n"
+	.string "Notis niat untuk mencuri?\p"
+	.string "“Kepada kakitangan PUSAT ANGKASA:\n"
+	.string "Apa khabar? Kami sihat-sihat saja.\p"
+	.string "“Kami akan datang tak lama lagi untuk\n"
+	.string "mengambil bahan api roket kamu.\p"
+	.string "“Tolong jangan cuba halang kami. Kami\n"
+	.string "akan ambil bahan api itu walau apa pun.\p"
+	.string "“Biar daratan bertambah luas!\n"
 	.string "                                          TEAM MAGMA”$"

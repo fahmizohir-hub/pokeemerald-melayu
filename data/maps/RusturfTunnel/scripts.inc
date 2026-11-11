@@ -405,109 +405,102 @@ RusturfTunnel_EventScript_Mike::
 	end
 
 RusturfTunnel_Text_ComeAndGetSome:
-	.string "What, are you coming?\n"
-	.string "Come and get some, then!$"
+	.string "Apa, kau nak datang? Marilah, kalau\n"
+	.string "berani!$"
 
 RusturfTunnel_Text_Peeko:
 	.string "PEEKO: Pii pihyoh!$"
 
 RusturfTunnel_Text_GruntIntro:
-	.string "Grah, keelhaul it all!\p"
-	.string "That hostage POKéMON turned out to\n"
-	.string "be worthless!\p"
-	.string "And to think I made a getaway…\n"
-	.string "In this tunnel to nowhere!\p"
-	.string "Hey! You!\n"
-	.string "So you want to battle me?$"
+	.string "Cis, tenggelamkan semuanya!\p"
+	.string "POKéMON tebusan tu rupanya tak\n"
+	.string "berguna langsung!\p"
+	.string "Dan aku pula lari… ke dalam terowong\n"
+	.string "buntu ni!\p"
+	.string "Hoi! Kau! Jadi kau nak lawan aku?$"
 
 RusturfTunnel_Text_GruntDefeat:
-	.string "Urrrggh! My career in crime comes to\n"
-	.string "a dead end!$"
+	.string "Urrrggh! Kerjaya jenayah aku dah\n"
+	.string "sampai jalan buntu!$"
 
 RusturfTunnel_Text_GruntTakePackage:
-	.string "This is plain not right…\p"
-	.string "The BOSS told me this would be a\n"
-	.string "slick-and-easy job to pull.\p"
-	.string "All I had to do was steal some package\n"
-	.string "from DEVON.\p"
-	.string "Tch!\n"
-	.string "You want it back that badly, take it!$"
+	.string "Ini memang tak patut…\p"
+	.string "BOS kata kerja ni senang dan mudah.\p"
+	.string "Aku cuma kena curi bungkusan dari\n"
+	.string "DEVON.\p"
+	.string "Ceh! Kalau kau nak sangat, ambillah!$"
 
 RusturfTunnel_Text_PeekoGladToSeeYouSafe:
-	.string "PEEKO!\n"
-	.string "Am I glad to see you're safe!$"
+	.string "PEEKO! Leganya tengok kamu selamat!$"
 
 RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
-	.string "PEEKO owes her life to you!\p"
-	.string "They call me MR. BRINEY.\n"
-	.string "And, you are?\p"
+	.string "PEEKO terhutang nyawa pada kamu!\p"
+	.string "Orang panggil saya ENCIK BRINEY. Dan\n"
+	.string "kamu?\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
-	.string "Ah, so you are {PLAYER}{KUN}!\n"
-	.string "I sincerely thank you!\p"
-	.string "Now, if there's anything that troubles\n"
-	.string "you, don't hesitate to tell me!\p"
-	.string "You can usually find me in my cottage\n"
-	.string "by the sea near PETALBURG WOODS.\p"
-	.string "Come, PEEKO, we should make our way\n"
-	.string "home.\p"
+	.string "Ah, jadi kamu {PLAYER}{KUN}!\n"
+	.string "Saya ucapkan terima kasih!\p"
+	.string "Kalau ada apa-apa yang menyusahkan\n"
+	.string "kamu, jangan segan beritahu saya!\p"
+	.string "Biasanya saya ada di pondok saya tepi\n"
+	.string "laut dekat HUTAN PETALBURG.\p"
+	.string "Mari, PEEKO, kita balik rumah.\p"
 	.string "PEEKO: Pihyoh!$"
 
 RusturfTunnel_Text_WhyCantTheyKeepDigging:
 	.string "… …\p"
-	.string "Why can't they keep digging?\n"
-	.string "Is the bedrock too hard?\p"
-	.string "My beloved awaits me in VERDANTURF\n"
-	.string "TOWN just beyond here…\p"
-	.string "If RUSTBORO and VERDANTURF were\n"
-	.string "joined by this tunnel, I could visit\l"
-	.string "her every day…\p"
-	.string "But this…\n"
-	.string "What am I to do?$"
+	.string "Kenapa mereka tak boleh terus\n"
+	.string "menggali? Batu dasar terlalu keras ke?\p"
+	.string "Kekasih saya menunggu di PEKAN\n"
+	.string "VERDANTURF di seberang sana…\p"
+	.string "Kalau RUSTBORO dan VERDANTURF\n"
+	.string "disambung oleh terowong ni, saya boleh\l"
+	.string "jumpa dia setiap hari…\p"
+	.string "Tapi ini… Apa yang patut saya buat?$"
 
 RusturfTunnel_Text_ToGetToVerdanturf:
-	.string "To get from RUSTBORO to VERDANTURF,\n"
-	.string "you need to go to DEWFORD, then pass\l"
-	.string "through SLATEPORT and MAUVILLE…$"
+	.string "Untuk ke VERDANTURF dari RUSTBORO,\n"
+	.string "kamu kena pergi ke DEWFORD, kemudian\l"
+	.string "lalu SLATEPORT dan MAUVILLE…$"
 
 RusturfTunnel_Text_YouShatteredBoulderTakeHM:
-	.string "Wow! You shattered that boulder\n"
-	.string "blocking the way.\p"
-	.string "To show you how much I appreciate it,\n"
-	.string "I'd like you to have this HM.$"
+	.string "Wah! Kamu hancurkan batu besar yang\n"
+	.string "menghalang jalan tu.\p"
+	.string "Sebagai tanda penghargaan, saya nak\n"
+	.string "beri kamu HM ini.$"
 
 RusturfTunnel_Text_ExplainStrength:
-	.string "That HM contains STRENGTH.\p"
-	.string "If a muscular POKéMON were to learn\n"
-	.string "that, it would be able to move even\l"
-	.string "large boulders.$"
+	.string "HM tu mengandungi KEKUATAN.\p"
+	.string "Kalau POKéMON yang berotot belajar\n"
+	.string "move tu, ia boleh alihkan batu yang\l"
+	.string "besar sekalipun.$"
 
 RusturfTunnel_Text_WandaReunion:
-	.string "WANDA!\n"
-	.string "Now I can see you anytime!\p"
-	.string "WANDA: That's…wonderful.\p"
-	.string "Please, take some rest at my home.$"
+	.string "WANDA! Sekarang saya boleh jumpa kamu\n"
+	.string "bila-bila masa!\p"
+	.string "WANDA: Itu… bagus sekali.\p"
+	.string "Silakan, berehatlah di rumah saya.$"
 
 RusturfTunnel_Text_BoyfriendOnOtherSideOfRock:
-	.string "On the other side of this rock…\n"
-	.string "My boyfriend is there.\p"
-	.string "He… He's not just digging the tunnel\n"
-	.string "to come see me.\p"
-	.string "He works his hands raw and rough\n"
-	.string "for the benefit of everyone.$"
+	.string "Di sebalik batu ni… Teman lelaki saya\n"
+	.string "ada di sana.\p"
+	.string "Dia… Dia bukan gali terowong ni\n"
+	.string "semata-mata nak jumpa saya.\p"
+	.string "Dia bekerja sampai tangan melecet demi\n"
+	.string "kebaikan semua orang.$"
 
 RusturfTunnel_Text_MikeIntro:
-	.string "What do you call a wild man up in the\n"
-	.string "mountains? A mountain man, right?\p"
-	.string "So why don't they call a POKéMON in\n"
-	.string "the mountains a mountain POKéMON?$"
+	.string "Orang liar di gunung dipanggil orang\n"
+	.string "gunung, kan?\p"
+	.string "Jadi kenapa POKéMON di gunung tak\n"
+	.string "dipanggil POKéMON gunung?$"
 
 RusturfTunnel_Text_MikeDefeat:
-	.string "My POKéMON…\n"
-	.string "Ran out of power…$"
+	.string "POKéMON saya… Dah habis tenaga…$"
 
 RusturfTunnel_Text_MikePostBattle:
-	.string "They halted development here to\n"
-	.string "protect POKéMON, right?\l"
-	.string "There's a feel-good story!$"
+	.string "Mereka hentikan pembangunan di sini\n"
+	.string "untuk lindungi POKéMON, kan? Kisah yang\l"
+	.string "menyentuh hati!$"
 

@@ -1,237 +1,237 @@
 MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
-	.string "This move can be learned only\n"
-	.string "once. Is that okay?$"
+	.string "Move ini hanya boleh dipelajari\n"
+	.string "sekali. Tak apa?$"
 
 MoveTutor_Text_SwaggerTeach:
-	.string "Heh! My POKéMON totally rules!\n"
-	.string "It's cooler than any POKéMON!\p"
-	.string "I was lipping off with a swagger in\n"
-	.string "my step like that when the CHAIRMAN\l"
-	.string "chewed me out.\p"
-	.string "That took the swagger out of my step.\p"
-	.string "If you'd like, I'll teach the move\n"
-	.string "SWAGGER to a POKéMON of yours.$"
+	.string "Heh! POKéMON saya memang terbaik!\n"
+	.string "Lebih segak daripada POKéMON lain!\p"
+	.string "Saya tengah bercakap besar dengan\n"
+	.string "lagak sombong macam tu, bila PENGERUSI\l"
+	.string "marah saya.\p"
+	.string "Terus hilang lagak sombong saya.\p"
+	.string "Kalau kamu nak, saya boleh ajar move\n"
+	.string "BERLAGAK kepada POKéMON kamu.$"
 
 MoveTutor_Text_SwaggerDeclined:
-	.string "What, no? Can't you get into\n"
-	.string "the spirit of things?$"
+	.string "Apa, tak nak? Kamu tak boleh\n"
+	.string "ikut semangat ke?$"
 
 MoveTutor_Text_SwaggerWhichMon:
-	.string "All right, which POKéMON wants to\n"
-	.string "learn how to SWAGGER?$"
+	.string "Baiklah, POKéMON mana yang nak\n"
+	.string "belajar BERLAGAK?$"
 
 MoveTutor_Text_SwaggerTaught:
-	.string "I'll just praise my POKéMON from now\n"
-	.string "on without the swagger.$"
+	.string "Mulai sekarang, saya puji POKéMON\n"
+	.string "saya tanpa berlagak.$"
 
 MoveTutor_Text_RolloutTeach:
-	.string "Did you know that you can go from\n"
-	.string "here a long way in that direction\l"
-	.string "without changing direction?\p"
-	.string "I might even be able to roll\n"
-	.string "that way.\p"
-	.string "Do you think your POKéMON will\n"
-	.string "want to roll, too?\p"
-	.string "I can teach one the move ROLLOUT\n"
-	.string "if you'd like.$"
+	.string "Kamu tahu tak, dari sini kamu boleh\n"
+	.string "pergi jauh ke arah sana\l"
+	.string "tanpa tukar arah?\p"
+	.string "Mungkin saya pun boleh bergolek\n"
+	.string "ke sana.\p"
+	.string "Agaknya POKéMON kamu pun nak\n"
+	.string "bergolek juga?\p"
+	.string "Saya boleh ajar move GOLEK\n"
+	.string "kalau kamu nak.$"
 
 MoveTutor_Text_RolloutDeclined:
-	.string "You don't need to be shy about it.\n"
-	.string "Let's roll!$"
+	.string "Tak perlu malu-malu.\n"
+	.string "Jom bergolek!$"
 
 MoveTutor_Text_RolloutWhichMon:
-	.string "Ehehe, sure thing! It'd be great if\n"
-	.string "the POKéMON looked like me.$"
+	.string "Ehehe, boleh! Seronok kalau\n"
+	.string "POKéMON itu nampak macam saya.$"
 
 MoveTutor_Text_RolloutTaught:
-	.string "Rolling around in the grass makes me\n"
-	.string "happy. Come on, let's roll!$"
+	.string "Bergolek atas rumput buat saya\n"
+	.string "gembira. Jom, kita bergolek!$"
 
 MoveTutor_Text_FuryCutterTeach:
-	.string "There's a move that gets stronger\n"
-	.string "when you keep using it in a row.\p"
-	.string "It's a BUG-type move, and it is\n"
-	.string "wickedly cool.\p"
-	.string "It's called FURY CUTTER.\n"
-	.string "Want me to teach it to a POKéMON?$"
+	.string "Ada satu move yang makin kuat\n"
+	.string "bila kamu guna berturut-turut.\p"
+	.string "Ia move jenis SERANGGA, dan ia\n"
+	.string "memang hebat gila.\p"
+	.string "Namanya SABIT BERANG.\n"
+	.string "Nak saya ajar kepada POKéMON kamu?$"
 
 MoveTutor_Text_FuryCutterDeclined:
-	.string "We're not on the same wavelength.$"
+	.string "Kita memang tak sehaluan.$"
 
 MoveTutor_Text_FuryCutterWhichMon:
-	.string "Yay!\n"
-	.string "Show me which POKéMON I should teach.$"
+	.string "Yey!\n"
+	.string "Tunjukkan POKéMON yang nak diajar.$"
 
 MoveTutor_Text_FuryCutterTaught:
-	.string "I get a thrill watching to see if\n"
-	.string "the move keeps hitting in succession!$"
+	.string "Saya teruja tengok sama ada move itu\n"
+	.string "terus kena berturut-turut!$"
 
 MoveTutor_MimicTeach:
-	.string "Ah, young one!\p"
-	.string "I am also a young one, but I mimic\n"
-	.string "the styles and speech of the elderly\l"
-	.string "folks of this town.\p"
-	.string "What do you say, young one?\n"
-	.string "Would you agree to it if I were to\l"
-	.string "offer to teach the move MIMIC?$"
+	.string "Ah, anak muda!\p"
+	.string "Saya pun muda juga, tapi saya tiru\n"
+	.string "gaya dan cakap orang-orang tua\l"
+	.string "di pekan ini.\p"
+	.string "Apa kata kamu, anak muda?\n"
+	.string "Sudikah kamu kalau saya tawarkan\l"
+	.string "untuk ajar move TIRU?$"
 
 MoveTutor_MimicDeclined:
-	.string "Oh, boo! I wanted to teach MIMIC\n"
-	.string "to your POKéMON!$"
+	.string "Alahai! Saya nak ajar TIRU\n"
+	.string "kepada POKéMON kamu!$"
 
 MoveTutor_Text_MimicWhichMon:
-	.string "Fwofwo! And so I shall!\n"
-	.string "Let me see the POKéMON\l"
-	.string "you wish me to teach.$"
+	.string "Hoho! Baiklah, saya ajar!\n"
+	.string "Tunjukkan saya POKéMON\l"
+	.string "yang kamu mahu saya ajar.$"
 
 MoveTutor_Text_MimicTaught:
-	.string "MIMIC is a move of great depth.\p"
-	.string "Could you execute it to perfection\n"
-	.string "as well as me…?$"
+	.string "TIRU ialah move yang sangat mendalam.\p"
+	.string "Bolehkah kamu gunakannya sesempurna\n"
+	.string "saya…?$"
 
 MoveTutor_Text_MetronomeTeach:
-	.string "I want all sorts of things!\n"
-	.string "But I used up my allowance…\p"
-	.string "Wouldn't it be nice if there were\n"
-	.string "a spell that made money appear when\l"
-	.string "you waggle a finger?\p"
-	.string "If you want, I can teach your POKéMON\n"
-	.string "the move METRONOME.\p"
-	.string "Money won't appear, but your POKéMON\n"
-	.string "will waggle a finger. Yes?$"
+	.string "Saya nak macam-macam benda!\n"
+	.string "Tapi duit belanja saya dah habis…\p"
+	.string "Seronoknya kalau ada jampi yang boleh\n"
+	.string "buat duit muncul bila kita\l"
+	.string "goyangkan jari, kan?\p"
+	.string "Kalau kamu nak, saya boleh ajar\n"
+	.string "POKéMON kamu move METRONOM.\p"
+	.string "Duit takkan muncul, tapi POKéMON kamu\n"
+	.string "akan goyangkan jari. Nak?$"
 
 MoveTutor_Text_MetronomeDeclined:
-	.string "Okay. I'll be here if you change\n"
-	.string "your mind.$"
+	.string "Okey. Saya ada di sini kalau kamu\n"
+	.string "ubah fikiran.$"
 
 MoveTutor_Text_MetronomeWhichMon:
-	.string "Okay! I'll teach it!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Okey! Saya ajar!\n"
+	.string "POKéMON mana yang nak diajar?$"
 
 MoveTutor_Text_MetronomeTaught:
-	.string "When a POKéMON waggles its finger\n"
-	.string "like a METRONOME, all sorts of nice\l"
-	.string "things happen.\p"
-	.string "Wouldn't it be nice if we could\n"
-	.string "use it, too?$"
+	.string "Bila POKéMON goyangkan jarinya\n"
+	.string "macam METRONOM, macam-macam benda\l"
+	.string "menarik berlaku.\p"
+	.string "Seronoknya kalau kita pun boleh\n"
+	.string "gunakannya, kan?$"
 
 MoveTutor_Text_SleepTalkTeach:
-	.string "Humph! My wife relies on HIDDEN\n"
-	.string "POWER to stay awake.\p"
-	.string "She should just take a nap like I do,\n"
-	.string "and SLEEP TALK.\p"
-	.string "I can teach your POKéMON how to\n"
-	.string "SLEEP TALK instead. Interested?$"
+	.string "Hmph! Isteri saya harapkan KUASA\n"
+	.string "PENDAM untuk kekal berjaga.\p"
+	.string "Dia patut tidur sekejap macam saya,\n"
+	.string "dan MENGIGAU.\p"
+	.string "Saya boleh ajar POKéMON kamu\n"
+	.string "MENGIGAU. Berminat?$"
 
 MoveTutor_Text_SleepTalkDeclined:
-	.string "Oh, fine, fine. You want to stay awake\n"
-	.string "with HIDDEN POWER, too…$"
+	.string "Oh, yalah, yalah. Kamu pun nak berjaga\n"
+	.string "dengan KUASA PENDAM juga…$"
 
 MoveTutor_Text_SleepTalkWhichMon:
-	.string "Ah, an appreciative child!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Ah, budak yang tahu menghargai!\n"
+	.string "POKéMON mana yang nak diajar?$"
 
 MoveTutor_Text_SleepTalkTaught:
-	.string "I've never once gotten my wife's\n"
-	.string "coin trick right.\p"
-	.string "I would be happy if I got it right\n"
-	.string "even as I SLEEP TALK…$"
+	.string "Saya tak pernah berjaya buat silap\n"
+	.string "mata syiling isteri saya.\p"
+	.string "Saya akan gembira kalau berjaya\n"
+	.string "walaupun sambil MENGIGAU…$"
 
 MoveTutor_Text_SubstituteTeach:
-	.string "When I see the wide world from up\n"
-	.string "here on the roof…\p"
-	.string "I think about how nice it would be\n"
-	.string "if there were more than just one me\l"
-	.string "so I could enjoy all sorts of lives.\p"
-	.string "Of course it's not possible.\n"
-	.string "Giggle…\p"
-	.string "I know! Would you be interested in\n"
-	.string "having a POKéMON learn SUBSTITUTE?$"
+	.string "Bila saya pandang dunia yang luas\n"
+	.string "dari atas bumbung ni…\p"
+	.string "Saya terfikir, seronoknya kalau ada\n"
+	.string "lebih daripada seorang saya\l"
+	.string "supaya boleh nikmati pelbagai hidup.\p"
+	.string "Tentulah itu mustahil.\n"
+	.string "Hihi…\p"
+	.string "Saya tahu! Kamu berminat nak\n"
+	.string "POKéMON kamu belajar PENGGANTI?$"
 
 MoveTutor_Text_SubstituteDeclined:
-	.string "Oh, no?\p"
-	.string "A POKéMON can make a copy of\n"
-	.string "itself using it, you know.$"
+	.string "Oh, tak nak?\p"
+	.string "POKéMON boleh buat salinan dirinya\n"
+	.string "dengan move itu, tahu tak.$"
 
 MoveTutor_Text_SubstituteWhichMon:
-	.string "Giggle…\n"
-	.string "Which POKéMON do you want me to\l"
-	.string "teach SUBSTITUTE?$"
+	.string "Hihi…\n"
+	.string "POKéMON mana yang kamu nak saya\l"
+	.string "ajar PENGGANTI?$"
 
 MoveTutor_Text_SubstituteTaught:
-	.string "We human beings should enjoy our\n"
-	.string "own lives to the utmost!\p"
-	.string "I hope you'll get that way, too!$"
+	.string "Kita manusia patut nikmati hidup\n"
+	.string "kita sepenuhnya!\p"
+	.string "Saya harap kamu pun begitu!$"
 
 MoveTutor_Text_DynamicPunchTeach:
-	.string "I can't do this anymore!\p"
-	.string "It's utterly hopeless!\p"
-	.string "I'm a FIGHTING-type TRAINER,\n"
-	.string "so I can't win at the MOSSDEEP GYM\l"
-	.string "no matter how hard I try!\p"
-	.string "Argh! Punch! Punch! Punch!\n"
-	.string "Punch! Punch! Punch!\p"
-	.string "What, don't look at me that way!\n"
-	.string "I'm only hitting the ground!\p"
-	.string "Or do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH?$"
+	.string "Saya dah tak tahan lagi!\p"
+	.string "Memang tak ada harapan langsung!\p"
+	.string "Saya JURULATIH jenis LAWAN,\n"
+	.string "jadi saya tak boleh menang di GIM\l"
+	.string "MOSSDEEP walau berusaha macam mana!\p"
+	.string "Argh! Tumbuk! Tumbuk! Tumbuk!\n"
+	.string "Tumbuk! Tumbuk! Tumbuk!\p"
+	.string "Apa, jangan pandang saya macam tu!\n"
+	.string "Saya cuma tumbuk tanah!\p"
+	.string "Atau kamu nak saya ajar POKéMON\n"
+	.string "kamu TINJUDINAMIK?$"
 
 MoveTutor_Text_DynamicPunchDeclined:
-	.string "Darn! You're even making fun of me?\n"
-	.string "Punch! Punch! Punch!$"
+	.string "Cis! Kamu pun nak ejek saya?\n"
+	.string "Tumbuk! Tumbuk! Tumbuk!$"
 
 MoveTutor_Text_DynamicPunchWhichMon:
-	.string "What? You do? You're a good person!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Apa? Kamu nak? Baiknya kamu!\n"
+	.string "POKéMON mana yang nak diajar?$"
 
 MoveTutor_Text_DynamicPunchTaught:
-	.string "I want you to win at the MOSSDEEP GYM\n"
-	.string "using that DYNAMICPUNCH!$"
+	.string "Saya nak kamu menang di GIM MOSSDEEP\n"
+	.string "dengan TINJUDINAMIK itu!$"
 
 MoveTutor_Text_DoubleEdgeTeach:
-	.string "Sigh…\p"
-	.string "SOOTOPOLIS's GYM LEADER is really\n"
-	.string "lovably admirable.\p"
-	.string "But that also means I have many\n"
-	.string "rivals for his attention.\p"
-	.string "He's got appeal with a DOUBLE-EDGE.\n"
-	.string "I couldn't even catch his eye.\p"
-	.string "Please, let me teach your POKéMON\n"
-	.string "the move DOUBLE-EDGE!$"
+	.string "Haih…\p"
+	.string "KETUA GIM SOOTOPOLIS memang\n"
+	.string "sangat dikagumi dan disayangi.\p"
+	.string "Tapi itu bermakna ramai pesaing\n"
+	.string "yang mahukan perhatiannya.\p"
+	.string "Pesonanya bagai pedang BERMATA DUA.\n"
+	.string "Saya langsung tak dipandangnya.\p"
+	.string "Tolonglah, biar saya ajar POKéMON\n"
+	.string "kamu move BERMATA DUA!$"
 
 MoveTutor_Text_DoubleEdgeDeclined:
 	.string "Oh…\n"
-	.string "Even you rejected me…$"
+	.string "Kamu pun tolak saya…$"
 
 MoveTutor_Text_DoubleEdgeWhichMon:
-	.string "Okay, which POKéMON should I teach\n"
-	.string "DOUBLE-EDGE?$"
+	.string "Okey, POKéMON mana yang nak saya\n"
+	.string "ajar BERMATA DUA?$"
 
 MoveTutor_Text_DoubleEdgeTaught:
-	.string "I won't live for love anymore!\n"
-	.string "I'll become tough!$"
+	.string "Saya takkan hidup untuk cinta lagi!\n"
+	.string "Saya akan jadi tabah!$"
 
 MoveTutor_Text_ExplosionTeach:
-	.string "I don't intend to be going nowhere\n"
-	.string "fast in the sticks like this forever.\p"
-	.string "You watch me, I'll get out to the city\n"
-	.string "and become a huge hit.\p"
-	.string "Seriously, I'm going to cause\n"
-	.string "a huge EXPLOSION of popularity!\p"
-	.string "If you overheard that, I'll happily\n"
-	.string "teach EXPLOSION to your POKéMON!$"
+	.string "Saya tak berniat terperuk di ceruk\n"
+	.string "kampung ni selama-lamanya.\p"
+	.string "Tengoklah, saya akan ke bandar\n"
+	.string "dan jadi sangat terkenal.\p"
+	.string "Betul, saya akan cetuskan LETUPAN\n"
+	.string "populariti yang besar!\p"
+	.string "Kalau kamu terdengar tadi, saya sudi\n"
+	.string "ajar LETUPAN kepada POKéMON kamu!$"
 
 MoveTutor_Text_ExplosionDeclined:
-	.string "Gaah! You're turning me down because\n"
-	.string "I live in the country?$"
+	.string "Aduh! Kamu tolak sebab saya\n"
+	.string "tinggal di kampung?$"
 
 MoveTutor_Text_ExplosionWhichMon:
-	.string "Fine! An EXPLOSION it is!\n"
-	.string "Which POKéMON wants to blow up?$"
+	.string "Baik! LETUPAN, kalau begitu!\n"
+	.string "POKéMON mana yang nak meletup?$"
 
 MoveTutor_Text_ExplosionTaught:
-	.string "For a long time, I've taught POKéMON\n"
-	.string "how to use EXPLOSION, but I've yet\l"
-	.string "to ignite my own EXPLOSION…\p"
-	.string "Maybe it's because deep down,\n"
-	.string "I would rather stay here…$"
+	.string "Dah lama saya ajar POKéMON cara guna\n"
+	.string "LETUPAN, tapi saya belum lagi\l"
+	.string "cetuskan LETUPAN saya sendiri…\p"
+	.string "Mungkin sebab jauh di sudut hati,\n"
+	.string "saya lebih suka tinggal di sini…$"

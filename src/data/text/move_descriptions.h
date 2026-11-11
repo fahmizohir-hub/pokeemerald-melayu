@@ -2,1420 +2,1420 @@ static const u8 sNullDescription[] = _(
     "");
 
 static const u8 sPoundDescription[] = _(
-    "Pounds the foe with\n"
-    "forelegs or tail.");
+    "Memukul musuh dengan\n"
+    "kaki depan atau ekor.");
 
 static const u8 sKarateChopDescription[] = _(
-    "A chopping attack with a\n"
-    "high critical-hit ratio.");
+    "Serangan tetak dengan\n"
+    "peluang kritikal tinggi.");
 
 static const u8 sDoubleSlapDescription[] = _(
-    "Repeatedly slaps the foe\n"
-    "2 to 5 times.");
+    "Menampar musuh berulang\n"
+    "kali, 2 hingga 5 kali.");
 
 static const u8 sCometPunchDescription[] = _(
-    "Repeatedly punches the foe\n"
-    "2 to 5 times.");
+    "Menumbuk musuh berulang\n"
+    "kali, 2 hingga 5 kali.");
 
 static const u8 sMegaPunchDescription[] = _(
-    "A strong punch thrown with\n"
-    "incredible power.");
+    "Tumbukan kuat dengan\n"
+    "kuasa yang luar biasa.");
 
 static const u8 sPayDayDescription[] = _(
-    "Throws coins at the foe.\n"
-    "Money is recovered after.");
+    "Membaling syiling ke musuh.\n"
+    "Wang dikutip selepas itu.");
 
 static const u8 sFirePunchDescription[] = _(
-    "A fiery punch that may burn\n"
-    "the foe.");
+    "Tumbukan berapi yang\n"
+    "mungkin membakar musuh.");
 
 static const u8 sIcePunchDescription[] = _(
-    "An icy punch that may\n"
-    "freeze the foe.");
+    "Tumbukan berais yang\n"
+    "mungkin membekukan musuh.");
 
 static const u8 sThunderPunchDescription[] = _(
-    "An electrified punch that\n"
-    "may paralyze the foe.");
+    "Tumbukan berelektrik yang\n"
+    "mungkin melumpuhkan musuh.");
 
 static const u8 sScratchDescription[] = _(
-    "Scratches the foe with\n"
-    "sharp claws.");
+    "Mencakar musuh dengan\n"
+    "kuku yang tajam.");
 
 static const u8 sViceGripDescription[] = _(
-    "Grips the foe with large and\n"
-    "powerful pincers.");
+    "Mengepit musuh dengan\n"
+    "sepit yang besar dan kuat.");
 
 static const u8 sGuillotineDescription[] = _(
-    "A powerful pincer attack\n"
-    "that may cause fainting.");
+    "Sepitan kuat yang boleh\n"
+    "terus buat musuh pengsan.");
 
 static const u8 sRazorWindDescription[] = _(
-    "A 2-turn move that strikes\n"
-    "the foe on the 2nd turn.");
+    "Move 2 giliran yang\n"
+    "menyerang di giliran ke-2.");
 
 static const u8 sSwordsDanceDescription[] = _(
-    "A fighting dance that\n"
-    "sharply raises ATTACK.");
+    "Tarian tempur yang buat\n"
+    "SERANGAN naik mendadak.");
 
 static const u8 sCutDescription[] = _(
-    "Cuts the foe with sharp\n"
-    "scythes, claws, etc.");
+    "Memotong musuh dengan\n"
+    "sabit, kuku tajam, dll.");
 
 static const u8 sGustDescription[] = _(
-    "Strikes the foe with a gust\n"
-    "of wind whipped up by wings.");
+    "Menyerang musuh dengan\n"
+    "angin kibasan sayap.");
 
 static const u8 sWingAttackDescription[] = _(
-    "Strikes the foe with wings\n"
-    "spread wide.");
+    "Pukul musuh dengan sayap\n"
+    "yang terbentang luas.");
 
 static const u8 sWhirlwindDescription[] = _(
-    "Blows away the foe with\n"
-    "wind and ends the battle.");
+    "Meniup musuh dengan angin\n"
+    "dan tamatkan pertarungan.");
 
 static const u8 sFlyDescription[] = _(
-    "Flies up on the first turn,\n"
-    "then strikes the next turn.");
+    "Terbang ke udara dahulu,\n"
+    "lalu serang giliran ke-2.");
 
 static const u8 sBindDescription[] = _(
-    "Binds and squeezes the foe\n"
-    "for 2 to 5 turns.");
+    "Ikat dan jerut musuh\n"
+    "selama 2 hingga 5 giliran.");
 
 static const u8 sSlamDescription[] = _(
-    "Slams the foe with a long\n"
-    "tail, vine, etc.");
+    "Menghempas musuh dengan\n"
+    "ekor panjang, sulur, dll.");
 
 static const u8 sVineWhipDescription[] = _(
-    "Strikes the foe with\n"
-    "slender, whiplike vines.");
+    "Menyebat musuh dengan\n"
+    "sulur halus bak cemeti.");
 
 static const u8 sStompDescription[] = _(
-    "Stomps the enemy with a big\n"
-    "foot. May cause flinching.");
+    "Memijak musuh dengan kaki\n"
+    "besar. Mungkin buat gentar.");
 
 static const u8 sDoubleKickDescription[] = _(
-    "A double-kicking attack\n"
-    "that strikes the foe twice.");
+    "Sepakan berganda yang\n"
+    "menyerang musuh dua kali.");
 
 static const u8 sMegaKickDescription[] = _(
-    "An extremely powerful kick\n"
-    "with intense force.");
+    "Sepakan yang amat kuat\n"
+    "dengan daya yang dahsyat.");
 
 static const u8 sJumpKickDescription[] = _(
-    "A strong jumping kick. May\n"
-    "miss and hurt the kicker.");
+    "Sepakan lompat kuat. Jika\n"
+    "tersasar, pengguna cedera.");
 
 static const u8 sRollingKickDescription[] = _(
-    "A fast kick delivered from\n"
-    "a rapid spin.");
+    "Sepakan pantas sambil\n"
+    "berpusing dengan laju.");
 
 static const u8 sSandAttackDescription[] = _(
-    "Reduces the foe's accuracy\n"
-    "by hurling sand in its face.");
+    "Baling pasir ke muka musuh\n"
+    "untuk turunkan ketepatan.");
 
 static const u8 sHeadbuttDescription[] = _(
-    "A ramming attack that may\n"
-    "cause flinching.");
+    "Serangan rempuhan yang\n"
+    "mungkin buat musuh gentar.");
 
 static const u8 sHornAttackDescription[] = _(
-    "Jabs the foe with sharp\n"
-    "horns.");
+    "Menikam musuh dengan\n"
+    "tanduk yang tajam.");
 
 static const u8 sFuryAttackDescription[] = _(
-    "Jabs the foe 2 to 5 times\n"
-    "with sharp horns, etc.");
+    "Menikam musuh 2 hingga 5\n"
+    "kali dengan tanduk, dll.");
 
 static const u8 sHornDrillDescription[] = _(
-    "A one-hit KO attack that\n"
-    "uses a horn like a drill.");
+    "Serangan KO satu pukulan\n"
+    "guna tanduk bak gerudi.");
 
 static const u8 sTackleDescription[] = _(
-    "Charges the foe with a full-\n"
-    "body tackle.");
+    "Merempuh musuh dengan\n"
+    "seluruh badan.");
 
 static const u8 sBodySlamDescription[] = _(
-    "A full-body slam that may\n"
-    "cause paralysis.");
+    "Hempasan seluruh badan\n"
+    "yang mungkin melumpuhkan.");
 
 static const u8 sWrapDescription[] = _(
-    "Wraps and squeezes the foe\n"
-    "2 to 5 times with vines, etc.");
+    "Membelit dan menjerut musuh\n"
+    "2 hingga 5 kali guna sulur.");
 
 static const u8 sTakeDownDescription[] = _(
-    "A reckless charge attack\n"
-    "that also hurts the user.");
+    "Rempuhan melulu. Pengguna\n"
+    "turut tercedera.");
 
 static const u8 sThrashDescription[] = _(
-    "A rampage of 2 to 3 turns\n"
-    "that confuses the user.");
+    "Amukan 2 hingga 3 giliran\n"
+    "yang buat pengguna keliru.");
 
 static const u8 sDoubleEdgeDescription[] = _(
-    "A life-risking tackle that\n"
-    "also hurts the user.");
+    "Rempuhan bertaruh nyawa.\n"
+    "Pengguna turut tercedera.");
 
 static const u8 sTailWhipDescription[] = _(
-    "Wags the tail to lower the\n"
-    "foe's DEFENSE.");
+    "Kibas ekor untuk turunkan\n"
+    "PERTAHANAN musuh.");
 
 static const u8 sPoisonStingDescription[] = _(
-    "A toxic attack with barbs,\n"
-    "etc., that may poison.");
+    "Serangan duri toksik yang\n"
+    "mungkin meracuni musuh.");
 
 static const u8 sTwineedleDescription[] = _(
-    "Stingers on the forelegs\n"
-    "jab the foe twice.");
+    "Sengat di kaki depan\n"
+    "menikam musuh dua kali.");
 
 static const u8 sPinMissileDescription[] = _(
-    "Sharp pins are fired to\n"
-    "strike 2 to 5 times.");
+    "Jarum tajam ditembak untuk\n"
+    "menyerang 2 hingga 5 kali.");
 
 static const u8 sLeerDescription[] = _(
-    "Frightens the foe with a\n"
-    "leer to lower DEFENSE.");
+    "Jelingan menakutkan untuk\n"
+    "turunkan PERTAHANAN musuh.");
 
 static const u8 sBiteDescription[] = _(
-    "Bites with vicious fangs.\n"
-    "May cause flinching.");
+    "Gigit dengan taring ganas.\n"
+    "Mungkin buat musuh gentar.");
 
 static const u8 sGrowlDescription[] = _(
-    "Growls cutely to reduce the\n"
-    "foe's ATTACK.");
+    "Menggeram comel untuk\n"
+    "turunkan SERANGAN musuh.");
 
 static const u8 sRoarDescription[] = _(
-    "Makes the foe flee to end\n"
-    "the battle.");
+    "Buat musuh lari dan\n"
+    "tamatkan pertarungan.");
 
 static const u8 sSingDescription[] = _(
-    "A soothing song lulls the\n"
-    "foe into a deep slumber.");
+    "Lagu merdu yang buat\n"
+    "musuh tertidur nyenyak.");
 
 static const u8 sSupersonicDescription[] = _(
-    "Emits bizarre sound waves\n"
-    "that may confuse the foe.");
+    "Gelombang bunyi aneh yang\n"
+    "mungkin buat musuh keliru.");
 
 static const u8 sSonicBoomDescription[] = _(
-    "Launches shock waves that\n"
-    "always inflict 20 HP damage.");
+    "Gelombang kejut yang\n"
+    "sentiasa kurangkan 20 HP.");
 
 static const u8 sDisableDescription[] = _(
-    "Psychically disables one of\n"
-    "the foe's moves.");
+    "Sekat salah satu move\n"
+    "musuh dengan kuasa psikik.");
 
 static const u8 sAcidDescription[] = _(
-    "Sprays a hide-melting acid.\n"
-    "May lower DEFENSE.");
+    "Sembur asid pencair kulit.\n"
+    "Boleh turunkan PERTAHANAN.");
 
 static const u8 sEmberDescription[] = _(
-    "A weak fire attack that may\n"
-    "inflict a burn.");
+    "Serangan api lemah yang\n"
+    "mungkin membakar musuh.");
 
 static const u8 sFlamethrowerDescription[] = _(
-    "A powerful fire attack that\n"
-    "may inflict a burn.");
+    "Serangan api kuat yang\n"
+    "mungkin membakar musuh.");
 
 static const u8 sMistDescription[] = _(
-    "Creates a mist that stops\n"
-    "reduction of abilities.");
+    "Mencipta kabus yang\n"
+    "cegah statistik diturunkan.");
 
 static const u8 sWaterGunDescription[] = _(
-    "Squirts water to attack\n"
-    "the foe.");
+    "Pancut air untuk\n"
+    "menyerang musuh.");
 
 static const u8 sHydroPumpDescription[] = _(
-    "Blasts water at high power\n"
-    "to strike the foe.");
+    "Sembur air berkuasa tinggi\n"
+    "untuk menyerang musuh.");
 
 static const u8 sSurfDescription[] = _(
-    "Creates a huge wave, then\n"
-    "crashes it down on the foe.");
+    "Cipta ombak besar, lalu\n"
+    "hempas ke atas musuh.");
 
 static const u8 sIceBeamDescription[] = _(
-    "Blasts the foe with an icy\n"
-    "beam that may freeze it.");
+    "Sinar ais yang mungkin\n"
+    "membekukan musuh.");
 
 static const u8 sBlizzardDescription[] = _(
-    "Hits the foe with an icy\n"
-    "storm that may freeze it.");
+    "Ribut salji yang mungkin\n"
+    "membekukan musuh.");
 
 static const u8 sPsybeamDescription[] = _(
-    "Fires a peculiar ray that\n"
-    "may confuse the foe.");
+    "Tembak sinar pelik yang\n"
+    "mungkin buat musuh keliru.");
 
 static const u8 sBubbleBeamDescription[] = _(
-    "Forcefully sprays bubbles\n"
-    "that may lower SPEED.");
+    "Sembur buih dengan kuat.\n"
+    "Mungkin turunkan KELAJUAN.");
 
 static const u8 sAuroraBeamDescription[] = _(
-    "Fires a rainbow-colored\n"
-    "beam that may lower ATTACK.");
+    "Tembak sinar warna pelangi.\n"
+    "Mungkin turunkan SERANGAN.");
 
 static const u8 sHyperBeamDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "Kuat, tapi pengguna perlu\n"
+    "rehat giliran berikutnya.");
 
 static const u8 sPeckDescription[] = _(
-    "Attacks the foe with a\n"
-    "jabbing beak, etc.");
+    "Serang musuh dengan paruh\n"
+    "yang tajam, dll.");
 
 static const u8 sDrillPeckDescription[] = _(
-    "A corkscrewing attack with\n"
-    "the beak acting as a drill.");
+    "Patukan berpusing dengan\n"
+    "paruh seperti gerudi.");
 
 static const u8 sSubmissionDescription[] = _(
-    "A reckless body slam that\n"
-    "also hurts the user.");
+    "Hempasan badan melulu.\n"
+    "Pengguna turut tercedera.");
 
 static const u8 sLowKickDescription[] = _(
-    "A kick that inflicts more\n"
-    "damage on heavier foes.");
+    "Sepakan yang lebih kuat\n"
+    "terhadap musuh yang berat.");
 
 static const u8 sCounterDescription[] = _(
-    "Retaliates any physical hit\n"
-    "with double the power.");
+    "Balas serangan fizikal\n"
+    "dengan kuasa berganda.");
 
 static const u8 sSeismicTossDescription[] = _(
-    "Inflicts damage identical\n"
-    "to the user's level.");
+    "Beri kerosakan sama dengan\n"
+    "tahap pengguna.");
 
 static const u8 sStrengthDescription[] = _(
-    "Builds enormous power,\n"
-    "then slams the foe.");
+    "Kumpul kuasa yang besar,\n"
+    "lalu hempas musuh.");
 
 static const u8 sAbsorbDescription[] = _(
-    "An attack that absorbs\n"
-    "half the damage inflicted.");
+    "Menyerap separuh daripada\n"
+    "kerosakan yang diberi.");
 
 static const u8 sMegaDrainDescription[] = _(
-    "An attack that absorbs\n"
-    "half the damage inflicted.");
+    "Menyerap separuh daripada\n"
+    "kerosakan yang diberi.");
 
 static const u8 sLeechSeedDescription[] = _(
-    "Plants a seed on the foe to\n"
-    "steal HP on every turn.");
+    "Tanam benih pada musuh\n"
+    "untuk curi HP setiap giliran.");
 
 static const u8 sGrowthDescription[] = _(
-    "Forces the body to grow\n"
-    "and heightens SP. ATK.");
+    "Paksa badan membesar dan\n"
+    "naikkan SERANGAN KHAS.");
 
 static const u8 sRazorLeafDescription[] = _(
-    "Cuts the enemy with leaves.\n"
-    "High critical-hit ratio.");
+    "Potong musuh dengan daun.\n"
+    "Peluang kritikal tinggi.");
 
 static const u8 sSolarBeamDescription[] = _(
-    "Absorbs light in one turn,\n"
-    "then attacks next turn.");
+    "Serap cahaya pada giliran 1,\n"
+    "lalu serang giliran ke-2.");
 
 static const u8 sPoisonPowderDescription[] = _(
-    "Scatters a toxic powder\n"
-    "that may poison the foe.");
+    "Tabur serbuk toksik yang\n"
+    "mungkin meracuni musuh.");
 
 static const u8 sStunSporeDescription[] = _(
-    "Scatters a powder that may\n"
-    "paralyze the foe.");
+    "Tabur serbuk yang mungkin\n"
+    "melumpuhkan musuh.");
 
 static const u8 sSleepPowderDescription[] = _(
-    "Scatters a powder that may\n"
-    "cause the foe to sleep.");
+    "Tabur serbuk yang mungkin\n"
+    "buat musuh tertidur.");
 
 static const u8 sPetalDanceDescription[] = _(
-    "A rampage of 2 to 3 turns\n"
-    "that confuses the user.");
+    "Amukan 2 hingga 3 giliran\n"
+    "yang buat pengguna keliru.");
 
 static const u8 sStringShotDescription[] = _(
-    "Binds the foe with string\n"
-    "to reduce its SPEED.");
+    "Lilit musuh dengan benang\n"
+    "untuk turunkan KELAJUAN.");
 
 static const u8 sDragonRageDescription[] = _(
-    "Launches shock waves that\n"
-    "always inflict 40 HP damage.");
+    "Gelombang kejut yang\n"
+    "sentiasa kurangkan 40 HP.");
 
 static const u8 sFireSpinDescription[] = _(
-    "Traps the foe in a ring of\n"
-    "fire for 2 to 5 turns.");
+    "Perangkap musuh dalam api\n"
+    "selama 2 hingga 5 giliran.");
 
 static const u8 sThunderShockDescription[] = _(
-    "An electrical attack that\n"
-    "may paralyze the foe.");
+    "Serangan elektrik yang\n"
+    "mungkin melumpuhkan musuh.");
 
 static const u8 sThunderboltDescription[] = _(
-    "A strong electrical attack\n"
-    "that may paralyze the foe.");
+    "Serangan elektrik kuat.\n"
+    "Mungkin melumpuhkan musuh.");
 
 static const u8 sThunderWaveDescription[] = _(
-    "A weak jolt of electricity\n"
-    "that paralyzes the foe.");
+    "Kejutan elektrik lemah yang\n"
+    "melumpuhkan musuh.");
 
 static const u8 sThunderDescription[] = _(
-    "A lightning attack that may\n"
-    "cause paralysis.");
+    "Serangan kilat yang\n"
+    "mungkin melumpuhkan musuh.");
 
 static const u8 sRockThrowDescription[] = _(
-    "Throws small rocks to\n"
-    "strike the foe.");
+    "Baling batu kecil untuk\n"
+    "menyerang musuh.");
 
 static const u8 sEarthquakeDescription[] = _(
-    "A powerful quake, but has\n"
-    "no effect on flying foes.");
+    "Gempa kuat, tetapi tiada\n"
+    "kesan pada musuh terbang.");
 
 static const u8 sFissureDescription[] = _(
-    "A one-hit KO move that\n"
-    "drops the foe in a fissure.");
+    "Move KO satu pukulan yang\n"
+    "jatuhkan musuh ke rekahan.");
 
 static const u8 sDigDescription[] = _(
-    "Digs underground the first\n"
-    "turn and strikes next turn.");
+    "Gali ke bawah tanah dahulu,\n"
+    "lalu serang giliran ke-2.");
 
 static const u8 sToxicDescription[] = _(
-    "Poisons the foe with an\n"
-    "intensifying toxin.");
+    "Racuni musuh dengan toksin\n"
+    "yang makin lama makin kuat.");
 
 static const u8 sConfusionDescription[] = _(
-    "A psychic attack that may\n"
-    "cause confusion.");
+    "Serangan psikik yang\n"
+    "mungkin buat musuh keliru.");
 
 static const u8 sPsychicDescription[] = _(
-    "A powerful psychic attack\n"
-    "that may lower SP. DEF.");
+    "Serangan psikik kuat. Boleh\n"
+    "turunkan PERTAHANAN KHAS.");
 
 static const u8 sHypnosisDescription[] = _(
-    "A hypnotizing move that\n"
-    "may induce sleep.");
+    "Hipnosis yang mungkin\n"
+    "buat musuh tertidur.");
 
 static const u8 sMeditateDescription[] = _(
-    "Meditates in a peaceful\n"
-    "fashion to raise ATTACK.");
+    "Bermeditasi dengan tenang\n"
+    "untuk naikkan SERANGAN.");
 
 static const u8 sAgilityDescription[] = _(
-    "Relaxes the body to sharply\n"
-    "boost SPEED.");
+    "Rehatkan badan supaya\n"
+    "KELAJUAN naik mendadak.");
 
 static const u8 sQuickAttackDescription[] = _(
-    "An extremely fast attack\n"
-    "that always strikes first.");
+    "Serangan amat pantas yang\n"
+    "sentiasa menyerang dahulu.");
 
 static const u8 sRageDescription[] = _(
-    "Raises the user's ATTACK\n"
-    "every time it is hit.");
+    "Naikkan SERANGAN pengguna\n"
+    "setiap kali ia diserang.");
 
 static const u8 sTeleportDescription[] = _(
-    "A psychic move for fleeing\n"
-    "from battle instantly.");
+    "Move psikik untuk lari dari\n"
+    "pertarungan dengan segera.");
 
 static const u8 sNightShadeDescription[] = _(
-    "Inflicts damage identical\n"
-    "to the user's level.");
+    "Beri kerosakan sama dengan\n"
+    "tahap pengguna.");
 
 static const u8 sMimicDescription[] = _(
-    "Copies a move used by the\n"
-    "foe during one battle.");
+    "Tiru move yang diguna musuh\n"
+    "untuk satu pertarungan.");
 
 static const u8 sScreechDescription[] = _(
-    "Emits a screech to sharply\n"
-    "reduce the foe's DEFENSE.");
+    "Pekikan untuk turunkan\n"
+    "PERTAHANAN musuh mendadak.");
 
 static const u8 sDoubleTeamDescription[] = _(
-    "Creates illusory copies to\n"
-    "raise evasiveness.");
+    "Cipta salinan ilusi untuk\n"
+    "naikkan elakan.");
 
 static const u8 sRecoverDescription[] = _(
-    "Recovers up to half the\n"
-    "user's maximum HP.");
+    "Pulihkan sehingga separuh\n"
+    "HP maksimum pengguna.");
 
 static const u8 sHardenDescription[] = _(
-    "Stiffens the body's \n"
-    "muscles to raise DEFENSE.");
+    "Keraskan otot badan untuk\n"
+    "naikkan PERTAHANAN.");
 
 static const u8 sMinimizeDescription[] = _(
-    "Minimizes the user's size\n"
-    "to raise evasiveness.");
+    "Kecilkan saiz pengguna\n"
+    "untuk naikkan elakan.");
 
 static const u8 sSmokescreenDescription[] = _(
-    "Lowers the foe's accuracy\n"
-    "using smoke, ink, etc.");
+    "Turunkan ketepatan musuh\n"
+    "guna asap, dakwat, dll.");
 
 static const u8 sConfuseRayDescription[] = _(
-    "A sinister ray that\n"
-    "confuses the foe.");
+    "Sinar jahat yang\n"
+    "buat musuh keliru.");
 
 static const u8 sWithdrawDescription[] = _(
-    "Withdraws the body into its\n"
-    "hard shell to raise DEFENSE.");
+    "Sembunyi dalam cengkerang\n"
+    "untuk naikkan PERTAHANAN.");
 
 static const u8 sDefenseCurlDescription[] = _(
-    "Curls up to conceal weak\n"
-    "spots and raise DEFENSE.");
+    "Bergulung tutup titik lemah\n"
+    "untuk naikkan PERTAHANAN.");
 
 static const u8 sBarrierDescription[] = _(
-    "Creates a barrier that\n"
-    "sharply raises DEFENSE.");
+    "Cipta benteng yang buat\n"
+    "PERTAHANAN naik mendadak.");
 
 static const u8 sLightScreenDescription[] = _(
-    "Creates a wall of light that\n"
-    "lowers SP. ATK damage.");
+    "Cipta dinding cahaya yang\n"
+    "lemahkan SERANGAN KHAS.");
 
 static const u8 sHazeDescription[] = _(
-    "Creates a black haze that\n"
-    "eliminates all stat changes.");
+    "Jerebu hitam yang memadam\n"
+    "semua perubahan statistik.");
 
 static const u8 sReflectDescription[] = _(
-    "Creates a wall of light that\n"
-    "weakens physical attacks.");
+    "Cipta dinding cahaya yang\n"
+    "lemahkan serangan fizikal.");
 
 static const u8 sFocusEnergyDescription[] = _(
-    "Focuses power to raise the\n"
-    "critical-hit ratio.");
+    "Fokus tenaga untuk naikkan\n"
+    "peluang serangan kritikal.");
 
 static const u8 sBideDescription[] = _(
-    "Endures attack for 2\n"
-    "turns to retaliate double.");
+    "Tahan serangan 2 giliran,\n"
+    "lalu balas dua kali ganda.");
 
 static const u8 sMetronomeDescription[] = _(
-    "Waggles a finger to use any\n"
-    "POKéMON move at random.");
+    "Goyang jari untuk guna\n"
+    "move POKéMON secara rawak.");
 
 static const u8 sMirrorMoveDescription[] = _(
-    "Counters the foe's attack\n"
-    "with the same move.");
+    "Balas serangan musuh\n"
+    "dengan move yang sama.");
 
 static const u8 sSelfDestructDescription[] = _(
-    "Inflicts severe damage but\n"
-    "makes the user faint.");
+    "Beri kerosakan teruk tetapi\n"
+    "buat pengguna pengsan.");
 
 static const u8 sEggBombDescription[] = _(
-    "An egg is forcibly hurled at\n"
-    "the foe.");
+    "Telur dibaling dengan kuat\n"
+    "ke arah musuh.");
 
 static const u8 sLickDescription[] = _(
-    "Licks with a long tongue to\n"
-    "injure. May also paralyze.");
+    "Jilat dengan lidah panjang.\n"
+    "Mungkin juga melumpuhkan.");
 
 static const u8 sSmogDescription[] = _(
-    "An exhaust-gas attack\n"
-    "that may also poison.");
+    "Serangan gas ekzos yang\n"
+    "mungkin juga meracuni.");
 
 static const u8 sSludgeDescription[] = _(
-    "Sludge is hurled to inflict\n"
-    "damage. May also poison.");
+    "Baling sisa toksik ke musuh.\n"
+    "Mungkin juga meracuni.");
 
 static const u8 sBoneClubDescription[] = _(
-    "Clubs the foe with a bone.\n"
-    "May cause flinching.");
+    "Pukul musuh dengan tulang.\n"
+    "Mungkin buat musuh gentar.");
 
 static const u8 sFireBlastDescription[] = _(
-    "Incinerates everything it\n"
-    "strikes. May cause a burn.");
+    "Hanguskan semua yang kena.\n"
+    "Mungkin membakar musuh.");
 
 static const u8 sWaterfallDescription[] = _(
-    "Charges the foe with speed\n"
-    "to climb waterfalls.");
+    "Rempuh musuh dengan laju\n"
+    "yang mampu daki air terjun.");
 
 static const u8 sClampDescription[] = _(
-    "Traps and squeezes the\n"
-    "foe for 2 to 5 turns.");
+    "Kepit dan jerut musuh\n"
+    "selama 2 hingga 5 giliran.");
 
 static const u8 sSwiftDescription[] = _(
-    "Sprays star-shaped rays\n"
-    "that never miss.");
+    "Sinar berbentuk bintang\n"
+    "yang tidak pernah tersasar.");
 
 static const u8 sSkullBashDescription[] = _(
-    "Tucks in the head, then\n"
-    "attacks on the next turn.");
+    "Tunduk kepala dahulu,\n"
+    "lalu serang giliran ke-2.");
 
 static const u8 sSpikeCannonDescription[] = _(
-    "Launches sharp spikes that\n"
-    "strike 2 to 5 times.");
+    "Tembak duri tajam yang\n"
+    "menyerang 2 hingga 5 kali.");
 
 static const u8 sConstrictDescription[] = _(
-    "Constricts to inflict pain.\n"
-    "May lower SPEED.");
+    "Jerut untuk beri kesakitan.\n"
+    "Mungkin turunkan KELAJUAN.");
 
 static const u8 sAmnesiaDescription[] = _(
-    "Forgets about something\n"
-    "and sharply raises SP. DEF.");
+    "Lupakan sesuatu dan sangat\n"
+    "naikkan PERTAHANAN KHAS.");
 
 static const u8 sKinesisDescription[] = _(
-    "Distracts the foe.\n"
-    "May lower accuracy.");
+    "Alih perhatian musuh.\n"
+    "Boleh turunkan ketepatan.");
 
 static const u8 sSoftBoiledDescription[] = _(
-    "Recovers up to half the\n"
-    "user's maximum HP.");
+    "Pulihkan sehingga separuh\n"
+    "HP maksimum pengguna.");
 
 static const u8 sHiJumpKickDescription[] = _(
-    "A jumping knee kick. If it\n"
-    "misses, the user is hurt.");
+    "Sepakan lutut lompat. Jika\n"
+    "tersasar, pengguna cedera.");
 
 static const u8 sGlareDescription[] = _(
-    "Intimidates and frightens\n"
-    "the foe into paralysis.");
+    "Gertak dan takutkan musuh\n"
+    "hingga jadi lumpuh.");
 
 static const u8 sDreamEaterDescription[] = _(
-    "Takes one half the damage\n"
-    "inflicted on a sleeping foe.");
+    "Serap separuh kerosakan\n"
+    "ke atas musuh yang tidur.");
 
 static const u8 sPoisonGasDescription[] = _(
-    "Envelops the foe in a toxic\n"
-    "gas that may poison.");
+    "Selubungi musuh dengan gas\n"
+    "toksik. Mungkin meracuni.");
 
 static const u8 sBarrageDescription[] = _(
-    "Hurls round objects at the\n"
-    "foe 2 to 5 times.");
+    "Baling objek bulat ke musuh\n"
+    "2 hingga 5 kali.");
 
 static const u8 sLeechLifeDescription[] = _(
-    "An attack that steals half\n"
-    "the damage inflicted.");
+    "Mencuri separuh daripada\n"
+    "kerosakan yang diberi.");
 
 static const u8 sLovelyKissDescription[] = _(
-    "Demands a kiss with a scary\n"
-    "face that induces sleep.");
+    "Minta cium dengan muka\n"
+    "seram. Buat musuh tertidur.");
 
 static const u8 sSkyAttackDescription[] = _(
-    "Searches out weak spots,\n"
-    "then strikes the next turn.");
+    "Cari titik lemah, lalu\n"
+    "serang giliran berikutnya.");
 
 static const u8 sTransformDescription[] = _(
-    "Alters the user's cells to\n"
-    "become a copy of the foe.");
+    "Ubah sel pengguna untuk\n"
+    "jadi salinan musuh.");
 
 static const u8 sBubbleDescription[] = _(
-    "An attack using bubbles.\n"
-    "May lower the foe's SPEED.");
+    "Serangan guna buih. Mungkin\n"
+    "turunkan KELAJUAN musuh.");
 
 static const u8 sDizzyPunchDescription[] = _(
-    "A rhythmic punch that may\n"
-    "confuse the foe.");
+    "Tumbukan berirama yang\n"
+    "mungkin buat musuh keliru.");
 
 static const u8 sSporeDescription[] = _(
-    "Scatters a cloud of spores\n"
-    "that always induce sleep.");
+    "Tabur awan spora yang\n"
+    "pasti buat musuh tertidur.");
 
 static const u8 sFlashDescription[] = _(
-    "Looses a powerful blast of\n"
-    "light that cuts accuracy.");
+    "Pancar cahaya terang yang\n"
+    "turunkan ketepatan.");
 
 static const u8 sPsywaveDescription[] = _(
-    "Attacks with a psychic\n"
-    "wave of varying intensity.");
+    "Serangan gelombang psikik\n"
+    "dengan kuasa berubah-ubah.");
 
 static const u8 sSplashDescription[] = _(
-    "It's just a splash...\n"
-    "Has no effect whatsoever.");
+    "Ia cuma percikan...\n"
+    "Tiada kesan langsung.");
 
 static const u8 sAcidArmorDescription[] = _(
-    "Liquifies the user's body\n"
-    "to sharply raise DEFENSE.");
+    "Cairkan badan supaya\n"
+    "PERTAHANAN naik mendadak.");
 
 static const u8 sCrabhammerDescription[] = _(
-    "Hammers with a pincer. Has a\n"
-    "high critical-hit ratio.");
+    "Hentak dengan sepit.\n"
+    "Peluang kritikal tinggi.");
 
 static const u8 sExplosionDescription[] = _(
-    "Inflicts severe damage but\n"
-    "makes the user faint.");
+    "Beri kerosakan teruk tetapi\n"
+    "buat pengguna pengsan.");
 
 static const u8 sFurySwipesDescription[] = _(
-    "Rakes the foe with sharp\n"
-    "claws, etc., 2 to 5 times.");
+    "Cakar musuh dengan kuku\n"
+    "tajam, dll., 2 hingga 5 kali.");
 
 static const u8 sBonemerangDescription[] = _(
-    "Throws a bone boomerang\n"
-    "that strikes twice.");
+    "Baling bumerang tulang\n"
+    "yang menyerang dua kali.");
 
 static const u8 sRestDescription[] = _(
-    "The user sleeps for 2 turns,\n"
-    "restoring HP and status.");
+    "Pengguna tidur 2 giliran,\n"
+    "pulihkan HP dan status.");
 
 static const u8 sRockSlideDescription[] = _(
-    "Large boulders are hurled.\n"
-    "May cause flinching.");
+    "Batu besar dihumban.\n"
+    "Mungkin buat musuh gentar.");
 
 static const u8 sHyperFangDescription[] = _(
-    "Attacks with sharp fangs.\n"
-    "May cause flinching.");
+    "Serang dengan taring tajam.\n"
+    "Mungkin buat musuh gentar.");
 
 static const u8 sSharpenDescription[] = _(
-    "Reduces the polygon count\n"
-    "and raises ATTACK.");
+    "Kurangkan bilangan poligon\n"
+    "dan naikkan SERANGAN.");
 
 static const u8 sConversionDescription[] = _(
-    "Changes the user's type\n"
-    "into a known move's type.");
+    "Tukar jenis pengguna ke\n"
+    "jenis move yang diketahui.");
 
 static const u8 sTriAttackDescription[] = _(
-    "Fires three types of beams\n"
-    "at the same time.");
+    "Tembak tiga jenis sinar\n"
+    "pada masa yang sama.");
 
 static const u8 sSuperFangDescription[] = _(
-    "Attacks with sharp fangs\n"
-    "and cuts half the foe's HP.");
+    "Serang guna taring tajam.\n"
+    "Potong separuh HP musuh.");
 
 static const u8 sSlashDescription[] = _(
-    "Slashes with claws, etc. Has\n"
-    "a high critical-hit ratio.");
+    "Tebas dengan kuku, dll.\n"
+    "Peluang kritikal tinggi.");
 
 static const u8 sSubstituteDescription[] = _(
-    "Creates a decoy using 1/4\n"
-    "of the user's maximum HP.");
+    "Cipta umpan guna 1/4 HP\n"
+    "maksimum pengguna.");
 
 static const u8 sStruggleDescription[] = _(
-    "Used only if all PP are gone.\n"
-    "Also hurts the user a little.");
+    "Hanya jika semua PP habis.\n"
+    "Juga cederakan pengguna.");
 
 static const u8 sSketchDescription[] = _(
-    "Copies the foe's last move\n"
-    "permanently.");
+    "Salin move terakhir musuh\n"
+    "secara kekal.");
 
 static const u8 sTripleKickDescription[] = _(
-    "Kicks the foe 3 times in a\n"
-    "row with rising intensity.");
+    "Sepak musuh 3 kali dengan\n"
+    "kuasa yang makin meningkat.");
 
 static const u8 sThiefDescription[] = _(
-    "While attacking, it may\n"
-    "steal the foe's held item.");
+    "Semasa menyerang, mungkin\n"
+    "curi barang pegangan musuh.");
 
 static const u8 sSpiderWebDescription[] = _(
-    "Ensnares the foe to stop it\n"
-    "from fleeing or switching.");
+    "Jerat musuh supaya tidak\n"
+    "boleh lari atau bertukar.");
 
 static const u8 sMindReaderDescription[] = _(
-    "Senses the foe's action to\n"
-    "ensure the next move's hit.");
+    "Baca tindakan musuh supaya\n"
+    "move berikutnya pasti kena.");
 
 static const u8 sNightmareDescription[] = _(
-    "Inflicts 1/4 damage on a\n"
-    "sleeping foe every turn.");
+    "Musuh yang tidur hilang 1/4\n"
+    "HP pada setiap giliran.");
 
 static const u8 sFlameWheelDescription[] = _(
-    "A fiery charge attack that\n"
-    "may inflict a burn.");
+    "Rempuhan berapi yang\n"
+    "mungkin membakar musuh.");
 
 static const u8 sSnoreDescription[] = _(
-    "A loud attack that can be\n"
-    "used only while asleep.");
+    "Serangan bising yang hanya\n"
+    "boleh diguna semasa tidur.");
 
 static const u8 sCurseDescription[] = _(
-    "A move that functions\n"
-    "differently for GHOSTS.");
+    "Move yang berfungsi lain\n"
+    "bagi jenis HANTU.");
 
 static const u8 sFlailDescription[] = _(
-    "Inflicts more damage when\n"
-    "the user's HP is down.");
+    "Lebih banyak kerosakan bila\n"
+    "HP pengguna rendah.");
 
 static const u8 sConversion2Description[] = _(
-    "Makes the user resistant\n"
-    "to the last attack's type.");
+    "Buat pengguna tahan jenis\n"
+    "serangan yang terakhir.");
 
 static const u8 sAeroblastDescription[] = _(
-    "Launches a vacuumed blast.\n"
-    "High critical-hit ratio.");
+    "Lepas letupan vakum.\n"
+    "Peluang kritikal tinggi.");
 
 static const u8 sCottonSporeDescription[] = _(
-    "Spores cling to the foe,\n"
-    "sharply reducing SPEED.");
+    "Spora melekat pada musuh,\n"
+    "KELAJUAN turun mendadak.");
 
 static const u8 sReversalDescription[] = _(
-    "Inflicts more damage when\n"
-    "the user's HP is down.");
+    "Lebih banyak kerosakan bila\n"
+    "HP pengguna rendah.");
 
 static const u8 sSpiteDescription[] = _(
-    "Spitefully cuts the PP\n"
-    "of the foe's last move.");
+    "Kurangkan PP move terakhir\n"
+    "musuh dengan dengki.");
 
 static const u8 sPowderSnowDescription[] = _(
-    "Blasts the foe with a snowy\n"
-    "gust. May cause freezing.");
+    "Tiupan angin bersalji.\n"
+    "Mungkin membekukan musuh.");
 
 static const u8 sProtectDescription[] = _(
-    "Evades attack, but may fail\n"
-    "if used in succession.");
+    "Elak serangan, tapi mungkin\n"
+    "gagal jika diguna berulang.");
 
 static const u8 sMachPunchDescription[] = _(
-    "A punch is thrown at wicked\n"
-    "speed to strike first.");
+    "Tumbukan sangat laju yang\n"
+    "sentiasa menyerang dahulu.");
 
 static const u8 sScaryFaceDescription[] = _(
-    "Frightens with a scary face\n"
-    "to sharply reduce SPEED.");
+    "Gertak guna muka seram.\n"
+    "KELAJUAN turun mendadak.");
 
 static const u8 sFaintAttackDescription[] = _(
-    "Draws the foe close, then\n"
-    "strikes without fail.");
+    "Tarik musuh dekat, lalu\n"
+    "serang tanpa gagal.");
 
 static const u8 sSweetKissDescription[] = _(
-    "Demands a kiss with a cute\n"
-    "look. May cause confusion.");
+    "Minta cium dengan comel.\n"
+    "Mungkin buat musuh keliru.");
 
 static const u8 sBellyDrumDescription[] = _(
-    "Maximizes ATTACK while\n"
-    "sacrificing HP.");
+    "Maksimumkan SERANGAN\n"
+    "dengan mengorbankan HP.");
 
 static const u8 sSludgeBombDescription[] = _(
-    "Sludge is hurled to inflict\n"
-    "damage. May also poison.");
+    "Baling sisa toksik ke musuh.\n"
+    "Mungkin juga meracuni.");
 
 static const u8 sMudSlapDescription[] = _(
-    "Hurls mud in the foe's face\n"
-    "to reduce its accuracy.");
+    "Baling lumpur ke muka musuh\n"
+    "untuk turunkan ketepatan.");
 
 static const u8 sOctazookaDescription[] = _(
-    "Fires a lump of ink to\n"
-    "damage and cut accuracy.");
+    "Tembak gumpalan dakwat.\n"
+    "Boleh turunkan ketepatan.");
 
 static const u8 sSpikesDescription[] = _(
-    "Sets spikes that hurt a \n"
-    "foe switching in.");
+    "Pasang duri yang cederakan\n"
+    "musuh yang bertukar masuk.");
 
 static const u8 sZapCannonDescription[] = _(
-    "Powerful and sure to cause\n"
-    "paralysis, but inaccurate.");
+    "Kuat dan pasti melumpuhkan,\n"
+    "tetapi kurang tepat.");
 
 static const u8 sForesightDescription[] = _(
-    "Negates the foe's efforts\n"
-    "to heighten evasiveness.");
+    "Batalkan usaha musuh untuk\n"
+    "naikkan elakan.");
 
 static const u8 sDestinyBondDescription[] = _(
-    "If the user faints, the foe\n"
-    "is also made to faint.");
+    "Jika pengguna pengsan,\n"
+    "musuh turut pengsan.");
 
 static const u8 sPerishSongDescription[] = _(
-    "Any POKéMON hearing this\n"
-    "song faints in 3 turns.");
+    "POKéMON yang mendengarnya\n"
+    "pengsan selepas 3 giliran.");
 
 static const u8 sIcyWindDescription[] = _(
-    "A chilling attack that\n"
-    "lowers the foe's SPEED.");
+    "Serangan dingin yang\n"
+    "turunkan KELAJUAN musuh.");
 
 static const u8 sDetectDescription[] = _(
-    "Evades attack, but may fail\n"
-    "if used in succession.");
+    "Elak serangan, tapi mungkin\n"
+    "gagal jika diguna berulang.");
 
 static const u8 sBoneRushDescription[] = _(
-    "Strikes the foe with a bone\n"
-    "in hand 2 to 5 times.");
+    "Pukul musuh dengan tulang\n"
+    "2 hingga 5 kali.");
 
 static const u8 sLockOnDescription[] = _(
-    "Locks on to the foe to\n"
-    "ensure the next move hits.");
+    "Kunci sasaran pada musuh.\n"
+    "Move berikutnya pasti kena.");
 
 static const u8 sOutrageDescription[] = _(
-    "A rampage of 2 to 3 turns\n"
-    "that confuses the user.");
+    "Amukan 2 hingga 3 giliran\n"
+    "yang buat pengguna keliru.");
 
 static const u8 sSandstormDescription[] = _(
-    "Causes a sandstorm that\n"
-    "rages for several turns.");
+    "Cetuskan ribut pasir yang\n"
+    "melanda beberapa giliran.");
 
 static const u8 sGigaDrainDescription[] = _(
-    "An attack that steals half\n"
-    "the damage inflicted.");
+    "Mencuri separuh daripada\n"
+    "kerosakan yang diberi.");
 
 static const u8 sEndureDescription[] = _(
-    "Endures any attack for\n"
-    "1 turn, leaving at least 1HP.");
+    "Bertahan apa jua serangan\n"
+    "1 giliran, baki minimum 1 HP.");
 
 static const u8 sCharmDescription[] = _(
-    "Charms the foe and sharply\n"
-    "reduces its ATTACK.");
+    "Pikat musuh dan buat\n"
+    "SERANGAN turun mendadak.");
 
 static const u8 sRolloutDescription[] = _(
-    "An attack lasting 5 turns\n"
-    "with rising intensity.");
+    "Serangan 5 giliran dengan\n"
+    "kuasa yang makin meningkat.");
 
 static const u8 sFalseSwipeDescription[] = _(
-    "An attack that leaves the\n"
-    "foe with at least 1 HP.");
+    "Serangan yang tinggalkan\n"
+    "musuh dengan minimum 1 HP.");
 
 static const u8 sSwaggerDescription[] = _(
-    "Confuses the foe, but also\n"
-    "sharply raises ATTACK.");
+    "Kelirukan musuh, tetapi\n"
+    "SERANGANNYA naik mendadak.");
 
 static const u8 sMilkDrinkDescription[] = _(
-    "Recovers up to half the\n"
-    "user's maximum HP.");
+    "Pulihkan sehingga separuh\n"
+    "HP maksimum pengguna.");
 
 static const u8 sSparkDescription[] = _(
-    "An electrified tackle that\n"
-    "may paralyze the foe.");
+    "Rempuhan berelektrik yang\n"
+    "mungkin melumpuhkan musuh.");
 
 static const u8 sFuryCutterDescription[] = _(
-    "An attack that intensifies\n"
-    "on each successive hit.");
+    "Serangan yang makin kuat\n"
+    "bila kena berturut-turut.");
 
 static const u8 sSteelWingDescription[] = _(
-    "Strikes the foe with hard\n"
-    "wings spread wide.");
+    "Pukul musuh dengan sayap\n"
+    "keras yang terbentang luas.");
 
 static const u8 sMeanLookDescription[] = _(
-    "Fixes the foe with a mean\n"
-    "look that prevents escape.");
+    "Renung musuh dengan jahat\n"
+    "supaya ia tak boleh lari.");
 
 static const u8 sAttractDescription[] = _(
-    "Makes the opposite gender\n"
-    "less likely to attack.");
+    "Buat jantina berlawanan\n"
+    "kurang mungkin menyerang.");
 
 static const u8 sSleepTalkDescription[] = _(
-    "Uses an available move\n"
-    "randomly while asleep.");
+    "Guna move yang ada secara\n"
+    "rawak semasa tidur.");
 
 static const u8 sHealBellDescription[] = _(
-    "Chimes soothingly to heal\n"
-    "all status abnormalities.");
+    "Loceng merdu yang pulihkan\n"
+    "semua masalah status.");
 
 static const u8 sReturnDescription[] = _(
-    "An attack that increases\n"
-    "in power with friendship.");
+    "Serangan yang bertambah\n"
+    "kuat dengan persahabatan.");
 
 static const u8 sPresentDescription[] = _(
-    "A gift in the form of a\n"
-    "bomb. May restore HP.");
+    "Hadiah dalam bentuk bom.\n"
+    "Mungkin pulihkan HP.");
 
 static const u8 sFrustrationDescription[] = _(
-    "An attack that is stronger\n"
-    "if the TRAINER is disliked.");
+    "Serangan yang lebih kuat\n"
+    "jika JURULATIH tak disukai.");
 
 static const u8 sSafeguardDescription[] = _(
-    "A mystical force prevents\n"
-    "all status problems.");
+    "Kuasa mistik yang halang\n"
+    "semua masalah status.");
 
 static const u8 sPainSplitDescription[] = _(
-    "Adds the user and foe's HP,\n"
-    "then shares them equally.");
+    "Campur HP kedua-dua pihak,\n"
+    "lalu bahagi sama rata.");
 
 static const u8 sSacredFireDescription[] = _(
-    "A mystical fire attack that\n"
-    "may inflict a burn.");
+    "Serangan api mistik yang\n"
+    "mungkin membakar musuh.");
 
 static const u8 sMagnitudeDescription[] = _(
-    "A ground-shaking attack\n"
-    "of random intensity.");
+    "Serangan gegar bumi\n"
+    "dengan kekuatan rawak.");
 
 static const u8 sDynamicPunchDescription[] = _(
-    "Powerful and sure to cause\n"
-    "confusion, but inaccurate.");
+    "Kuat dan pasti buat musuh\n"
+    "keliru, tetapi kurang tepat.");
 
 static const u8 sMegahornDescription[] = _(
-    "A brutal ramming attack\n"
-    "using out-thrust horns.");
+    "Rempuhan ganas guna\n"
+    "tanduk yang terjulur.");
 
 static const u8 sDragonBreathDescription[] = _(
-    "Strikes the foe with an\n"
-    "incredible blast of breath.");
+    "Hembus nafas yang dahsyat\n"
+    "ke arah musuh.");
 
 static const u8 sBatonPassDescription[] = _(
-    "Switches out the user while\n"
-    "keeping effects in play.");
+    "Tukar pengguna sambil\n"
+    "kekalkan kesan yang aktif.");
 
 static const u8 sEncoreDescription[] = _(
-    "Makes the foe repeat its\n"
-    "last move over 2 to 6 turns.");
+    "Paksa musuh ulang move\n"
+    "terakhir, 2 hingga 6 giliran.");
 
 static const u8 sPursuitDescription[] = _(
-    "Inflicts bad damage if used\n"
-    "on a foe switching out.");
+    "Kerosakan besar jika guna\n"
+    "pada musuh yang bertukar.");
 
 static const u8 sRapidSpinDescription[] = _(
-    "Spins the body at high\n"
-    "speed to strike the foe.");
+    "Putar badan dengan laju\n"
+    "untuk menyerang musuh.");
 
 static const u8 sSweetScentDescription[] = _(
-    "Allures the foe to reduce\n"
-    "evasiveness.");
+    "Pikat musuh untuk\n"
+    "turunkan elakannya.");
 
 static const u8 sIronTailDescription[] = _(
-    "Attacks with a rock-hard\n"
-    "tail. May lower DEFENSE.");
+    "Hentam dengan ekor keras.\n"
+    "Boleh turunkan PERTAHANAN.");
 
 static const u8 sMetalClawDescription[] = _(
-    "A claw attack that may\n"
-    "raise the user's ATTACK.");
+    "Cakaran yang mungkin\n"
+    "naikkan SERANGAN pengguna.");
 
 static const u8 sVitalThrowDescription[] = _(
-    "Makes the user's move last,\n"
-    "but it never misses.");
+    "Pengguna serang terakhir,\n"
+    "tapi tak pernah tersasar.");
 
 static const u8 sMorningSunDescription[] = _(
-    "Restores HP. The amount\n"
-    "varies with the weather.");
+    "Pulihkan HP. Jumlahnya\n"
+    "bergantung pada cuaca.");
 
 static const u8 sSynthesisDescription[] = _(
-    "Restores HP. The amount\n"
-    "varies with the weather.");
+    "Pulihkan HP. Jumlahnya\n"
+    "bergantung pada cuaca.");
 
 static const u8 sMoonlightDescription[] = _(
-    "Restores HP. The amount\n"
-    "varies with the weather.");
+    "Pulihkan HP. Jumlahnya\n"
+    "bergantung pada cuaca.");
 
 static const u8 sHiddenPowerDescription[] = _(
-    "The effectiveness varies\n"
-    "with the user.");
+    "Keberkesanannya berbeza\n"
+    "mengikut pengguna.");
 
 static const u8 sCrossChopDescription[] = _(
-    "A double-chopping attack.\n"
-    "High critical-hit ratio.");
+    "Tetakan berganda.\n"
+    "Peluang kritikal tinggi.");
 
 static const u8 sTwisterDescription[] = _(
-    "Whips up a vicious twister\n"
-    "to tear at the foe.");
+    "Cetus puting beliung ganas\n"
+    "untuk menyerang musuh.");
 
 static const u8 sRainDanceDescription[] = _(
-    "Boosts the power of WATER-\n"
-    "type moves for 5 turns.");
+    "Kuatkan move jenis AIR\n"
+    "selama 5 giliran.");
 
 static const u8 sSunnyDayDescription[] = _(
-    "Boosts the power of FIRE-\n"
-    "type moves for 5 turns.");
+    "Kuatkan move jenis API\n"
+    "selama 5 giliran.");
 
 static const u8 sCrunchDescription[] = _(
-    "Crunches with sharp fangs.\n"
-    "May lower SP. DEF.");
+    "Gigit guna taring. Mungkin\n"
+    "turunkan PERTAHANAN KHAS.");
 
 static const u8 sMirrorCoatDescription[] = _(
-    "Counters the foe's special\n"
-    "attack at double the power.");
+    "Balas serangan khas musuh\n"
+    "dengan kuasa berganda.");
 
 static const u8 sPsychUpDescription[] = _(
-    "Copies the foe's effect(s)\n"
-    "and gives to the user.");
+    "Salin kesan statistik musuh\n"
+    "kepada pengguna.");
 
 static const u8 sExtremeSpeedDescription[] = _(
-    "An extremely fast and\n"
-    "powerful attack.");
+    "Serangan yang amat pantas\n"
+    "dan berkuasa.");
 
 static const u8 sAncientPowerDescription[] = _(
-    "An attack that may raise\n"
-    "all stats.");
+    "Serangan yang mungkin\n"
+    "naikkan semua statistik.");
 
 static const u8 sShadowBallDescription[] = _(
-    "Hurls a black blob that may\n"
-    "lower the foe's SP. DEF.");
+    "Baling bola hitam. Mungkin\n"
+    "turunkan PERTAHANAN KHAS.");
 
 static const u8 sFutureSightDescription[] = _(
-    "Heightens inner power to\n"
-    "strike 2 turns later.");
+    "Kumpul kuasa batin untuk\n"
+    "serang selepas 2 giliran.");
 
 static const u8 sRockSmashDescription[] = _(
-    "A rock-crushing attack\n"
-    "that may lower DEFENSE.");
+    "Serangan pecah batu yang\n"
+    "boleh turunkan PERTAHANAN.");
 
 static const u8 sWhirlpoolDescription[] = _(
-    "Traps and hurts the foe in\n"
-    "a whirlpool for 2 to 5 turns.");
+    "Perangkap musuh di pusaran\n"
+    "air untuk 2 hingga 5 giliran.");
 
 static const u8 sBeatUpDescription[] = _(
-    "Summons party POKéMON to\n"
-    "join in the attack.");
+    "Panggil POKéMON parti untuk\n"
+    "sertai serangan.");
 
 static const u8 sFakeOutDescription[] = _(
-    "A 1st-turn, 1st-strike move\n"
-    "that causes flinching.");
+    "Serang dahulu pada giliran\n"
+    "pertama. Buat musuh gentar.");
 
 static const u8 sUproarDescription[] = _(
-    "Causes an uproar for 2 to 5\n"
-    "turns and prevents sleep.");
+    "Buat hingar 2 hingga 5\n"
+    "giliran dan cegah tidur.");
 
 static const u8 sStockpileDescription[] = _(
-    "Charges up power for up to\n"
-    "3 turns.");
+    "Kumpul kuasa sehingga\n"
+    "3 giliran.");
 
 static const u8 sSpitUpDescription[] = _(
-    "Releases stockpiled power\n"
-    "(the more the better).");
+    "Lepaskan kuasa timbunan\n"
+    "(lebih banyak, lebih kuat).");
 
 static const u8 sSwallowDescription[] = _(
-    "Absorbs stockpiled power\n"
-    "and restores HP.");
+    "Serap kuasa timbunan\n"
+    "dan pulihkan HP.");
 
 static const u8 sHeatWaveDescription[] = _(
-    "Exhales a hot breath on the\n"
-    "foe. May inflict a burn.");
+    "Hembus nafas panas ke arah\n"
+    "musuh. Mungkin membakar.");
 
 static const u8 sHailDescription[] = _(
-    "Summons a hailstorm that\n"
-    "strikes every turn.");
+    "Cetuskan hujan batu yang\n"
+    "menyerang setiap giliran.");
 
 static const u8 sTormentDescription[] = _(
-    "Torments the foe and stops\n"
-    "successive use of a move.");
+    "Seksa musuh supaya tidak\n"
+    "ulang move yang sama.");
 
 static const u8 sFlatterDescription[] = _(
-    "Confuses the foe, but\n"
-    "raises its SP. ATK.");
+    "Puji musuh hingga keliru,\n"
+    "tetapi SERANGAN KHAS naik.");
 
 static const u8 sWillOWispDescription[] = _(
-    "Inflicts a burn on the foe\n"
-    "with intense fire.");
+    "Buat musuh terbakar dengan\n"
+    "api yang membara.");
 
 static const u8 sMementoDescription[] = _(
-    "The user faints and lowers\n"
-    "the foe's abilities.");
+    "Pengguna pengsan dan\n"
+    "turunkan statistik musuh.");
 
 static const u8 sFacadeDescription[] = _(
-    "Boosts ATTACK when burned,\n"
-    "paralyzed, or poisoned.");
+    "Naikkan SERANGAN bila\n"
+    "terbakar, lumpuh, diracun.");
 
 static const u8 sFocusPunchDescription[] = _(
-    "A powerful loyalty attack.\n"
-    "The user flinches if hit.");
+    "Tumbukan kuat. Pengguna\n"
+    "gentar jika diserang dulu.");
 
 static const u8 sSmellingSaltDescription[] = _(
-    "Powerful against paralyzed\n"
-    "foes, but also heals them.");
+    "Kuat terhadap musuh lumpuh,\n"
+    "tetapi turut pulihkannya.");
 
 static const u8 sFollowMeDescription[] = _(
-    "Draws attention to make\n"
-    "foes attack only the user.");
+    "Alih perhatian supaya musuh\n"
+    "hanya serang pengguna.");
 
 static const u8 sNaturePowerDescription[] = _(
-    "The type of attack varies\n"
-    "depending on the location.");
+    "Jenis serangan berbeza\n"
+    "bergantung pada lokasi.");
 
 static const u8 sChargeDescription[] = _(
-    "Charges power to boost the\n"
-    "electric move used next.");
+    "Kumpul cas untuk kuatkan\n"
+    "move elektrik seterusnya.");
 
 static const u8 sTauntDescription[] = _(
-    "Taunts the foe into only\n"
-    "using attack moves.");
+    "Ejek musuh supaya hanya\n"
+    "guna move serangan.");
 
 static const u8 sHelpingHandDescription[] = _(
-    "Boosts the power of the\n"
-    "recipient's moves.");
+    "Kuatkan move POKéMON\n"
+    "yang menerima bantuan.");
 
 static const u8 sTrickDescription[] = _(
-    "Tricks the foe into trading\n"
-    "held items.");
+    "Perdaya musuh supaya\n"
+    "bertukar barang pegangan.");
 
 static const u8 sRolePlayDescription[] = _(
-    "Mimics the target and\n"
-    "copies its special ability.");
+    "Tiru sasaran dan salin\n"
+    "kebolehan khasnya.");
 
 static const u8 sWishDescription[] = _(
-    "A wish that restores HP.\n"
-    "It takes time to work.");
+    "Hajat yang pulihkan HP.\n"
+    "Perlu masa untuk berkesan.");
 
 static const u8 sAssistDescription[] = _(
-    "Attacks randomly with one\n"
-    "of the partner's moves.");
+    "Serang secara rawak guna\n"
+    "salah satu move rakan.");
 
 static const u8 sIngrainDescription[] = _(
-    "Lays roots that restore HP.\n"
-    "The user can't switch out.");
+    "Tanam akar untuk pulih HP.\n"
+    "Pengguna tak dapat keluar.");
 
 static const u8 sSuperpowerDescription[] = _(
-    "Boosts strength sharply,\n"
-    "but lowers abilities.");
+    "Kekuatan naik mendadak,\n"
+    "tetapi statistik menurun.");
 
 static const u8 sMagicCoatDescription[] = _(
-    "Reflects special effects\n"
-    "back to the attacker.");
+    "Pantulkan kesan khas\n"
+    "kembali kepada penyerang.");
 
 static const u8 sRecycleDescription[] = _(
-    "Recycles a used item for\n"
-    "one more use.");
+    "Kitar semula barang yang\n"
+    "sudah diguna.");
 
 static const u8 sRevengeDescription[] = _(
-    "An attack that gains power\n"
-    "if injured by the foe.");
+    "Serangan yang lebih kuat\n"
+    "jika dicederakan musuh.");
 
 static const u8 sBrickBreakDescription[] = _(
-    "Destroys barriers such as\n"
-    "REFLECT and causes damage.");
+    "Pecahkan halangan seperti\n"
+    "PANTULAN sambil menyerang.");
 
 static const u8 sYawnDescription[] = _(
-    "Lulls the foe into yawning,\n"
-    "then sleeping next turn.");
+    "Buat musuh menguap, lalu\n"
+    "tertidur giliran berikutnya.");
 
 static const u8 sKnockOffDescription[] = _(
-    "Knocks down the foe's held\n"
-    "item to prevent its use.");
+    "Ketuk jatuh barang musuh\n"
+    "supaya tidak dapat diguna.");
 
 static const u8 sEndeavorDescription[] = _(
-    "Gains power if the user's HP\n"
-    "is lower than the foe's HP.");
+    "Lebih kuat jika HP pengguna\n"
+    "kurang daripada HP musuh.");
 
 static const u8 sEruptionDescription[] = _(
-    "The higher the user's HP,\n"
-    "the more damage caused.");
+    "Makin tinggi HP pengguna,\n"
+    "makin banyak kerosakan.");
 
 static const u8 sSkillSwapDescription[] = _(
-    "The user swaps special\n"
-    "abilities with the target.");
+    "Tukar kebolehan pengguna\n"
+    "dengan kebolehan sasaran.");
 
 static const u8 sImprisonDescription[] = _(
-    "Prevents foes from using\n"
-    "moves known by the user.");
+    "Halang musuh daripada guna\n"
+    "move yang pengguna tahu.");
 
 static const u8 sRefreshDescription[] = _(
-    "Heals poisoning, paralysis,\n"
-    "or a burn.");
+    "Sembuhkan racun, lumpuh,\n"
+    "atau terbakar.");
 
 static const u8 sGrudgeDescription[] = _(
-    "If the user faints, deletes\n"
-    "all PP of foe's last move.");
+    "Jika pengguna pengsan, PP\n"
+    "move terakhir musuh habis.");
 
 static const u8 sSnatchDescription[] = _(
-    "Steals the effects of the\n"
-    "move the target uses next.");
+    "Curi kesan move yang\n"
+    "akan diguna sasaran.");
 
 static const u8 sSecretPowerDescription[] = _(
-    "An attack with effects\n"
-    "that vary by location.");
+    "Serangan yang kesannya\n"
+    "berbeza ikut lokasi.");
 
 static const u8 sDiveDescription[] = _(
-    "Dives underwater the first\n"
-    "turn and strikes next turn.");
+    "Selam ke dalam air dahulu,\n"
+    "lalu serang giliran ke-2.");
 
 static const u8 sArmThrustDescription[] = _(
-    "Straight-arm punches that\n"
-    "strike the foe 2 to 5 times.");
+    "Tolakan lengan lurus yang\n"
+    "menyerang 2 hingga 5 kali.");
 
 static const u8 sCamouflageDescription[] = _(
-    "Alters the POKéMON's type\n"
-    "depending on the location.");
+    "Ubah jenis POKéMON\n"
+    "bergantung pada lokasi.");
 
 static const u8 sTailGlowDescription[] = _(
-    "Flashes a light that sharply\n"
-    "raises SP. ATK.");
+    "Pancar cahaya yang sangat\n"
+    "naikkan SERANGAN KHAS.");
 
 static const u8 sLusterPurgeDescription[] = _(
-    "Attacks with a burst of\n"
-    "light. May lower SP. DEF.");
+    "Letusan cahaya. Mungkin\n"
+    "turunkan PERTAHANAN KHAS.");
 
 static const u8 sMistBallDescription[] = _(
-    "Attacks with a flurry of\n"
-    "down. May lower SP. ATK.");
+    "Hujan bulu halus. Mungkin\n"
+    "turunkan SERANGAN KHAS.");
 
 static const u8 sFeatherDanceDescription[] = _(
-    "Envelops the foe with down\n"
-    "to sharply reduce ATTACK.");
+    "Selimut musuh dengan bulu.\n"
+    "SERANGAN turun mendadak.");
 
 static const u8 sTeeterDanceDescription[] = _(
-    "Confuses all POKéMON on\n"
-    "the scene.");
+    "Kelirukan semua POKéMON\n"
+    "di sekeliling.");
 
 static const u8 sBlazeKickDescription[] = _(
-    "A kick with a high critical-\n"
-    "hit ratio. May cause a burn.");
+    "Sepakan, peluang kritikal\n"
+    "tinggi. Mungkin membakar.");
 
 static const u8 sMudSportDescription[] = _(
-    "Covers the user in mud to\n"
-    "raise electrical resistance.");
+    "Bersalut lumpur untuk\n"
+    "naikkan ketahanan elektrik.");
 
 static const u8 sIceBallDescription[] = _(
-    "A 5-turn attack that gains\n"
-    "power on successive hits.");
+    "Serangan 5 giliran yang\n"
+    "makin kuat setiap kali kena.");
 
 static const u8 sNeedleArmDescription[] = _(
-    "Attacks with thorny arms.\n"
-    "May cause flinching.");
+    "Hentam guna lengan berduri.\n"
+    "Mungkin buat musuh gentar.");
 
 static const u8 sSlackOffDescription[] = _(
-    "Slacks off and restores\n"
-    "half the maximum HP.");
+    "Curi tulang dan pulihkan\n"
+    "separuh HP maksimum.");
 
 static const u8 sHyperVoiceDescription[] = _(
-    "A loud attack that uses\n"
-    "sound waves to injure.");
+    "Serangan bising yang guna\n"
+    "gelombang bunyi.");
 
 static const u8 sPoisonFangDescription[] = _(
-    "A sharp-fanged attack.\n"
-    "May badly poison the foe.");
+    "Gigitan taring. Mungkin buat\n"
+    "musuh keracunan teruk.");
 
 static const u8 sCrushClawDescription[] = _(
-    "Tears at the foe with sharp\n"
-    "claws. May lower DEFENSE.");
+    "Cakaran kuku tajam. Boleh\n"
+    "turunkan PERTAHANAN.");
 
 static const u8 sBlastBurnDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "Kuat, tapi pengguna perlu\n"
+    "rehat giliran berikutnya.");
 
 static const u8 sHydroCannonDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "Kuat, tapi pengguna perlu\n"
+    "rehat giliran berikutnya.");
 
 static const u8 sMeteorMashDescription[] = _(
-    "Fires a meteor-like punch.\n"
-    "May raise ATTACK.");
+    "Tumbukan bak meteor.\n"
+    "Mungkin naikkan SERANGAN.");
 
 static const u8 sAstonishDescription[] = _(
-    "An attack that may shock\n"
-    "the foe into flinching.");
+    "Serangan mengejut yang\n"
+    "mungkin buat musuh gentar.");
 
 static const u8 sWeatherBallDescription[] = _(
-    "The move's type and power\n"
-    "change with the weather.");
+    "Jenis dan kuasa move ini\n"
+    "berubah ikut cuaca.");
 
 static const u8 sAromatherapyDescription[] = _(
-    "Heals all status problems\n"
-    "with a soothing scent.");
+    "Haruman yang menenangkan\n"
+    "pulihkan semua status.");
 
 static const u8 sFakeTearsDescription[] = _(
-    "Feigns crying to sharply\n"
-    "lower the foe's SP. DEF.");
+    "Pura-pura menangis. Sangat\n"
+    "turunkan PERTAHANAN KHAS.");
 
 static const u8 sAirCutterDescription[] = _(
-    "Hacks with razorlike wind.\n"
-    "High critical-hit ratio.");
+    "Tetak dengan angin tajam.\n"
+    "Peluang kritikal tinggi.");
 
 static const u8 sOverheatDescription[] = _(
-    "Allows a full-power attack,\n"
-    "but sharply lowers SP. ATK.");
+    "Serang sepenuh kuasa, tapi\n"
+    "SERANGAN KHAS turun teruk.");
 
 static const u8 sOdorSleuthDescription[] = _(
-    "Negates the foe's efforts\n"
-    "to heighten evasiveness.");
+    "Batalkan usaha musuh untuk\n"
+    "naikkan elakan.");
 
 static const u8 sRockTombDescription[] = _(
-    "Stops the foe from moving\n"
-    "with rocks and cuts SPEED.");
+    "Kepung musuh dengan batu\n"
+    "dan turunkan KELAJUAN.");
 
 static const u8 sSilverWindDescription[] = _(
-    "A powdery attack that may\n"
-    "raise abilities.");
+    "Serangan serbuk yang\n"
+    "mungkin naikkan statistik.");
 
 static const u8 sMetalSoundDescription[] = _(
-    "Emits a horrible screech\n"
-    "that sharply lowers SP. DEF.");
+    "Pekikan ngeri yang sangat\n"
+    "turunkan PERTAHANAN KHAS.");
 
 static const u8 sGrassWhistleDescription[] = _(
-    "Lulls the foe into sleep\n"
-    "with a pleasant melody.");
+    "Buai musuh hingga tertidur\n"
+    "dengan melodi yang merdu.");
 
 static const u8 sTickleDescription[] = _(
-    "Makes the foe laugh to\n"
-    "lower ATTACK and DEFENSE.");
+    "Geletek musuh. Turunkan\n"
+    "SERANGAN dan PERTAHANAN.");
 
 static const u8 sCosmicPowerDescription[] = _(
-    "Raises DEFENSE and SP. DEF\n"
-    "with a mystic power.");
+    "Naikkan PERTAHANAN dan\n"
+    "PERTAHANAN KHAS pengguna.");
 
 static const u8 sWaterSpoutDescription[] = _(
-    "Inflicts more damage if the\n"
-    "user's HP is high.");
+    "Lebih banyak kerosakan jika\n"
+    "HP pengguna tinggi.");
 
 static const u8 sSignalBeamDescription[] = _(
-    "A strange beam attack that\n"
-    "may confuse the foe.");
+    "Serangan sinar aneh yang\n"
+    "mungkin buat musuh keliru.");
 
 static const u8 sShadowPunchDescription[] = _(
-    "An unavoidable punch that\n"
-    "is thrown from shadows.");
+    "Tumbukan yang tidak dapat\n"
+    "dielak, dari dalam bayang.");
 
 static const u8 sExtrasensoryDescription[] = _(
-    "Attacks with a peculiar\n"
-    "power. May cause flinching.");
+    "Serang dengan kuasa pelik.\n"
+    "Mungkin buat musuh gentar.");
 
 static const u8 sSkyUppercutDescription[] = _(
-    "An uppercut thrown as if\n"
-    "leaping into the sky.");
+    "Tumbukan sauk seolah-olah\n"
+    "melonjak ke langit.");
 
 static const u8 sSandTombDescription[] = _(
-    "Traps and hurts the foe in\n"
-    "quicksand for 2 to 5 turns.");
+    "Perangkap musuh di pasir\n"
+    "jerlus selama 2-5 giliran.");
 
 static const u8 sSheerColdDescription[] = _(
-    "A chilling attack that\n"
-    "causes fainting if it hits.");
+    "Serangan beku yang buat\n"
+    "musuh pengsan jika kena.");
 
 static const u8 sMuddyWaterDescription[] = _(
-    "Attacks with muddy water.\n"
-    "May lower accuracy.");
+    "Simbah air berlumpur. Boleh\n"
+    "turunkan ketepatan.");
 
 static const u8 sBulletSeedDescription[] = _(
-    "Shoots 2 to 5 seeds in a row\n"
-    "to strike the foe.");
+    "Tembak 2 hingga 5 benih\n"
+    "berturut-turut ke musuh.");
 
 static const u8 sAerialAceDescription[] = _(
-    "An extremely speedy and\n"
-    "unavoidable attack.");
+    "Serangan amat pantas yang\n"
+    "tidak dapat dielak.");
 
 static const u8 sIcicleSpearDescription[] = _(
-    "Attacks the foe by firing\n"
-    "2 to 5 icicles in a row.");
+    "Tembak 2 hingga 5 ais tajam\n"
+    "berturut-turut ke musuh.");
 
 static const u8 sIronDefenseDescription[] = _(
-    "Hardens the body's surface\n"
-    "to sharply raise DEFENSE.");
+    "Keraskan permukaan badan.\n"
+    "PERTAHANAN naik mendadak.");
 
 static const u8 sBlockDescription[] = _(
-    "Blocks the foe's way to\n"
-    "prevent escape.");
+    "Halang laluan musuh supaya\n"
+    "ia tidak dapat lari.");
 
 static const u8 sHowlDescription[] = _(
-    "Howls to raise the spirit\n"
-    "and boosts ATTACK.");
+    "Melolong untuk naikkan\n"
+    "semangat dan SERANGAN.");
 
 static const u8 sDragonClawDescription[] = _(
-    "Slashes the foe with sharp\n"
-    "claws.");
+    "Tebas musuh dengan\n"
+    "kuku yang tajam.");
 
 static const u8 sFrenzyPlantDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "Kuat, tapi pengguna perlu\n"
+    "rehat giliran berikutnya.");
 
 static const u8 sBulkUpDescription[] = _(
-    "Bulks up the body to boost\n"
-    "both ATTACK and DEFENSE.");
+    "Kuatkan otot untuk naikkan\n"
+    "SERANGAN dan PERTAHANAN.");
 
 static const u8 sBounceDescription[] = _(
-    "Bounces up, then down the\n"
-    "next turn. May paralyze.");
+    "Lantun ke udara, lalu jatuh\n"
+    "ke musuh. Mungkin lumpuh.");
 
 static const u8 sMudShotDescription[] = _(
-    "Hurls mud at the foe and\n"
-    "reduces SPEED.");
+    "Baling lumpur pada musuh\n"
+    "dan turunkan KELAJUAN.");
 
 static const u8 sPoisonTailDescription[] = _(
-    "Has a high critical-hit\n"
-    "ratio. May also poison.");
+    "Peluang kritikal tinggi.\n"
+    "Mungkin juga meracuni.");
 
 static const u8 sCovetDescription[] = _(
-    "Cutely begs to obtain an\n"
-    "item held by the foe.");
+    "Merayu dengan comel untuk\n"
+    "dapatkan barang musuh.");
 
 static const u8 sVoltTackleDescription[] = _(
-    "A life-risking tackle that\n"
-    "slightly hurts the user.");
+    "Rempuhan bertaruh nyawa.\n"
+    "Pengguna cedera sedikit.");
 
 static const u8 sMagicalLeafDescription[] = _(
-    "Attacks with a strange leaf\n"
-    "that cannot be evaded.");
+    "Serang dengan daun pelik\n"
+    "yang tidak boleh dielak.");
 
 static const u8 sWaterSportDescription[] = _(
-    "The user becomes soaked to\n"
-    "raise resistance to fire.");
+    "Basahkan badan untuk\n"
+    "naikkan ketahanan pada api.");
 
 static const u8 sCalmMindDescription[] = _(
-    "Raises SP. ATK and SP. DEF\n"
-    "by focusing the mind.");
+    "Naikkan SERANGAN KHAS dan\n"
+    "PERTAHANAN KHAS pengguna.");
 
 static const u8 sLeafBladeDescription[] = _(
-    "Slashes with a sharp leaf.\n"
-    "High critical-hit ratio.");
+    "Tebas dengan daun tajam.\n"
+    "Peluang kritikal tinggi.");
 
 static const u8 sDragonDanceDescription[] = _(
-    "A mystical dance that ups\n"
-    "ATTACK and SPEED.");
+    "Tarian mistik yang naikkan\n"
+    "SERANGAN dan KELAJUAN.");
 
 static const u8 sRockBlastDescription[] = _(
-    "Hurls boulders at the foe\n"
-    "2 to 5 times in a row.");
+    "Baling batu besar ke musuh\n"
+    "2 hingga 5 kali berturut.");
 
 static const u8 sShockWaveDescription[] = _(
-    "A fast and unavoidable\n"
-    "electric attack.");
+    "Serangan elektrik pantas\n"
+    "yang tidak dapat dielak.");
 
 static const u8 sWaterPulseDescription[] = _(
-    "Attacks with ultrasonic\n"
-    "waves. May confuse the foe.");
+    "Denyut ultrasonik. Mungkin\n"
+    "buat musuh keliru.");
 
 static const u8 sDoomDesireDescription[] = _(
-    "Summons strong sunlight to\n"
-    "attack 2 turns later.");
+    "Seru cahaya suria yang\n"
+    "menyerang selepas 2 giliran.");
 
 static const u8 sPsychoBoostDescription[] = _(
-    "Allows a full-power attack,\n"
-    "but sharply lowers SP. ATK.");
+    "Serang sepenuh kuasa, tapi\n"
+    "SERANGAN KHAS turun teruk.");
 
 // MOVE_NONE is ignored in this table. Make sure to always subtract 1 before getting the right pointer.
 const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =

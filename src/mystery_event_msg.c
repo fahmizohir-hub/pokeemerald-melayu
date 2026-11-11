@@ -1,13 +1,13 @@
 #include "global.h"
 
-const u8 gText_MysteryEventBerry[] = _("Obtained a {STR_VAR_2} BERRY!\nDad has it at PETALBURG GYM.");
-const u8 gText_MysteryEventBerryTransform[] = _("The {STR_VAR_1} BERRY transformed into\none {STR_VAR_2} BERRY.");
-const u8 gText_MysteryEventBerryObtained[] = _("The {STR_VAR_1} BERRY has already been\nobtained.");
-const u8 gText_MysteryEventSpecialRibbon[] = _("A special RIBBON was awarded to\nyour party POKéMON.");
-const u8 gText_MysteryEventNationalDex[] = _("The POKéDEX has been upgraded\nwith the NATIONAL MODE.");
-const u8 gText_MysteryEventRareWord[] = _("A rare word has been added.");
-const u8 gText_MysteryEventSentOver[] = _("{STR_VAR_1} was sent over!");
-const u8 gText_MysteryEventFullParty[] = _("Your party is full.\n{STR_VAR_1} could not be sent over.");
-const u8 gText_MysteryEventNewTrainer[] = _("A new TRAINER has arrived in\nHOENN.");
-const u8 gText_MysteryEventNewAdversaryInBattleTower[] = _("A new adversary has arrived in the\nBATTLE TOWER.");
-const u8 gText_MysteryEventCantBeUsed[] = _("This data can't be used in\nthis version.");
+const u8 gText_MysteryEventBerry[] = _("Mendapat {STR_VAR_2} BERRY!\nAYAH simpan di GIM PETALBURG.");
+const u8 gText_MysteryEventBerryTransform[] = _("{STR_VAR_1} BERRY telah bertukar\nmenjadi satu {STR_VAR_2} BERRY.");
+const u8 gText_MysteryEventBerryObtained[] = _("{STR_VAR_1} BERRY sudah pun\ndiperoleh.");
+const u8 gText_MysteryEventSpecialRibbon[] = _("REBEN istimewa dianugerahkan\nkepada POKéMON dalam parti kamu.");
+const u8 gText_MysteryEventNationalDex[] = _("POKéDEX telah dinaik taraf\ndengan MOD NASIONAL.");
+const u8 gText_MysteryEventRareWord[] = _("Perkataan jarang ditambah.");
+const u8 gText_MysteryEventSentOver[] = _("{STR_VAR_1} telah dihantar!");
+const u8 gText_MysteryEventFullParty[] = _("Parti kamu sudah penuh.\n{STR_VAR_1} tak dapat dihantar.");
+const u8 gText_MysteryEventNewTrainer[] = _("JURULATIH baru telah tiba di\nHOENN.");
+const u8 gText_MysteryEventNewAdversaryInBattleTower[] = _("Lawan baru telah tiba di\nBATTLE TOWER.");
+const u8 gText_MysteryEventCantBeUsed[] = _("Data ini tak boleh digunakan\ndalam versi ini.");

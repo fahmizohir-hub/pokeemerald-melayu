@@ -130,16 +130,16 @@ Route115_EventScript_Marlene::
 	end
 
 Route115_Text_NeverKnowWhenCavePokemonWillAppear:
-	.string "Exploring a cave isn't like walking\n"
-	.string "on a road.\p"
-	.string "You never know when wild POKéMON will\n"
-	.string "appear. It's full of suspense.$"
+	.string "Meneroka gua tak sama macam berjalan\n"
+	.string "di atas jalan raya.\p"
+	.string "Kita tak tahu bila POKéMON liar akan\n"
+	.string "muncul. Memang mendebarkan.$"
 
 Route115_Text_RouteSignRustboro:
-	.string "ROUTE 115\n"
-	.string "{DOWN_ARROW} RUSTBORO CITY$"
+	.string "LALUAN 115\n"
+	.string "{DOWN_ARROW} BANDAR RUSTBORO$"
 
 Route115_Text_MeteorFallsSign:
-	.string "METEOR FALLS\n"
-	.string "FALLARBOR TOWN THROUGH HERE$"
+	.string "LATA METEOR\n"
+	.string "KE PEKAN FALLARBOR IKUT SINI$"
 

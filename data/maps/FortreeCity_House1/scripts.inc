@@ -59,37 +59,38 @@ FortreeCity_House1_EventScript_Zigzagoon::
 	end
 
 FortreeCity_House1_Text_YouWillTradeWontYou:
-	.string "Wrooooaaar! I need it!\n"
-	.string "I have to get me a {STR_VAR_1}!\l"
-	.string "I'll do anything for it!\p"
-	.string "…Uh… Did you hear that?\n"
-	.string "My shout from the bottom of my heart?\p"
-	.string "Having heard that, you will trade\n"
-	.string "your {STR_VAR_1} for my {STR_VAR_2},\l"
-	.string "won't you?$"
+	.string "Wargghhh! Saya nak sangat!\n"
+	.string "Saya mesti dapatkan {STR_VAR_1}!\l"
+	.string "Saya sanggup buat apa saja!\p"
+	.string "…Err… Kamu dengar tak tadi?\n"
+	.string "Jeritan dari lubuk hati saya?\p"
+	.string "Bila dah dengar tu, kamu mesti nak\n"
+	.string "tukar {STR_VAR_1} kamu dengan\l"
+	.string "{STR_VAR_2} saya, kan?$"
 
 FortreeCity_House1_Text_MonYouTakeCare:
-	.string "Oh, yeah, right on!\p"
-	.string "{STR_VAR_1}, welcome!\n"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "Oh, yeah, mantap!\p"
+	.string "{STR_VAR_1}, selamat datang!\n"
+	.string "{STR_VAR_2}, jaga diri baik-baik!$"
 
 FortreeCity_House1_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "Err, tak, rasanya bukan.\n"
+	.string "Itu bukan {STR_VAR_1}.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
-	.string "No? You won't trade me?\n"
-	.string "Even after I bared my heart to you?$"
+	.string "Tak nak? Kamu tak nak tukar?\n"
+	.string "Walaupun saya dah luah isi hati?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "I'm going to make VOLBEAT super\n"
-	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+	.string "Mulai saat ini, saya akan buat\n"
+	.string "VOLBEAT jadi super kuat!\p"
+	.string "Harap kamu pun buat begitu dengan\n"
+	.string "PLUSLE!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
-	.string "Trading POKéMON with others…\p"
-	.string "It's as if you're trading your own\n"
-	.string "memories with other people.$"
+	.string "Bertukar POKéMON dengan orang lain…\p"
+	.string "Macam bertukar kenangan sendiri\n"
+	.string "dengan orang lain.$"
 
 FortreeCity_House1_Text_Zigzagoon:
 	.string "ZIGZAGOON: Gumomoh?$"

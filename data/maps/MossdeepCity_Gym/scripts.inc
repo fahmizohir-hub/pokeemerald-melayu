@@ -347,284 +347,290 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 	end
 
 MossdeepCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-bound\n"
-	.string "{PLAYER}?\p"
-	.string "The GYM LEADERS here use\n"
-	.string "PSYCHIC-type POKéMON.\p"
-	.string "If you go up against them with\n"
-	.string "FIGHTING- or POISON-type POKéMON,\l"
-	.string "they'll inflict horrible damage!\p"
-	.string "Plus, they'll come at you with\n"
-	.string "outstanding combination attacks.\p"
-	.string "If you want to win, you'll need to show\n"
-	.string "them how tight you are with your\l"
-	.string "POKéMON. Go for it!$"
+	.string "Yo, apa khabar, bakal JUARA {PLAYER}?\p"
+	.string "KETUA GIM di sini guna POKéMON jenis\n"
+	.string "PSIKIK.\p"
+	.string "Kalau kamu lawan mereka dengan POKéMON\n"
+	.string "jenis LAWAN atau RACUN, mereka akan\l"
+	.string "beri kerosakan yang dahsyat!\p"
+	.string "Lagipun, mereka akan serang kamu\n"
+	.string "dengan gabungan serangan yang hebat.\p"
+	.string "Kalau nak menang, kamu kena tunjuk\n"
+	.string "betapa rapatnya kamu dengan POKéMON\l"
+	.string "kamu. Teruskan!$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
-	.string "Wow, you're astounding!\n"
-	.string "You're one great TRAINER!$"
+	.string "Wah, kamu memang menakjubkan!\n"
+	.string "Kamu JURULATIH yang hebat!$"
 
 MossdeepCity_Gym_Text_PrestonIntro:
-	.string "Battles hinge on the strength of your\n"
-	.string "spirit! The weak-spirited will never win!$"
+	.string "Pertarungan bergantung pada kekuatan\n"
+	.string "semangat! Yang lemah semangat takkan\l"
+	.string "menang!$"
 
 MossdeepCity_Gym_Text_PrestonDefeat:
-	.string "I lost!\n"
-	.string "I must temper my spirit again!$"
+	.string "Saya kalah!\n"
+	.string "Saya mesti tempa semangat saya lagi!$"
 
 MossdeepCity_Gym_Text_PrestonPostBattle:
-	.string "The indecisive lose.\n"
-	.string "That's my warning to you.$"
+	.string "Yang tak tegas akan kalah.\n"
+	.string "Itu amaran saya kepada kamu.$"
 
 MossdeepCity_Gym_Text_VirgilIntro:
-	.string "Let me see your talent!$"
+	.string "Tunjukkan bakat kamu!$"
 
 MossdeepCity_Gym_Text_VirgilDefeat:
-	.string "You possess spectacular talent!$"
+	.string "Kamu ada bakat yang luar biasa!$"
 
 MossdeepCity_Gym_Text_VirgilPostBattle:
-	.string "If there are prodigies in the world,\n"
-	.string "then our GYM LEADERS are them!\p"
-	.string "However, you may be even more talented\n"
-	.string "than them…$"
+	.string "Kalau ada insan genius di dunia ni,\n"
+	.string "KETUA GIM kamilah orangnya!\p"
+	.string "Tapi, mungkin kamu lebih berbakat\n"
+	.string "daripada mereka…$"
 
 MossdeepCity_Gym_Text_BlakeIntro:
-	.string "Fufufufu… Watch me levitate a POKé\n"
-	.string "BALL telekinetically!\p"
-	.string "Wrooooooooaaaar!\n"
+	.string "Fufufufu… Tengok saya apungkan\n"
+	.string "POKé BALL dengan telekinesis!\p"
+	.string "Hiaaaaaaarghhh!\n"
 	.string "… … … … … … …\p"
-	.string "Sometimes, I'm out of sync…$"
+	.string "Kadang-kadang, saya tak serasi…$"
 
 MossdeepCity_Gym_Text_BlakeDefeat:
-	.string "My POKéMON battling skills are out\n"
-	.string "of sync, too!$"
+	.string "Kemahiran bertarung POKéMON saya pun\n"
+	.string "tak serasi!$"
 
 MossdeepCity_Gym_Text_BlakePostBattle:
-	.string "A POKé BALL was too heavy to lift\n"
-	.string "psychically. But this dust bunny…\p"
-	.string "Whoooooooooooooooh!\n"
+	.string "POKé BALL terlalu berat nak diangkat\n"
+	.string "dengan kuasa minda. Tapi gumpalan\l"
+	.string "habuk ni…\p"
+	.string "Fuuuuuuuuuuuuuuh!\n"
 	.string "… … … … … …\p"
-	.string "No, I'm not cheating!\n"
-	.string "I didn't blow on it! Honestly!$"
+	.string "Tak, saya tak menipu!\n"
+	.string "Saya tak tiup pun! Sumpah!$"
 
 MossdeepCity_Gym_Text_HannahIntro:
-	.string "When you lose to me, don't be too hard\n"
-	.string "on yourself.\p"
-	.string "It's not that you're weak--I'm just\n"
-	.string "too strong!$"
+	.string "Bila kamu kalah dengan saya, jangan\n"
+	.string "salahkan diri sangat.\p"
+	.string "Bukan kamu yang lemah, saya yang\n"
+	.string "terlalu kuat!$"
 
 MossdeepCity_Gym_Text_HannahDefeat:
-	.string "You're just too strong!$"
+	.string "Kamu memang terlalu kuat!$"
 
 MossdeepCity_Gym_Text_HannahPostBattle:
-	.string "I'm not going to get down on myself for\n"
-	.string "losing. I just need to train harder.\p"
-	.string "Positive thinking--that's my strong\n"
-	.string "point!$"
+	.string "Saya takkan bersedih sebab kalah. Saya\n"
+	.string "cuma perlu berlatih lebih keras.\p"
+	.string "Berfikiran positif, itulah kelebihan\n"
+	.string "saya!$"
 
 MossdeepCity_Gym_Text_SamanthaIntro:
-	.string "I see it…\n"
-	.string "I see your future…\p"
-	.string "If you can beat me, I will tell you\n"
-	.string "your future!$"
+	.string "Saya nampak…\n"
+	.string "Saya nampak masa depan kamu…\p"
+	.string "Kalau kamu boleh kalahkan saya, saya\n"
+	.string "akan beritahu masa depan kamu!$"
 
 MossdeepCity_Gym_Text_SamanthaDefeat:
-	.string "I surrender!$"
+	.string "Saya menyerah!$"
 
 MossdeepCity_Gym_Text_SamanthaPostBattle:
-	.string "You will wage a terrifically intense\n"
-	.string "battle with our GYM LEADERS…\p"
-	.string "The result…\n"
-	.string "You won't hear it from me!$"
+	.string "Kamu akan bertarung dengan sengit\n"
+	.string "sekali menentang KETUA GIM kami…\p"
+	.string "Keputusannya…\n"
+	.string "Kamu takkan dengar daripada saya!$"
 
 MossdeepCity_Gym_Text_MauraIntro:
-	.string "The roads you have traveled…\n"
-	.string "What you have experienced…\p"
-	.string "Come at me with everything you've\n"
-	.string "learned!$"
+	.string "Jalan yang kamu lalui…\n"
+	.string "Pengalaman yang kamu tempuhi…\p"
+	.string "Serang saya dengan segala yang kamu\n"
+	.string "pelajari!$"
 
 MossdeepCity_Gym_Text_MauraDefeat:
-	.string "You've traveled a path of greatness!$"
+	.string "Kamu telah menempuh jalan kehebatan!$"
 
 MossdeepCity_Gym_Text_MauraPostBattle:
-	.string "A bright future awaits those who have\n"
-	.string "worked diligently.\p"
-	.string "For those who lazed idly, there is\n"
-	.string "only despair at the end.\p"
-	.string "What goes around comes around…$"
+	.string "Masa depan cerah menanti mereka yang\n"
+	.string "tekun berusaha.\p"
+	.string "Bagi yang malas, hanya kecewa menanti\n"
+	.string "di penghujungnya.\p"
+	.string "Apa yang kita tanam, itulah yang kita\n"
+	.string "tuai…$"
 
 MossdeepCity_Gym_Text_SylviaIntro:
-	.string "Even at the risk of life, I will win\n"
-	.string "this battle!$"
+	.string "Walaupun bergadai nyawa, saya akan\n"
+	.string "menang pertarungan ni!$"
 
 MossdeepCity_Gym_Text_SylviaDefeat:
-	.string "What you do…\n"
-	.string "It horrifies me…$"
+	.string "Apa yang kamu buat…\n"
+	.string "Menakutkan saya…$"
 
 MossdeepCity_Gym_Text_SylviaPostBattle:
-	.string "How dare you beat me…\p"
-	.string "It won't be my fault if something\n"
-	.string "horrible befalls you…$"
+	.string "Berani kamu kalahkan saya…\p"
+	.string "Bukan salah saya kalau ada benda\n"
+	.string "dahsyat menimpa kamu…$"
 
 MossdeepCity_Gym_Text_NateIntro:
 	.string "Hohoho.\p"
-	.string "You need me to show you how tenacious\n"
-	.string "the PSYCHIC type can be.$"
+	.string "Biar saya tunjuk betapa gigihnya jenis\n"
+	.string "PSIKIK.$"
 
 MossdeepCity_Gym_Text_NateDefeat:
-	.string "Oh! My, my!\n"
-	.string "Your battle style is fantastic!$"
+	.string "Oh! Ya ampun!\n"
+	.string "Gaya bertarung kamu hebat!$"
 
 MossdeepCity_Gym_Text_NatePostBattle:
-	.string "I… I don't let defeat rattle m-me,\n"
-	.string "however b-badly.$"
+	.string "S-saya tak biar kekalahan buat saya\n"
+	.string "g-goyah, walau seteruk m-mana pun.$"
 
 MossdeepCity_Gym_Text_KathleenIntro:
-	.string "Let me show you a perfectly awful,\n"
-	.string "horrifying time!$"
+	.string "Biar saya beri kamu saat yang sungguh\n"
+	.string "ngeri dan menakutkan!$"
 
 MossdeepCity_Gym_Text_KathleenDefeat:
-	.string "N-nooooo!$"
+	.string "T-tidaaaak!$"
 
 MossdeepCity_Gym_Text_KathleenPostBattle:
-	.string "Your vitality is contagious!\n"
-	.string "Get away from me quickly!$"
+	.string "Semangat kamu berjangkit!\n"
+	.string "Cepat, jauhkan diri dari saya!$"
 
 MossdeepCity_Gym_Text_CliffordIntro:
-	.string "I may be past my prime, but I suggest\n"
-	.string "you not patronize me.$"
+	.string "Saya mungkin dah lepas zaman\n"
+	.string "kegemilangan, tapi jangan pandang\l"
+	.string "rendah pada saya.$"
 
 MossdeepCity_Gym_Text_CliffordDefeat:
-	.string "Ah, you overflow with the power\n"
-	.string "of youth!$"
+	.string "Ah, kamu melimpah dengan kuasa orang\n"
+	.string "muda!$"
 
 MossdeepCity_Gym_Text_CliffordPostBattle:
-	.string "It seems that I could not overcome\n"
-	.string "your youthful energy.$"
+	.string "Nampaknya saya tak mampu atasi tenaga\n"
+	.string "muda kamu.$"
 
 MossdeepCity_Gym_Text_MaceyIntro:
-	.string "You're not getting through to the end!\n"
-	.string "Not if I can help it!$"
+	.string "Kamu takkan sampai ke hujung!\n"
+	.string "Selagi saya ada di sini!$"
 
 MossdeepCity_Gym_Text_MaceyDefeat:
-	.string "How could you be so ludicrously\n"
-	.string "strong?$"
+	.string "Macam mana kamu boleh kuat melampau\n"
+	.string "macam ni?$"
 
 MossdeepCity_Gym_Text_MaceyPostBattle:
-	.string "Humph! You may be strong, but you're\n"
-	.string "not suitable for the PSYCHIC type!\p"
-	.string "The way you battle is somehow brutal!$"
+	.string "Huh! Kamu mungkin kuat, tapi kamu tak\n"
+	.string "sesuai dengan jenis PSIKIK!\p"
+	.string "Cara kamu bertarung agak ganas!$"
 
 MossdeepCity_Gym_Text_NicholasIntro:
-	.string "Wroooar! Have a taste of my super\n"
-	.string "POKéMON hard-battling power!$"
+	.string "Hiaaargh! Rasakan kuasa tarung super\n"
+	.string "POKéMON saya!$"
 
 MossdeepCity_Gym_Text_NicholasDefeat:
 	.string "Oh!\n"
-	.string "Done in!$"
+	.string "Tewas!$"
 
 MossdeepCity_Gym_Text_NicholasPostBattle:
-	.string "All right! I think I'll develop a special\n"
-	.string "invincible POKéMON power next.$"
+	.string "Baiklah! Lepas ni saya nak cipta kuasa\n"
+	.string "POKéMON istimewa yang tak dapat\l"
+	.string "dikalahkan.$"
 
 MossdeepCity_Gym_Text_TateAndLizaIntro:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: Fufufu… Were you surprised?\p"
-	.string "TATE: That there are two GYM LEADERS?\n"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: We're twins!\n"
-	.string "LIZA: We're twins!\p"
-	.string "TATE: We don't need to talk because…\n"
-	.string "LIZA: We can each determine what…\p"
-	.string "TATE: The other is thinking…\n"
-	.string "LIZA: All in our minds!\p"
-	.string "TATE: This combination of ours…\n"
-	.string "LIZA: Can you beat it?$"
+	.string "TATE: Hehehe… Kamu terkejut?\p"
+	.string "LIZA: Fufufu… Kamu terkejut?\p"
+	.string "TATE: Sebab ada dua KETUA GIM?\n"
+	.string "LIZA: Sebab ada dua KETUA GIM?\p"
+	.string "TATE: Kami kembar!\n"
+	.string "LIZA: Kami kembar!\p"
+	.string "TATE: Kami tak perlu bercakap sebab…\n"
+	.string "LIZA: Kami masing-masing tahu apa…\p"
+	.string "TATE: Yang seorang lagi fikirkan…\n"
+	.string "LIZA: Semuanya dalam minda kami!\p"
+	.string "TATE: Gabungan kami ni…\n"
+	.string "LIZA: Boleh kamu kalahkan?$"
 
 MossdeepCity_Gym_Text_TateAndLizaDefeat:
-	.string "TATE: What?! Our combination…\n"
-	.string "LIZA: Was shattered!\p"
-	.string "TATE: It can't be helped. You've won…\n"
-	.string "LIZA: So, in recognition, take this.$"
+	.string "TATE: Apa?! Gabungan kami…\n"
+	.string "LIZA: Dah hancur!\p"
+	.string "TATE: Apa boleh buat. Kamu menang…\n"
+	.string "LIZA: Jadi, sebagai tanda, ambil ni.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
-	.string "{PLAYER} received the MIND BADGE\n"
-	.string "from TATE and LIZA.$"
+	.string "{PLAYER} menerima LENCANA MINDA\n"
+	.string "daripada TATE dan LIZA.$"
 
 MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
-	.string "TATE: The MIND BADGE enhances the\n"
-	.string "SP. ATK and SP. DEF of POKéMON.\p"
-	.string "LIZA: It also lets you use the HM move\n"
-	.string "DIVE outside of battle.\p"
-	.string "TATE: You should also take this, too.$"
+	.string "TATE: LENCANA MINDA meningkatkan\n"
+	.string "SERANGAN KHAS dan PERTAHANAN KHAS\l"
+	.string "POKéMON.\p"
+	.string "LIZA: Ia juga membolehkan kamu guna\n"
+	.string "move HM SELAM di luar pertarungan.\p"
+	.string "TATE: Kamu patut ambil ni juga.$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind:
-	.string "TATE: That TM04 contains…\n"
-	.string "LIZA: CALM MIND!\p"
-	.string "TATE: It raises SP. ATK and…\n"
-	.string "LIZA: It raises SP. DEF!\p"
-	.string "TATE: It's a move that's perfect…\n"
-	.string "LIZA: For PSYCHIC POKéMON!\p"
+	.string "TATE: TM04 itu mengandungi…\n"
+	.string "LIZA: MINDA TENANG!\p"
+	.string "TATE: Ia naikkan SERANGAN KHAS dan…\n"
+	.string "LIZA: Ia naikkan PERTAHANAN KHAS!\p"
+	.string "TATE: Move ini sangat sesuai…\n"
+	.string "LIZA: Untuk POKéMON PSIKIK!\p"
 	.string "… … … … … …$"
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza:
-	.string "Registered GYM LEADERS TATE & LIZA\n"
-	.string "in the POKéNAV.$"
+	.string "KETUA GIM TATE & LIZA didaftarkan\n"
+	.string "dalam POKéNAV.$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
-	.string "TATE: Looks like the bond between you\n"
-	.string "and your POKéMON is far stronger than\l"
-	.string "the bond that we share as twins.\p"
-	.string "LIZA: You will become even stronger!\n"
-	.string "We've battled you, so we know.$"
+	.string "TATE: Nampaknya ikatan antara kamu dan\n"
+	.string "POKéMON kamu jauh lebih kuat daripada\l"
+	.string "ikatan kami sebagai kembar.\p"
+	.string "LIZA: Kamu akan jadi lebih kuat lagi!\n"
+	.string "Kami dah bertarung dengan kamu, jadi\l"
+	.string "kami tahu.$"
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: Oops, you have only one…\n"
-	.string "LIZA: POKéMON that can battle.\p"
-	.string "TATE: We can't battle that way!\p"
-	.string "LIZA: If you want to challenge us,\n"
-	.string "bring some more POKéMON.$"
+	.string "TATE: Hehehe… Kamu terkejut?\p"
+	.string "LIZA: Sebab ada dua KETUA GIM?\p"
+	.string "TATE: Alamak, kamu cuma ada satu…\n"
+	.string "LIZA: POKéMON yang boleh bertarung.\p"
+	.string "TATE: Kami tak boleh bertarung begitu!\p"
+	.string "LIZA: Kalau nak cabar kami, bawa lebih\n"
+	.string "banyak POKéMON.$"
 
 MossdeepCity_Gym_Text_GymStatue:
-	.string "MOSSDEEP CITY POKéMON GYM$"
+	.string "GIM POKéMON BANDAR MOSSDEEP$"
 
 MossdeepCity_Gym_Text_GymStatueCertified:
-	.string "MOSSDEEP CITY POKéMON GYM\p"
-	.string "LIZA AND TATE'S CERTIFIED TRAINERS:\n"
+	.string "GIM POKéMON BANDAR MOSSDEEP\p"
+	.string "JURULATIH DIIKTIRAF LIZA DAN TATE:\n"
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch:
 	.string "TATE: POKéMON…\n"
 	.string "LIZA: POKéMON…\p"
-	.string "TATE: By changing the party's mix…\n"
-	.string "LIZA: The battle style changes.\p"
-	.string "TATE: But me…\n"
-	.string "LIZA: But me…\p"
-	.string "TATE: I'll always be with LIZA!\n"
-	.string "LIZA: I'll always be with TATE!\p"
-	.string "TATE: Our combination…\n"
-	.string "LIZA: We'll show you again and again!$"
+	.string "TATE: Bila gabungan pasukan ditukar…\n"
+	.string "LIZA: Gaya bertarung pun berubah.\p"
+	.string "TATE: Tapi saya…\n"
+	.string "LIZA: Tapi saya…\p"
+	.string "TATE: Sentiasa bersama LIZA!\n"
+	.string "LIZA: Sentiasa bersama TATE!\p"
+	.string "TATE: Gabungan kami…\n"
+	.string "LIZA: Kami akan tunjuk lagi dan lagi!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchDefeat:
-	.string "TATE: You and your POKéMON…\n"
-	.string "LIZA: It's as if you were siblings!$"
+	.string "TATE: Kamu dan POKéMON kamu…\n"
+	.string "LIZA: Macam adik-beradik!$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostRematch:
-	.string "TATE: You can knock us down,\n"
-	.string "but we'll never stay down!\p"
-	.string "LIZA: Because the two of us,\n"
-	.string "we always support each other!$"
+	.string "TATE: Kamu boleh tumbangkan kami,\n"
+	.string "tapi kami takkan terus rebah!\p"
+	.string "LIZA: Sebab kami berdua\n"
+	.string "sentiasa saling menyokong!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons:
-	.string "TATE: You're back again…\n"
-	.string "LIZA: You're back again…\p"
-	.string "TATE: To give us a rematch.\n"
-	.string "LIZA: To give us a rematch.\p"
-	.string "TATE: But…\n"
-	.string "LIZA: For our match…\p"
-	.string "TATE: You brought just one POKéMON!\n"
-	.string "LIZA: You brought just one POKéMON!\p"
-	.string "TATE: We need you to bring at least…\n"
-	.string "LIZA: Two POKéMON when you come back.$"
+	.string "TATE: Kamu datang lagi…\n"
+	.string "LIZA: Kamu datang lagi…\p"
+	.string "TATE: Untuk perlawanan semula.\n"
+	.string "LIZA: Untuk perlawanan semula.\p"
+	.string "TATE: Tapi…\n"
+	.string "LIZA: Untuk perlawanan kami…\p"
+	.string "TATE: Kamu bawa satu POKéMON saja!\n"
+	.string "LIZA: Kamu bawa satu POKéMON saja!\p"
+	.string "TATE: Lain kali, bawalah sekurangnya…\n"
+	.string "LIZA: Dua POKéMON bila datang semula.$"

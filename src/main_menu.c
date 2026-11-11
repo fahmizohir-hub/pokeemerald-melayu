@@ -386,10 +386,10 @@ static const struct WindowTemplate sNewGameBirchSpeechTextWindows[] =
         .bg = 0,
         .tilemapLeft = 3,
         .tilemapTop = 5,
-        .width = 6,
+        .width = 8, // MS: dilebarkan dari 6 supaya "PEREMPUAN" muat
         .height = 4,
         .paletteNum = 15,
-        .baseBlock = 0x6D
+        .baseBlock = 0x110 // MS: selepas grafik kotak dialog (0xFC-0x109)
     },
     {
         .bg = 0,
