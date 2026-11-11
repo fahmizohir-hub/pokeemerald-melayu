@@ -318,7 +318,7 @@ BattleFrontier_ScottsHouse_Text_SoGladIBroughtYouHere:
 	.string "terfikir nak bawa kamu ke sini!$"
 
 BattleFrontier_ScottsHouse_Text_BerryPocketStuffed:
-	.string "Nampaknya POKET BERRY kamu dah penuh.$"
+	.string "Nampaknya POKET BERI kamu dah penuh.$"
 
 BattleFrontier_ScottsHouse_Text_Beat50TrainersInARow:
 	.string "SCOTT: Oh, saya dengar tentang kamu!\n"

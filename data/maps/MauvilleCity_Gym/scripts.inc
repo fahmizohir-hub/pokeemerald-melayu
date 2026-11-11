@@ -363,7 +363,7 @@ MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
 	.string "Kamu patut ambil ni juga!$"
 
 MauvilleCity_Gym_Text_ExplainShockWave:
-	.string "TM34 tu mengandungi OMBAK KEJUT.\p"
+	.string "TM34 tu mengandungi GELOMBANG KEJUT.\p"
 	.string "Move ni tak pernah tersasar!\n"
 	.string "Memang boleh diharap!\p"
 	.string "… … … … … …$"

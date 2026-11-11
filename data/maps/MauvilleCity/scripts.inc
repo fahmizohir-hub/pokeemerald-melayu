@@ -574,7 +574,7 @@ MauvilleCity_Text_WattsonWontBeChallenge:
 	.string "WATTSON: Jangan risau.\n"
 	.string "Takkan susah punya bagi kamu.\p"
 	.string "Pintu masuk MAUVILLE BARU tak jauh,\n"
-	.string "guna LUNCURAN OMBAK sikit saja dari\l"
+	.string "guna LUNCUR OMBAK sikit saja dari\l"
 	.string "LALUAN 110.\p"
 	.string "Itu saja, saya percayakan kamu!\n"
 	.string "Wahahahaha!$"

@@ -279,7 +279,7 @@ Route118_Text_TryCatchingMonWithGoodRod:
 Route118_Text_CanCrossRiversWithSurf:
 	.string "Walaupun tak ada bot, kamu boleh\n"
 	.string "seberang sungai dan laut kalau ada\l"
-	.string "POKéMON yang tahu LUNCURAN OMBAK.\p"
+	.string "POKéMON yang tahu LUNCUR OMBAK.\p"
 	.string "Memang banyak yang POKéMON boleh\n"
 	.string "bantu kita!$"
 

@@ -715,7 +715,7 @@ LilycoveCity_Text_MoveDeletersHouseSign:
 
 LilycoveCity_Text_DoYouKnowAboutBerryBlender:
 	.string "Kamu tahu tentang mesin PENGISAR\n"
-	.string "BERRY?$"
+	.string "BERI?$"
 
 LilycoveCity_Text_FasterSpinBetterPokeblocks:
 	.string "Semua orang kena bekerjasama supaya ia\n"

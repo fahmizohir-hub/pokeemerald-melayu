@@ -329,7 +329,7 @@ Route103_Text_BrendanTimeToHeadBack:
 Route103_Text_ShouldHaveBroughtPotion:
 	.string "POKéMON saya penat sangat sampai\n"
 	.string "terhuyung-hayang… Patutnya saya bawa\l"
-	.string "UBAT…$"
+	.string "POSYEN…$"
 
 Route103_Text_ShortcutToOldale:
 	.string "Kalau seberang laut dari sini, ada jalan\n"

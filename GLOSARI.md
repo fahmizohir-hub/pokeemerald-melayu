@@ -8,10 +8,10 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 - **Kekal (jangan terjemah):** nama Pokémon, nama watak (BIRCH, MAY, BRENDAN,
   WALLY, STEVEN…), nama tempat (LITTLEROOT, RUSTBORO…), nama pasukan
   (TEAM AQUA, TEAM MAGMA), POKéMON, POKéDEX, POKéNAV, POKé BALL dan semua
-  nama BALL (GREAT BALL, ULTRA BALL…), nama BERRY (ORAN BERRY…), TM, HM, PC,
+  nama BALL (GREAT BALL, ULTRA BALL…), nama buah BERI (BERI ORAN…), TM, HM, PC,
   PP, HP, EXP., Lv.
 - Huruf besar dikekalkan untuk istilah game, ikut gaya asal
-  (contoh: `UBAT`, `SERANGAN`, `JURULATIH`).
+  (contoh: `POSYEN`, `SERANGAN`, `JURULATIH`).
 - Bahasa santai tapi sopan. NPC guna "kamu" untuk pemain, "saya" untuk diri.
   Teks sistem/menu guna ayat ringkas tanpa kata ganti.
 - Tanda baca dan simbol game (`é`, `…`, `“ ”`) boleh diguna. Jangan guna
@@ -101,7 +101,7 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 | SAVE / OPTION / EXIT | SIMPAN / PILIHAN / KELUAR |
 | YES / NO | YA / TIDAK |
 | CANCEL | BATAL |
-| USE / GIVE / TOSS / REGISTER | GUNA / BERI / BUANG / DAFTAR |
+| USE / GIVE / TOSS / REGISTER | GUNA / BAGI / BUANG / DAFTAR |
 | SUMMARY / SWITCH / ITEM / MAIL | RINGKASAN / TUKAR / BARANG / SURAT |
 | SHIFT (pertarungan, PC, gaya pertarungan) | TUKAR |
 | MOVE / MOVES | MOVE / MOVE (kekal, istilah game) |
@@ -111,7 +111,7 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 | EGG | TELUR |
 | BOX | KOTAK |
 | MONEY | WANG |
-| ITEMS / KEY ITEMS / POKé BALLS / TMs & HMs / BERRIES | BARANG / BRG PENTING / POKé BALL / TM & HM / BERRY |
+| ITEMS / KEY ITEMS / POKé BALLS / TMs & HMs / BERRIES | BARANG / BRG PENTING / POKé BALL / TM & HM / BERI |
 | HOLD (item) | PEGANG |
 | BADGE | LENCANA |
 | RIBBON | REBEN |
@@ -123,7 +123,7 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 
 | Inggeris | Melayu |
 |---|---|
-| POTION / SUPER POTION / HYPER POTION / MAX POTION / FULL RESTORE | UBAT / UBAT SUPER / UBAT HIPER / UBAT MAKS / PEMULIH PENUH |
+| POTION / SUPER POTION / HYPER POTION / MAX POTION / FULL RESTORE | POSYEN / POSYEN SUPER / POSYEN HIPER / POSYEN MAKS / PEMULIH PENUH |
 | ANTIDOTE / BURN HEAL / ICE HEAL / AWAKENING / PARLYZ HEAL / FULL HEAL | PENAWAR / UBAT LECUR / UBAT BEKU / UBAT SEDAR / UBAT LUMPUH / PENAWAR PENUH |
 | REVIVE / MAX REVIVE | PEMULIH / PEMULIH MAKS |
 | ETHER / ELIXIR | ETER / ELIKSIR |
@@ -151,21 +151,27 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 | HIDEOUT | MARKAS |
 | BIKE SHOP | KEDAI BASIKAL |
 | WARDEN / PRESIDENT | PENJAGA / PRESIDEN |
-| BERRY BLENDER / BERRY CRUSHER / BERRY POWDER | PENGISAR BERRY / PENGHANCUR BERRY / SERBUK BERRY |
+| BERRY / X BERRY | BERI / BERI X (contoh BERI ORAN; kata kerja "give" guna "bagi" supaya tak keliru) |
+| BERRY BLENDER / BERRY CRUSHER / BERRY POWDER | PENGISAR BERI / PENGHANCUR BERI / SERBUK BERI |
 | COINS | SYILING |
 
 ## Nama move (bentuk kata nama)
 
 Nama move guna **kata nama**, bukan kata kerja: PUKULAN, GIGITAN, TETAKAN KARATE,
-TUMBUKAN API, SERANGAN SAYAP, LUNCURAN OMBAK, POTONGAN. Dalam pertarungan ayat jadi
+TUMBUKAN API, SERANGAN SAYAP, SEMBURAN API. Dalam pertarungan ayat jadi
 "X menggunakan GIGITAN!". Pengecualian: gabungan yang memang kata nama atau
 simpulan bahasa (SERANG BALAS, BALAS DENDAM, KITAR SEMULA, CURI TULANG, IKUT SAYA,
-HULUR TANGAN, TARIK DIRI, ULANG LAGI), dan HM TERBANG / SELAM.
+HULUR TANGAN, TARIK DIRI, ULANG LAGI), dan HM POTONG / TERBANG / LUNCUR OMBAK /
+SELAM (jelas untuk kegunaan luar pertarungan; "luncur ombak" memang nama sukan,
+"potongan" pula dibaca sebagai diskaun atau sekeping).
+
+"Gelombang" untuk gelombang tenaga (GELOMBANG KEJUT, GELOMBANG PETIR, GELOMBANG
+HABA); "ombak" hanya untuk laut (LUNCUR OMBAK).
 
 Had: 16 aksara (`MOVE_NAME_LENGTH`) dan **78px dalam fon sempit** (slot menu
 pertarungan 80px). Senarai pengajar move dan contest cuma 72px; nama lebih lebar
 dari itu terpotong di situ. Dalam dialog, bila nama move dipakai sebagai kata
-kerja, tambah "guna": "Tak boleh guna LUNCURAN OMBAK di sini."
+kerja, tambah "guna": "Tak boleh guna LUNCUR OMBAK di sini."
 Alat: `tools/kata_nama_move.py` (nama) dan `tools/kata_nama_move_dialog.py` (dialog).
 
 ## Frasa move dan ability (dari fasa huraian move)
@@ -220,7 +226,7 @@ berakhir dengan ruang atau \l).
 | APPEAL / JAM | PIKAT / GANGGU |
 | SINGLE / DOUBLE / MULTI BATTLE | TARUNG TUNGGAL / TARUNG GANDA / TARUNG MULTI |
 | OPEN LEVEL / RETIRE | LV. TERBUKA / UNDUR |
-| BERRY CRUSH / POKéMON JUMP / DODRIO BERRY-PICKING | HANCUR BERRY / LOMPAT POKéMON / PETIK BERRY DODRIO |
+| BERRY CRUSH / POKéMON JUMP / DODRIO BERRY-PICKING | HANCUR BERI / LOMPAT POKéMON / PETIK BERI DODRIO |
 | MYSTERY GIFT / MYSTERY EVENTS | HADIAH MISTERI / ACARA MISTERI |
 | WONDER CARD / WONDER NEWS / STAMP | KAD AJAIB / BERITA AJAIB / SETEM |
 | DECORATION / DOLL / CONDITION | HIASAN / PATUNG / KEADAAN |
@@ -273,7 +279,7 @@ Pengecualian: `SOOTOPOLIS CITY` → `BDR SOOTOPOLIS` dan `EVER GRANDE CITY` →
 | ROCKET HIDEOUT | MARKAS ROCKET |
 | ROCKET WAREHOUSE | GUDANG ROCKET |
 | ARTISAN CAVE | GUA TUKANG |
-| BERRY FOREST | HUTAN BERRY |
+| BERRY FOREST | HUTAN BERI |
 | BOND BRIDGE | JAMBATAN IKATAN |
 | CANYON ENTRANCE | PINTU NGARAI |
 | CAPE BRINK | TANJUNG BRINK |
@@ -429,7 +435,7 @@ Pengecualian: `SOOTOPOLIS CITY` → `BDR SOOTOPOLIS` dan `EVER GRANDE CITY` →
 | MOVE DELETER | PEMADAM MOVE |
 | HARBOR / TICKET | PELABUHAN / TIKET |
 | VENDING MACHINE / SLOTS | MESIN LAYAN DIRI / MESIN SLOT |
-| BERRY MASTER | PAKAR BERRY |
+| BERRY MASTER | PAKAR BERI |
 | GAME DESIGNER / PROGRAMMER / GRAPHIC ARTIST | PEREKA GAME / PENGATURCARA / PELUKIS GRAFIK |
 | MATS / DOLLS / POSTERS | TIKAR / PATUNG / POSTER |
 | Wireless Communication | Komunikasi Wayarles |
@@ -476,7 +482,7 @@ Nota: nama kelas jurulatih rasmi kini dalam `src/data/text/trainer_class_names.h
 | Time Attack / Time Board | Lumba Masa / PAPAN MASA |
 | LINK MULTI BATTLE ROOM / Link standby… | BILIK TARUNG MULTI LINK / Menunggu link… |
 | KISS POSTER / KISS CUSHION / X DOLL | POSTER KISS / KUSYEN KISS / PATUNG X (ikut strings.c) |
-| BERRY POCKET | POKET BERRY |
+| BERRY POCKET | POKET BERI |
 | POKéMON BREEDER (huraian) | PENTERNAK POKéMON |
 
 ## Skrip umum (dari kumpulan 14)
@@ -493,7 +499,7 @@ Nota: nama kelas jurulatih rasmi kini dalam `src/data/text/trainer_class_names.h
 | E-MODE / G-MODE | MOD-E / MOD-G |
 | Entry No. X | Peserta No. X |
 | PC BOX / SAFARI Game / REST HOUSE / POKéMON LOTTERY | KOTAK PC / Permainan SAFARI / RUMAH REHAT / LOTERI POKéMON |
-| Kata laluan Mystery Gift ("GIVE ME / AWESOME TRAINER") | kekal Inggeris (perkataan Easy Chat) |
+| Kata laluan Mystery Gift ("GIVE ME / AWESOME TRAINER") | "BAGI SAYA / GEMPAK JURULATIH" (perkataan Easy Chat) |
 
 ## TV, reben dan hiasan (dari kumpulan 10)
 

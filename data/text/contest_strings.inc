@@ -194,7 +194,7 @@ gText_TemporarilyStopCrowdExcited::
 @ Unused move names
 
 gText_RainDance::
-	.string "TARI HUJAN$"
+	.string "TARIAN HUJAN$"
 
 gText_Rage::
 	.string "MARAH$"
@@ -212,7 +212,7 @@ gText_HornAttack::
 	.string "TIKAMAN TANDUK$"
 
 gText_SwordsDance::
-	.string "TARI PEDANG$"
+	.string "TARIAN PEDANG$"
 
 gText_Conversion::
 	.string "KONVERSI$"

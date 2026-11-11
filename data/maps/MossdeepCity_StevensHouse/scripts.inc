@@ -154,7 +154,7 @@ MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
 	.string "layak terima HM ni.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: Masa guna LUNCURAN OMBAK,\n"
+	.string "STEVEN: Masa guna LUNCUR OMBAK,\n"
 	.string "kamu akan nampak tompok air gelap.\p"
 	.string "Guna SELAM kalau jumpa air dalam macam\n"
 	.string "tu. Kamu akan turun ke dasar laut.\p"

@@ -22,15 +22,15 @@ GANTI = [
      '\t.string "Jika lawan guna LINDUNG atau\\n"',
      '\t.string "Jika lawan guna PERLINDUNGAN atau\\n"', 1),
     # SURF (guna kata nama; tambah "guna" bila asalnya kata kerja)
-    ("data/text/trainers.inc", "yang tengah LUNCUR OMBAK?", "yang tengah guna LUNCURAN OMBAK?", 1),
-    ("data/text/trainers.inc", "pengsan pun masih boleh LUNCUR OMBAK,", "pengsan pun boleh guna LUNCURAN OMBAK,", 1),
-    ("src/strings.c", '_("Tak boleh LUNCUR OMBAK di sini.")', '_("Tak boleh guna LUNCURAN OMBAK di sini.")', 1),
-    ("src/strings.c", '_("Kamu sedang LUNCUR OMBAK.")', '_("Kamu sedang guna LUNCURAN OMBAK.")', 1),
+    ("data/text/trainers.inc", "yang tengah LUNCUR OMBAK?", "yang tengah guna LUNCUR OMBAK?", 1),
+    ("data/text/trainers.inc", "pengsan pun masih boleh LUNCUR OMBAK,", "pengsan pun boleh guna LUNCUR OMBAK,", 1),
+    ("src/strings.c", '_("Tak boleh LUNCUR OMBAK di sini.")', '_("Tak boleh guna LUNCUR OMBAK di sini.")', 1),
+    ("src/strings.c", '_("Kamu sedang LUNCUR OMBAK.")', '_("Kamu sedang guna LUNCUR OMBAK.")', 1),
     # CUT
     ("src/strings.c", '_("Tiada apa untuk POTONG.")', '_("Tiada apa untuk dipotong.")', 1),
     ("data/maps/RustboroCity_PokemonCenter_1F/scripts.inc",
      '\t.string "Saya guna untuk ajar POKéMON saya\\n"\n\t.string "POTONG pokok-pokok kecil.$"',
-     '\t.string "Saya guna untuk ajar POKéMON saya\\n"\n\t.string "POTONGAN. Boleh tebang pokok kecil!$"', 1),
+     '\t.string "Saya guna untuk ajar POKéMON saya\\n"\n\t.string "POTONG. Boleh tebang pokok kecil!$"', 1),
     # SNATCH (baris 168 ialah gurauan kata kerja, kekal)
     ("data/maps/SSTidalRooms/scripts.inc", '"RAMPAS mencuri kesan baik move', '"RAMPASAN mencuri kesan baik move', 1),
     # BIND, SPIT UP
@@ -50,10 +50,8 @@ GANTI = [
 ]
 
 # Ganti terus semua kejadian (nama move sahaja dalam fail ini).
-SEMUA = {
-    "LUNCUR OMBAK": "LUNCURAN OMBAK",
-    "POTONG": "POTONGAN",
-}
+# v0.2.1: POTONG dan LUNCUR OMBAK dikekalkan (lihat GLOSARI), jadi kosong.
+SEMUA = {}
 FAIL_SEMUA = [
     "data/text/surf.inc", "data/text/trainers.inc",
     "data/maps/LilycoveCity_MoveDeletersHouse/scripts.inc", "data/maps/MauvilleCity/scripts.inc",

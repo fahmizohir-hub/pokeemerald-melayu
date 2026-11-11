@@ -8,7 +8,7 @@ const u8 gEasyChatWord_Welcome[] = _("SELAMAT TIBA");
 const u8 gEasyChatWord_Oi[] = _("WOI");
 const u8 gEasyChatWord_HowDo[] = _("APA KHABAR");
 const u8 gEasyChatWord_Congrats[] = _("TAHNIAH");
-const u8 gEasyChatWord_GiveMe[] = _("BERI SAYA");
+const u8 gEasyChatWord_GiveMe[] = _("BAGI SAYA");
 const u8 gEasyChatWord_Sorry[] = _("MAAF");
 const u8 gEasyChatWord_Apologize[] = _("MOHON MAAF");
 const u8 gEasyChatWord_Forgive[] = _("MAAFKAN");
@@ -75,19 +75,19 @@ const struct EasyChatWordInfo gEasyChatGroup_Greetings[] = {
     [EC_INDEX(EC_WORD_YEAH)] =
     {
         .text = gEasyChatWord_Yeah,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_BYE_BYE),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_GIVE_ME),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WELCOME)] =
     {
         .text = gEasyChatWord_Welcome,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_SMELL),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_BYE_BYE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_OI)] =
     {
         .text = gEasyChatWord_Oi,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_GIVE_ME),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_SMELL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_HOW_DO)] =

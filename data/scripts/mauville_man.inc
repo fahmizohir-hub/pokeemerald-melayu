@@ -314,17 +314,17 @@ MauvilleCity_PokemonCenter_1F_Text_TrendsStartedStory::
 	.string "seluruh wilayah HOENN!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedTitle::
-	.string "JURULATIH Penanam BERRY$"
+	.string "JURULATIH Penanam BERI$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedAction::
-	.string "Menanam BERRY$"
+	.string "Menanam BERI$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedStory::
 	.string "Ini kisah seorang JURULATIH\n"
 	.string "bernama {STR_VAR_3}.\p"
-	.string "JURULATIH ini menanam BERRY\n"
+	.string "JURULATIH ini menanam BERI\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
-	.string "{STR_VAR_3} ialah pencinta BERRY\n"
+	.string "{STR_VAR_3} ialah pencinta BERI\n"
 	.string "yang lagenda!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BikeTradesTitle::
@@ -469,15 +469,15 @@ MauvilleCity_PokemonCenter_1F_Text_SafariGamesStory::
 	.string "di ZON SAFARI!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutTitle::
-	.string "JURULATIH Gila POTONGAN$"
+	.string "JURULATIH Gila POTONG$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutAction::
-	.string "Menggunakan POTONGAN$"
+	.string "Menggunakan POTONG$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutStory::
 	.string "Ini kisah seorang JURULATIH\n"
 	.string "bernama {STR_VAR_3}.\p"
-	.string "JURULATIH ini menggunakan POTONGAN\n"
+	.string "JURULATIH ini menggunakan POTONG\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
 	.string "{STR_VAR_3} mesti JURULATIH yang\n"
 	.string "sangat suka MEMOTONG!$"
@@ -593,7 +593,7 @@ MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksStory::
 	.string "JURULATIH ini membuat {POKEBLOCK}\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
 	.string "Tiada yang lebih mahir menggunakan\n"
-	.string "PENGISAR BERRY daripada {STR_VAR_3}!$"
+	.string "PENGISAR BERI daripada {STR_VAR_3}!$"
 
 MauvilleCity_PokemonCenter_1F_Text_EnteredContestsTitle::
 	.string "JURULATIH Kaki PERTANDINGAN$"

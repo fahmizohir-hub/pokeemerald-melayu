@@ -34,10 +34,10 @@ RustboroCity_CuttersHouse_Text_YouCanPutThisHMToGoodUse:
 
 RustboroCity_CuttersHouse_Text_ExplainCut:
 	.string "MESIN TERSEMBUNYI tu, atau ringkasnya\n"
-	.string "HM, berisi POTONGAN.\p"
+	.string "HM, berisi POTONG.\p"
 	.string "Move HM boleh diguna POKéMON di\n"
 	.string "luar pertarungan.\p"
-	.string "POKéMON yang belajar POTONGAN boleh\n"
+	.string "POKéMON yang belajar POTONG boleh\n"
 	.string "tebang pokok kecil kalau JURULATIHNYA\l"
 	.string "ada LENCANA BATU.\p"
 	.string "Lagi satu, tak macam TM, HM boleh\n"
@@ -46,7 +46,7 @@ RustboroCity_CuttersHouse_Text_ExplainCut:
 RustboroCity_CuttersHouse_Text_DadHelpedClearLandOfTrees:
 	.string "Masa BANDAR RUSTBORO diperbesar dulu,\n"
 	.string "ayah saya pun tolong.\p"
-	.string "Dia suruh POKéMON dia guna POTONGAN\n"
+	.string "Dia suruh POKéMON dia guna POTONG\n"
 	.string "untuk tebang pokok dan\l"
 	.string "bersihkan tanah.$"
 

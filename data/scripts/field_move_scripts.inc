@@ -46,15 +46,15 @@ EventScript_CancelCut::
 
 Text_WantToCut:
 	.string "Pokok ini nampaknya boleh dipotong\n"
-	.string "dengan POTONGAN!\p"
-	.string "Kamu nak guna POTONGAN?$"
+	.string "dengan POTONG!\p"
+	.string "Kamu nak guna POTONG?$"
 
 Text_MonUsedFieldMove:
 	.string "{STR_VAR_1} menggunakan {STR_VAR_2}!$"
 
 Text_CantCut:
 	.string "Pokok ini nampaknya boleh dipotong\n"
-	.string "dengan POTONGAN!$"
+	.string "dengan POTONG!$"
 
 @ Interact with smashable rock
 EventScript_RockSmash::

@@ -17,16 +17,16 @@ BerryBlender_Text_TooBusyNowIsee:
 
 BerryBlender_Text_BlendMasterNoBerries:
 	.string "Hmmm!\p"
-	.string "Kamu tiada sebiji BERRY pun!\p"
+	.string "Kamu tiada sebiji BERI pun!\p"
 	.string "Saya ada di sini sepanjang hari!\n"
-	.string "Cepat kembali dengan BERRY!$"
+	.string "Cepat kembali dengan BERI!$"
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
 	.string "Sudah tentu!\n"
 	.string "Sudah tentu!\p"
 	.string "Oh ya…\n"
 	.string "Kamu tahu cara mengisar {POKEBLOCK}\l"
-	.string "daripada BERRY?$"
+	.string "daripada BERI?$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
 	.string "Hmmm!\p"
@@ -41,7 +41,7 @@ BerryBlender_Text_BlendMasterLetsBerryBlender:
 	.string "Bagus!\p"
 	.string "Mari kita mulakan!\p"
 	.string "Bersama-sama PAKAR PENGISAR,\n"
-	.string "ayuh PENGISAR BERRY!$"
+	.string "ayuh PENGISAR BERI!$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase:
 	.string "Hmmm!\p"
@@ -82,4 +82,4 @@ BerryBlender_Text_MasterWorksOnSkillsInMountains:
 	.string "Kata orang, PAKAR PENGISAR mengasah\n"
 	.string "kemahirannya jauh di pergunungan.\p"
 	.string "Kadang-kadang, dia datang ke LILYCOVE\n"
-	.string "untuk mengisar BERRY sepanjang hari.$"
+	.string "untuk mengisar BERI sepanjang hari.$"

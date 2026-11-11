@@ -195,5 +195,5 @@ Route123_Text_RouteSignMtPyre:
 	.string "“Dilarang bagi yang lemah semangat.”$"
 
 Route123_Text_BerryMastersHouse:
-	.string "RUMAH PAKAR BERRY$"
+	.string "RUMAH PAKAR BERI$"
 

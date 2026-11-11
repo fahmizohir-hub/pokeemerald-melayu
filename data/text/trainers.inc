@@ -200,7 +200,7 @@ Route103_Text_PetePostBattle:
 	.string "buat begitu.\p"
 	.string "Kalau saya ada POKéMON yang\n"
 	.string "boleh dipercayai macam tu,\l"
-	.string "saya pun nak guna LUNCURAN OMBAK!$"
+	.string "saya pun nak guna LUNCUR OMBAK!$"
 
 Route103_Text_IsabelleIntro:
 	.string "Tengok depan! Kita nak berlanggar ni!$"
@@ -1464,7 +1464,7 @@ Route111_Text_HaydenDefeat:
 
 Route111_Text_HaydenPostBattle:
 	.string "Perut saya dah berbunyi! Agaknya\n"
-	.string "boleh panggang BERRY sikit…$"
+	.string "boleh panggang BERI sikit…$"
 
 Route111_Text_BiancaIntro:
 	.string "Kamu datang dari MAUVILLE?\n"
@@ -2837,7 +2837,7 @@ Route119_Text_ChrisIntro:
 	.string "Kamu tegur saya…\n"
 	.string "Jadi kamu nak cabar saya!\p"
 	.string "Boleh! Saya cuba POKéMON yang saya\n"
-	.string "tangkap masa guna LUNCURAN OMBAK!$"
+	.string "tangkap masa guna LUNCUR OMBAK!$"
 
 Route119_Text_ChrisDefeat:
 	.string "Saya langsung tak tahu apa yang perlu\n"
@@ -3308,7 +3308,7 @@ Route123_Text_VioletDefeat:
 	.string "Saya terbau aroma pahit kesengsaraan…$"
 
 Route123_Text_VioletPostBattle:
-	.string "Taman PAKAR BERRY dipenuhi haruman\n"
+	.string "Taman PAKAR BERI dipenuhi haruman\n"
 	.string "yang menyegarkan jiwa.$"
 
 Route123_Text_CameronIntro:
@@ -4003,7 +4003,7 @@ Route127_Text_JonahPostBattle:
 
 Route127_Text_HenryIntro:
 	.string "Alamak! Saya tersangkut POKéMON\n"
-	.string "yang tengah guna LUNCURAN OMBAK?$"
+	.string "yang tengah guna LUNCUR OMBAK?$"
 
 Route127_Text_HenryDefeat:
 	.string "Saya tak dapat kejar!$"
@@ -4656,10 +4656,10 @@ Route134_Text_KelvinDefeat:
 	.string "Awawawawah! Tolong, berhenti! Tolong!$"
 
 Route134_Text_KelvinPostBattle:
-	.string "Kalau tak boleh guna LUNCURAN OMBAK,\n"
+	.string "Kalau tak boleh guna LUNCUR OMBAK,\n"
 	.string "macam mana kami nak balik?\p"
 	.string "Sebenarnya, saya tahu POKéMON yang\n"
-	.string "pengsan pun boleh guna LUNCURAN OMBAK,\l"
+	.string "pengsan pun boleh guna LUNCUR OMBAK,\l"
 	.string "tapi rasa macam tak patut.$"
 
 Route134_Text_MarleyIntro:

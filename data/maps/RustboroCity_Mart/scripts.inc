@@ -72,8 +72,8 @@ RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish:
 RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead:
 	.string "POKéMON saya dah berevolusi. HP dia\n"
 	.string "banyak sekarang.\p"
-	.string "Saya patut beli UBAT SUPER untuknya,\n"
-	.string "bukan UBAT biasa.$"
+	.string "Saya patut beli POSYEN SUPER untuknya,\n"
+	.string "bukan POSYEN biasa.$"
 
 RustboroCity_Mart_Text_GettingEscapeRopeJustInCase:
 	.string "Saya beli TALI LARI, manalah tahu\n"

@@ -208,7 +208,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
 	.string "yang lembut.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "Ini lukisan BERRY yang nampak sedap.\p"
+	.string "Ini lukisan BERI yang nampak sedap.\p"
 	.string "Lukisan ni boleh buat kamu lapar!$"
 
 LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:

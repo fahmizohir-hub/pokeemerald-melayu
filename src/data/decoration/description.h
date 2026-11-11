@@ -274,7 +274,7 @@ const u8 DecorDesc_C_HIGH_NOTE_MAT[] = _(
 
 const u8 DecorDesc_SURF_MAT[] = _(
     "Tikar bergambar\n"
-        "LUNCURAN OMBAK.\n"
+        "LUNCUR OMBAK.\n"
         "Boleh letak barang.");
 
 const u8 DecorDesc_THUNDER_MAT[] = _(

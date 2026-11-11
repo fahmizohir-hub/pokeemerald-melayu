@@ -893,6 +893,10 @@ static void LoadBagItemListBuffers(u8 pocketId)
     gMultiuseListMenuTemplate.maxShowed = gBagMenu->numShownItems[pocketId];
 }
 
+// BM: untuk nama move TM yang panjang (contoh GELOMBANG KEJUT), jarak
+// selepas nombor TM dirapatkan supaya tak bertindih dengan kuantiti.
+static const u8 sText_NumberItem_TMLong[] = _("{NO}{STR_VAR_1}{CLEAR 3}{STR_VAR_2}");
+
 static void GetItemNameFromPocket(u8 *dest, u16 itemId)
 {
     switch (gBagPosition.pocket)
@@ -909,7 +913,11 @@ static void GetItemNameFromPocket(u8 *dest, u16 itemId)
         {
             // Get TM number
             ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, 2);
-            StringExpandPlaceholders(dest, gText_NumberItem_TMBerry);
+            // BM: nama lebih 66px dirapatkan supaya tak kena kuantiti "x1"
+            if (GetStringWidth(FONT_NARROW, gStringVar2, 0) > 66)
+                StringExpandPlaceholders(dest, sText_NumberItem_TMLong);
+            else
+                StringExpandPlaceholders(dest, gText_NumberItem_TMBerry);
         }
         break;
     case BERRIES_POCKET:

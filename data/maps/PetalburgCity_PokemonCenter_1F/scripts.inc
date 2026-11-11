@@ -60,7 +60,7 @@ PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem:
 
 PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP:
 	.string "Bila POKéMON saya makan\n"
-	.string "ORAN BERRY, HPnya pulih!$"
+	.string "BERI ORAN, HPnya pulih!$"
 
 PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon:
 	.string "Ada banyak jenis POKéMON.\p"

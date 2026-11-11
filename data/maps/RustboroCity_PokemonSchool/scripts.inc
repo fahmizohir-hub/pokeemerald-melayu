@@ -266,7 +266,7 @@ RustboroCity_PokemonSchool_Text_AlwaysWantedSeedot:
 RustboroCity_PokemonSchool_Text_PokemontCantUseManMadeItems:
 	.string "POKéMON boleh pegang barang, tapi\n"
 	.string "mereka tak tahu guna barang buatan\l"
-	.string "manusia macam UBAT dan PENAWAR.$"
+	.string "manusia macam POSYEN dan PENAWAR.$"
 
 RustboroCity_PokemonSchool_Text_ConfusedPokemonAttacksItself:
 	.string "Kamu tahu ada move POKéMON yang boleh\n"
@@ -277,7 +277,7 @@ RustboroCity_PokemonSchool_Text_ConfusedPokemonAttacksItself:
 	.string "akan pulih seperti biasa.$"
 
 RustboroCity_PokemonSchool_Text_PokemonHealItselfWithBerry:
-	.string "POKéMON yang memegang BERRY akan\n"
+	.string "POKéMON yang memegang BERI akan\n"
 	.string "pulihkan dirinya…\p"
 	.string "Ada banyak jenis barang yang boleh\n"
 	.string "dipegang POKéMON…\p"
@@ -308,9 +308,9 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
 	.string "Jadi, kamu buat apa di SEKOLAH ni? Kamu\n"
 	.string "pun JURULATIH?\p"
 	.string "Benda pertama yang patut kamu buat,\n"
-	.string "ajar POKéMON kamu POTONGAN.\p"
+	.string "ajar POKéMON kamu POTONG.\p"
 	.string "Kalau tak silap saya, ada orang di\n"
-	.string "bandar ni yang ada POTONGAN.$"
+	.string "bandar ni yang ada POTONG.$"
 
 RustboroCity_PokemonSchool_Text_StudentTalentLevelUnknown:
 	.string "SCOTT: Hmm…\p"

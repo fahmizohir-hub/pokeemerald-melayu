@@ -1228,57 +1228,57 @@ SlateportCity_Text_NameRatersHouseSign:
 
 SlateportCity_Text_ExplainBerries:
 	.string "Kalau POKéMON liar cedera, ia sembuhkan\n"
-	.string "diri dengan mengunyah BERRY.\p"
+	.string "diri dengan mengunyah BERI.\p"
 	.string "Kamu tahu tak?\p"
 	.string "Ada orang nampak hal tu dan dapat idea\n"
-	.string "untuk buat ubat daripada BERRY.\p"
+	.string "untuk buat ubat daripada BERI.\p"
 	.string "Kamu tahu tak?\p"
-	.string "Untuk jadikan BERRY sebagai ubat, ia\n"
+	.string "Untuk jadikan BERI sebagai ubat, ia\n"
 	.string "mesti dihancurkan jadi serbuk.\p"
 	.string "Kamu tahu tak?\p"
-	.string "Kamu nampak berminat dengan BERRY!\p"
+	.string "Kamu nampak berminat dengan BERI!\p"
 	.string "Saya ada sesuatu yang bagus untuk\n"
 	.string "orang macam kamu.$"
 
 SlateportCity_Text_ExplainBerryPowder:
 	.string "Baru-baru ni saya pasang mesin di\n"
 	.string "PUSAT POKéMON untuk menghancurkan\l"
-	.string "BERRY.\p"
-	.string "Mesin HANCUR BERRY ada di SUDUT TERUS\n"
+	.string "BERI.\p"
+	.string "Mesin HANCUR BERI ada di SUDUT TERUS\n"
 	.string "di tingkat atas.\p"
 	.string "Kamu tahu tak?\p"
-	.string "Boleh kamu buatkan SERBUK BERRY untuk\n"
+	.string "Boleh kamu buatkan SERBUK BERI untuk\n"
 	.string "saya guna mesin tu?\p"
 	.string "Saya boleh buatkan macam-macam ubat\n"
-	.string "kalau kamu bawa banyak SERBUK BERRY.$"
+	.string "kalau kamu bawa banyak SERBUK BERI.$"
 
 SlateportCity_Text_BroughtMeSomeBerryPowder:
-	.string "Kamu ada bawa SERBUK BERRY untuk\n"
+	.string "Kamu ada bawa SERBUK BERI untuk\n"
 	.string "saya?$"
 
 SlateportCity_Text_ExchangeWhatWithIt:
 	.string "Kamu nak tukar dengan apa?$"
 
 SlateportCity_Text_ExchangeBerryPowderForItem:
-	.string "Baiklah, kamu nak tukar SERBUK BERRY\n"
+	.string "Baiklah, kamu nak tukar SERBUK BERI\n"
 	.string "kamu dengan satu {STR_VAR_1}?$"
 
 SlateportCity_Text_DontHaveEnoughBerryPowder:
-	.string "Alamak. SERBUK BERRY kamu tak cukup.$"
+	.string "Alamak. SERBUK BERI kamu tak cukup.$"
 
 SlateportCity_Text_FineBerryPowderTradeSomethingElse:
-	.string "Ini SERBUK BERRY yang bagus.\n"
+	.string "Ini SERBUK BERI yang bagus.\n"
 	.string "Ia boleh jadi ubat yang hebat.\p"
-	.string "Kamu nak tukar lagi SERBUK BERRY kamu\n"
+	.string "Kamu nak tukar lagi SERBUK BERI kamu\n"
 	.string "dengan benda lain?$"
 
 SlateportCity_Text_WhenYouGetMoreBringItToMe:
 	.string "Baiklah! Bila kamu dapat lagi SERBUK\n"
-	.string "BERRY, bawa kepada saya, ya!$"
+	.string "BERI, bawa kepada saya, ya!$"
 
 SlateportCity_Text_ComeBackToTradeBerryPowder:
 	.string "Datang semula kalau nak tukar SERBUK\n"
-	.string "BERRY dengan ubat.\p"
+	.string "BERI dengan ubat.\p"
 	.string "Saya sentiasa buka gerai di sini.\p"
 	.string "Kamu tahu tak?$"
 

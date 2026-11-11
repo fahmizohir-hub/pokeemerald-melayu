@@ -679,7 +679,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis:
 	.string "KIRLIA menggunakan HIPNOSIS!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave:
-	.string "KIRLIA menggunakan OMBAK PETIR!$"
+	.string "KIRLIA menggunakan GELOMBANG PETIR!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp:
 	.string "KIRLIA menggunakan PELITA HANTU!$"

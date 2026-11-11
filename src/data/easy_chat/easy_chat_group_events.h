@@ -1,7 +1,7 @@
 const u8 gEasyChatWord_Appeal[] = _("PIKATAN");
 const u8 gEasyChatWord_Events[] = _("PERISTIWA");
 const u8 gEasyChatWord_StayAtHome[] = _("DUDUK RUMAH");
-const u8 gEasyChatWord_Berry[] = _("BERRY");
+const u8 gEasyChatWord_Berry[] = _("BERI");
 const u8 gEasyChatWord_Contest[] = _("PERTANDINGAN");
 const u8 gEasyChatWord_Mc[] = _("PENGACARA");
 const u8 gEasyChatWord_Judge[] = _("HAKIM");

@@ -2,6 +2,34 @@
 
 Semua perubahan penting pada terjemahan Bahasa Melayu Pokémon Emerald.
 
+## v0.2.1 (12 November 2026)
+
+### Diubah
+- HM01 dan HM03 kembali kepada **POTONG** dan **LUNCUR OMBAK** (dalam v0.2.0
+  jadi POTONGAN dan LUNCURAN OMBAK). "Luncur ombak" memang nama sukan dalam
+  Bahasa Melayu, manakala "potongan" mudah dibaca sebagai diskaun atau
+  sekeping. Untuk HM yang dipakai di luar pertarungan, nama yang jelas lebih
+  penting, sama seperti TERBANG dan SELAM. Dialog berkaitan turut dikemas kini.
+- Move gelombang tenaga guna "GELOMBANG" (bukan "OMBAK", yang bermaksud ombak
+  laut): SHOCK WAVE → **GELOMBANG KEJUT**, THUNDER WAVE → **GELOMBANG PETIR**,
+  PSYWAVE → **GELOMBANG PSIKO**, HEAT WAVE → **GELOMBANG HABA**.
+- Move tarian guna kata nama "TARIAN": **TARIAN PEDANG**, **TARIAN KELOPAK**,
+  **TARIAN HUJAN**, **TARIAN BULU**, **TARIAN HUYUNG**, **TARIAN NAGA**.
+- **BERRY → BERI**, ikut susunan Melayu: ORAN BERRY → **BERI ORAN**, CHERI BERRY
+  → **BERI CHERI**, dan seterusnya. Nama sistem pun ikut: HANCUR BERI, PENGISAR
+  BERI, PETIK BERI DODRIO, TAG BERI, HUTAN BERI, PAKAR BERI.
+- **GIVE → BAGI** dalam menu BEG, PC dan parti, supaya tak keliru dengan BERI.
+  Perkataan Easy Chat "GIVE ME" kini BAGI SAYA, termasuk dalam kata laluan
+  HADIAH MISTERI.
+- **POTION → POSYEN**: POSYEN, POSYEN SUPER, POSYEN HIPER, POSYEN MAKS.
+  Ubat status (UBAT LECUR, UBAT BEKU, dan lain-lain) kekal.
+- LEMONADE: AIR LIMAU → **AIR LEMON**.
+
+### Dibetulkan
+- Senarai TM dalam BEG: nama move yang panjang (contoh TUMBUKAN FOKUS,
+  GELOMBANG KEJUT) dirapatkan dengan nombor TM supaya tak bertindih dengan
+  kuantiti "×1".
+
 ## v0.2.0 (11 November 2026)
 
 ### Baharu
@@ -30,14 +58,11 @@ Semua perubahan penting pada terjemahan Bahasa Melayu Pokémon Emerald.
   | SEMBUR API | SEMBURAN API |
   | LINDUNG | PERLINDUNGAN |
   | LAJU EKSTREM | KELAJUAN EKSTREM |
-  | POTONG (HM01) | POTONGAN |
-  | LUNCUR OMBAK (HM03) | LUNCURAN OMBAK |
 
   Kira-kira 90 nama berubah. Senarai penuh ada dalam
   [SENARAI-NAMA.md](SENARAI-NAMA.md). Nama yang memang sudah kata nama atau
   simpulan bahasa kekal, contohnya SERANG BALAS, BALAS DENDAM dan CURI TULANG.
-- Dialog yang menyebut nama move dikemas kini. Contohnya "Kamu nak guna
-  POTONGAN?" dan "Tak boleh guna LUNCURAN OMBAK di sini."
+- Dialog yang menyebut nama move dikemas kini.
 - **SHIFT: GILIR → TUKAR** dalam menu parti semasa pertarungan, menu PC dan
   PILIHAN → GAYA PERTARUNGAN.
 - "Tukar yang mana?" (susun semula move) → "Tukar dengan?".

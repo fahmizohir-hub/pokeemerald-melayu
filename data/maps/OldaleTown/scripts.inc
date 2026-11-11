@@ -344,7 +344,7 @@ OldaleTown_Text_ThisIsAPokemonMart:
 	.string "Nah, ini barang promosi untuk kamu.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "UBAT boleh diguna bila-bila masa, jadi\n"
+	.string "POSYEN boleh diguna bila-bila masa, jadi\n"
 	.string "dalam keadaan tertentu ia lebih\l"
 	.string "berguna daripada PUSAT POKéMON.$"
 

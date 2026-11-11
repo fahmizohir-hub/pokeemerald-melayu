@@ -350,7 +350,7 @@ static const u8 sText_HailContinues[] = _("Hujan batu terus turun.");
 static const u8 sText_HailStopped[] = _("Hujan batu sudah berhenti.");
 static const u8 sText_FailedToSpitUp[] = _("Tetapi ia tidak dapat\nmeluahkan apa-apa!");
 static const u8 sText_FailedToSwallow[] = _("Tetapi ia tidak dapat\nTELAN apa-apa!");
-static const u8 sText_WindBecameHeatWave[] = _("Angin bertukar menjadi\nOMBAK HABA!");
+static const u8 sText_WindBecameHeatWave[] = _("Angin bertukar menjadi\nGELOMBANG HABA!");
 static const u8 sText_StatChangesGone[] = _("Semua perubahan stat\ntelah dihapuskan!");
 static const u8 sText_CoinsScattered[] = _("Syiling bertaburan di mana-mana!");
 static const u8 sText_TooWeakForSubstitute[] = _("Ia terlalu lemah untuk\nmembuat PENGGANTI!");
@@ -479,8 +479,9 @@ static const u8 sText_PkmnDataAddedToDex[] = _("Data {B_OPPONENT_MON1_NAME} tela
 static const u8 sText_ItIsRaining[] = _("Hujan sedang turun.");
 static const u8 sText_SandstormIsRaging[] = _("Ribut pasir sedang mengganas.");
 static const u8 sText_BoxIsFull[] = _("KOTAK sudah penuh!\nKamu tidak boleh tangkap lagi!\p");
-static const u8 sText_EnigmaBerry[] = _("ENIGMA BERRY");
-static const u8 sText_BerrySuffix[] = _(" BERRY");
+static const u8 sText_EnigmaBerry[] = _("BERI ENIGMA");
+// BM: "BERI " diletak di depan nama buah (BERI ENIGMA), bukan akhiran.
+static const u8 sText_BerrySuffix[] = _("BERI ");
 static const u8 sText_PkmnsItemCuredParalysis[] = _("{B_LAST_ITEM} {B_SCR_ACTIVE_NAME_WITH_PREFIX}\nmenyembuhkan lumpuh!");
 static const u8 sText_PkmnsItemCuredPoison[] = _("{B_LAST_ITEM} {B_SCR_ACTIVE_NAME_WITH_PREFIX}\nmenyembuhkan racun!");
 static const u8 sText_PkmnsItemHealedBurn[] = _("{B_LAST_ITEM} {B_SCR_ACTIVE_NAME_WITH_PREFIX}\nmerawat kesan terbakar!");
@@ -2472,8 +2473,8 @@ u32 BattleStringExpandPlaceholders(const u8 *src, u8 *dst)
                             if ((gBattleScripting.multiplayerId != 0 && (gPotentialItemEffectBattler & BIT_SIDE))
                                 || (gBattleScripting.multiplayerId == 0 && !(gPotentialItemEffectBattler & BIT_SIDE)))
                             {
-                                StringCopy(text, gEnigmaBerries[gPotentialItemEffectBattler].name);
-                                StringAppend(text, sText_BerrySuffix);
+                                StringCopy(text, sText_BerrySuffix);
+                                StringAppend(text, gEnigmaBerries[gPotentialItemEffectBattler].name);
                                 toCpy = text;
                             }
                             else
@@ -2485,8 +2486,8 @@ u32 BattleStringExpandPlaceholders(const u8 *src, u8 *dst)
                         {
                             if (gLinkPlayers[gBattleScripting.multiplayerId].id == gPotentialItemEffectBattler)
                             {
-                                StringCopy(text, gEnigmaBerries[gPotentialItemEffectBattler].name);
-                                StringAppend(text, sText_BerrySuffix);
+                                StringCopy(text, sText_BerrySuffix);
+                                StringAppend(text, gEnigmaBerries[gPotentialItemEffectBattler].name);
                                 toCpy = text;
                             }
                             else
@@ -2852,8 +2853,8 @@ static void ExpandBattleTextBuffPlaceholders(const u8 *src, u8 *dst)
                 {
                     if (gLinkPlayers[gBattleScripting.multiplayerId].id == gPotentialItemEffectBattler)
                     {
-                        StringCopy(dst, gEnigmaBerries[gPotentialItemEffectBattler].name);
-                        StringAppend(dst, sText_BerrySuffix);
+                        StringCopy(dst, sText_BerrySuffix);
+                        StringAppend(dst, gEnigmaBerries[gPotentialItemEffectBattler].name);
                     }
                     else
                     {

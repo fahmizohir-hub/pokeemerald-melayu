@@ -449,7 +449,7 @@ LilycoveCity_ContestHall_Text_NeverWonBattleButContest:
 	.string "jaga-jaga!$"
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel:
-	.string "TARI KELOPAK POKéMON saya sungguh\n"
+	.string "TARIAN KELOPAK POKéMON saya sungguh\n"
 	.string "anggun dan menakjubkan.\p"
 	.string "Saya takkan biar sesiapa ganggu\n"
 	.string "persembahannya.$"

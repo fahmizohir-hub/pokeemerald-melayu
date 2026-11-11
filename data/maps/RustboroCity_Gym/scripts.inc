@@ -206,7 +206,7 @@ RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "LENCANA BATU meningkatkan kuasa\n"
 	.string "SERANGAN POKéMON kamu.\p"
 	.string "Dengan lencana ni, POKéMON kamu juga\n"
-	.string "boleh guna HM POTONGAN di\l"
+	.string "boleh guna HM POTONG di\l"
 	.string "luar pertarungan.\p"
 	.string "Ambillah ini juga.$"
 

@@ -34,7 +34,7 @@ CableClub_Text_NeedTwoMonsToTrade:
 
 CableClub_Text_CantTradeEnigmaBerry:
 	.string "POKéMON yang memegang {STR_VAR_1}\n"
-	.string "BERRY tidak boleh ditukar.$"
+	.string "BERI tidak boleh ditukar.$"
 
 gText_PleaseWaitForLink::
 	.string "Sila tunggu.\n"
@@ -195,7 +195,7 @@ CableClub_Text_YouMayBattleHere::
 
 CableClub_Text_CanMakeBerryPowder::
 	.string "Dua hingga lima JURULATIH boleh buat\n"
-	.string "SERBUK BERRY bersama-sama.$"
+	.string "SERBUK BERI bersama-sama.$"
 
 CableClub_Text_CanMixRecords::
 	.string "Rekod dua hingga empat pemain\n"
@@ -218,8 +218,8 @@ CableClub_Text_ReturnsToPreviousStep:
 	.string "Kembali ke langkah sebelumnya.$"
 
 CableClub_Text_NeedBerryForBerryCrush:
-	.string "Untuk guna HANCUR BERRY, anda\n"
-	.string "mesti ada sekurang-kurangnya 1 BERRY.$"
+	.string "Untuk guna HANCUR BERI, anda\n"
+	.string "mesti ada sekurang-kurangnya 1 BERI.$"
 
 CableClub_Text_NeedTwoMonsForUnionRoom:
 	.string "Untuk masuk UNION ROOM, anda mesti\n"
@@ -227,7 +227,7 @@ CableClub_Text_NeedTwoMonsForUnionRoom:
 
 CableClub_Text_NoEnigmaBerryInUnionRoom:
 	.string "POKéMON yang memegang {STR_VAR_1}\n"
-	.string "BERRY tidak boleh masuk UNION ROOM.$"
+	.string "BERI tidak boleh masuk UNION ROOM.$"
 
 CableClub_Text_UnionRoomAdapterNotConnected:
 	.string "Inilah UNION ROOM KELAB\n"
@@ -265,9 +265,9 @@ MossdeepCity_GameCorner_1F_Text_PokemonJumpInfo:
 	.string "melompat serentak.$"
 
 MossdeepCity_GameCorner_1F_Text_DodrioBerryPickingInfo:
-	.string "“PETIK BERRY DODRIO”\p"
+	.string "“PETIK BERI DODRIO”\p"
 	.string "Arahkan tiga kepala DODRIO untuk\n"
-	.string "menangkap BERRY yang jatuh.\p"
+	.string "menangkap BERI yang jatuh.\p"
 	.string "Tekan kanan, atas atau kiri pada\n"
 	.string "Pad Kawalan {PLUS} untuk gerakkan kepala.\p"
 	.string "Untuk main permainan ini, kamu mesti\n"
@@ -323,7 +323,7 @@ MossdeepCity_GameCorner_1F_Text_ShortJumpingPokemonAllowed:
 	.string "Itu sahaja yang kamu perlu tahu.$"
 
 MossdeepCity_GameCorner_1F_Text_OnlyDodrioAllowed:
-	.string "PETIK BERRY DODRIO ialah permainan\n"
+	.string "PETIK BERI DODRIO ialah permainan\n"
 	.string "yang hanya DODRIO boleh sertai.$"
 
 @ Unused
@@ -352,7 +352,7 @@ CableClub_Text_AccessRecordCorner:
 
 CableClub_Text_UseBerryCrush:
 	.string "Anda mahu guna Sistem\n"
-	.string "HANCUR BERRY?$"
+	.string "HANCUR BERI?$"
 
 CableClub_Text_ExplainBattleModes:
 	.string "Ada tiga Mod Tarung.\p"

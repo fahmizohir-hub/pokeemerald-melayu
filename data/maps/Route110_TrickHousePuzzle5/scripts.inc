@@ -908,12 +908,12 @@ Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
 	.string "KUIZ MECHADOLL 3.\p"
 	.string "Jual satu GREAT BALL dan beli satu\n"
-	.string "UBAT. Berapa baki wang?$"
+	.string "POSYEN. Berapa baki wang?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
 	.string "KUIZ MECHADOLL 3.\p"
 	.string "Adakah satu PENGHALAU dan AIR SODA\n"
-	.string "lebih mahal daripada satu UBAT SUPER?$"
+	.string "lebih mahal daripada POSYEN SUPER?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
 	.string "KLIK-KLAK…\n"

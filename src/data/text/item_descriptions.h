@@ -1017,7 +1017,7 @@ static const u8 sContestPassDesc[] = _(
 
 static const u8 sWailmerPailDesc[] = _(
     "Alat untuk\n"
-    "menyiram BERRY\n"
+    "menyiram BERI\n"
     "dan tumbuhan.");
 
 static const u8 sDevonGoodsDesc[] = _(
@@ -1043,7 +1043,7 @@ static const u8 sAcroBikeDesc[] = _(
 static const u8 sPokeblockCaseDesc[] = _(
     "Bekas untuk simpan\n"
     "{POKEBLOCK} buatan\n"
-    "PENGISAR BERRY.");
+    "PENGISAR BERI.");
 
 static const u8 sLetterDesc[] = _(
     "Surat untuk STEVEN\n"
@@ -1493,7 +1493,7 @@ static const u8 sTMCaseDesc[] = _(
 static const u8 sBerryPouchDesc[] = _(
     "Uncang yang mudah\n"
     "untuk menyimpan\n"
-    "BERRY.");
+    "BERI.");
 
 static const u8 sTeachyTVDesc[] = _(
     "Set TV dengan\n"
@@ -1527,8 +1527,8 @@ static const u8 sAuroraTicketDesc[] = _(
 
 static const u8 sPowderJarDesc[] = _(
     "Menyimpan SERBUK\n"
-    "BERRY buatan\n"
-    "PENGHANCUR BERRY.");
+    "BERI buatan\n"
+    "PENGHANCUR BERI.");
 
 static const u8 sRubyDesc[] = _(
     "Permata merah\n"

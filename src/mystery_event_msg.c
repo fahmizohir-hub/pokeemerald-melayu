@@ -1,8 +1,8 @@
 #include "global.h"
 
-const u8 gText_MysteryEventBerry[] = _("Mendapat {STR_VAR_2} BERRY!\nAYAH simpan di GIM PETALBURG.");
-const u8 gText_MysteryEventBerryTransform[] = _("{STR_VAR_1} BERRY telah bertukar\nmenjadi satu {STR_VAR_2} BERRY.");
-const u8 gText_MysteryEventBerryObtained[] = _("{STR_VAR_1} BERRY sudah pun\ndiperoleh.");
+const u8 gText_MysteryEventBerry[] = _("Mendapat BERI {STR_VAR_2}!\nAYAH simpan di GIM PETALBURG.");
+const u8 gText_MysteryEventBerryTransform[] = _("BERI {STR_VAR_1} telah bertukar\nmenjadi sebiji BERI {STR_VAR_2}.");
+const u8 gText_MysteryEventBerryObtained[] = _("BERI {STR_VAR_1} sudah pun\ndiperoleh.");
 const u8 gText_MysteryEventSpecialRibbon[] = _("REBEN istimewa dianugerahkan\nkepada POKéMON dalam parti kamu.");
 const u8 gText_MysteryEventNationalDex[] = _("POKéDEX telah dinaik taraf\ndengan MOD NASIONAL.");
 const u8 gText_MysteryEventRareWord[] = _("Perkataan jarang ditambah.");

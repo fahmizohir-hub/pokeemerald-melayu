@@ -372,7 +372,7 @@ MossdeepCity_Text_LifeNeedsSeaToLive:
 MossdeepCity_Text_SurfExhilarating:
 	.string "Belayar naik kapal pun bagus juga.\p"
 	.string "Tapi menyeberang laut bersama POKéMON\n"
-	.string "guna LUNCURAN OMBAK…\p"
+	.string "guna LUNCUR OMBAK…\p"
 	.string "Itu baru perjalanan yang mengujakan!\n"
 	.string "Betul tak, anak muda?$"
 

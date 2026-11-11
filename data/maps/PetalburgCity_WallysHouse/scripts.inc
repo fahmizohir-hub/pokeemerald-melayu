@@ -102,7 +102,7 @@ PetalburgCity_WallysHouse_Text_PleaseExcuseUs:
 
 PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces:
 	.string "Kalau POKéMON kamu boleh guna\n"
-	.string "LUNCURAN OMBAK, kamu boleh pergi ke\l"
+	.string "LUNCUR OMBAK, kamu boleh pergi ke\l"
 	.string "macam-macam tempat.$"
 
 PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon:

@@ -958,7 +958,7 @@ LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
 	.string "Buat {POKEBLOCK} dan simpan dalam tu.\p"
 	.string "Bila buat {POKEBLOCK}, setiap orang kena\n"
-	.string "masukkan BERRY yang berlainan.$"
+	.string "masukkan BERI yang berlainan.$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
 	.string "Tahniah!\p"

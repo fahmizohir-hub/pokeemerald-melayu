@@ -419,7 +419,7 @@ BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
 	.string "Semasa cabaran Pilih Tarung,\n"
-	.string "BERRY atau HERBA pegangan POKéMON\l"
+	.string "BERI atau HERBA pegangan POKéMON\l"
 	.string "berkesan sekali sahaja.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:

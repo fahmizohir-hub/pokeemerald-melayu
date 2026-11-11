@@ -64,5 +64,5 @@ OldaleTown_Mart_Text_RestoreHPWithPotion:
 	.string "Kalau POKéMON cedera dan HPnya habis\n"
 	.string "sampai pengsan, ia tak boleh bertarung.\p"
 	.string "Supaya POKéMON kamu tak pengsan,\n"
-	.string "pulihkan HPnya dengan UBAT.$"
+	.string "pulihkan HPnya dengan POSYEN.$"
 

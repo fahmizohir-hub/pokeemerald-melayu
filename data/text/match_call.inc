@@ -666,7 +666,7 @@ MatchCall_PersonalizedText3::
 	.string "Helo! {STR_VAR_1} ni.\p"
 	.string "Saya suka tempat saya sekarang.\n"
 	.string "Nyaman, dengan bau yang harum!\p"
-	.string "Rasanya ada orang tanam BERRY,\n"
+	.string "Rasanya ada orang tanam BERI,\n"
 	.string "dan semuanya dah berbunga lebat.\p"
 	.string "Jumpa lagi nanti!$"
 

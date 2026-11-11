@@ -1,6 +1,6 @@
 const u8 gEasyChatWord_Meets[] = _("BERJUMPA");
 const u8 gEasyChatWord_Concede[] = _("MENGALAH");
-const u8 gEasyChatWord_Give[] = _("BERI");
+const u8 gEasyChatWord_Give[] = _("BAGI");
 const u8 gEasyChatWord_Gives[] = _("MEMBERI");
 const u8 gEasyChatWord_Played[] = _("DAH BERMAIN");
 const u8 gEasyChatWord_Plays[] = _("BERMAIN");
@@ -93,49 +93,49 @@ const struct EasyChatWordInfo gEasyChatGroup_Actions[] = {
     [EC_INDEX(EC_WORD_GIVE)] =
     {
         .text = gEasyChatWord_Give,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_THROW),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_GIVE),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_GIVES)] =
     {
         .text = gEasyChatWord_Gives,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_WAKE_UP),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_THROW),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PLAYED)] =
     {
         .text = gEasyChatWord_Played,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_WORKS),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_WAKE_UP),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_PLAYS)] =
     {
         .text = gEasyChatWord_Plays,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_LEARN),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_WORKS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_COLLECT)] =
     {
         .text = gEasyChatWord_Collect,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_ALLOW),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_LEARN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WALKING)] =
     {
         .text = gEasyChatWord_Walking,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_TALKING),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_ALLOW),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WALKS)] =
     {
         .text = gEasyChatWord_Walks,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_THINKS),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_TALKING),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_SAYS)] =
     {
         .text = gEasyChatWord_Says,
-        .alphabeticalOrder = EC_INDEX(EC_WORD_GIVE),
+        .alphabeticalOrder = EC_INDEX(EC_WORD_THINKS),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_WENT)] =

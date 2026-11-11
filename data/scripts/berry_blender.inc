@@ -16,7 +16,7 @@ BerryBlender_Text_KnowHowToMakePokeblocks:
 
 BerryBlender_Text_LetsBerryBlender:
 	.string "Kalau macam tu, jom kita mula!\p"
-	.string "Ayuh, PENGISAR BERRY!$"
+	.string "Ayuh, PENGISAR BERI!$"
 
 BerryBlender_Text_ExplainBerryBlending:
 	.string "Baiklah, biar saya terangkan sikit.\p"
@@ -28,19 +28,19 @@ BerryBlender_Text_ExplainBerryBlending:
 
 BerryBlender_Text_DontHaveAnyBerries:
 	.string "Oh?\n"
-	.string "Kamu tak ada BERRY langsung?\p"
-	.string "Kalau tak ada BERRY, kamu tak boleh\n"
+	.string "Kamu tak ada BERI langsung?\p"
+	.string "Kalau tak ada BERI, kamu tak boleh\n"
 	.string "buat {POKEBLOCK}.$"
 
 BerryBlender_Text_CanHaveOneOfMyBerries:
 	.string "Hmm, macam tu tak boleh jadi, kan?\p"
 	.string "Kalau kamu tak kisah sisa-sisa, kamu\n"
-	.string "boleh ambil sebiji BERRY saya.\p"
+	.string "boleh ambil sebiji BERI saya.\p"
 	.string "Lepas tu, kita boleh buat {POKEBLOCK}\n"
-	.string "sama-sama guna PENGISAR BERRY.$"
+	.string "sama-sama guna PENGISAR BERI.$"
 
 BerryBlender_Text_DontHaveAnyBerriesToSpare:
-	.string "Kalau saya ada BERRY lebih, saya\n"
+	.string "Kalau saya ada BERI lebih, saya\n"
 	.string "memang nak bagi kamu sebiji…\p"
 	.string "Tapi hari ni saya tak ada lebih.\n"
 	.string "Lain kalilah kita buat.$"
@@ -78,7 +78,7 @@ BerryBlender_Text_KnowHowToMakePokeblocks2:
 
 BerryBlender_Text_LetsBerryBlender2:
 	.string "Kalau macam tu, jom kita mula!\p"
-	.string "Ayuh, PENGISAR BERRY!$"
+	.string "Ayuh, PENGISAR BERI!$"
 
 BerryBlender_Text_ExplainBerryBlending2:
 	.string "Okey!\n"
@@ -91,11 +91,11 @@ BerryBlender_Text_ExplainBerryBlending2:
 
 BerryBlender_Text_DontHaveAnyBerries2:
 	.string "Eh, tapi tunggu sekejap…\n"
-	.string "Kamu tak ada BERRY.\p"
+	.string "Kamu tak ada BERI.\p"
 	.string "Kamu tak boleh buat {POKEBLOCK} tanpa\n"
-	.string "BERRY…\p"
+	.string "BERI…\p"
 	.string "Kami sentiasa ada di sini bila-bila kamu\n"
-	.string "dapat BERRY untuk dikisar.$"
+	.string "dapat BERI untuk dikisar.$"
 
 BerryBlender_Text_PokeblockCaseIsFull2:
 	.string "Eh, tapi tunggu sekejap…\n"
@@ -128,7 +128,7 @@ BerryBlender_Text_KnowHowToMakePokeblocks3:
 BerryBlender_Text_LetsBerryBlender3:
 	.string "Baiklah, sayang!\n"
 	.string "Jom kita mula!\p"
-	.string "Ayuh, PENGISAR BERRY!$"
+	.string "Ayuh, PENGISAR BERI!$"
 
 BerryBlender_Text_ExplainBerryBlending3:
 	.string "Aduhai!\p"
@@ -140,12 +140,12 @@ BerryBlender_Text_ExplainBerryBlending3:
 	.string "Mudah, kan?$"
 
 BerryBlender_Text_DontHaveAnyBerries3:
-	.string "Kamu tak ada BERRY, kan?\p"
-	.string "Kalau tak ada BERRY, kamu tak boleh\n"
+	.string "Kamu tak ada BERI, kan?\p"
+	.string "Kalau tak ada BERI, kamu tak boleh\n"
 	.string "buat {POKEBLOCK}.\p"
 	.string "Kami sentiasa buat {POKEBLOCK} di sini, jadi\n"
 	.string "jom buat sama-sama bila kamu dapat\l"
-	.string "sebiji dua BERRY.$"
+	.string "sebiji dua BERI.$"
 
 BerryBlender_Text_PokeblockCaseIsFull3:
 	.string "Nampaknya BEKAS {POKEBLOCK} kamu dah\n"
@@ -173,8 +173,8 @@ BerryBlender_Text_MakeDeliciousPokeblocks:
 
 BerryBlender_Text_SaveGameBeforeBerryBlenderLink:
 	.string "{POKEBLOCK} akan dibuat bersama\n"
-	.string "kawan-kawan kamu daripada BERRY dalam\l"
-	.string "PENGISAR BERRY.\p"
+	.string "kawan-kawan kamu daripada BERI dalam\l"
+	.string "PENGISAR BERI.\p"
 	.string "Boleh simpan permainan sebelum\n"
 	.string "berhubung dengan kawan-kawan kamu?$"
 
@@ -193,39 +193,39 @@ BerryBlender_Text_AllPlayersArrived:
 	.string "{STR_VAR_3} dah tiba.$"
 
 BerryBlender_Text_NoBerriesLink:
-	.string "Kamu tak ada BERRY.\n"
-	.string "PENGISAR BERRY tak boleh digunakan.$"
+	.string "Kamu tak ada BERI.\n"
+	.string "PENGISAR BERI tak boleh digunakan.$"
 
 BerryBlender_Text_PokeblockCaseIsFullLink:
 	.string "BEKAS {POKEBLOCK} kamu dah penuh.\n"
-	.string "PENGISAR BERRY tak boleh digunakan.$"
+	.string "PENGISAR BERI tak boleh digunakan.$"
 
 BerryBlender_Text_DontHavePokeblockCaseLink:
 	.string "Kamu tak ada BEKAS {POKEBLOCK}.\n"
-	.string "PENGISAR BERRY tak boleh digunakan.$"
+	.string "PENGISAR BERI tak boleh digunakan.$"
 
 BerryBlender_Text_LoveMakingPokeblocks:
 	.string "Saya suka buat {POKEBLOCK}.\p"
-	.string "Saya sentiasa bawa BERRY ke mana-mana.$"
+	.string "Saya sentiasa bawa BERI ke mana-mana.$"
 
 BerryBlender_Text_MakePokeblocksUsingBerryBlender:
 	.string "Kalau kamu nak, kita boleh buat {POKEBLOCK}\n"
-	.string "sama-sama guna PENGISAR BERRY.$"
+	.string "sama-sama guna PENGISAR BERI.$"
 
 BerryBlender_Text_DontHaveAnyBerriesHaveOne:
 	.string "Oh?\n"
-	.string "Kamu tak ada BERRY langsung?\p"
+	.string "Kamu tak ada BERI langsung?\p"
 	.string "Hmm, itu tak boleh jadi, kan?\p"
 	.string "Kalau kamu tak kisah sisa-sisa, kamu\n"
-	.string "boleh ambil sebiji BERRY saya.$"
+	.string "boleh ambil sebiji BERI saya.$"
 
 BerryBlender_Text_UseItToMakePokeblocksTogether:
-	.string "Jom guna BERRY tu untuk buat {POKEBLOCK}\n"
-	.string "sama-sama dengan PENGISAR BERRY.$"
+	.string "Jom guna BERI tu untuk buat {POKEBLOCK}\n"
+	.string "sama-sama dengan PENGISAR BERI.$"
 
 BerryBlender_Text_DontHaveAnyBerriesNoneToSpare:
 	.string "Oh?\n"
-	.string "Kamu tak ada BERRY langsung?\p"
+	.string "Kamu tak ada BERI langsung?\p"
 	.string "Kalau saya ada lebih, saya memang\n"
 	.string "nak bagi kamu sebiji…\p"
 	.string "Tapi hari ni saya tak ada lebih.\n"

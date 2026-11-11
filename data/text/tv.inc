@@ -2071,7 +2071,7 @@ gTVWhatsNo1InHoennTodayText03::
 
 gTVWhatsNo1InHoennTodayText04::
 	.string "Dalam sehari, {STR_VAR_1} memutar\n"
-	.string "PENGISAR BERRY {STR_VAR_2} kali!\p"
+	.string "PENGISAR BERI {STR_VAR_2} kali!\p"
 	.string "Akhirnya, {STR_VAR_1} sendiri pun\n"
 	.string "nampak pening.\p"
 	.string "JURULATIH itu terhuyung-hayang\n"
@@ -2079,7 +2079,7 @@ gTVWhatsNo1InHoennTodayText04::
 
 gTVWhatsNo1InHoennTodayText05::
 	.string "Dalam sehari, {STR_VAR_1} menanam\n"
-	.string "{STR_VAR_2} BERRY!\p"
+	.string "{STR_VAR_2} BERI!\p"
 	.string "Akibatnya, pakaian {STR_VAR_1}\n"
 	.string "jadi kotor dengan tanah.\p"
 	.string "Di tempat JURULATIH itu menanam,\n"
@@ -2090,9 +2090,9 @@ gTVWhatsNo1InHoennTodayText05::
 
 gTVWhatsNo1InHoennTodayText06::
 	.string "Dalam sehari, {STR_VAR_1} memetik\n"
-	.string "{STR_VAR_2} BERRY!\p"
+	.string "{STR_VAR_2} BERI!\p"
 	.string "BEG {STR_VAR_1} jadi penuh dengan\n"
-	.string "BERRY sampai JURULATIH itu susah\l"
+	.string "BERI sampai JURULATIH itu susah\l"
 	.string "nak berjalan selepas itu!$"
 
 gTVWhatsNo1InHoennTodayText07::

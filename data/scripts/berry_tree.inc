@@ -185,7 +185,7 @@ BerryTree_Text_ItsSoftLoamySoil:
 
 BerryTree_Text_WantToPlant:
 	.string "Tanah ini lembut dan gembur.\n"
-	.string "Nak tanam BERRY?$"
+	.string "Nak tanam BERI?$"
 
 BerryTree_Text_PlantedOneBerry:
 	.string "{PLAYER} menanam sebiji {STR_VAR_1}\n"
@@ -224,11 +224,11 @@ BerryTree_Text_PickedTheBerry:
 
 BerryTree_Text_PutAwayBerry:
 	.string "{PLAYER} menyimpan {STR_VAR_1}\n"
-	.string "dalam POKET BERRY di BEG.\p"
+	.string "dalam POKET BERI di BEG.\p"
 	.string "Tanah itu kembali lembut dan gembur.$"
 
 BerryTree_Text_BerryPocketFull:
-	.string "POKET BERRY dalam BEG dah penuh.\p"
+	.string "POKET BERI dalam BEG dah penuh.\p"
 	.string "{STR_VAR_1} itu tak dapat diambil.$"
 
 BerryTree_Text_BerryLeftUnpicked:

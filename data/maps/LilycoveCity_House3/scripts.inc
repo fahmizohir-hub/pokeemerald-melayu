@@ -125,11 +125,11 @@ LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "{POKEBLOCK} bagus berbanding yang biasa.\p"
 	.string "Dan ini penting.\p"
 	.string "Kalau nak buat {POKEBLOCK} yang licin, guna\n"
-	.string "BERRY yang berlainan jenis.\p"
-	.string "Jangan kedekut, jenis BERRY yang\n"
+	.string "BERI yang berlainan jenis.\p"
+	.string "Jangan kedekut, jenis BERI yang\n"
 	.string "diguna mempengaruhi kelicinan {POKEBLOCK}.\p"
 	.string "Satu lagi.\p"
-	.string "Makin ramai orang mengisar BERRY, makin\n"
+	.string "Makin ramai orang mengisar BERI, makin\n"
 	.string "licin {POKEBLOCK} yang dihasilkan.\p"
 	.string "Sebab tu kamu patut ajak orang lain dan\n"
 	.string "buat {POKEBLOCK} bersama-sama.\p"
@@ -158,7 +158,7 @@ LilycoveCity_House3_Text_LikeMixingAtRecordCorner:
 
 LilycoveCity_House3_Text_MakePokeblocksWithBerryBlender:
 	.string "Kami nak buat {POKEBLOCK} super dengan\n"
-	.string "PENGISAR BERRY!$"
+	.string "PENGISAR BERI!$"
 
 LilycoveCity_House3_Text_GoingToEnterContest:
 	.string "Saya nak tunjuk betapa tegapnya\n"

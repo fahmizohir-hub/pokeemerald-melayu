@@ -771,7 +771,7 @@ BattleFrontier_BattlePyramidLobby_Text_HintFighting:
 	.string "dibelasah oleh move LAWAN…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather:
-	.string "TARI HUJAN… HARI CERAH…\n"
+	.string "TARIAN HUJAN… HARI CERAH…\n"
 	.string "RIBUT PASIR… HUJAN BATU…\p"
 	.string "Saya nampak POKéMON yang jadi lebih\n"
 	.string "kuat mengikut cuaca…\p"

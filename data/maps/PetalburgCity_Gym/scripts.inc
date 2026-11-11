@@ -1256,7 +1256,7 @@ PetalburgCity_Gym_Text_ReceivedBalanceBadge:
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:
 	.string "AYAH: Dengan LENCANA itu, PERTAHANAN\n"
 	.string "semua POKéMON kamu akan meningkat.\p"
-	.string "POKéMON yang tahu HM LUNCURAN OMBAK\n"
+	.string "POKéMON yang tahu HM LUNCUR OMBAK\n"
 	.string "boleh merentas air.\p"
 	.string "Ini hadiah Ayah untuk kamu. {PLAYER},\n"
 	.string "Ayah yakin kamu tahu gunakannya\l"
@@ -1446,7 +1446,7 @@ PetalburgCity_Gym_Text_AlexiaPostBattle:
 	.string "mahir menyerang.$"
 
 PetalburgCity_Gym_Text_AlexiaPostBadge:
-	.string "Hai! Dah cuba guna LUNCURAN OMBAK?$"
+	.string "Hai! Dah cuba guna LUNCUR OMBAK?$"
 
 PetalburgCity_Gym_Text_JodyIntro:
 	.string "KETUA GIM kami suruh kami lawan\n"

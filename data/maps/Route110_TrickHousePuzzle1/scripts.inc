@@ -44,7 +44,7 @@ Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened::
 
 Route110_TrickHousePuzzle1_Text_SallyIntro:
 	.string "Saya akan tetak dan tebas sampai\n"
-	.string "menang dengan POTONGAN yang baru kami\l"
+	.string "menang dengan POTONG yang baru kami\l"
 	.string "belajar!$"
 
 Route110_TrickHousePuzzle1_Text_SallyDefeat:
