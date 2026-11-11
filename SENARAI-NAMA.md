@@ -21,7 +21,7 @@ Jangan edit fail ni. Jalankan `python tools/jana_senarai_nama.py`.
 | RAZOR WIND | ANGIN PISAU |
 | SWORDS DANCE | TARIAN PEDANG |
 | CUT | POTONG |
-| GUST | HEMBUSAN |
+| GUST | TIUPAN ANGIN |
 | WING ATTACK | SERANGAN SAYAP |
 | WHIRLWIND | BELIUNG |
 | FLY | TERBANG |

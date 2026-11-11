@@ -2,6 +2,11 @@
 
 Semua perubahan penting pada terjemahan Bahasa Melayu Pokémon Emerald.
 
+## Belum dikeluarkan
+
+### Diubah
+- GUST: HEMBUSAN → **TIUPAN ANGIN** (seiring ANGIN PISAU, ANGIN BEKU, ANGIN PERAK).
+
 ## v0.2.1 (12 November 2026)
 
 ### Diubah
