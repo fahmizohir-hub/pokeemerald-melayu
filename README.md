@@ -20,6 +20,64 @@ Terjemahan oleh **me2suzuran**.
 Yang kekal dalam Bahasa Inggeris: nama Pokémon, nama watak, nama tempat
 (LITTLEROOT, RUSTBORO…), nama BALL dan BERRY, nama kemudahan Battle Frontier.
 
+## Galeri
+
+Pratonton grafik yang dilukis semula (dibesarkan; kiri atau atas = asal, kanan
+atau bawah = Bahasa Melayu). Semua gambar dalam [docs/pratonton](docs/pratonton).
+
+**Skrin tajuk:** "TEKAN START" dan kredit
+
+![Skrin tajuk](docs/pratonton/01-skrin-tajuk.png)
+
+**Ikon jenis dan kategori contest**
+
+![Ikon jenis](docs/pratonton/02-ikon-jenis.png)
+
+**Skrin ringkasan POKéMON** dan **ikon status** (menu dan pertarungan)
+
+![Label ringkasan](docs/pratonton/03-label-ringkasan.png)
+
+![Ikon status](docs/pratonton/04-ikon-status.png) ![Ikon status pertarungan](docs/pratonton/04b-ikon-status-pertarungan.png)
+
+**Pokédex**
+
+![Pokédex](docs/pratonton/05-pokedex.png)
+
+**PokéNav**
+
+![PokéNav](docs/pratonton/06-pokenav.png)
+
+**Kad jurulatih, Frontier Pass, PC, beg, Easy Chat dan lain-lain**
+
+![Grafik A](docs/pratonton/07-grafik-a-1.png)
+
+<details>
+<summary>Lagi: skrin penuh kad jurulatih, Frontier Pass, PC (5 gambar)</summary>
+
+![Grafik A 2](docs/pratonton/07-grafik-a-2.png)
+![Grafik A 3](docs/pratonton/07-grafik-a-3.png)
+![Grafik A 4](docs/pratonton/07-grafik-a-4.png)
+![Grafik A 5](docs/pratonton/07-grafik-a-5.png)
+![Grafik A 6](docs/pratonton/07-grafik-a-6.png)
+
+</details>
+
+**Permainan mini, contest, mesin slot, Pokéblock**
+
+![Grafik B](docs/pratonton/08-grafik-b-1.png)
+
+<details>
+<summary>Lagi: contest, mesin slot, Pokéblock (4 gambar)</summary>
+
+![Grafik B 2](docs/pratonton/08-grafik-b-2.png)
+![Grafik B 3](docs/pratonton/08-grafik-b-3.png)
+![Grafik B 4](docs/pratonton/08-grafik-b-4.png)
+![Grafik B 5](docs/pratonton/08-grafik-b-5.png)
+
+</details>
+
+## Istilah
+
 Istilah dan gaya bahasa: [GLOSARI.md](GLOSARI.md) dan
 [SENARAI-NAMA.md](SENARAI-NAMA.md). Status kerja: [PELAN-TERJEMAHAN.md](PELAN-TERJEMAHAN.md).
 
