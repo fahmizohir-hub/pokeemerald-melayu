@@ -5,6 +5,7 @@ Semua perubahan penting pada terjemahan Bahasa Melayu Pokémon Emerald.
 ## v0.2.3 (12 November 2026)
 
 ### Diubah
+- Menu OPTION: PILIHAN → **TETAPAN** (menu utama, menu START dan skrin tetapan).
 - Item: BASEMENT KEY → **KUNCI B.TANAH**, ANTIDOTE → **PENAWAR RACUN**,
   PP UP → **NAIK PP**, HP UP → **NAIK HP**.
 - Move: **BEDILAN BATU**, **BEDILAN LUMPUR**, **DENYUTAN AIR**, **CIUMAN MANIS**,

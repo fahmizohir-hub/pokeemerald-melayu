@@ -98,7 +98,7 @@ Kalau perlu istilah baru, tambah di bahagian yang berkenaan.
 | Inggeris | Melayu |
 |---|---|
 | FIGHT / BAG / POKéMON / RUN | LAWAN / BEG / POKéMON / LARI |
-| SAVE / OPTION / EXIT | SIMPAN / PILIHAN / KELUAR |
+| SAVE / OPTION / EXIT | SIMPAN / TETAPAN / KELUAR |
 | YES / NO | YA / TIDAK |
 | CANCEL | BATAL |
 | USE / GIVE / TOSS / REGISTER | GUNA / BAGI / BUANG / DAFTAR |
