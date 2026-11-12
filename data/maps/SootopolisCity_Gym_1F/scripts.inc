@@ -244,7 +244,7 @@ SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
 
 SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
 	.string "TM yang saya beri itu mengandungi\n"
-	.string "DENYUT AIR.\p"
+	.string "DENYUTAN AIR.\p"
 	.string "Bila diguna, kadangkala ia mengelirukan\n"
 	.string "sasaran dengan gelombang ultrasonik.\p"
 	.string "… … … … … …$"

@@ -547,9 +547,9 @@ BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
 	.string "dan turun jika ia\l"
 	.string "“kurang berkesan.”\p"
 	.string "Mata Teknik tidak naik untuk move\n"
-	.string "seperti PERLINDUNGAN dan WASPADA.\p"
+	.string "seperti PERLINDUNGAN dan KEWASPADAAN.\p"
 	.string "Jika lawan guna PERLINDUNGAN atau\n"
-	.string "WASPADA dan move POKéMON kamu\l"
+	.string "KEWASPADAAN dan move POKéMON kamu\l"
 	.string "tidak kena, mata Teknik tidak\l"
 	.string "akan turun.$"
 

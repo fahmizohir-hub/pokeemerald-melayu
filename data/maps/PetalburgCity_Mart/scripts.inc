@@ -74,8 +74,8 @@ PetalburgCity_Mart_Text_RepelIsUseful:
 	.string "nak cepat.$"
 
 PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou:
-	.string "Kamu ada bawa PENAWAR?\p"
+	.string "Kamu ada bawa PENAWAR RACUN?\p"
 	.string "Kalau kamu berjalan dengan POKéMON\n"
 	.string "yang keracunan, HPnya akan susut\l"
-	.string "sampai pengsan. Bawalah PENAWAR.$"
+	.string "sampai pengsan. Bawalah PENAWAR RACUN.$"
 

@@ -53,7 +53,7 @@ SootopolisCity_Mart_EventScript_GentlemanNoLegendaries::
 	end
 
 SootopolisCity_Mart_Text_PPUpIsGreat:
-	.string "PP NAIK memang hebat!\p"
+	.string "NAIK PP memang hebat!\p"
 	.string "Ia menaikkan MATA KUASA, iaitu PP, bagi\n"
 	.string "move POKéMON.$"
 

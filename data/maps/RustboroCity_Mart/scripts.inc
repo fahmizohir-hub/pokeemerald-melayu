@@ -65,7 +65,8 @@ RustboroCity_Mart_EventScript_BugCatcher::
 	end
 
 RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish:
-	.string "Saya nak beli UBAT LUMPUH dan PENAWAR.\p"
+	.string "Saya nak beli UBAT LUMPUH dan\n"
+	.string "PENAWAR RACUN.\p"
 	.string "Manalah tahu terserempak SHROOMISH di\n"
 	.string "HUTAN PETALBURG.$"
 

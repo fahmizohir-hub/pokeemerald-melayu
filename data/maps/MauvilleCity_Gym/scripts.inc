@@ -356,7 +356,7 @@ MauvilleCity_Gym_Text_ReceivedDynamoBadge:
 
 MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
 	.string "Dengan LENCANA DINAMO, POKéMON boleh\n"
-	.string "guna HANCUR BATU di luar pertarungan.\p"
+	.string "guna PEMECAH BATU di luar pertarungan.\p"
 	.string "Ia juga akan buat POKéMON kamu jadi\n"
 	.string "laju sedikit.\p"
 	.string "Hmm…\n"

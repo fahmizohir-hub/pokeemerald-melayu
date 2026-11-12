@@ -113,7 +113,7 @@ EventScript_CancelSmash::
 
 Text_WantToSmash:
 	.string "Batu ini nampaknya boleh dipecahkan.\n"
-	.string "Kamu nak guna HANCUR BATU?$"
+	.string "Kamu nak guna PEMECAH BATU?$"
 
 Text_CantSmash:
 	.string "Batu ini kasar, tapi mungkin POKéMON\n"

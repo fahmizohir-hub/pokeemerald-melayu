@@ -63,7 +63,7 @@ gBirchDexRatingText_LessThan110::
 
 gBirchDexRatingText_LessThan120::
 	.string "Mungkin ada POKéMON yang boleh\n"
-	.string "dijumpai dengan HANCUR BATU.$"
+	.string "dijumpai dengan PEMECAH BATU.$"
 
 gBirchDexRatingText_LessThan130::
 	.string "Kamu patut dapatkan lagi POKéMON\n"

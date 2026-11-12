@@ -682,7 +682,7 @@ Route111_Text_RootFossilDisappeared:
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "Alamak!\p"
 	.string "Pakcik saya di MAUVILLE suruh saya\n"
-	.string "bawa HANCUR BATU kalau nak ke\l"
+	.string "bawa PEMECAH BATU kalau nak ke\l"
 	.string "LALUAN 111!\p"
 	.string "Pakcik saya? Dia tinggal bertentangan\n"
 	.string "dengan kedai basikal di MAUVILLE.$"

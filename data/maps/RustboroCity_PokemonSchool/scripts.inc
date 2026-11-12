@@ -209,7 +209,7 @@ RustboroCity_PokemonSchool_Text_ExplainPoison:
 	.string "Kesan racun kekal selepas pertarungan.\p"
 	.string "HP POKéMON yang keracunan akan terus\n"
 	.string "susut semasa berjalan.\p"
-	.string "Ubati racun dengan PENAWAR.$"
+	.string "Ubati racun dengan PENAWAR RACUN.$"
 
 RustboroCity_PokemonSchool_Text_ExplainParalysis:
 	.string "Kalau POKéMON lumpuh, KELAJUANNYA\n"
@@ -266,7 +266,8 @@ RustboroCity_PokemonSchool_Text_AlwaysWantedSeedot:
 RustboroCity_PokemonSchool_Text_PokemontCantUseManMadeItems:
 	.string "POKéMON boleh pegang barang, tapi\n"
 	.string "mereka tak tahu guna barang buatan\l"
-	.string "manusia macam POSYEN dan PENAWAR.$"
+	.string "manusia macam POSYEN dan\l"
+	.string "PENAWAR RACUN.$"
 
 RustboroCity_PokemonSchool_Text_ConfusedPokemonAttacksItself:
 	.string "Kamu tahu ada move POKéMON yang boleh\n"

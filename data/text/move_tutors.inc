@@ -10,7 +10,7 @@ MoveTutor_Text_SwaggerTeach:
 	.string "marah saya.\p"
 	.string "Terus hilang lagak sombong saya.\p"
 	.string "Kalau kamu nak, saya boleh ajar move\n"
-	.string "BERLAGAK kepada POKéMON kamu.$"
+	.string "LAGAK kepada POKéMON kamu.$"
 
 MoveTutor_Text_SwaggerDeclined:
 	.string "Apa, tak nak? Kamu tak boleh\n"
@@ -18,7 +18,7 @@ MoveTutor_Text_SwaggerDeclined:
 
 MoveTutor_Text_SwaggerWhichMon:
 	.string "Baiklah, POKéMON mana yang nak\n"
-	.string "belajar BERLAGAK?$"
+	.string "belajar LAGAK?$"
 
 MoveTutor_Text_SwaggerTaught:
 	.string "Mulai sekarang, saya puji POKéMON\n"
@@ -119,9 +119,9 @@ MoveTutor_Text_SleepTalkTeach:
 	.string "Hmph! Isteri saya harapkan KUASA\n"
 	.string "PENDAM untuk kekal berjaga.\p"
 	.string "Dia patut tidur sekejap macam saya,\n"
-	.string "dan MENGIGAU.\p"
+	.string "dan IGAUAN.\p"
 	.string "Saya boleh ajar POKéMON kamu\n"
-	.string "MENGIGAU. Berminat?$"
+	.string "IGAUAN. Berminat?$"
 
 MoveTutor_Text_SleepTalkDeclined:
 	.string "Oh, yalah, yalah. Kamu pun nak berjaga\n"
@@ -135,7 +135,7 @@ MoveTutor_Text_SleepTalkTaught:
 	.string "Saya tak pernah berjaya buat silap\n"
 	.string "mata syiling isteri saya.\p"
 	.string "Saya akan gembira kalau berjaya\n"
-	.string "walaupun sambil MENGIGAU…$"
+	.string "walaupun sambil mengigau…$"
 
 MoveTutor_Text_SubstituteTeach:
 	.string "Bila saya pandang dunia yang luas\n"

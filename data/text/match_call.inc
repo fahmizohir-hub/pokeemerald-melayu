@@ -2362,7 +2362,7 @@ MatchCall_Text_May3::
 	.string "Cuba teka apa nama dia?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "MAMAT HANCUR BATU!$"
+	.string "MAMAT PEMECAH BATU!$"
 
 MatchCall_Text_May4::
 	.string "MAY: {PLAYER}{KUN}?\p"
@@ -2489,7 +2489,7 @@ MatchCall_Text_Brendan3::
 	.string "Cuba teka apa nama dia?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "MAMAT HANCUR BATU!$"
+	.string "MAMAT PEMECAH BATU!$"
 
 MatchCall_Text_Brendan4::
 	.string "BRENDAN: Suara ni… {PLAYER}?\p"

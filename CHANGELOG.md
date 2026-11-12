@@ -2,6 +2,20 @@
 
 Semua perubahan penting pada terjemahan Bahasa Melayu Pokémon Emerald.
 
+## v0.2.3 (12 November 2026)
+
+### Diubah
+- Item: BASEMENT KEY → **KUNCI B.TANAH**, ANTIDOTE → **PENAWAR RACUN**,
+  PP UP → **NAIK PP**, HP UP → **NAIK HP**.
+- Move: **BEDILAN BATU**, **BEDILAN LUMPUR**, **DENYUTAN AIR**, **CIUMAN MANIS**,
+  **CIUMAN JELITA**, **PEMECAH BATA**, dan HM06 ROCK SMASH → **PEMECAH BATU**
+  (termasuk MAMAT PEMECAH BATU di MAUVILLE).
+- Lagi nama move dalam bentuk kata nama: **SERANGAN TIPU**, **SERAPAN GIGA**,
+  **SEPAKAN NYALA**, **KETANGKASAN**, **KEMARAHAN**, **KEMURKAAN**, **KEDENGKIAN**,
+  **KEWASPADAAN**, **LAGAK**, **IGAUAN**, **RONTAAN**, **SEKSAAN**,
+  **GENDANG PERUT**, **LONJAKAN PSIKO**, **MINUMAN SUSU**, **PEMAKAN MIMPI**,
+  **PENGERASAN**, **PENGECILAN**, **PENAJAMAN**, **PENYEGARAN**.
+
 ## v0.2.2 (12 November 2026)
 
 ### Diubah

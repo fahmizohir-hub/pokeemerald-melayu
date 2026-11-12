@@ -731,7 +731,7 @@ BattleFrontier_BattlePyramidLobby_Text_HintPPWaste:
 	.string "Ia satu sumpahan…\p"
 	.string "…Dan, saya nampak PP POKéMON kamu\n"
 	.string "habis dikuras hingga tiada pilihan\l"
-	.string "selain guna MERONTA…$"
+	.string "selain guna RONTAAN…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintLevitate:
 	.string "Saya nampak POKéMON melayang tinggi…\p"

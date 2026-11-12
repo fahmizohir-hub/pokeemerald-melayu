@@ -483,7 +483,7 @@ MauvilleCity_PokemonCenter_1F_Text_UsedCutStory::
 	.string "sangat suka MEMOTONG!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashTitle::
-	.string "JURULATIH PENGHANCUR BATU$"
+	.string "JURULATIH PEMECAH BATU$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashAction::
 	.string "Menghancurkan batu$"
@@ -491,7 +491,7 @@ MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashAction::
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashStory::
 	.string "Ini kisah seorang JURULATIH\n"
 	.string "bernama {STR_VAR_3}.\p"
-	.string "JURULATIH ini menggunakan HANCUR BATU\n"
+	.string "JURULATIH ini guna PEMECAH BATU\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
 	.string "{STR_VAR_3} mesti JURULATIH yang\n"
 	.string "pantang nampak batu, mesti\l"
@@ -529,12 +529,12 @@ MauvilleCity_PokemonCenter_1F_Text_UsedStruggleTitle::
 	.string "JURULATIH Yang Tabah$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedStruggleAction::
-	.string "Terpaksa menggunakan MERONTA$"
+	.string "Terpaksa menggunakan RONTAAN$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedStruggleStory::
 	.string "Ini kisah seorang JURULATIH\n"
 	.string "bernama {STR_VAR_3}.\p"
-	.string "JURULATIH ini terpaksa guna MERONTA\n"
+	.string "JURULATIH ini terpaksa guna RONTAAN\n"
 	.string "sebanyak {STR_VAR_1} kali!\p"
 	.string "{STR_VAR_3} ialah JURULATIH tabah yang\n"
 	.string "tak pernah mengalah walau susah!$"

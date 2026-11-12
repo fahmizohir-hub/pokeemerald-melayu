@@ -49,9 +49,9 @@ NewMauville_Entrance_Text_DoorIsLocked:
 	.string "Pintu ni berkunci.$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Guna KUNCI RUBANAH?$"
+	.string "Guna KUNCI B.TANAH?$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
-	.string "{PLAYER} menggunakan KUNCI RUBANAH.\p"
+	.string "{PLAYER} menggunakan KUNCI B.TANAH.\p"
 	.string "Pintu terbuka!$"
 

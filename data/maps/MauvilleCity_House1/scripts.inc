@@ -20,17 +20,17 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
 	.string "Woohoo!\p"
-	.string "Orang panggil saya MAMAT HANCUR BATU,\n"
+	.string "Orang panggil saya MAMAT PEMECAH BATU,\n"
 	.string "tapi saya rasa macam diperkecilkan.\p"
 	.string "Saya rasa saya patut dihormati sikit,\n"
-	.string "macam ABANG HANCUR BATU ke.\p"
+	.string "macam ABANG PEMECAH BATU ke.\p"
 	.string "Woohoo!\p"
 	.string "Apa-apa pun, POKéMON kamu nampak kuat.\p"
 	.string "Saya suka!\n"
 	.string "Nah, ambil MESIN TERSEMBUNYI ni!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "HM tu mengandungi HANCUR BATU.\p"
+	.string "HM tu mengandungi PEMECAH BATU.\p"
 	.string "Kalau kamu jumpa batu besar yang\n"
 	.string "menghalang jalan kamu…\p"
 	.string "Guna saja move HM tu dan hancurkan\n"

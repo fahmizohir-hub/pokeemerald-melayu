@@ -186,7 +186,7 @@ SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
 @ Unused
 SlateportCity_ContestHall_Text_ExplainTorment:
 	.string "Tu, macam, TM41, tau?\n"
-	.string "Hei, tu SEKSA, kau dengar tak?\p"
+	.string "Hei, tu SEKSAAN, kau dengar tak?\p"
 	.string "Macam, ia tak bagi lawan guna move yang\n"
 	.string "sama dua kali berturut-turut, faham?\p"
 	.string "Hei, sekarang kau dengar sini, macam,\n"

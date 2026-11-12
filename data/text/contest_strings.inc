@@ -197,7 +197,7 @@ gText_RainDance::
 	.string "TARIAN HUJAN$"
 
 gText_Rage::
-	.string "MARAH$"
+	.string "KEMARAHAN$"
 
 gText_FocusEnergy::
 	.string "FOKUS TENAGA$"
